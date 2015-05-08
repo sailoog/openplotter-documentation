@@ -1,5 +1,5 @@
 # Summary
 
 * [introduction](README.md)
-* [Installing](installing.md)
+* [What do I need?](what_do_I_need.md)
 
