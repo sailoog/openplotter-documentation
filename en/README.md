@@ -1,4 +1,4 @@
-OpenPlotter
+What is OpenPlotter?
 =======
 
-OpenPlotter is a DIY, open-source, low-cost, low-consumption, modular and scalable sailing platform to run on ARM boards.
+OpenPlotter is a combination of open-source software and hardware to be used as navigation aid on small and medium boats. It works on ARM computers like the Raspberry Pi and is low-cost and low-consumption. Its design is modular, so that you just implement what you need.
