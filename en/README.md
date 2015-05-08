@@ -1,6 +1,4 @@
-My Awesome Book
+OpenPlotter
 =======
 
-This file file serves as your book's preface, a great place to describe your [book's](http://www.sailoog.com) content and ideas.
-
-![xxxxxx](opp.png)
+OpenPlotter is a DIY, open-source, low-cost, low-consumption, modular and scalable sailing platform to run on ARM boards.
