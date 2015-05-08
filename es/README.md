@@ -2,7 +2,7 @@
 =======
 OpenPlotter es una combinación de software y hardware para ser usada como ayuda a la navegación en barcos de pequeña y mediana eslora. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular asi que solo tendrás que implementar lo que tu barco necesite. Hazlo tu mismo.
 
-## Features
+## Características
 
 * Plotter with OpenCPN
 * Meteo with zyGrib
