@@ -13,9 +13,10 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Remote desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Magnetic variation**. Calculate magnetic variation for date and position.
+* **Electronic compass**. Calculate magnetic heading with IMU sensor. Tilt compensated. Calibration tools Included.
+* **True Heading**. Calculate true heading from magnetic heading and magnetic variation.
 * Calculate True Wind
-* Calculate True Heading
-* Electronic compass from IMU sensor. Tilt compensated. Calibration tools.
+
 * Barograph and thermograph from IMU sensor. Generate NMEA pressure and temperature data.
 * Set system time from NMEA data
 * Set time zone
