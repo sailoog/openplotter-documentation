@@ -22,4 +22,5 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Startup Programs**. Select some program parameters for launch at the start.
 
 
+
 ![](openplotter.png)
