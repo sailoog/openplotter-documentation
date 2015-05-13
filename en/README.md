@@ -5,7 +5,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 
 ## Features
 
-* **Chartplotter**. With [OpenCPN](http://opencpn.org) and essential plugins.
+* **Chartplotter**. With [OpenCPN](http://opencpn.org), a chartplotter and GPS Navigation Software.
 * Meteo with zyGrib
 * NMEA Multiplexer
 * NMEA inspector
