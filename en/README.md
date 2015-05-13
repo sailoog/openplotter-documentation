@@ -15,8 +15,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **Electronic Compass**. Calculate magnetic heading with IMU sensor. Tilt compensated. Calibration tools Included.
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
-* **True Wind**. Calculate
-
+* **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * Barograph and thermograph from IMU sensor. Generate NMEA pressure and temperature data.
 * Set system time from NMEA data
 * Set time zone
