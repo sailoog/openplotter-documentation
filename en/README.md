@@ -3,6 +3,8 @@ What is OpenPlotter?
 
 OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It works on ARM computers like the [Raspberry Pi](https://www.raspberrypi.org/) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
 
+![](openplotter.png)
+
 ## Features
 
 * **Chartplotter**. With [OpenCPN](http://opencpn.org), a chartplotter and GPS navigation software.
@@ -20,7 +22,3 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **System Time Tools**. Set the system time from NMEA data and easily set the time zone.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
 * **Startup Programs**. Select some program parameters for launch at the start.
-
-
-
-![](openplotter.png)
