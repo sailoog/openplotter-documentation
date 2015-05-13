@@ -18,5 +18,5 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends. Generate pressure and temperature NMEA data.
 * **System Time Tools**. Set the system time from NMEA data and easily set the time zone.
-* Set GPSD
-* Select programs to run at startup
+* **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
+* **Startup Programs**. Select some program parameters for launch at the start.
