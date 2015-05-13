@@ -6,5 +6,5 @@
 * [What do I need?](what_do_I_need.md)
    * [Basics](basics.md)
    * [Optional](optional.md)
-* Guides
+* [Guides](guides.md)
 
