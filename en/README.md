@@ -10,8 +10,8 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **NMEA-0183 Multiplexer**. Multiplexe data inputs from any number of serial lines and network interfaces and send to any number of outputs.
 * **NMEA inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **NMEA WiFi server**. Share NMEA data with laptops, tablets and phones or connect to internet on port through the same device.
-* **Remote desktop**. Access to openplotter desktop from the cockpit through your mobile device.
-* SDR-AIS receiver and decoder. Calibration tools.
+* **Remote desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+* **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * Calculate magnetic variation for date and position
 * Calculate True Wind
 * Calculate True Heading
