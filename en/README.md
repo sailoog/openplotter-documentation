@@ -20,3 +20,6 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **System Time Tools**. Set the system time from NMEA data and easily set the time zone.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
 * **Startup Programs**. Select some program parameters for launch at the start.
+
+
+![](openplotter.png)
