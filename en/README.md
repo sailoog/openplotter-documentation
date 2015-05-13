@@ -8,7 +8,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Chartplotter**. With [OpenCPN](http://opencpn.org), a chartplotter and GPS navigation software.
 * **Weather forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
 * **NMEA-0183 Multiplexer**. Multiplexe data inputs from any number of serial lines and network interfaces and send to any number of outputs.
-* NMEA inspector
+* **NMEA inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * WiFi NMEA server/client through the same device
 * Remote desktop
 * SDR-AIS receiver and decoder. Calibration tools.
