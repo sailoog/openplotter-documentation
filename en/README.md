@@ -12,7 +12,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **NMEA WiFi server**. Share NMEA data with laptops, tablets and phones or connect to internet on port through the same device.
 * **Remote desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
-* Calculate magnetic variation for date and position
+* **Magnetic variation**. Calculate magnetic variation for date and position.
 * Calculate True Wind
 * Calculate True Heading
 * Electronic compass from IMU sensor. Tilt compensated. Calibration tools.
