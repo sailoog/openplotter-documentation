@@ -6,3 +6,6 @@ You need at least the basics to run the software
 * **Box**
 * **Power supply**
 * **HDMI/DVI/VGA/TV monitor and connectivity cable**
+* **Keyboard and mouse**
+* **SD card**
+* **OpenPlotter RPI** "the software"
