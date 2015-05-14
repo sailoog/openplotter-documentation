@@ -1,3 +1,0 @@
-# Chartplotter
-under construction
-

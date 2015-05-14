@@ -1,7 +1,7 @@
 #What do I need?
-Since Openlotter is modular you will need the basics and only some parts depending on what do you want and what your boar already has.
+You will need always the basic and some optional parts. It will depend on what kind of data you want to collect, process and display and what kind of equipment your boat already has.
 ## Required
-You need at least the basics to run the software.
+You need at least these items to run the software.
 * **ARM embedded computer**
 * **Box**
 * **Power supply**
@@ -11,7 +11,7 @@ You need at least the basics to run the software.
 * **OpenPlotter RPI** "the software"
 
 ##Optional
-Here some devices to communicate with your boat. If your boat does not have electronics you will be able to add some of them.
+Here some devices to communicate with your boat and some sensors to collect data from boat and environment.
 * **Self powered USB HUB**
 * **USB WIFI dongle**
 * **USB GPS dongle**
@@ -19,5 +19,3 @@ Here some devices to communicate with your boat. If your boat does not have elec
 * **USB DVB-T dongle (AIS reception)**
 * **Homemade AIS antenna**
 * **IMU sensor**
-
-
