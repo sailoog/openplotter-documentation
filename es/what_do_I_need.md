@@ -1,7 +1,7 @@
 #What do I need?
 
 ## Required
-You need at least the basics to run the software
+You need at least the basics to run the software.
 * **ARM embedded computer**
 * **Box**
 * **Power supply**
@@ -11,7 +11,7 @@ You need at least the basics to run the software
 * **OpenPlotter RPI** "the software"
 
 ##Optional
-Depending on what equipment your boat has. If your boat does not have electronics you will be able to add most of them.
+Depending on what equipment your boat has. If your boat does not have electronics you will be able to add some of them.
 * **Self powered USB HUB**
 * **USB WIFI dongle**
 * **USB GPS dongle**
