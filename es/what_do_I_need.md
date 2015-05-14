@@ -1,2 +1,8 @@
 # What do I need?
-under construction
+
+## Required
+You need at least the basics to run the software
+* **ARM embedded board**
+* **Box**
+* **Power supply**
+* **HDMI/DVI/VGA/TV monitor and connectivity cable**
