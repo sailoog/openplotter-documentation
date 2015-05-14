@@ -1,5 +1,5 @@
 #What do I need?
-Since Openlotter is modular you will need the basics and only some parts depending on what do you want and what your boar already has.
+Since Openlotter is modular you will need the basics and only some parts depending on what do you want and what your boat already has.
 ## Required
 You need at least the basics to run the software.
 * **ARM embedded computer**
