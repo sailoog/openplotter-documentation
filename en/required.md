@@ -10,6 +10,7 @@ We recommend the popular [Raspberry Pi 2 Model B](https://www.raspberrypi.org/pr
 ##Box
 ![](box.png)
 
+There are a lot of models to protect the Raspberry Pi board. We are
 ##Power supply
 ##HDMI/DVI/VGA/TV monitor and cable
 ##Keyboard and mouse
