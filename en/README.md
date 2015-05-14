@@ -9,7 +9,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 
 * **Chartplotter**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
 * **Weather Forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
-* **NMEA-0183 Multiplexer**. Multiplexe data inputs from any number of serial lines and network interfaces and send to any number of outputs.
+* **NMEA-0183 Multiplexer**. Multiplex data inputs from any number of serial lines and network interfaces and send to any number of outputs.
 * **NMEA Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **NMEA WiFi Server**. Share NMEA data with laptops, tablets and phones or connect to internet on port through the same device.
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
@@ -18,7 +18,7 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Electronic Compass**. Calculate magnetic heading with IMU sensor. Tilt compensated. Calibration tools Included.
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
-* **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends. Generate pressure and temperature NMEA data.
+* **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends.
 * **System Time Tools**. Set the system time from NMEA data and easily set the time zone.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
 * **Startup Programs**. Select some program parameters for launch at the start.
