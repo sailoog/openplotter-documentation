@@ -10,7 +10,8 @@ We recommend the popular [Raspberry Pi 2 Model B](https://www.raspberrypi.org/pr
 ##Box
 ![](box.png)
 
-There are a lot of models to protect the Raspberry Pi board. We are
+There are a lot of models to protect the Raspberry Pi board. 
+We are working in a water resistant enclosure.
 ##Power supply
 ##HDMI/DVI/VGA/TV monitor and cable
 ##Keyboard and mouse
