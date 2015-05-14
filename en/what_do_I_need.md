@@ -1,5 +1,5 @@
 #What do I need?
-You will need always the basics but only some optional parts depending on what type of data you want to read and what your boat already has.
+You will need always the basics but only some optional parts. It will depend on what type of data you want to collect, process and display and what kind of equipment your boat already has.
 ## Required
 You need at least these items to run the software.
 * **ARM embedded computer**
