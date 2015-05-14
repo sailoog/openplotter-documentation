@@ -18,5 +18,6 @@ Depending on what equipment your boat has. If your boat does not have electronic
 * **USB RS422/RS232 converter dongle**
 * **USB DVB-T dongle (AIS reception)**
 * **Homemade AIS antenna**
+* **IMU sensor**
 
 
