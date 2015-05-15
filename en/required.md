@@ -55,3 +55,5 @@ The Raspberry Pi 2 should work with any micro-SD-compatible cards, although ther
 ![](openplotter_rpi.png)
 ###Download
 http://www.sailoog.com/blog-categories/openplotter-download
+###Installation guide
+http://sailoog.dozuki.com/Guide/Descargando+e+instalando+OpenPlotter+RPI/2
