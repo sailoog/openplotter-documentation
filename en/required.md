@@ -38,5 +38,15 @@ For monitors with VGA only, you can use an HDMI-to-VGA adapter. We suggest using
 For analogue TVs you can use  a 3.5mm composite video/audio lead.
 
 ##Keyboard and mouse
+Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless keyboards and mice will work if already paired.
+
 ##SD card
+![](sd.JPG)
+
+The Raspberry Pi 2 should work with any micro-SD-compatible cards, although there are some guidelines that should be followed:
+
+**SD card size (capacity)**. A minimum of 4GB is required but 8GB is recommended.
+
+**SD card class**. The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
+
 ##OpenPlotter RPI "the software"
