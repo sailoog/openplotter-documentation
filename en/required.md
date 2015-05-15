@@ -21,6 +21,7 @@ The Pi is powered by a 5V USB power supply with a micro USB connector (like most
 It would be a good idea to get an USB car charger adapter (12v to 5V, 3.1A) with two outputs in case you need to power an USB HUB too.
 
 ##HDMI/DVI/VGA/TV monitor and cable
+
 ##Keyboard and mouse
 ##SD card
 ##OpenPlotter RPI "the software"
