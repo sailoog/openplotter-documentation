@@ -38,6 +38,8 @@ For monitors with VGA only, you can use an HDMI-to-VGA adapter. We suggest using
 For analogue TVs you can use  a 3.5mm composite video/audio lead.
 
 ##Keyboard and mouse
+![](keyboard.png)
+
 Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless keyboards and mice will work if already paired.
 
 ##SD card
