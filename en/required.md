@@ -13,6 +13,9 @@ We recommend the popular [Raspberry Pi 2 Model B](https://www.raspberrypi.org/pr
 There are a lot of models to protect the Raspberry Pi board. 
 We are working in a water resistant enclosure.
 ##Power supply
+![](power.jpg)
+
+The Pi is powered by a 5V USB power supply and a micro USB connector (like most standard mobile phone chargers).  
 ##HDMI/DVI/VGA/TV monitor and cable
 ##Keyboard and mouse
 ##SD card
