@@ -2,7 +2,7 @@
 ##Self powered USB HUB
 ![](hub.png)
 
-If you are connecting devices which use more power than your Raspberry can manage, you will need a self powered USB HUB.
+If you are connecting devices which use more power than your Raspberry can manage, you will need a self powered USB HUB. 
 
 ##USB WIFI dongle
 ##USB GPS dongle
