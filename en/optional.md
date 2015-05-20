@@ -1,6 +1,7 @@
 # Optional
-under construction
 ##Self powered USB HUB
+![](hub.png)
+
 ##USB WIFI dongle
 ##USB GPS dongle
 ##USB RS422/RS232 converter dongle
