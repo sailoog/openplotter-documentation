@@ -42,6 +42,14 @@ If you have sensors and electronics with NMEA-0183 outputs on board you will nee
 
 The NMEA-0183 hardware standard uses RS422 connectors but you may find some devices with RS232 as well. 
 
+###Buy a tested USB RS422/RS232 converter.
+
+Select your right connector.
+
+http://www.sailoog.com/en/xxxxxxxxxx
+
+http://www.sailoog.com/en/xxxxxxxxxx
+
 ##USB DVB-T dongle (AIS reception)
 ##Homemade AIS antenna
 ##IMU sensor
