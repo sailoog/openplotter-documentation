@@ -84,8 +84,8 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 | InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver). | LPS25H |
 | InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers | MS5611 |
 | 0:5 | MS5637 |
-| 0:6 | 1:6 |
-| 0:7 | 1:7 |
-| 0:8 | 1:8 |
-| 0:9 | 1:9 |
-| 0:10 | 1:10 |
+| 0:6 |  |
+| 0:7 |  |
+| 0:8 |  |
+| 0:9 |  |
+| 0:10 |  |
