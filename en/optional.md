@@ -10,7 +10,9 @@ It would be a good idea to get a Hub with 5V input so that you could power it wi
 Backpowering occurs when USB Hubs do not provide a diode to stop the hub from powering against the host computer. This means that the hubs will power the Raspberry Pi through its USB cable input cable, without the need for a separate micro-USB power cable, and bypass the voltage protection. If you are using a hub that backfeeds to the Raspberry Pi and the hub experiences a power surge, your Raspberry Pi could potentially be damaged. In this case use "only data" cables or modify a normal USB cable cutting the Vcc pin.
 
 ###Buy a tested USB Hub.
-7 ports USB Hub: http://www.sailoog.com/en/xxxxxxxxxx
+7 ports USB 2.0 Hub
+
+http://www.sailoog.com/en/xxxxxxxxxx
 
 ##USB WiFi dongle
 ![](wifi.png)
