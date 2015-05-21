@@ -25,17 +25,11 @@ It would be a good idea to get an USB car charger adapter (12v to 5V, 3.1A) with
 
 The Raspberry Pi has a HDMI port which you can plug directly into a monitor or TV with an HDMI cable. This is the easiest solution; some modern monitors and TVs have HDMI ports, and some do not, but there are other options:
 
-**DVI**
+**DVI**. For monitors with a DVI port, you can use an HDMI-to-DVI cable.
 
-For monitors with a DVI port, you can use an HDMI-to-DVI cable.
+**VGA**. For monitors with VGA only, you can use an HDMI-to-VGA adapter. We suggest using only powered HDMI-to-VGA adapters (with an external power source).
 
-**VGA**
-
-For monitors with VGA only, you can use an HDMI-to-VGA adapter. We suggest using only powered HDMI-to-VGA adapters (with an external power source).
-
-**Composite Port**
-
-For analogue TVs you can use  a 3.5mm composite video/audio lead.
+**Composite Port**. For analogue TVs you can use  a 3.5mm composite video/audio lead.
 
 ##Keyboard and mouse
 ![](keyboard.png)
