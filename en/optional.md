@@ -57,4 +57,8 @@ DVB-T dongles based on the Realtek RTL2832U chip can be used as a cheap one chan
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
 
+###Antenna
+
+Any VHF antenna will work right. 
+
 ##IMU sensor
