@@ -14,11 +14,11 @@ http://www.sailoog.com/en/xxxxxxxxxx
 ##USB WiFi dongle
 ![](wifi.png)
 
-If you want to connect to internet or configure OpenPlotter as an access point, you will need an USB WiFi dongle.
+You will need an USB WiFi dongle if you want to connect either OpenPlotter to internet or yours devices on board to OpenPlotter.
 
 A WiFi adapter will probably need more power than the Raspberry Pi USB port can provide, especially if there is a large distance from the WiFi adapter to the WiFi Access Point, or it is transferring large amounts of data. Therefore, you may need to plug the WiFi adapter into a powered USB hub.
 
-**Access point**
+###WiFi access point
 
 To share data with devices on board you have to set OpenPlotter as access point and connect devices to it. However not all WiFi dongles can function as an access point, only devices with the **RTL8192CU** or **RTL8188CUS** chipset will work.
 
