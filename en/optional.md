@@ -83,9 +83,10 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 | InvenSense MPU-9150 single chip IMU | BMP180 |
 | InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver). | LPS25H |
 | InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers | MS5611 |
-| 0:5 | MS5637 |
-| 0:6 |  |
-| 0:7 |  |
-| 0:8 |  |
-| 0:9 |  |
-| 0:10 |  |
+| InvenSense MPU-9250 single chip IMU (I2C and SPI) | MS5637 |
+| STM LSM9DS0 single chip IMU |  |
+| L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4 |  |
+| L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU |  |
+| L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU |  |
+| Bosch BMX055 (although magnetometer support is experimental currently) |  |
+
