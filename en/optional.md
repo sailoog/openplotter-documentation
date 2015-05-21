@@ -36,6 +36,9 @@ Low-power, GPS/GLONASS compatible, NMEA-0183 output.
 http://www.sailoog.com/en/xxxxxxxxxx
 
 ##USB RS422/RS232 converter dongle
+![](rs422.png)
+
+
 ##USB DVB-T dongle (AIS reception)
 ##Homemade AIS antenna
 ##IMU sensor
