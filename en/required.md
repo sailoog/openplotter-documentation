@@ -56,8 +56,7 @@ The Raspberry Pi 2 should work with any micro-SD-compatible cards, although ther
 
 ###Download
 http://www.sailoog.com/xxxxxxxxxxxx
-###Installation guide
-http://sailoog.dozuki.com/Guide/xxxxxxxxxxxx
+
 ###Buy a SD card with OpenPlotter RPI pre-installed
 8GB class 6 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
 
