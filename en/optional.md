@@ -62,7 +62,9 @@ A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. 
 Any VHF antenna will work right. Some homemade antennas:
 
 http://sdrformariners.blogspot.com.es/p/blog-page.html
+
 http://nmearouter.com/docs/ais/aerial.html
+
 https://www.youtube.com/watch?v=SdEglNHyHB4
 
 ##IMU sensor
