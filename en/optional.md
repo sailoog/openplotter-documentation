@@ -51,5 +51,10 @@ http://www.sailoog.com/en/xxxxxxxxxx
 http://www.sailoog.com/en/xxxxxxxxxx
 
 ##USB DVB-T dongle (AIS reception)
-##Homemade AIS antenna
+![](sdr.png)
+
+DVB-T dongles based on the Realtek RTL2832U chip can be used as a cheap one channel AIS receptors.
+
+A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
+
 ##IMU sensor
