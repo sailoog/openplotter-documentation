@@ -2,7 +2,7 @@
 ##Self powered USB Hub
 ![](hub.png)
 
-If you are connecting devices which use more power than your Raspberry can manage, you will need a self powered USB Hub.
+If you are connecting devices which use more power than your Raspberry can provide, you will need a self powered USB Hub.
 
 It would be a good idea to get a Hub with 5V input so that you could power it with the same source as your raspberry.
 
@@ -14,7 +14,7 @@ http://www.sailoog.com/en/xxxxxxxxxx
 ##USB WiFi dongle
 ![](wifi.png)
 
-You will need an USB WiFi dongle if you want to connect either OpenPlotter to internet or your devices on board to OpenPlotter.
+You will need an USB WiFi dongle if you want to connect either OpenPlotter to internet or your mobile devices on board to OpenPlotter.
 
 A WiFi adapter will probably need more power than the Raspberry Pi USB port can provide, especially if there is a large distance from the WiFi adapter to the WiFi Access Point, or it is transferring large amounts of data. Therefore, you may need to plug the WiFi adapter into a powered USB hub.
 
