@@ -80,10 +80,10 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 
 | Accelerometer/Gyroscope/Magnetometer sensors | Pressure/Temperature sensors |
 | -- | -- |
-| 0:2 | 1:2 |
-| 0:3 | 1:3 |
-| 0:4 | 1:4 |
-| 0:5 | 1:5 |
+| 0:2 | BMP180 |
+| 0:3 | LPS25H |
+| 0:4 | MS5611 |
+| 0:5 | MS5637 |
 | 0:6 | 1:6 |
 | 0:7 | 1:7 |
 | 0:8 | 1:8 |
