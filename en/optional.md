@@ -75,3 +75,17 @@ If you don't have a electronic compass on board you will need an IMU.
 An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientation and gravitational forces, using a combination of an accelerometer, gyroscope, and a magnetometer. Some IMUs are also fitted with a barometric sensor and a temperature sensor.
 
 Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. Besides, if barometric and temperature sensors are included, you will get graphs to monitor the weather.
+
+###Supported IMUs
+
+| Accelerometer/Gyroscope/Magnetometer sensors | Pressure/Temperature sensors |
+| -- | -- |
+| 0:2 | 1:2 |
+| 0:3 | 1:3 |
+| 0:4 | 1:4 |
+| 0:5 | 1:5 |
+| 0:6 | 1:6 |
+| 0:7 | 1:7 |
+| 0:8 | 1:8 |
+| 0:9 | 1:9 |
+| 0:10 | 1:10 |
