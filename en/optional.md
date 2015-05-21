@@ -27,7 +27,13 @@ To share data with devices on board you have to set OpenPlotter as access point 
 
 If you don't have any GPS on board or you want an extra positioning device, this is the cheapest way.
 
-Connecting an USB GPS dongle to OpenPlotter it will provide accurate position and speed/course over ground.
+Connecting an USB GPS dongle to OpenPlotter it will provide accurate position, date/time and speed/course over ground.
+
+###Buy a tested GPS/GLONASS USB dongle.
+
+Low-power, GPS/GLONASS compatible, NMEA-0183 output.
+
+http://www.sailoog.com/en/xxxxxxxxxx
 
 ##USB RS422/RS232 converter dongle
 ##USB DVB-T dongle (AIS reception)
