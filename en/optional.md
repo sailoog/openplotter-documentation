@@ -25,6 +25,10 @@ To share data with devices on board you have to set OpenPlotter as access point 
 ##USB GPS dongle
 ![](gps.png)
 
+If you don't have any GPS on board or you want an extra positioning device, this is the cheapest way.
+
+Connecting an USB GPS dongle to OpenPlotter you will provide position and speed/course over ground.
+
 ##USB RS422/RS232 converter dongle
 ##USB DVB-T dongle (AIS reception)
 ##Homemade AIS antenna
