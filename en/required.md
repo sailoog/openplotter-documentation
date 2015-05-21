@@ -60,4 +60,5 @@ http://www.sailoog.com/xxxxxxxxxxxx
 http://sailoog.dozuki.com/Guide/xxxxxxxxxxxx
 ###Buy a SD card with OpenPlotter RPI pre-installed
 8GB class 6 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
+
 http://www.sailoog.com/en/xxxxxxxxxx
