@@ -23,19 +23,19 @@ It would be a good idea to get an USB car charger adapter (12v to 5V, 3.1A) with
 ##HDMI/DVI/VGA/TV monitor and cable
 ![](hdmi.png)
 
-###HDMI
+####HDMI
 
 The Raspberry Pi has a HDMI port which you can plug directly into a monitor or TV with an HDMI cable. This is the easiest solution; some modern monitors and TVs have HDMI ports, and some do not, but there are other options:
 
-###DVI
+####DVI
 
 For monitors with a DVI port, you can use an HDMI-to-DVI cable.
 
-###VGA 
+####VGA 
 
 For monitors with VGA only, you can use an HDMI-to-VGA adapter. We suggest using only powered HDMI-to-VGA adapters (with an external power source).
 
-###Composite Port
+####Composite Port
 
 For analogue TVs you can use  a 3.5mm composite video/audio lead.
 
@@ -49,21 +49,21 @@ Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless k
 
 The Raspberry Pi 2 should work with any micro-SD-compatible cards, although there are some guidelines that should be followed:
 
-###SD card size (capacity) 
+####SD card size (capacity) 
 
 A minimum of 4GB is required but 8GB is recommended.
 
-###SD card class
+####SD card class
 
 The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
 
 ##OpenPlotter RPI "the software"
 ![](openplotter_rpi.png)
 
-###Download
+####Download
 http://www.sailoog.com/xxxxxxxxxxxx
 
-###Buy a SD card with OpenPlotter RPI pre-installed
+####Buy a SD card with OpenPlotter RPI pre-installed
 8GB class 6 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
 
 http://www.sailoog.com/en/xxxxxxxxxx
