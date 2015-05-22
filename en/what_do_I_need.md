@@ -4,7 +4,7 @@ You will need the basic parts and some optional parts. It will depend on what ki
 You need at least these items to run the software.
 * **ARM embedded computer**
 * **Box**
-* **Power supply**
+* **Power supply and cable**
 * **HDMI/DVI/VGA/TV monitor and cable**
 * **Keyboard and mouse**
 * **SD card**
@@ -13,7 +13,7 @@ You need at least these items to run the software.
 ##Optional
 Here some devices to communicate with your boat and some sensors to collect data from boat and environment.
 * **Self powered USB Hub**
-* **USB WIFI dongle**
+* **USB WiFi dongle**
 * **USB GPS dongle**
 * **USB RS422/RS232 converter dongle**
 * **USB DVB-T dongle (AIS reception)**
