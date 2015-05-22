@@ -18,7 +18,7 @@ You will need an USB WiFi dongle if you want to connect either OpenPlotter to in
 
 A WiFi adapter will probably need more power than the Raspberry Pi USB port can provide, especially if there is a large distance from the WiFi adapter to the WiFi Access Point, or it is transferring large amounts of data. Therefore, you may need to plug the WiFi adapter into a powered USB hub.
 
-###WiFi access point
+####WiFi access point
 
 To share data with on board devices by WiFi you have to set OpenPlotter as an access point and connect devices to it. However not all WiFi dongles can function as an access point, only devices with the **RTL8192CU** or **RTL8188CUS** chipset will work.
 
@@ -29,7 +29,7 @@ If you don't have any GPS on board or you want an extra positioning device, this
 
 Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date/time and speed/course over ground.
 
-###Buy a tested GPS/GLONASS USB dongle.
+####Buy a tested GPS/GLONASS USB dongle.
 
 Low-power, GPS/GLONASS compatible, NMEA-0183 output.
 
@@ -42,7 +42,7 @@ If you have sensors and electronics with NMEA-0183 outputs on board you will nee
 
 The NMEA-0183 hardware standard uses RS422 connectors but you may find some devices with RS232 as well. 
 
-###Buy a tested USB RS422/RS232 bi-directional converter.
+####Buy a tested USB RS422/RS232 bi-directional converter.
 
 Select your right connector.
 
@@ -57,7 +57,7 @@ DVB-T dongles based on the Realtek RTL2832U chip can be used as a cheap one chan
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
 
-###Antenna
+####Antenna
 
 Any VHF antenna will work right. Some homemade antennas:
 
@@ -76,7 +76,7 @@ An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientat
 
 Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. Besides, if barometric and temperature sensors are included, you will get graphs to monitor the weather.
 
-###Supported IMUs
+####Supported IMUs
 
 | Accelerometer/Gyroscope/Magnetometer sensors | Pressure/Temperature sensors |
 | -- | -- |
@@ -88,5 +88,5 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 | L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4 |  |
 | L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU |  |
 | L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU |  |
-| Bosch BMX055 (although magnetometer support is experimental currently) |  |
+| Bosch BMX055 (although magnetometer support is experimental currently) | |
 
