@@ -12,7 +12,7 @@ You need at least these items to run the software.
 
 ##Optional
 Here some devices to communicate with your boat and some sensors to collect data from boat and environment.
-* **Self powered USB HUB**
+* **Self powered USB Hub**
 * **USB WIFI dongle**
 * **USB GPS dongle**
 * **USB RS422/RS232 converter dongle**
