@@ -46,9 +46,9 @@ The NMEA-0183 hardware standard uses RS422 connectors but you may find some devi
 
 Select your right connector.
 
-http://www.sailoog.com/en/xxxxxxxxxx
+RS422-USB: http://www.sailoog.com/en/xxxxxxxxxx
 
-http://www.sailoog.com/en/xxxxxxxxxx
+RS232-USB: http://www.sailoog.com/en/xxxxxxxxxx
 
 ##USB DVB-T dongle (AIS reception)
 ![](sdr.png)
