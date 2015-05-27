@@ -60,10 +60,10 @@ The card class determines the sustained write speed for the card; a class 4 card
 ####Buy a SD card with OpenPlotter RPI pre-installed
 8GB class 6 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
 
-http://www.sailoog.com/en/xxxxxxxxxx
+http://www.sailoog.com/shop-category/openplotter
 
 ##OpenPlotter RPI "the software"
 ![](openplotter_rpi.png)
 
 ####Download
-http://www.sailoog.com/xxxxxxxxxxxx
+http://www.sailoog.com/blog-categories/openplotter-download
