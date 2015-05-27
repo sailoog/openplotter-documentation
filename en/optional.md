@@ -9,7 +9,7 @@ It would be a good idea to get a Hub with 5V input so that you could power it wi
 ####Buy a tested USB Hub.
 Cheap 7 ports USB 2.0 self powered Hub.
 
-http://www.sailoog.com/en/xxxxxxxxxx
+http://www.sailoog.com/shop-category/openplotter
 
 ##USB WiFi dongle
 ![](wifi.png)
@@ -33,7 +33,7 @@ Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date
 
 Low-power, GPS/GLONASS compatible, NMEA-0183 output.
 
-http://www.sailoog.com/en/xxxxxxxxxx
+http://www.sailoog.com/shop-category/openplotter
 
 ##USB RS422/RS232 converter dongle
 ![](rs422.png)
@@ -46,9 +46,7 @@ The NMEA-0183 hardware standard uses RS422 connectors but you may find some devi
 
 Select your right connector.
 
-RS422-USB: http://www.sailoog.com/en/xxxxxxxxxx
-
-RS232-USB: http://www.sailoog.com/en/xxxxxxxxxx
+http://www.sailoog.com/shop-category/openplotter
 
 ##USB DVB-T dongle (AIS reception)
 ![](sdr.png)
@@ -66,6 +64,12 @@ http://sdrformariners.blogspot.com.es/p/blog-page.html
 http://nmearouter.com/docs/ais/aerial.html
 
 https://www.youtube.com/watch?v=SdEglNHyHB4
+
+####Buy a tested USB DVB-T/RTL-SDR dongle.
+
+With the RTL2832U+R820T2 chipset.
+
+http://www.sailoog.com/shop-category/openplotter
 
 ##IMU sensor
 ![](imu.png)
