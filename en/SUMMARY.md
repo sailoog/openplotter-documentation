@@ -1,7 +1,7 @@
 # Summary
 
 * [introduction](README.md)
-* Funding
+* [Funding](funding.md)
 * [What do I need?](what_do_I_need.md)
    * [Required](required.md)
    * [Optional](optional.md)
