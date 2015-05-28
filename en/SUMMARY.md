@@ -8,4 +8,5 @@
    * [Getting started](getting_started.md)
 * [Guides](guides.md)
 * [License](license.md)
+* Funding
 
