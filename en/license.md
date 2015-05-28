@@ -8,7 +8,7 @@ Openplotter is distributed in the hope that it will be useful, but WITHOUT ANY W
 You should have received a copy of the GNU General Public License along with Openplotter. If not, see <http://www.gnu.org/licenses/>.
 
 ###This manual license
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+This manual is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
