@@ -1,4 +1,4 @@
-#What do I need?
+#What do you need?
 You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
 ## Required
 You need at least these items to run the software.
