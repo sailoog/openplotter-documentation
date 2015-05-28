@@ -2,7 +2,7 @@
 
 * [introduction](README.md)
 * [Funding](funding.md)
-* [What do I need?](what_do_I_need.md)
+* [What do you need?](what_do_I_need.md)
    * [Required](required.md)
    * [Optional](optional.md)
 * [How does it work?](how_does_it_work.md)
