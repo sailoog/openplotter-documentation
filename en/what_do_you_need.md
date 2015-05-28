@@ -11,7 +11,7 @@ You need at least these items to run the software.
 * **OpenPlotter RPI** "the software"
 
 ##Optional
-Here some devices to communicate with your boat and some sensors to collect data from boat and environment.
+Devices to communicate with boat and sensors to collect data from environment.
 * **Self powered USB Hub**
 * **USB WiFi dongle**
 * **USB GPS dongle**
