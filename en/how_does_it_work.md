@@ -2,9 +2,9 @@
 ![](diagram.png)
 
 Basically, OpenPlotter collects NMEA data from different sources:
-* Sensors trough GPIO port. Openplotter process raw data and create NMEA sentences.
-* Serial devices trough USB. Some of then, like RS422 coverters or GPS, directly send NMEA data but there are some that need to be processed by openPlotter before sending NMEA data, like DVB-T SDR AIS receptor.
-* Network devices. From any computer or portable device.
+* Sensors trough GPIO port.
+* Serial devices trough USB.
+* Any computer or portable device connected to the same network.
 
 It gathers all this data in one unique stream which is sent to:
 
