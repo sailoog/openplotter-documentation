@@ -7,9 +7,9 @@ Basically, OpenPlotter collects NMEA data from different sources:
 * Serial devices through USB.
 * Any computer or portable device connected to the same network.
 
-Some of them directly send NMEA data but others need to be processed by OpenPlotter before creating NMEA data.
+Some of them send NMEA data directly, but others, like SDR AIS or IMU sensor, need to be processed before by OpenPlotter.
 
-All these sources are gathered in an unique NMEA stream which is sent to:
+All these sources are combined in a single NMEA stream which is sent to:
 
 * OpenCPN to show your boat over the chart.
 * Other external devices connected by serial or WiFi.
