@@ -2,7 +2,7 @@
 under construction
 
 ##Inputs
-* **A**. 
+* **A**. NMEA data from your boat equipment (GPS, wind, depth...).
 * **B**. 
 * **C**. 
 * **D**. 
