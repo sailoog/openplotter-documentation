@@ -1,5 +1,5 @@
 # How does it work?
-under construction
+![](diagram.png)
 
 ##Inputs
 * **A**. NMEA data from your boat equipment (GPS, wind, depth...).
