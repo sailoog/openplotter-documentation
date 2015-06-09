@@ -3,8 +3,8 @@ under construction
 
 ##Inputs
 * **A**. NMEA data from your boat equipment (GPS, wind, depth...).
-* **B**. Raw data from the IMU sensor is processed, converted to NMEA  and sent to UDP localhost 10110 by OpenPlotter.
-* **C**. If Openplotter has the required data, it will be able to calculate NMEA for Magnetic Variation, True Heading and True Wind.
+* **B**. Raw data from the IMU sensor is processed, converted to Compass NMEA data  and sent to UDP localhost 10110 input by OpenPlotter. If barometer is present, weather data will be logged.
+* **C**. If Openplotter has the required data, it will be able to calculate NMEA for Magnetic Variation, True Heading and True Wind. The new sentences will be sent to UDP localhost 10110 input.
 * **D**. 
 
 ##Outputs
