@@ -8,6 +8,7 @@
 * **D**. AIS signal from the DVB-T dongle is received and decoded by OpenPlotter. Generated NMEA data is sent to UDP localhost 10110 input.
 * **E**. If you have an USB GPS dongle, you will have to create a serial input.
 * **F**. You can receive NMEA data from any device connected to OpenPlotter by WiFi. You have to create a TCP/UDP input.
+
 ##Outputs
 * **A**. Multiplexed NMEA stream. All inputs gathered in an output. It is sent to OpenCPN, other external devices and OpenPlotter for calculations.
 * **B**. Orders to autopilot. It can be sent to a serial device directly from OpenCPN.
