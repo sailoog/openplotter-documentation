@@ -6,10 +6,13 @@ Basically, OpenPlotter collects NMEA data from different sources:
 * Serial devices trough USB.
 * Any computer or portable device connected to the same network.
 
-It gathers all this data in one unique stream which is sent to:
+Some of them directly send NMEA data but others need to be processed by OpenPlotter before create NMEA data.
 
-* OpenCPN to show our boat over the chart and to other devices connected by serial or 
-* 
+All these sources are gathered in an unique NMEA stream which is sent to:
+
+* OpenCPN to show your boat over the chart.
+* Other external devices connected by serial or WiFi.
+* OpenPlotter again to calculate new NMEA sentences.
 
 ##Inputs
 * **A**. NMEA data from your boat equipment (GPS, wind, depth...).
@@ -20,7 +23,7 @@ It gathers all this data in one unique stream which is sent to:
 * **F**. You can receive NMEA data from any device connected to OpenPlotter by WiFi. You have to create a TCP/UDP input.
 
 ##Outputs
-* **A**. Multiplexed NMEA stream. All inputs gathered in an output. It is sent to OpenCPN, other external devices and OpenPlotter for calculations.
+* **A**. Multiplexed NMEA stream. All inputs gathered in TCP localhost 10110 output. It is sent to OpenCPN, other external devices and OpenPlotter for calculations.
 * **B**. Orders to autopilot. It can be sent to a serial device directly from OpenCPN.
 * **C**. Remote desktop.
 * **D**. Video and audio output by HDMI port. Alternatively, you can get analog video and audio using the composite port.
