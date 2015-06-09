@@ -3,7 +3,7 @@ under construction
 
 ##Inputs
 * **A**. NMEA data from your boat equipment (GPS, wind, depth...).
-* **B**. 
+* **B**. Raw data from the IMU sensor is processed, converted to NMEA  and sent to UDP localhost 10110 by OpenPlotter.
 * **C**. 
 * **D**. 
 
