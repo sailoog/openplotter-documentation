@@ -1,6 +1,6 @@
 # How does it work?
 
-OpenPlotter collects NMEA data from different sources:
+OpenPlotter collects NMEA-0183 data from different sources:
 
 * Sensors through GPIO port.
 * Serial devices through USB port.
