@@ -5,7 +5,7 @@ Necesitarás las partes básicas y algunas partes opcionales. Dependerá de que 
 ## Requeridas
 
 Necesitas al menos estos elementos para ejecutar el software.
-* **Ordenador embebido ARM**
+* **Ordenador embebido ARM (Raspberry Pi)**
 * **Caja**
 * **Fuente de alimentación y cableado**
 * **Monitor HDMI/DVI/VGA/TV y cableado**
