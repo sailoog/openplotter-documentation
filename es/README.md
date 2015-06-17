@@ -1,6 +1,6 @@
 What is OpenPlotter?
 =======
-![](openplotter.png)
+![OpenPlotter logo](openplotter500x300.png)
 
 OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It works on ARM computers like the [Raspberry Pi](https://www.raspberrypi.org/) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
 
@@ -14,10 +14,12 @@ OpenPlotter is a combination of software and hardware to be used as navigational
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
-* **Electronic Compass**. Calculate magnetic heading with IMU sensor. Tilt compensated. Calibration tools Included.
+* **Electronic Compass**. Calculate magnetic heading with an IMU sensor. Tilt compensated. Calibration tools Included.
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends.
-* **System Time Tools**. Set the system time from NMEA data and easily set the time zone.
+* **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
-* **Startup Programs**. Select some program parameters for launch at the start.
+* **Startup Programs**. Select some program parameters to launch at start.
+
+![OpenPlotter desktop](openplotter.png)
