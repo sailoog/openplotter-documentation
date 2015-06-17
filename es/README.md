@@ -17,7 +17,7 @@ OpenPlotter es una combinación de software y hardware para ser usada como ayuda
 * **Compás electrónico**. Calcula rumbo de aguja con un sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Rumbo verdadero**. Calcula el rumbo verdadero a partir del rumbo de aguja y la declinación magnética.
 * **Viento verdadero**. Calcula el viento verdadero a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
-* **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends.
+* ** Barógrafo y termógrafo **. Desde sensor IMU. Guardar registros cronológicos y muestra gráficos para ver las tendencias.
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
 * **Startup Programs**. Select some program parameters to launch at start.
