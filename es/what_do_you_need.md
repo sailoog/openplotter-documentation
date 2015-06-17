@@ -1,7 +1,10 @@
-#What do you need?
-You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
-## Required
-You need at least these items to run the software.
+#Qué necesitas
+
+Necesitarás las partes básicas y algunas partes opcionales. Dependerá de que tipo de datos quieras recibir, procesar o mostrar y del tipo de electrónica que tenga tu barco.
+
+## Requeridas
+
+Necesitas por lo menos esto elementos para ejecutar el software.
 * **ARM embedded computer**
 * **Box**
 * **Power supply and cable**
@@ -10,8 +13,9 @@ You need at least these items to run the software.
 * **SD card**
 * **OpenPlotter RPI** "the software"
 
-##Optional
-Devices to communicate with boat and sensors to collect data from environment.
+##Opcionales
+
+Dispositivos para comunicar con el barco y sensores para recopilar datos del entorno.
 * **Self powered USB Hub**
 * **USB WiFi dongle**
 * **USB GPS dongle**
