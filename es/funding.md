@@ -6,4 +6,4 @@ Este proyecto se financia con la venta de productos relacionados y con contribuc
 
 **Tienda Web**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
 
-**Donaciones**: [www.sailoog.com](http://www.sailoog.com) (pie de página)
+**Donaciones**: [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=L45BYXKS3SK5G&lc=ES)
