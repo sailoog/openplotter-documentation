@@ -4,11 +4,11 @@
 
 OpenPlotter es una combinación de software y hardware para ser usada como ayuda a la navegación en barcos de pequeña y mediana eslora. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular así que solo tendrás que implementar lo que tu barco necesite. Hazlo tu mismo.
 
-## Features
+## Características
 
-* **Chartplotter**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
-* **Weather Forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
-* **NMEA-0183 Multiplexer**. Multiplex data inputs from any number of serial lines and network interfaces and send to any number of outputs.
+* **Chartplotter**. Con [OpenCPN](http://opencpn.org), programa de posicionamiento sobre la carta náutica con útiles plugins.
+* **Predicciones meteorológicas**. Descarga y visualiza archivos Grib con [zyGrib](http://www.zygrib.org).
+* **Multiplexor NMEA-0183**. Reune datos precedentes de cualquier número de entradas serie o de red y los envía multiplexados a cualquier número de salidas.
 * **NMEA Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **NMEA WiFi Server**. Share NMEA data with laptops, tablets and phones or connect to internet on port through the same device.
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
