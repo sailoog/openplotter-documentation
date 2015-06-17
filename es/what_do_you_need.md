@@ -16,9 +16,9 @@ Necesitas al menos estos elementos para ejecutar el software.
 ##Opcionales
 
 Dispositivos para comunicar con el barco y sensores para recopilar datos del entorno.
-* **Self powered USB Hub**
-* **USB WiFi dongle**
-* **USB GPS dongle**
-* **USB RS422/RS232 converter dongle**
-* **USB DVB-T dongle (AIS reception)**
-* **IMU sensor**
+* **Hub USB auto-alimentado**
+* **Dispositivo WiFi USB**
+* **Dispositivo GPS USB**
+* **Conversor USB-RS422/RS232**
+* **Receptor TDT USB (recepción AIS)**
+* **Sensor IMU**
