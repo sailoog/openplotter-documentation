@@ -4,7 +4,7 @@ Necesitarás las partes básicas y algunas partes opcionales. Dependerá de que 
 
 ## Requeridas
 
-Necesitas por lo menos esto elementos para ejecutar el software.
+Necesitas por lo menos estos elementos para ejecutar el software.
 * **ARM embedded computer**
 * **Box**
 * **Power supply and cable**
