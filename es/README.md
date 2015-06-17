@@ -7,19 +7,19 @@ OpenPlotter es una combinación de software y hardware para ser usada como ayuda
 ## Características
 
 * **Chartplotter**. Con [OpenCPN](http://opencpn.org), programa de posicionamiento sobre la carta náutica con útiles plugins.
-* **Predicciones meteorológicas**. Descarga y visualiza archivos Grib con [zyGrib](http://www.zygrib.org).
+* **Predicciones Meteorológicas**. Descarga y visualiza archivos Grib con [zyGrib](http://www.zygrib.org).
 * **Multiplexor NMEA-0183**. Reune datos precedentes de cualquier número de entradas serie o de red y los envía multiplexados a cualquier número de salidas.
 * **Inspector NMEA**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre las fuentes.
 * **Servidor WiFi NMEA**. Comparte datos NMEA con portátiles, tabletas y teléfonos a bordo o conecta a internet en puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
 * **AIS-SDR**. Recibe y decodifica AIS con baratos receptores de TDT. Incluye herramientas de calibración.
 * **Declinación Magnética**. Calcula la declinación magnética para le fecha y posición.
-* **Compás electrónico**. Calcula rumbo de aguja con un sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
-* **Rumbo verdadero**. Calcula el rumbo verdadero a partir del rumbo de aguja y la declinación magnética.
-* **Viento verdadero**. Calcula el viento verdadero a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
-* ** Barógrafo y termógrafo **. Desde sensor IMU. Guardar registros cronológicos y muestra gráficos para ver las tendencias.
-* **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
-* **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
-* **Startup Programs**. Select some program parameters to launch at start.
+* **Compás Electrónico**. Calcula rumbo de aguja con un sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
+* **Rumbo Verdadero**. Calcula el rumbo verdadero a partir del rumbo de aguja y la declinación magnética.
+* **Viento Verdadero**. Calcula el viento verdadero a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
+* ** Barógrafo y Termógrafo **. Desde sensor IMU. Guardar registros cronológicos y muestra gráficos para ver las tendencias.
+* **Herramientas de Hora del Sistema**. Establece la hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
+* **GPSD**. Configura [GPSD](http://www.catb.org/gpsd/).
+* **Programas de Inicio**. Configura programas y parametros para ejecutar al inicio.
 
 ![OpenPlotter desktop](openplotter.png)
