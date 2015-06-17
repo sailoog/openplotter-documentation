@@ -16,7 +16,7 @@ OpenPlotter es una combinación de software y hardware para ser usada como ayuda
 * **Declinación Magnética**. Calcula la declinación magnética para le fecha y posición.
 * **Compás electrónico**. Calcula rumbo de aguja con un sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Rumbo verdadero**. Calcula el rumbo verdadero a partir del rumbo de aguja y la declinación magnética.
-* **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
+* **Viento verdadero**. Calcula el viento verdadero a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
 * **Barograph and Thermograph**. From IMU sensor. Save logs and display graphs to see trends.
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **GPSD**. Configure [GPSD](http://www.catb.org/gpsd/).
