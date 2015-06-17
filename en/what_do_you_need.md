@@ -2,7 +2,7 @@
 You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
 ## Required
 You need at least these items to run the software.
-* **ARM embedded computer**
+* **ARM embedded computer (Raspberry Pi)**
 * **Box**
 * **Power supply and cable**
 * **HDMI/DVI/VGA/TV monitor and cable**
