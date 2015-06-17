@@ -4,14 +4,14 @@ Necesitarás las partes básicas y algunas partes opcionales. Dependerá de que 
 
 ## Requeridas
 
-Necesitas por lo menos estos elementos para ejecutar el software.
-* **ARM embedded computer**
-* **Box**
-* **Power supply and cable**
-* **HDMI/DVI/VGA/TV monitor and cable**
-* **Keyboard and mouse**
-* **SD card**
-* **OpenPlotter RPI** "the software"
+Necesitas al menos estos elementos para ejecutar el software.
+* **Ordenador embebido ARM**
+* **Caja**
+* **Fuente de alimentación y cableado**
+* **Monitor HDMI/DVI/VGA/TV y cableado**
+* **Ratón y teclado**
+* **Tarjeta SD**
+* **OpenPlotter RPI** "el software"
 
 ##Opcionales
 
