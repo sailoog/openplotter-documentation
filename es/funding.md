@@ -1,7 +1,9 @@
-# Funding
+# Financiación
 
-This project is financed by selling related products and voluntary contributions. Please help us to continue our research. Thanks!
+Este proyecto se financia con la venta de productos relacionados y con contribuciones voluntarias. Ayúdanos a seguir con nuestra investigación.
 
-**Web shop**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
+¡Gracias!
 
-**Donations**: [www.sailoog.com](http://www.sailoog.com) (page bottom)
+**Tienda Web**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
+
+**Donaciones**: [www.sailoog.com](http://www.sailoog.com) (pie de página)
