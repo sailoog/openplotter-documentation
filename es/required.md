@@ -39,10 +39,10 @@ Pra monitores con entrada VGA, tendrás que usar un adaptador HDMI-VGA. Recomend
 
 Para TV analógicas tendremos que usar la salida de video/audio de 3.5mm de video compuesto de la Raspberry. Esta es la opción de menos calidad. También podremos usar esta salida de audio y la de video HDMI simultaneamente.
 
-##Keyboard and mouse
+##Ratón y teclado
 ![](keyboard.png)
 
-Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless keyboards and mice will work if already paired.
+Cualquier teclado y ratón estándar funcionará en la Raspberry. Una buena opción son los teclados inalámbricos con touchpad integrado.
 
 ##SD card
 ![](sd.png)
