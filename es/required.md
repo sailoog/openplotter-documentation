@@ -7,11 +7,11 @@ En estos momentos recomendamos la popular [Raspberry Pi 2 Model B](https://www.r
 
 ¡**OpenPlotter RPI**,  el sistema operativo para Raspberry Pi y OpenPlotter está listo!
 
-##Box
+##Caja
 ![](box.png)
 
-There are a lot of models to protect the Raspberry Pi board. 
-**We are working on a waterproof enclosure.**
+Existen un montón de modelos para proteger la placa Raspberry Pi.
+**Estamos trabajando en una caja resistente al agua.**
 
 ##Power supply and cable
 ![](power.png)
