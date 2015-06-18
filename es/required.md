@@ -55,7 +55,7 @@ Se requiere un mínimo de 4GB pero se recomiendan 8GB.
 
 ####Clase de la tarjeta
 
-The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
+La clase determina la velocidad constante de escritura de la tarjeta. Una tarjeta de clase 4 podrá escribir a 4MB/s, mientras que una de clase 10 debería poder mantener una velocidad de escritura de 10MB/s. Sin embargo esto no significa que una de clase 10 sea mejor que una de clase 4 para uso general ya que a menudo esta velocidad de escritura se consigue a costa de la velocidad de lectura y se aumentan los tiempos de búsqueda. La mejor tarjeta es la que mantiene un equilibrio entre las dos velocidades.
 
 ####Buy a SD card with OpenPlotter RPI pre-installed
 8GB class 6 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
