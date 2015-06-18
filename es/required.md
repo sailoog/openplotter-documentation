@@ -20,7 +20,7 @@ La Raspberry se alimenta con una fuente de 5V mediante un conector micro USB (co
 
 Una buena opción podría ser un adaptador de coche (12v a 5V, 3.1A) con dos salidas por si necesitamos alimentar también un Hub USB.
 
-##HDMI/DVI/VGA/TV monitor and cable
+##Monitor HDMI/DVI/VGA/TV y cableado
 ![](hdmi.png)
 
 ####HDMI
