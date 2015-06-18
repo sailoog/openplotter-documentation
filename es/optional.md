@@ -1,5 +1,5 @@
-# Optional
-##Self powered USB Hub
+# Opcional
+##Hub USB auto-alimentado
 ![](hub.png)
 
 If you are connecting devices which use more power than your Raspberry can provide, you will need a self powered USB Hub.
