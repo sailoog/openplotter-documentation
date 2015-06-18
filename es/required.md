@@ -1,4 +1,4 @@
-# Required
+# Requerido
 
 ##ARM embedded computer
 ![](rpi2.jpg)
