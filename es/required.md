@@ -13,12 +13,12 @@ En estos momentos recomendamos la popular [Raspberry Pi 2 Model B](https://www.r
 Existen un montón de modelos para proteger la placa Raspberry Pi.
 **Estamos trabajando en una caja resistente al agua.**
 
-##Power supply and cable
+##Fuente de alimentación y cableado
 ![](power.png)
 
-The Pi is powered by a 5V USB power supply with a micro USB connector (like most standard mobile phone chargers). Exactly how much current (mA) the Raspberry Pi requires is dependent on what you connect to it. The maximum power the Raspberry Pi can use is 1 Amp. If you need to connect a USB device that will take the power requirements above 1 Amp, then you must connect it to an externally-powered USB Hub.
+La Raspberry se alimenta con una fuente de 5V mediante un conector micro USB (como la mayoría de cargadores de teléfono móvil estándar). La corriente que necesite (mA) dependerá de lo que conectemos a la placa. Para su funcionamiento interno puede llegar a consumir hasta 500mA y el máximo que puede gestionar vía USB son 1000mA por lo que necesitaremos como mínimo un cargador capaz de servir entre 1,5A y 2A. Si necesitamos conectar dispositivos USB que consuman más de 1A en total, tendremos que usar un Hub USB externo auto-alimentado.
 
-It would be a good idea to get an USB car charger adapter (12v to 5V, 3.1A) with two outputs in case you need to power an USB Hub too.
+Una buena opción podría ser un adaptador de coche (12v a 5V, 3.1A) con dos salidas por si necesitamos alimentar también un Hub USB.
 
 ##HDMI/DVI/VGA/TV monitor and cable
 ![](hdmi.png)
