@@ -44,16 +44,16 @@ Para TV analógicas tendremos que usar la salida de video/audio de 3.5mm de vide
 
 Cualquier teclado y ratón estándar funcionará en la Raspberry. Una buena opción son los teclados inalámbricos con touchpad integrado.
 
-##SD card
+##Tarjeta SD
 ![](sd.png)
 
-The Raspberry Pi 2 should work with any micro-SD-compatible cards, although there are some guidelines that should be followed:
+La Raspberry Pi debería funcionar con cualquier tarjeta micro-SD compatible. Hay que prestar atención a los siguientes aspectos:
 
-####SD card size (capacity) 
+####Tamaño de la tarjeta (capacidad) 
 
-A minimum of 4GB is required but 8GB is recommended.
+Se requiere un mínimo de 4GB pero se recomiendan 8GB.
 
-####SD card class
+####Clase de la tarjeta
 
 The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
 
