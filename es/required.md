@@ -1,9 +1,9 @@
 # Requerido
 
-##ARM embedded computer
+##Ordenador embebido ARM
 ![](rpi2.jpg)
 
-We recommend the popular [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) because it fits the requeriments: low-cost, low-consumption and has a huge community of developers.
+En estos momentos recomendamos la popular [Raspberry Pi 2 Model B](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) porque reúne los requisitos: bajo coste, bajo consumo y tiene una enorme comunidad de desarrolladores.
 
 **OpenPlotter RPI**,  the operative system for Raspberry Pi and OpenPlotter is ready!
 
