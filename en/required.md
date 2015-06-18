@@ -62,7 +62,7 @@ The card class determines the sustained write speed for the card; a class 4 card
 
 http://www.sailoog.com/shop-category/openplotter
 
-##OpenPlotter RPI "the software"
+##OpenPlotter RPI
 ![](openplotter_rpi.png)
 
 ####Download
