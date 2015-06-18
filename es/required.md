@@ -63,8 +63,8 @@ Tarjeta micro-SD de 8GB y clase 6 (con adaptador de tamaño) que supera a casi t
 
 http://www.sailoog.com/shop-category/openplotter
 
-##OpenPlotter RPI "the software"
+##OpenPlotter RPI
 ![](openplotter_rpi.png)
 
-####Download
+####Descarga
 http://www.sailoog.com/blog-categories/openplotter-download
