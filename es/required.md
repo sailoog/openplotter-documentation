@@ -35,9 +35,7 @@ Para monitores con entrada DVI, tendrás que usar un cable HDMI-DVI.
 
 Pra monitores con entrada VGA, tendrás que usar un adaptador HDMI-VGA. Recomendamos usar solo adaptadores auto-alimentados.
 
-####Composite Port
-
-For analogue TVs you can use  a 3.5mm composite video/audio lead.
+####Video compuesto
 
 Para TV analógicas tendremos que usar la salida de video/audio de 3.5mm de video compuesto de la Raspberry. Esta es la opción de menos calidad. También podremos usar esta salida de audio y la de video HDMI simultaneamente.
 
