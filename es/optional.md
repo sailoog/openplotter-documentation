@@ -48,12 +48,12 @@ Selecciona la conexión adecuada.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##USB DVB-T dongle (AIS reception)
+##Receptor TDT USB (recepción AIS)
 ![](sdr.png)
 
-DVB-T dongles based on the Realtek RTL2832U chip can be used as a cheap one channel AIS receptors.
+Los receptores TDT basados en el chip RTL2832U pueden ser usados como baratos receptores AIS de un solo canal.
 
-A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
+Este dispositivo necesitará bastante corriente así que tendrás que conectarlo a un Hub USB auto-alimentado.
 
 ####Antenna
 
