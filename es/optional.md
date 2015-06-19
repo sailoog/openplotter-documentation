@@ -71,7 +71,7 @@ Con el chipset RTL2832U+R820T2.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##IMU sensor
+##Sensor IMU
 ![](imu.png)
 
 If you don't have a electronic compass on board you will need an IMU.
