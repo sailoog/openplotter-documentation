@@ -25,9 +25,9 @@ Para compartir datos con otros equipos de abordo vía WiFi o usar un escritorio 
 ##Dispositivo GPS USB
 ![](gps.png)
 
-If you don't have any GPS on board or you want an extra positioning device, this is the cheapest way.
+Si no dispones de GPS a bordo o quieres tener un GPS de respeto, esta es la forma más barata y eficaz.
 
-Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date/time and speed/course over ground.
+Conectando un GPS a OpenPlotter conseguiremos datos precisos de posicionamiento; fecha y hora; velocidad y rumbo sobre el fondo.
 
 ####Buy a tested GPS/GLONASS USB dongle.
 
