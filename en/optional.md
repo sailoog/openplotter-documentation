@@ -38,7 +38,7 @@ http://www.sailoog.com/shop-category/openplotter
 ##USB RS422/RS232 converter dongle
 ![](rs422.png)
 
-If you have sensors and electronics with NMEA-0183 outputs on board you will need an USB converter to connect it to OpenPlotter. Additionally, you will be able to talk to electronics with NMEA-0183 inputs.
+If you have sensors and electronics with NMEA-0183 outputs on board (depth, wind, heading...) you will need an USB converter to connect it to OpenPlotter. Additionally, you will be able to talk to electronics with NMEA-0183 inputs (autopilot).
 
 The NMEA-0183 hardware standard uses RS422 connectors but you may find some devices with RS232 as well. 
 
