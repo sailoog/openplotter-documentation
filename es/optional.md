@@ -55,9 +55,9 @@ Los receptores TDT basados en el chip RTL2832U pueden ser usados como baratos re
 
 Este dispositivo necesitará bastante corriente así que tendrás que conectarlo a un Hub USB auto-alimentado.
 
-####Antenna
+####Antena
 
-Any VHF antenna will work right. Some homemade antennas:
+Cualquier antena VHF funcionará correctamente. Algunas antenas caseras:
 
 http://sdrformariners.blogspot.com.es/p/blog-page.html
 
@@ -65,9 +65,9 @@ http://nmearouter.com/docs/ais/aerial.html
 
 https://www.youtube.com/watch?v=SdEglNHyHB4
 
-####Buy a tested USB DVB-T/RTL-SDR dongle.
+####Compra un receptor TDT USB comprobado.
 
-With the RTL2832U+R820T2 chipset.
+Con el chipset RTL2832U+R820T2.
 
 http://www.sailoog.com/shop-category/openplotter
 
