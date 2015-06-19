@@ -80,9 +80,9 @@ Un Inertial Measurement Unit (IMU) mide velocidad, orientación y fuerza gravita
 
 Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesario para calcular otros factores como rumbo verdadero y viento real. Además si dispone de sensores de presión y temperatura podrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
 
-####Supported IMUs
+####IMUs compatibles
 
-**Accelerometer/Gyroscope/Magnetometer sensors 
+**Sensores acelerómetro/giroscopio/magnetómetro  
 **
 * InvenSense MPU-9150 single chip IMU.
 * InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver).
@@ -94,7 +94,7 @@ Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesar
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
 
-**Pressure/Temperature sensors**
+**Sensores presión/temperatura**
 * BMP180
 * LPS25H
 * MS5611
