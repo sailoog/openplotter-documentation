@@ -33,7 +33,7 @@ Para monitores con entrada DVI, tendrás que usar un cable HDMI-DVI.
 
 ####VGA 
 
-Pra monitores con entrada VGA, tendrás que usar un adaptador HDMI-VGA. Recomendamos usar solo adaptadores auto-alimentados.
+Para monitores con entrada VGA, tendrás que usar un adaptador HDMI-VGA. Recomendamos usar solo adaptadores auto-alimentados.
 
 ####Video compuesto
 
