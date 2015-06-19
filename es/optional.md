@@ -74,11 +74,11 @@ http://www.sailoog.com/shop-category/openplotter
 ##Sensor IMU
 ![](imu.png)
 
-If you don't have a electronic compass on board you will need an IMU.
+Si no dispones de un compás electrónico a bordo necesitarás un IMU.
 
-An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientation and gravitational forces, using a combination of an accelerometer, gyroscope, and a magnetometer. Some IMUs are also fitted with a barometric sensor and a temperature sensor.
+Un Inertial Measurement Unit (IMU) mide velocidad, orientación y fuerza gravitacional usando la combinación de un acelerómetro, un giroscopio y un magnetómetro. Algunos IMU incorporan además barómetro y termómetro.
 
-Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. Besides, if barometric and temperature sensors are included, you will get graphs to monitor the weather.
+Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesario para calcular otros factores como rumbo verdadero y viento real. Además si dispone de sensores de presión y temperatura podrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
 
 ####Supported IMUs
 
