@@ -35,7 +35,7 @@ Bajo consumo, compatible GPS (americano) y GLONASS (ruso), salida NMEA-0183.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##USB RS422/RS232 converter dongle
+##Conversor USB-RS422/RS232
 ![](rs422.png)
 
 If you have sensors and electronics with NMEA-0183 outputs on board you will need an USB converter to connect it to OpenPlotter. Additionally, you will be able to talk to electronics with NMEA-0183 inputs.
