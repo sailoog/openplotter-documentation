@@ -38,7 +38,7 @@ http://www.sailoog.com/shop-category/openplotter
 ##Conversor USB-RS422/RS232
 ![](rs422.png)
 
-Si dispones de sensores y electrónica a bordo con salidas NMEA-0183 (corredera, viento, rumbo...), necesitarás un conversor USB para conectarlos a OpenPlotter. Además podrás comunicarte con los equipos a bordo que dispongan de entradas NMEA-0183 (piloto automático).
+Si dispones de sensores y electrónica a bordo con salidas NMEA-0183 (corredera, viento, rumbo...), necesitarás un conversor USB para conectarlos a OpenPlotter. Además podrás comunicarte con los equipos que dispongan de entradas NMEA-0183 (piloto automático).
 
 El estandar NMEA-0183 utiliza conexiones RS422 pero puedes encontrar también conexiones RS232.
 
