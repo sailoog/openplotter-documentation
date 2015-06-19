@@ -2,27 +2,27 @@
 ##Hub USB auto-alimentado
 ![](hub.png)
 
-If you are connecting devices which use more power than your Raspberry can provide, you will need a self powered USB Hub.
+Si estás conectando dispositivos que usan más corriente de la que la Raspberry puede servir, necesitas un Hub o concentrador USB auto-alimentado.
 
-It would be a good idea to get a Hub with 5V input so that you could power it with the same source as your raspberry.
+Lo ideal es usar un Hub alimentado a 5V así podrás usar la misma fuente con la que alimentas la Raspberry.
 
-####Buy a tested USB Hub.
-Cheap 7 ports USB 2.0 self powered Hub.
+####Compra un Hub USB comprobado.
+Barato Hub USB 2.0 alimentado a 5V.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##USB WiFi dongle
+##Dispositivo WiFi USB
 ![](wifi.png)
 
-You will need an USB WiFi dongle if you want to connect either OpenPlotter to internet or your mobile devices on board to OpenPlotter.
+Si quieres conectarte a Internet o conectar tus dispositivos móviles a OpenPlotter (punto de acceso) necesitarás un dispositivo WiFi USB.
 
-A WiFi adapter will probably need more power than the Raspberry Pi USB port can provide, especially if there is a large distance from the WiFi adapter to the WiFi Access Point, or it is transferring large amounts of data. Therefore, you may need to plug the WiFi adapter into a powered USB hub.
+Este dispositivo probablemente necesitará bastante corriente, especialmente si hay una gran distancia entre equipos o se están transfiriendo grandes volúmenes de datos. Debido a esto, posiblemente necesitarás conectar el dispositivo WiFi a un Hub USB auto-alimentado.
 
-####WiFi access point
+####Punto de acceso WiFi
 
-To share data with on board devices by WiFi you have to set OpenPlotter as an access point and connect devices to it. However not all WiFi dongles can function as an access point, only devices with the **RTL8192CU** or **RTL8188CUS** chipset will work.
+Para compartir datos con otros equipos de abordo vía WiFi tienes que configurar OpenPlotter como punto de acceso y conectar estos equipos al mismo. Sin embargo no todos los dispositivos WiFi USB pueden funcionar como punto de acceso, solo los dispositivos con el chipset **RTL8192CU** o **RTL8188CUS** funcionarán sin problemas.
 
-##USB GPS dongle
+##Dispositivo GPS USB
 ![](gps.png)
 
 If you don't have any GPS on board or you want an extra positioning device, this is the cheapest way.
