@@ -29,9 +29,9 @@ Si no dispones de GPS a bordo o quieres tener un GPS de respeto, esta es la form
 
 Conectando un GPS a OpenPlotter conseguiremos datos precisos de posicionamiento; fecha y hora; velocidad y rumbo sobre el fondo.
 
-####Buy a tested GPS/GLONASS USB dongle.
+####Compra un dispositivo GPS/GLONASS USB comprobado.
 
-Low-power, GPS/GLONASS compatible, NMEA-0183 output.
+Bajo consumo, compatible GPS (americano) y GLONASS (ruso), salida NMEA-0183.
 
 http://www.sailoog.com/shop-category/openplotter
 
