@@ -20,7 +20,7 @@ Este dispositivo probablemente necesitará bastante corriente, especialmente si 
 
 ####Punto de acceso WiFi
 
-Para compartir datos con otros equipos de abordo vía WiFi tienes que configurar OpenPlotter como punto de acceso y conectar estos equipos al mismo. Sin embargo no todos los dispositivos WiFi USB pueden funcionar como punto de acceso, solo los dispositivos con el chipset **RTL8192CU** o **RTL8188CUS** funcionarán sin problemas.
+Para compartir datos con otros equipos de abordo vía WiFi o usar un escritorio remoto, tienes que configurar OpenPlotter como punto de acceso y conectar estos equipos al mismo. Sin embargo no todos los dispositivos WiFi USB pueden funcionar como punto de acceso, solo los dispositivos con el chipset **RTL8192CU** o **RTL8188CUS** funcionarán sin problemas en la Raspberry.
 
 ##Dispositivo GPS USB
 ![](gps.png)
