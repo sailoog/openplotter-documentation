@@ -35,14 +35,14 @@ Bajo consumo, compatible GPS (americano) y GLONASS (ruso), salida NMEA-0183.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##Conversor USB-RS422/RS232
+##Conversor USB-NMEA 0183
 ![](rs422.png)
 
 Si dispones de sensores y electrónica a bordo con salidas NMEA-0183 (corredera, viento, rumbo...), necesitarás un conversor USB para conectarlos a OpenPlotter. Además podrás comunicarte con los equipos que dispongan de entradas NMEA-0183 (piloto automático).
 
 El estandar NMEA-0183 utiliza conexiones RS422 pero puedes encontrar también conexiones RS232.
 
-####Compra un conversor USB-RS422/RS232 bi-direccional comprobado.
+####Compra un conversor USB-NMEA 0183 bi-direccional comprobado.
 
 Selecciona la conexión adecuada.
 
