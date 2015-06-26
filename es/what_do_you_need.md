@@ -19,6 +19,6 @@ Dispositivos para comunicar con el barco y sensores para recopilar datos del ent
 * **Hub USB auto-alimentado**
 * **Dispositivo WiFi USB**
 * **Dispositivo GPS USB**
-* **Conversor USB-RS422/RS232**
+* **Conversor USB-NMEA 0183**
 * **Receptor TDT USB (recepción AIS)**
 * **Sensor IMU**
