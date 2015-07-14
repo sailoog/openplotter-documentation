@@ -28,4 +28,4 @@ Todas estas fuentes son mezcladas en un solo flujo NMEA que es enviado a:
 * **A**. Flujo de datos NMEA multiplexados. Todas las entradas reunidas en la salida TCP localhost 10110. Es enviado a OpenCPN, a dispositivos externos y a OpenPlotter para cálculos.
 * **B**. Órdenes para el piloto automático. Tienes que configurar una salida serie en OpenCPN filtrada con las sentencias para el piloto automático.
 * **C**. Escritorio remoto.
-* **D**. Salida de video y audio via puerto HDMI. También puedes obtener video y audio analógico usando el puerto de video y audio compuesto.
+* **D**. Salida de video y audio vía puerto HDMI. También puedes obtener video y audio analógico usando el puerto de video y audio compuesto.
