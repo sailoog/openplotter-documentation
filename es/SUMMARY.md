@@ -8,5 +8,5 @@
 * [Cómo funciona](how_does_it_work.md)
    * [Getting started](getting_started.md)
 * [Guides](guides.md)
-* [License](license.md)
+* [Licencia](license.md)
 
