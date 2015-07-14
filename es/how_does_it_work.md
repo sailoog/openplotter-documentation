@@ -8,15 +8,15 @@ OpenPlotter recopila datos NMEA-0183 desde diferentes fuentes:
 
 Algunas de estas fuentas envían datos NMEA directamente pero otros, como el AIS SDR o el sensor IMU, necesitan ser procesados por OpenPlotter antes de enviar datos NMEA.
 
-All these sources are combined in a single NMEA stream which is sent to:
+Todas estas fuentes son mezcladas en un solo flujo NMEA que es enviado a:
 
-* OpenCPN to show your position over the chart.
-* Other external devices connected by serial or WiFi.
-* OpenPlotter again to calculate new NMEA sentences.
+* OpenCPN, para mostrar tu posición sobre la carta.
+* Otros dispositivos externos conectados vía WiFi o serie.
+* OpenPlotter de nuevo, para calcular nuevas sentencias NMEA.
 
 ![](diagram.png)
 
-##Inputs (blue)
+##Entradas (azul)
 * **A**. NMEA data from your boat equipment (GPS, wind, depth...).
 * **B**. Raw data from the IMU sensor is processed, converted to compass NMEA sentences and sent to UDP localhost 10110 input by OpenPlotter. If barometer is present, pressure and temperature data will be logged.
 * **C**. If Openplotter has the required data, it will be able to calculate NMEA for magnetic variation, true heading and true wind. The new sentences will be sent to UDP localhost 10110 input.
