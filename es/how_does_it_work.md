@@ -1,10 +1,10 @@
-# How does it work?
+# Cómo funciona
 
-OpenPlotter collects NMEA-0183 data from different sources:
+OpenPlotter recopila datos NMEA-0183 desde diferentes fuentes:
 
-* Sensors through GPIO port.
-* Serial devices through USB port.
-* Any computer or portable device connected to the same network.
+* Sensores mediante el puerto GPIO.
+* Dispositivos serie USB mediante el puerto USB.
+* Cualquier ordenador o dispositivo portátil conectado a la misma red.
 
 Some of them send NMEA data directly, but others, like SDR AIS or IMU sensor, need to be processed by OpenPlotter before sending NMEA data.
 
