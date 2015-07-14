@@ -17,8 +17,8 @@ Todas estas fuentes son mezcladas en un solo flujo NMEA que es enviado a:
 ![](diagram.png)
 
 ##Entradas (azul)
-* **A**. NMEA data from your boat equipment (GPS, wind, depth...).
-* **B**. Raw data from the IMU sensor is processed, converted to compass NMEA sentences and sent to UDP localhost 10110 input by OpenPlotter. If barometer is present, pressure and temperature data will be logged.
+* **A**. Datos NMEA de la electrónica de tu barco (GPS, viento, profundidad...).
+* **B**. Los datos en bruto del sensor IMU son procesados, convertidos en sentencias NMEA de rumbo magnético y enviados a una entrada UDP localhost 10110 por OpenPlotter. Si hay un barómetro presente, los datos de presión y temperatura serán almacenados.
 * **C**. If Openplotter has the required data, it will be able to calculate NMEA for magnetic variation, true heading and true wind. The new sentences will be sent to UDP localhost 10110 input.
 * **D**. AIS signal from the DVB-T dongle is received and decoded by OpenPlotter. Generated NMEA data is sent to UDP localhost 10110 input.
 * **E**. If you have an USB GPS dongle, you will have to create a serial input.
