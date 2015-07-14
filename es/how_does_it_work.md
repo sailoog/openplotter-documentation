@@ -24,8 +24,8 @@ Todas estas fuentes son mezcladas en un solo flujo NMEA que es enviado a:
 * **E**. Si tienes un receptor GPS USB tendrás que crear una entrada serie.
 * **F**. Puedes recibir datos NMEA desde cualquier equipo conectado a OpenPlotteír vía WiFi. Tendrás que crear una entrada TCP/UDP.
 
-##Outputs (green)
-* **A**. Multiplexed NMEA stream. All inputs gathered in TCP localhost 10110 output. It is sent to OpenCPN, to external devices and to OpenPlotter for calculations.
-* **B**. Orders to autopilot. You have to set a filtered serial output from OpenCPN with autopilot sentences.
-* **C**. Remote desktop.
-* **D**. Video and audio output by HDMI port. Alternatively, you can get analog video and audio using the composite port.
+##Salidas (verde)
+* **A**. Flujo de datos NMEA multiplexados. Todas las entradas reunidas en la salida TCP localhost 10110. Es enviado a OpenCPN, a dispositivos externos y a OpenPlotter para cálculos.
+* **B**. Órdenes para el piloto automático. Tienes que configurar una salida serie en OpenCPN filtrada con las sentencias para el piloto automático.
+* **C**. Escritorio remoto.
+* **D**. Salida de video y audio via puerto HDMI. También puedes obtener video y audio analógico usando el puerto de video y audio compuesto.
