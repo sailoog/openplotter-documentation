@@ -6,7 +6,7 @@ OpenPlotter recopila datos NMEA-0183 desde diferentes fuentes:
 * Dispositivos serie USB mediante el puerto USB.
 * Cualquier ordenador o dispositivo portátil conectado a la misma red.
 
-Some of them send NMEA data directly, but others, like SDR AIS or IMU sensor, need to be processed by OpenPlotter before sending NMEA data.
+Algunas de estas fuentas envían datos NMEA directamente pero otros, como el AIS SDR o el sensor IMU, necesitan ser procesados por OpenPlotter antes de enviar datos NMEA.
 
 All these sources are combined in a single NMEA stream which is sent to:
 
