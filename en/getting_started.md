@@ -1,4 +1,4 @@
 # Getting started
 
 
-first of all you have to gather all the [basics items](README.md)
+First of all you have to put together all the [basics items](required.md)
