@@ -8,4 +8,6 @@ You can buy our DVB-T dongle and we can calibrate it for you:
 
 http://www.sailoog.com/shop-category/openplotter
 
-Or
+or follow this detailed guide:
+
+http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
