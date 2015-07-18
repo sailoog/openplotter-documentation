@@ -2,7 +2,8 @@
 
 Antes de nada debes reunir y conectar todas las [partes básicas](required.md). Si tienes problemas con alguna parte, intenta buscar ayuda en la [página oficial de Raspberry Pi](https://www.raspberrypi.org/help/).
 
-Second you have to run the software on your new ARM computer. We use **OpenPlotter RPI** which is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi.
+
+A continuación, tienes que ejecutar el software en tu nuevo ordenador ARM. Usaremos **OpenPlotter RPI** que es una versión modificada de [Raspbian](https://www.raspbian.org/), el sistema operativo oficial para la Raspberry Pi.
 
 Follow this detailed guide to download and install OpenPlotter RPI:
 
