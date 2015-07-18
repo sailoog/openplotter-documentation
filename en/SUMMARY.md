@@ -9,4 +9,5 @@
    * [Getting started](getting_started.md)
 * [Guides](guides.md)
 * [License](license.md)
+* USB DVB-T dongle (AIS reception)
 
