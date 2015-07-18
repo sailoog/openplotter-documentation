@@ -1,6 +1,6 @@
 # Primeros pasos
 
-First of all you have to put together all the [basic parts](required.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
+Antes de nada debes reunir y conectar todas las [partes básicas](required.md). Si tienes problemas con alguna parte, intenta buscar ayuda en la [página oficial de Raspberry Pi](https://www.raspberrypi.org/help/).
 
 Second you have to run the software on your new ARM computer. We use **OpenPlotter RPI** which is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi.
 
