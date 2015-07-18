@@ -5,9 +5,9 @@ Antes de nada debes reunir y conectar todas las [partes básicas](required.md). 
 
 A continuación, tienes que ejecutar el software en tu nuevo ordenador ARM. Usaremos **OpenPlotter RPI** que es una versión modificada de [Raspbian](https://www.raspbian.org/), el sistema operativo oficial para la Raspberry Pi.
 
-Follow this detailed guide to download and install OpenPlotter RPI:
+Sigue esta guía detallada para descargar e instalar OpenPlotter RPI:
 
-http://sailoog.dozuki.com/Guide/Downloading+and+Installing+OpenPlotter+RPI/4
+http://sailoog.dozuki.com/Guide/Descargando+e+instalando+OpenPlotter+RPI/2
 
 Or buy our plug and play SD card with OpenPlotter RPI ready to run:
 
