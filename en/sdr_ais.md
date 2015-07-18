@@ -15,6 +15,18 @@ or you can follow this detailed guide:
 http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
 
 
+## Antenna
+
+Although you can get to receive some boat with the supplied mini antenna, it is not enough for optimal reception of AIS frequencies. Any VHF antenna with the appropriate connector adapter will work fine. The antenna connector type of the dongle is female MCX.
+
+Some home-made antennas:
+
+http://sdrformariners.blogspot.com.es/p/blog-page.html
+
+http://nmearouter.com/docs/ais/aerial.html
+
+https://www.youtube.com/watch?v=SdEglNHyHB4
+
 ## Receiving
 
 
