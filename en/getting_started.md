@@ -1,2 +1,4 @@
 # Getting started
-under construction
+
+
+first of all you have to gather all the [basics items](README.md)
