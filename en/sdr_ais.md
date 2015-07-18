@@ -11,3 +11,5 @@ http://www.sailoog.com/shop-category/openplotter
 or follow this detailed guide:
 
 http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
+
+A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
