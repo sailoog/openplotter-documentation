@@ -6,7 +6,7 @@
    * [Requerido](required.md)
    * [Opcional](optional.md)
 * [Cómo funciona](how_does_it_work.md)
-   * [Getting started](getting_started.md)
+   * [Primeros pasos](getting_started.md)
 * [Guides](guides.md)
 * [Licencia](license.md)
 
