@@ -32,4 +32,6 @@ https://www.youtube.com/watch?v=SdEglNHyHB4
 
 ![](oAZMZrFX1FF3XQwG.jpeg)
 
-Once you have found your correction value (in red), select *Enable* (in pink).
+Once you have found your **correction value** (in red), select ***Enable*** (in pink) and follow the ***Step 6 — Receiving*** of the guide:
+
+http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
