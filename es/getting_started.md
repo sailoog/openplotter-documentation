@@ -9,6 +9,6 @@ Sigue esta guía detallada para descargar e instalar OpenPlotter RPI:
 
 http://sailoog.dozuki.com/Guide/Descargando+e+instalando+OpenPlotter+RPI/2
 
-Or buy our plug and play SD card with OpenPlotter RPI ready to run:
+O compra nuestra tarjeta SD con OpenPlotter RPI pre-instalado y listo para conectar y usar:
 
 http://www.sailoog.com/shop-category/openplotter
