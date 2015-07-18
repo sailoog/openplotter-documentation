@@ -29,7 +29,6 @@ https://www.youtube.com/watch?v=SdEglNHyHB4
 
 ## Receiving
 
-
 ![](oAZMZrFX1FF3XQwG.jpeg)
 
 Once you have found your **correction value** (in red), select ***Enable*** (in pink) and follow the ***Step 6 — Receiving*** on the guide:
