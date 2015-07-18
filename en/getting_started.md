@@ -1,4 +1,4 @@
 # Getting started
 
 
-First of all you have to put together all the [basics items](required.md)
+First of all you have to put together all the [basic parts](required.md)
