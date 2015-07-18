@@ -66,5 +66,7 @@ http://www.sailoog.com/shop-category/openplotter
 ##OpenPlotter RPI
 ![](openplotter_rpi.png)
 
+OpenPlotter RPI es una versión modificada de [Raspbian](https://www.raspbian.org/), el sistema operativo oficial para Raspberry Pi.
+
 ####Descarga
 http://www.sailoog.com/blog-categories/openplotter-download
