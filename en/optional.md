@@ -22,6 +22,11 @@ A WiFi adapter will probably need more power than the Raspberry Pi USB port can 
 
 To share data with on board devices by WiFi you have to set OpenPlotter as an access point and connect devices to it. However not all WiFi dongles can function as an access point, only devices with the **RT5370**, **RTL8188CU/CUS**  or **RTL8192CU/CUS** chipset will work. We recommend the last one.
 
+####Buy a tested WiFi dongle.
+300mbps, RTL8192CU chipset.
+
+http://www.sailoog.com/shop-category/openplotter
+
 ##USB GPS dongle
 ![](gps.png)
 
