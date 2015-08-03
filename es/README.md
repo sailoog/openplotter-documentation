@@ -2,7 +2,7 @@ Qué es OpenPlotter
 =======
 ![OpenPlotter logo](openplotter500x300.png)
 
-OpenPlotter es una combinación de software y hardware para ser usada como ayuda a la navegación en barcos de pequeña y mediana eslora. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular así que solo tendrás que implementar lo que tu barco necesite. Hazlo tu mismo.
+Hay gente que compra barcos pero algunas personas se los construyen, ¿porqué no construirse también su propia electrónca? **OpenPlotter** es una combinación de software y hardware para ser usada como ayuda a la navegación en barcos de pequeña y mediana eslora. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular así que solo tendrás que implementar lo que tu barco necesite. Hazlo tu mismo.
 
 ## Características
 
