@@ -10,8 +10,8 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Predicciones Meteorológicas**. Descarga y visualiza archivos Grib con [zyGrib](http://www.zygrib.org).
 * **Multiplexor NMEA 0183**. Reune y filtra datos precedentes de cualquier número de entradas serie o de red y los envía multiplexados y fultrados a cualquier número de salidas.
 * **Signal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/), el nuevo, formato de intercambio de datos marinos universal, libre y de código abierto.
-* **Inspector NMEA**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre las fuentes.
-* **Servidor WiFi NMEA**. Comparte datos NMEA con portátiles, tabletas y teléfonos a bordo o conecta a internet en puerto a través del mismo dispositivo.
+* **Inspector NMEA 0183**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre las fuentes.
+* **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto) con portátiles, tabletas y teléfonos a bordo. Conecta a internet en puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
 * **AIS-SDR**. Recibe y decodifica AIS con baratos receptores de TDT. Incluye herramientas de calibración.
 * **Declinación Magnética**. Calcula la declinación magnética para le fecha y posición.
