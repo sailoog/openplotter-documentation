@@ -9,6 +9,7 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Chartplotter**. Con [OpenCPN](http://opencpn.org), programa de posicionamiento sobre la carta náutica con útiles plugins.
 * **Predicciones Meteorológicas**. Descarga y visualiza archivos Grib con [zyGrib](http://www.zygrib.org).
 * **Multiplexor NMEA 0183**. Reune y filtra datos precedentes de cualquier número de entradas serie o de red y los envía multiplexados y fultrados a cualquier número de salidas.
+* **Signal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/), el nuevo, formato de intercambio de datos marinos universal, libre y de código abierto.
 * **Inspector NMEA**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre las fuentes.
 * **Servidor WiFi NMEA**. Comparte datos NMEA con portátiles, tabletas y teléfonos a bordo o conecta a internet en puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
