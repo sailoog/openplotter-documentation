@@ -103,7 +103,7 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 ##Pressure/Temperature sensor
 ![](bmp180.png)
 
-Often, pressure and temperature sensors are on the same board. You will get graphs to monitor the weather.
+Often, pressure and temperature sensors are on the same board. You will get graphs to monitor weather.
 
 ####Supported pressure/temperature sensors
 * BMP180
