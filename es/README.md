@@ -14,7 +14,7 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto) con portátiles, tabletas y teléfonos a bordo. Conecta a internet en puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
 * **AIS-SDR**. Recibe y decodifica AIS con baratos receptores de TDT. Incluye herramientas de calibración.
-* **Declinación Magnética**. Calcula la declinación magnética para le fecha y posición.
+* **Declinación Magnética**. Calcula la declinación magnética para la fecha y posición.
 * **Compás Electrónico**. Calcula rumbo de aguja con un sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Rumbo Verdadero**. Calcula el rumbo verdadero a partir del rumbo de aguja y la declinación magnética.
 * **Viento Real**. Calcula el viento real a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
