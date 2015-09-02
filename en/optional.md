@@ -36,18 +36,18 @@ Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date
 
 ####Buy a tested GPS/GLONASS USB dongle.
 
-Low-power, GPS/GLONASS compatible, NMEA-0183 output.
+Low-power, GPS/GLONASS compatible, NMEA 0183 output.
 
 http://www.sailoog.com/shop-category/openplotter
 
-##USB NMEA-0183 converter dongle
+##USB NMEA 0183 converter dongle
 ![](rs422.png)
 
-If you have sensors and electronics with NMEA-0183 outputs on board (depth, wind, heading...) you will need an USB converter to connect it to OpenPlotter. Additionally, you will be able to talk to electronics with NMEA-0183 inputs (autopilot).
+If you have sensors and electronics with NMEA 0183 outputs on board (depth, wind, heading...) you will need an USB converter to connect it to OpenPlotter. Additionally, you will be able to talk to electronics with NMEA 0183 inputs (autopilot).
 
-The NMEA-0183 hardware standard uses RS422 connectors but you may find some devices with RS232 as well. 
+The NMEA 0183 hardware standard uses RS422 connectors but you may find some devices with RS232 as well. 
 
-####Buy a tested USB NMEA-0183 bi-directional converter.
+####Buy a tested USB NMEA 0183 bi-directional converter.
 
 Select your right connector.
 
@@ -81,25 +81,30 @@ http://www.sailoog.com/shop-category/openplotter
 
 If you don't have a electronic compass on board you will need an IMU.
 
-An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientation and gravitational forces, using a combination of an accelerometer, gyroscope, and a magnetometer. Some IMUs are also fitted with a barometric sensor and a temperature sensor.
+An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientation and gravitational forces, using a combination of an accelerometer, gyroscope, and a magnetometer.
 
-Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. Besides, if barometric and temperature sensors are included, you will get graphs to monitor the weather.
+Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind.
 
-####Supported IMUs
+####Supported IMU sensors
 
-**Accelerometer/Gyroscope/Magnetometer sensors 
-**
 * InvenSense MPU-9150 single chip IMU.
 * InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver).
 * InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers.
-* InvenSense MPU-9250 single chip IMU (I2C and SPI)
-* STM LSM9DS0 single chip IMU
+* InvenSense MPU-9250 single chip IMU (I2C and SPI).
+* STM LSM9DS0 single chip IMU.
+* STM LSM9DS1 single chip IMU.
 * L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4.
-* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU. 
+* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU.
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
+* Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
 
-**Pressure/Temperature sensors**
+
+##Pressure/Temperature sensor
+
+Often, pressure and temperature sensors are on the same board. You will get graphs to monitor the weather.
+
+####Supported pressure/temperature sensors
 * BMP180
 * LPS25H
 * MS5611
