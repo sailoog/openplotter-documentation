@@ -20,7 +20,6 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Viento Real**. Calcula el viento real a partir del viento aparente y la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
 * ** Barógrafo y Termógrafo **. A través de sensores de presión y temperatura. Guarda registros cronológicos y muestra gráficos para ver las tendencias.
 * **Herramientas de Hora del Sistema**. Establece la hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
-* **GPSD**. Configura [GPSD](http://www.catb.org/gpsd/).
-* **Programas de Inicio**. Configura programas y parametros para ejecutar al inicio.
+* **Programas de Inicio**. Configura programas y parámetros para ejecutar al inicio.
 
 ![OpenPlotter desktop](openplotter.png)
