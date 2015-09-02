@@ -9,8 +9,8 @@ There are people who buy boats but there are also people who build them, why not
 * **Chartplotter**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
 * **Weather Forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
 * **NMEA 0183 Multiplexer**. Multiplex and filter data inputs from any number of serial and network interfaces. Send and filter to any number of outputs.
-* **Signal K (beta)**. OpenPlotter is ready for [Signal K](http://signalk.org/), the free and open source universal marine data exchange.
-* **NMEA Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
+* **Signal K (beta)**. OpenPlotter is ready for [Signal K](http://signalk.org/), the new, free and open source universal marine data exchange.
+* **NMEA 0183 Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **WiFi Access Point**. Share data (NMEA 0183, Signal K, remote desktop) with laptops, tablets and phones. Connect to internet on port through the same device.
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
