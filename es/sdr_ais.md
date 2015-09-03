@@ -21,11 +21,11 @@ Una vez has encontrados tus valores de **ganancia** y de **corrección** (en roj
 
 Si tienes tráfico AIS alrededor, los datos NMEA de AIS serán decodificados y enviados a la ** entrada UDP localhost 10110** (en naranja).
 
-If you want to have access to AIS data you will have to connect your software (OpenCPN) to **TCP localhost 10110 output** (in yellow).
+Si quieres tener acceso a los datos AIS tendrás que conectar tu software (OpenCPN) a la **salida TCP localhost 10110** (en amarillo).
 
-Press **Restart** (in red) to be sure the multiplexer is working.
+Presiona **Reiniciar** (en rojo) para asegurarte de que el multiplexor está funcionando.
 
-Press **Show output** (in pink) to see AIS data in the NMEA Inspector.
+Presiona **Mostrar salida** (en rosa) para ver los datos AIS en el inspector NMEA.
 
 ![](sdr_ais3.jpeg)
 
