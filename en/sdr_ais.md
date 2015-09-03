@@ -38,7 +38,12 @@ If you have AIS traffic around, AIS NMEA data will be decoded and sent to **UDP 
 
 If you want to have access to AIS data you will have to connect your software (OpenCPN) to **TCP localhost 10110 output** (in yellow).
 
-Press *Restart* to be sure the multiplexer is working (in red).
+Press **Restart** (in red) to be sure the multiplexer is working.
 
-Press *Show output* to see AIS data in the NMEA Inspector (in pink).
+Press **Show output** (in pink) to see AIS data in the NMEA Inspector.
 
+![](sdr_ais3.jpeg)
+
+![](sdr_ais4.jpeg)
+
+Be sure OpenCPN is listening to **TCP localhost 10110**.
