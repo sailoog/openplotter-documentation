@@ -31,7 +31,7 @@ Presiona **Mostrar salida** (en rosa) para ver los datos AIS en el inspector NME
 
 ![](sdr_ais4.jpeg)
 
-Be sure OpenCPN is listening to **TCP localhost 10110** (in yellow).
+Asegurate de que OpenCPN esté escuchando en **TCP localhost 10110** (en amarillo).
 
 ## Antena
 
