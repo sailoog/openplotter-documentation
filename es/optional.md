@@ -81,24 +81,29 @@ http://www.sailoog.com/shop-category/openplotter
 
 Si no dispones de un compás electrónico a bordo necesitarás un IMU.
 
-Un Inertial Measurement Unit (IMU) mide velocidad, orientación y fuerza gravitacional usando la combinación de un acelerómetro, un giroscopio y un magnetómetro. Algunos IMU incorporan además barómetro y termómetro.
+Un Inertial Measurement Unit (IMU) mide velocidad, orientación y fuerza gravitacional usando la combinación de un acelerómetro, un giroscopio y un magnetómetro.
 
-Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesario para calcular otros factores como rumbo verdadero y viento real. Además si dispone de sensores de presión y temperatura podrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
+Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesario para calcular otros factores como rumbo verdadero y viento real.
 
 ####IMUs compatibles
 
-**Sensores acelerómetro/giroscopio/magnetómetro  
-**
+
 * InvenSense MPU-9150 single chip IMU.
 * InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver).
 * InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers.
-* InvenSense MPU-9250 single chip IMU (I2C and SPI)
-* STM LSM9DS0 single chip IMU
+* InvenSense MPU-9250 single chip IMU (I2C and SPI).
+* STM LSM9DS0 single chip IMU.
+* STM LSM9DS1 single chip IMU.
 * L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4.
-* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU. 
+* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU.
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
+* Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
 
+##Sensor de presión/temperatura
+![](bmp180.png)
+
+A menuodrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
 **Sensores presión/temperatura**
 * BMP180
 * LPS25H
