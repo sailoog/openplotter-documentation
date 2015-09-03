@@ -46,4 +46,4 @@ Press **Show output** (in pink) to see AIS data in the NMEA Inspector.
 
 ![](sdr_ais4.jpeg)
 
-Be sure OpenCPN is listening to **TCP localhost 10110**(in yellow).
+Be sure OpenCPN is listening to **TCP localhost 10110** (in yellow).
