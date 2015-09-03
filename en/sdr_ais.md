@@ -6,7 +6,7 @@ DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can wo
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
 
-You can buy our DVB-T dongle and we can calibrate it for you and include a note with the correction value (ppm):
+You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and correction value (ppm):
 
 http://www.sailoog.com/shop-category/openplotter
 
@@ -28,10 +28,17 @@ http://nmearouter.com/docs/ais/aerial.html
 https://www.youtube.com/watch?v=SdEglNHyHB4
 
 ## Receiving
+![](sdr_ais1.jpeg)
 
+Once you have found your **gain** and **correction** value (in red), select ***Enable AIS NMEA generation*** (in pink).
 
-![](oAZMZrFX1FF3XQwG.jpeg)
+![](sdr_ais2.jpeg)
 
-Once you have found your **correction value** (in red), select ***Enable*** (in pink) and follow the ***Step 6 — Receiving*** on the guide:
+If you have AIS traffic around, AIS NMEA data will be decoded and sent to **UDP localhost 10110 input** (in orange).
 
-http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
+If you want to have access to AIS data you will have to connect your software (OpenCPN) to **TCP localhost 10110 output** (in yellow).
+
+Press *Restart* to be sure the multiplexer is working (in red).
+
+Press *Show output* to see AIS data in the NMEA Inspector (in pink).
+
