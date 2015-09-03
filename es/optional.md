@@ -20,7 +20,7 @@ Este dispositivo probablemente necesitará bastante corriente, especialmente si 
 
 ####Punto de acceso WiFi
 
-Para compartir datos con otros equipos de abordo vía WiFi o usar un escritorio remoto, tienes que configurar OpenPlotter como punto de acceso y conectar estos equipos al mismo. Sin embargo no todos los dispositivos WiFi USB pueden funcionar como punto de acceso, solo los dispositivos con el chipset **RT5370**, **RTL8188CU/CUS**  o **RTL8192CU/CUS** funcionarán sin problemas en la Raspberry. Recomendamos el último de todos.
+Para compartir datos con otros equipos de abordo vía WiFi o usar un escritorio remoto, tienes que configurar OpenPlotter como punto de acceso y conectar estos equipos al mismo. Sin embargo no todos los dispositivos WiFi USB pueden funcionar como punto de acceso, solo los dispositivos con el chipset **RT5370**, **RTL8188CU/CUS**  o **RTL8192CU/CUS** funcionarán sin problemas en la Raspberry (OpenPlotter RPI v0.5.0 además soporta **RTL8192EU**). Recomendamos el **RTL8192CU/CUS**.
 
 ####Compra un Dispositivo WiFi USB comprobado.
 300mbps, RTL8192CU chipset.
