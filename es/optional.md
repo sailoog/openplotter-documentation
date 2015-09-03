@@ -103,8 +103,10 @@ Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesar
 ##Sensor de presión/temperatura
 ![](bmp180.png)
 
-A menuodrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
-**Sensores presión/temperatura**
+A menudo los sensores de presión y temperatura vienen juntos en la misma placa. Podrás almacenar estos valores y construir gráficas para monitorizar sus variaciones en el tiempo.
+
+####Sensores de presión/temperatura compatibles
+
 * BMP180
 * LPS25H
 * MS5611
