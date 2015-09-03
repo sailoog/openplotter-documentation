@@ -33,11 +33,11 @@ Press **Show output** (in pink) to see AIS data in the NMEA Inspector.
 
 Be sure OpenCPN is listening to **TCP localhost 10110** (in yellow).
 
-## Antenna
+## Antena
 
-Although you can get to receive some boat with the supplied mini antenna, it is not enough for optimal reception of AIS frequencies. Any VHF antenna with the appropriate connector adapter will work fine. The antenna connector type of the dongle is female MCX.
+Aunque puedes llegar a recibir algún barco con la mini antena suministrada, esta no es suficiente para la óptima recepción de las frecuencias AIS. Cualquier antena VHF con el adaptador de conexión adecuado funcionará correctamente. El tipo de conexión de antena del dispositivo es MCX hembra.
 
-Some home-made antennas:
+Algunas antenas para auto-construcción:
 
 http://sdrformariners.blogspot.com.es/p/blog-page.html
 
