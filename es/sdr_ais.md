@@ -19,7 +19,7 @@ Una vez has encontrados tus valores de **ganancia** y de **corrección** (en roj
 
 ![](sdr_ais2.jpeg)
 
-If you have AIS traffic around, AIS NMEA data will be decoded and sent to **UDP localhost 10110 input** (in orange).
+Si tienes tráfico AIS alrededor, los datos NMEA de AIS serán decodificados y enviados a la ** entrada UDP localhost 10110** (en naranja).
 
 If you want to have access to AIS data you will have to connect your software (OpenCPN) to **TCP localhost 10110 output** (in yellow).
 
