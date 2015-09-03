@@ -22,3 +22,4 @@ Dispositivos para comunicar con el barco y sensores para recopilar datos del ent
 * **Conversor USB-NMEA 0183**
 * **Receptor TDT USB (recepción AIS)**
 * **Sensor IMU**
+* **Sensor de presión/temperatura**
