@@ -59,7 +59,7 @@ La clase determina la velocidad constante de escritura de la tarjeta. Una tarjet
 
 ####Compra una tarjeta SD con OpenPlotter RPI pre-instalado
 
-Tarjeta micro-SD de 8GB y clase 6 (con adaptador de tamaño) que supera a casi todas las tarjetas del mercado.
+Tarjeta micro-SD de 8GB y clase 10 (con adaptador de tamaño) que supera a casi todas las tarjetas del mercado.
 
 http://www.sailoog.com/shop-category/openplotter
 
@@ -69,4 +69,4 @@ http://www.sailoog.com/shop-category/openplotter
 OpenPlotter RPI es una versión modificada de [Raspbian](https://www.raspbian.org/), el sistema operativo oficial para Raspberry Pi.
 
 ####Descarga
-http://www.sailoog.com/blog-categories/openplotter-download
+http://www.sailoog.com/es/blog-categories/openplotter-rpi
