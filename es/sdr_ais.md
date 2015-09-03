@@ -1,11 +1,11 @@
 # DVB-T dongle (AIS)
 
-DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can work as a SDR AIS receiver. OpenPlotter is ready to get SDR AIS signal out of the box, you just have to calibrate.
+Los receptor de TDT USB basados en el chip Realtek RTL2832U y en el nuevo sintonizador R820T2, pueden funcionar como receptores AIS SDR. OpenPlotter viene preparado de serie para recibir AIS SDR, simplemente tienes que calibrarlo.
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
 
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and correction value (ppm):
-
+Opcionalmente podemos calibrarlos por ti y añadir una nota con el valor de corrección (ppm).
 http://www.sailoog.com/shop-category/openplotter
 
 or you can follow this detailed guide:
