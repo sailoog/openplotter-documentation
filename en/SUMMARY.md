@@ -9,7 +9,7 @@
    * [Getting started](getting_started.md)
    * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Signal K (beta)](signal_k.md)
-   * WiFi access point
+   * [WiFi access point](wifi_ap.md)
    * [SDR AIS](sdr_ais.md)
    * Calculate
    * Sensors
