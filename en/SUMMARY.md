@@ -13,7 +13,7 @@
    * [SDR AIS](sdr_ais.md)
    * [Calculate](calculate.md)
    * [Sensors](sensors.md)
-   * Startup
+   * [Startup](startup.md)
 * [Guides](guides.md)
 * [License](license.md)
 
