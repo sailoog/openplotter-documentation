@@ -11,6 +11,7 @@
    * [Signal K (beta)](signal_k.md)
    * WiFi access point
    * [SDR AIS](sdr_ais.md)
+   * Calculate
 * [Guides](guides.md)
 * [License](license.md)
 
