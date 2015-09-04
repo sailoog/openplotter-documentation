@@ -12,6 +12,7 @@
    * WiFi access point
    * [SDR AIS](sdr_ais.md)
    * Calculate
+   * Sensors
 * [Guides](guides.md)
 * [License](license.md)
 
