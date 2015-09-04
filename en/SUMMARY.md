@@ -10,6 +10,7 @@
    * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Signal K (beta)](signal_k.md)
    * [DVB-T dongle (AIS)](sdr_ais.md)
+   * WiFi access point
 * [Guides](guides.md)
 * [License](license.md)
 
