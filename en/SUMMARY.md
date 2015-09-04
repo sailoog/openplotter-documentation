@@ -11,7 +11,7 @@
    * [Signal K (beta)](signal_k.md)
    * [WiFi access point](wifi_ap.md)
    * [SDR AIS](sdr_ais.md)
-   * Calculate
+   * [Calculate](calculate.md)
    * Sensors
    * Startup
 * [Guides](guides.md)
