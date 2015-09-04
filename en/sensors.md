@@ -2,7 +2,6 @@
 # Sensors
 ![](sensors.png)
 
-
 ## IMU sensor
 
 Under construction
