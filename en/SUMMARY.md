@@ -12,7 +12,7 @@
    * [WiFi access point](wifi_ap.md)
    * [SDR AIS](sdr_ais.md)
    * [Calculate](calculate.md)
-   * Sensors
+   * [Sensors](sensors.md)
    * Startup
 * [Guides](guides.md)
 * [License](license.md)
