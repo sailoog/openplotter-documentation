@@ -12,3 +12,6 @@ http://sailoog.dozuki.com/Guide/Descargando+e+instalando+OpenPlotter+RPI/2
 O compra nuestra tarjeta SD con OpenPlotter RPI pre-instalado y listo para conectar y usar:
 
 http://www.sailoog.com/shop-category/openplotter
+
+## Parlez-vous français?
+http://www.edelvoilier.org/themes/navigation-electronique/1408-la-rasperry-pi-comme-station-de-nav
