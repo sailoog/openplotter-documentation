@@ -7,8 +7,8 @@
    * [Optional](optional.md)
 * [How does it work?](how_does_it_work.md)
    * [Getting started](getting_started.md)
+   * NMEA 0183 Multiplexer
    * [DVB-T dongle (AIS)](sdr_ais.md)
 * [Guides](guides.md)
 * [License](license.md)
-* NMEA 0183 Multiplexer
 
