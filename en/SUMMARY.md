@@ -9,7 +9,7 @@
    * [Getting started](getting_started.md)
    * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [DVB-T dongle (AIS)](sdr_ais.md)
-   * Signal K (beta)
+   * [Signal K (beta)](signal_k.md)
 * [Guides](guides.md)
 * [License](license.md)
 
