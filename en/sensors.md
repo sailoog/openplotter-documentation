@@ -3,6 +3,8 @@
 ![](sensors.png)
 
 ## IMU sensor
+**Calibration**
+https://github.com/sailoog/RTIMULib/raw/master/Calibration.pdf
 
 Under construction
 
