@@ -19,3 +19,6 @@ http://www.sailoog.com/shop-category/openplotter
 http://www.edelvoilier.org/themes/navigation-electronique/1408-la-rasperry-pi-comme-station-de-nav
 
 
+## Ok, now what?
+
+Confratulations! You have your system running so it is moment to start 
