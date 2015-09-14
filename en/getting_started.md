@@ -21,4 +21,6 @@ http://www.edelvoilier.org/themes/navigation-electronique/1408-la-rasperry-pi-co
 
 ## Ok, now what?
 
-Confratulations! You have your system running so it is moment to start getting some data from the world. The most common and logic step is to connect a GPS. 
+Confratulations! You have your system running so it is moment to start getting some data from the world. 
+
+The most common and logic step is to connect a GPS. It is important that you understand that OpenPlotter must drive all the traffic to work properly. This means that 
