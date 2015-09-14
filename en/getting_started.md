@@ -21,4 +21,4 @@ http://www.edelvoilier.org/themes/navigation-electronique/1408-la-rasperry-pi-co
 
 ## Ok, now what?
 
-Confratulations! You have your system running so it is moment to start 
+Confratulations! You have your system running so it is moment to start getting some data from the world. The most common and logic step is to connect a GPS. 
