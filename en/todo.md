@@ -6,8 +6,10 @@
 * Add humidity sensors
 * Add engine and water temperature sensors
 * Add 2 customizable switches (shutdown, start services...)
+* Add IR motion sensor
 * Simple and customizable hat for sensors connexion
 * CAN bus support
+* Add alarms
 * AIS calculation and NMEA 0183 sentence generation
 * ROT calculation and NMEA 0183 sentence generation
 
