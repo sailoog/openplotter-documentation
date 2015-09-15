@@ -8,7 +8,7 @@
 * Add 2 customizable switches (shutdown, start services...)
 * Add IR motion sensor
 * Simple and customizable hat for sensors connexion
-* CAN bus support
+* CAN bus support (NMEA 2000)
 * Add alarms
 * AIS calculation and NMEA 0183 sentence generation
 * ROT calculation and NMEA 0183 sentence generation
