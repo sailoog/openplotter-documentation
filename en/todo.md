@@ -2,7 +2,7 @@
 # Next steps
 
 * Waterproof enclosure
-* Cheap and resistant 7" screen to mount in cabin panels
+* Cheap shock-humidity-resistant 7" screen to mount in cabin panels
 * Add humidity sensors
 * Add engine and water temperature sensors
 * Add 2 customizable switches (shutdown, start services...)
@@ -14,5 +14,4 @@
 * ROT calculation and NMEA 0183 sentence generation
 * Voltage and current monitoring
 * Remote monitoring
-
 
