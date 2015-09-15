@@ -1,7 +1,7 @@
 
 # Next steps
 
-* Waterproof box
+* Waterproof enclosure
 * Cheap and resistant 7" screen to mount in cabin panels
 * Add humidity sensors
 * Add engine and water temperature sensors
