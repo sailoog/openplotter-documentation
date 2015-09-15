@@ -12,5 +12,7 @@
 * Add alarms
 * AIS calculation and NMEA 0183 sentence generation
 * ROT calculation and NMEA 0183 sentence generation
+* Voltage and current monitoring
+* Remote monitoring
 
 
