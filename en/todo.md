@@ -7,6 +7,7 @@
 * Add engine and water temperature sensors
 * Add 2 customizable switches (shutdown, start services...)
 * Simple and customizable hat for sensors connexion
+* CAN bus support
 * AIS calculation and NMEA 0183 sentence generation
 * ROT calculation and NMEA 0183 sentence generation
 
