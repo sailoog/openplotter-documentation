@@ -1,8 +1,10 @@
 # DVB-T dongle (AIS)
 
-DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can work as a SDR AIS receiver. OpenPlotter is ready to get SDR AIS signal out of the box, you just have to calibrate.
+DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can work as a SDR AIS receiver. 
 
-A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub.
+A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub. Connecting and disconnecting can draw too much power and cause malfunction, try to do it when the system is off.
+
+OpenPlotter is ready to get SDR AIS signal out of the box, you just have to calibrate to find **gain** and **ppm** correction values.
 
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and correction value (ppm):
 
@@ -32,6 +34,8 @@ Press **Show output** (in pink) to see AIS data in the NMEA Inspector.
 ![](sdr_ais4.jpeg)
 
 Be sure OpenCPN is listening to **TCP localhost 10110** (in yellow).
+
+**You do not need to enable the rtlsdr plugin in OpenCPN**. If you want to use that plugin you must disable SDR AIS reception in OpenPlotter.
 
 ## Antenna
 
