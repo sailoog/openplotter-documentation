@@ -15,7 +15,7 @@ All these sources are combined in a single NMEA 0183 data stream which is sent t
 * OpenPlotter again to calculate new NMEA 0183 data.
 
 
-## How data flows and connections
+## How data flows
 ![](diagram.png)
 
 ### Inputs (blue)
