@@ -15,7 +15,7 @@ All these sources are combined in a single NMEA 0183 data stream which is sent t
 * OpenPlotter again to calculate new NMEA 0183 data.
 
 
-## how data flows and connections
+## How data flows and connections
 ![](diagram.png)
 
 ### Inputs (blue)
@@ -27,7 +27,7 @@ All these sources are combined in a single NMEA 0183 data stream which is sent t
 * **F**. You can get NMEA 0183 data from any device connected by WiFi or ethernet. You will have to create a network input in the NMEA 0183 multiplexer.
 
 ### Outputs (green)
-* **A**. Multiplexed NMEA stream. All inputs gathered in TCP localhost 10110 output. It is sent to OpenCPN, to external devices and to OpenPlotter for calculations.
-* **B**. Orders to autopilot. You have to set a filtered serial output from OpenCPN with autopilot sentences.
+* **A**. Multiplexed NMEA 0183 stream. All inputs gathered in system outout TCP localhost 10110. It is sent to OpenCPN, to external devices and to OpenPlotter for new calculations.
+* **B**. Orders to autopilot. You have to set a filtered serial output from OpenCPN with autopilot NMEA 0183 sentences.
 * **C**. Remote desktop.
 * **D**. Video and audio output by HDMI port. Alternatively, you can get analog video and audio using the composite port.
