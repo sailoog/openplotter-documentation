@@ -8,8 +8,8 @@
 * [Cómo funciona](how_does_it_work.md)
    * [Primeros pasos](getting_started.md)
    * [Receptor TDT (AIS)](sdr_ais.md)
-* [Guías](guides.md)
 * [Pendiente](pendiente.md)
+* [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
 
