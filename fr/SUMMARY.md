@@ -18,5 +18,5 @@
 * [A FAIRE](a_faire.md)
 * [GUIDES](guides.md)
 * [LICENCE](licence.md)
-* CREDITS
+* [CREDITS](credits.md)
 
