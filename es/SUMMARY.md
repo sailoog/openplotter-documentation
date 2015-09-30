@@ -11,5 +11,5 @@
 * [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
-* Pendiente
+* [Pendiente](pendiente.md)
 
