@@ -17,5 +17,5 @@
 * [TODO](todo.md)
 * [Guides](guides.md)
 * [License](license.md)
-* Credits
+* [Credits](credits.md)
 
