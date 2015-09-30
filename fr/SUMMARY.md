@@ -1,4 +1,4 @@
-# TABLE DES MATIÈRES
+# Summary
 
 * [SOMMAIRE](README.md)
 * [INTRODUCTION](intromd.md)
@@ -18,3 +18,5 @@
 * [A FAIRE](a_faire.md)
 * [GUIDES](guides.md)
 * [LICENCE](licence.md)
+* CREDITS
+
