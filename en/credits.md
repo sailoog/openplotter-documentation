@@ -20,7 +20,7 @@
 
 **NMEA 0183 Parser**: http://github.com/Knio/pynmea2
 
-**IMU, temperature, humidity sensors**: http://github.com/richards-tech/RTIMULib
+**IMU, pressure, temperature, humidity sensors**: http://github.com/richards-tech/RTIMULib
 
 **RTL SDR**: http://sdr.osmocom.org/trac/wiki/rtl-sdr
 
