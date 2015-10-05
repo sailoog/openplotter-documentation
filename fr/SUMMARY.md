@@ -12,7 +12,7 @@
    * [SIGNAL K (beta)](signalk_md.md)
    * [POINT D'ACCÈS WIFI](pointdacces_wifi_md.md)
    * [RECEPTION AIS](receptionais_md.md)
-   * [CALCULER](calculer.md)
+   * [CALCULER](calculermd.md)
    * [CAPTEURS](capteurs.md)
    * [DÉMARRAGE](menudemarrage.md)
 * [A FAIRE](a_faire.md)
