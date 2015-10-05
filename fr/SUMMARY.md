@@ -11,7 +11,7 @@
    * [MULTIPLEXEUR NMEA 0183](multiplexeurnmea_0183_md.md)
    * [SIGNAL K (beta)](signalk_md.md)
    * [POINT D'ACCÈS WIFI](pointdacces_wifi_md.md)
-   * [RECEPTION AIS](reception_ais.md)
+   * [RECEPTION AIS](receptionais_md.md)
    * [CALCULER](calculer.md)
    * [CAPTEURS](capteurs.md)
    * [DÉMARRAGE](menudemarrage.md)
