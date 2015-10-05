@@ -121,7 +121,7 @@ https://www.youtube.com/watch?v=SdEglNHyHB4
 
 
 ---
-![](imu.png)
+![](../en/imu.png)
 Une IMU (Inertial Measurement Unit) mesure et transmet les données de vélocité, d'orientation et d'accélération en combinant les données d'un accéléromètre, d'un gyroscope et d'un compas électronique sensible aux champs magnétiques. Certaines IMU comprennent également un capteur de pression atmosphérique (baromètre) et un capteur de température.
 
 La connexion d'une IMU à OpenPlotter vous fournira le cap magnétique qui seront utiles au calcul du vent vrai et du cap vrai. De plus, si un baromètre et un thermomètre sont détectés, ces données seront affichées sous forme graphique et conservées dans un fichier journal pour analyse météo.
@@ -158,7 +158,7 @@ La connexion d'une IMU à OpenPlotter vous fournira le cap magnétique qui seron
 **CAPTEURS DE PRESSION ATMOSPHÉRIQUE / TEMPÉRATURE**
 
 ---
-![](bmp180.png)
+![](../en/bmp180.png)
 
 Les capteurs de pression et de température peuvent être trouvés sur la même petite carte. Il vous fourniront des graphiques vous permettant d'étudier la météo.
 
