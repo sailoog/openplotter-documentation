@@ -12,8 +12,8 @@
 
 ---
 
- 
-![](rpi2.jpg)
+
+![](../en/rpi2.jpg)
 
 Nous recommandons le célèbre RASPBERRY PI 2 car il remplit parfaitement le cahier des charges: peu cher, basse consommation, bénéficiant d'une énorme communauté de développeurs. 
 
@@ -28,7 +28,7 @@ Nous recommandons le célèbre RASPBERRY PI 2 car il remplit parfaitement le cah
 ---
 
 
-![](box.png)
+![](../en/box.png)
 
 Vous trouverez sur internet un grand nombre de boîtiers pour protéger votre Raspberry PI2. Nous travaillons à la conception d'un boîtier étanche.
 
@@ -42,7 +42,7 @@ Vous trouverez sur internet un grand nombre de boîtiers pour protéger votre Ra
 ---
 
 
-![](power.png)
+![](../en/power.png)
 
 Le Raspberry Pi est alimenté en 5V par un connecteur USB comme on en trouve pour la plupart des smartphones récents. Les besoins précis en courant (mA) du Raspberry Pi dépendent de ce que vous lui ajouterez, avec un maximum de 1A en sortie. 
 
@@ -59,7 +59,7 @@ Il peut être judicieux de vous procurer un adaptateur USB pour voiture (allume-
 
 ---
 
-![](hdmi.png)
+![](../en/hdmi.png)
 
 - HDMI
 
@@ -86,7 +86,7 @@ Pour les écrans à entrée analogique vous utiliserez un cable jack 3.5mm/RCA. 
 
 ---
 
-![](keyboard.png)
+![](../en/keyboard.png)
 
 Tout clavier et souris USB fonctionnera avec votre Raspberry Pi. Certains modèles sans fils pourront aussi être utilisés (sous réserve de compatibilité).
 
@@ -99,7 +99,7 @@ Tout clavier et souris USB fonctionnera avec votre Raspberry Pi. Certains modèl
 
 ---
 
-![](sd.png)
+![](../en/sd.png)
 
 Toute carte compatible micro-SD fonctionnera avec le Raspberry Pi 2. Pour une utilisation sans problèmes, certaines préconisations doivent cependant guider votre choix :
 
