@@ -5,7 +5,7 @@
 * [FINANCEMENT](financementmd.md)
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
    * [LES INDISPENSABLES](lesindispensables_md.md)
-   * [OPTIONS](options.md)
+   * [OPTIONS](optionsmd.md)
 * [COMMENT ÇA MARCHE?](commentc_amarche.md)
    * [POUR COMMENCER](pour_commencer.md)
    * [MULTIPLEXEUR NMEA 0183](multiplexeur_nmea_0183.md)
