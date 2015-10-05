@@ -1,11 +1,10 @@
-
 #INTRODUCTION
 
 
 
 
 ### QU'EST-CE QU'OPENPLOTTER ?
-
+![](../en/openplotter500x300.png)
 
 
 Certaines personnes achètent des bateaux mais il y en a aussi qui les construisent...
