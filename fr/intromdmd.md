@@ -6,7 +6,7 @@
 
 ### QU'EST-CE QU'OPENPLOTTER ?
 
-![](Logo_OpenPlotter.jpg)
+
 
 Certaines personnes achètent des bateaux mais il y en a aussi qui les construisent...
 
