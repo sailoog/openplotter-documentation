@@ -15,7 +15,7 @@
    * [CALCULER](calculermd.md)
    * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarragemd.md)
-* [A FAIRE](a_faire.md)
+* [A FAIRE](afaire_md.md)
 * [GUIDES](guides.md)
 * [LICENCE](licence.md)
 * [CREDITS](credits.md)
