@@ -13,7 +13,7 @@ Certaines personnes achètent des bateaux mais il y en a aussi qui les construis
 
 OpenPlotter est un ensemble de matériels et de logiciels formant une aide à la navigation sur petites et moyennes embarcations. Installé sur un ordinateur a processeurs ARM tel le Raspberry Pi, OpenPlotter est open-source, très abordable et consomme très peu. Sa conception est modulaire, vous pourrez donc n'utiliser que ce qui vous est nécessaire. 
 
-Faites-le vous-même !
+**Faites-le vous-même !**
 <div style="page-break-after: always;"></div>
 ### FONCTIONNALITÉS
 
@@ -51,9 +51,9 @@ Accédez à l'interface d'OpenPlotter de votre cockpit avec vos terminaux mobile
 
 Contrôlez le trafic de données, évitez les conflits entre les sources.
 
-**VARIATION MAGNÉTIQUE**
+**DÉCLINAISON MAGNÉTIQUE**
 
-Calcule la déviation magnétique pour une date et un lieu donnés.
+Calcule la déclinaison magnétique pour une date et un lieu donnés.
 
 **COMPAS ÉLECTRONIQUE**
 
