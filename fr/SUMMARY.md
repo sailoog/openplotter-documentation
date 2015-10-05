@@ -6,7 +6,7 @@
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
    * [LES INDISPENSABLES](lesindispensables_md.md)
    * [OPTIONS](optionsmd.md)
-* [COMMENT ÇA MARCHE?](commentc_amarche.md)
+* [COMMENT ÇA MARCHE?](commentcamarche_md.md)
    * [POUR COMMENCER](pour_commencer.md)
    * [MULTIPLEXEUR NMEA 0183](multiplexeur_nmea_0183.md)
    * [SIGNAL K (beta)](signal_k.md)
