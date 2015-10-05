@@ -2,7 +2,7 @@
 
 * [SOMMAIRE](README.md)
 * [INTRODUCTION](intromdmd.md)
-* [FINANCEMENT](financement.md)
+* [FINANCEMENT](financementmd.md)
 * [CE QU'IL VOUS FAUT](ce_quil_vous_faut.md)
    * [LES INDISPENSABLES](les_indispensables.md)
    * [OPTIONS](options.md)
