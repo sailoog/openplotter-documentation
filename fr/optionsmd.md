@@ -10,7 +10,7 @@
 
 ---
 
-![](hub.png)
+![](../en/hub.png)
 
 Si vous connectez des périphériques exigeant plus de puissance que le Raspberry Pi ne peut en fournir, vous aurez besoin d'un hub USB possédant sa propre alimentation.
 Vous pouvez par exemple choisir un hub fonctionnant sur 5V afin de l'alimenter avec le même adaptateur que le Raspberry Pi.
@@ -29,7 +29,7 @@ http://www.sailoog.com/shop-category/openplotter
 ---
 
 
-![](wifi.png)
+![](../en/wifi.png)
 
 Vous aurez besoin d'une clé WIFI si vous voulez utiliser OpenPlotter comme multiplexeur WIFI, ou pour connecter votre Pi à internet.
 
@@ -52,7 +52,7 @@ http://www.sailoog.com/shop-category/openplotter
 
 
 
-![](gps.png)
+![](../en/gps.png)
 
 
 Si vous ne disposez d'aucun GPS à bord ou que vous voulez une source de positionnement supplémentaire, c'est la solution la plus simple et la moins chère. Un dongle GPS de ce type vous fournira une géolocalisation précise, ainsi que les données de vitesse fond (SOG) et route fond (COG).
@@ -73,7 +73,7 @@ http://www.sailoog.com/shop-category/openplotter
 
 
 
-![](RS422_USB.png)
+![](../en/rs422.png)
 
 Si vos équipements du bord mettent à votre disposition des données NMEA-0183, ce convertisseur vous permet de transférer ces données à OpenPlotter, qui les redistribuera à OpenCpn et à vos mobiles grâce au multiplexeur. Vous pouvez aussi utiliser sa sortie pour envoyer les données, par exemple à un pilote automatique.
 
@@ -88,7 +88,7 @@ http://www.sailoog.com/shop-category/openplotter
 
 
 ---
-![](sdr.png)
+![](../en/sdr.png)
 
 Les dongles DVT-B basés sur le chipset Realtek RTL2832U peuvent être utilisés comme récepteurs AIS à bas coût. Ces clés auront besoin de beaucoup de puissance, il est donc recommandé de les brancher en passant par un hub auto-alimenté.
 
