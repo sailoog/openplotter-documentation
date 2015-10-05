@@ -160,7 +160,7 @@ La connexion d'une IMU à OpenPlotter vous fournira le cap magnétique qui seron
 ---
 ![](../en/bmp180.png)
 
-Les capteurs de pression et de température peuvent être trouvés sur la même petite carte. Il vous fourniront des graphiques vous permettant d'étudier la météo.
+Les capteurs de pression et de température peuvent être trouvés sur une même petite carte. Ils vous fourniront des graphiques vous permettant d'étudier la météo.
 
 Les capteurs compatibles sont:
 
