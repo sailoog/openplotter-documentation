@@ -14,7 +14,7 @@
    * [RECEPTION AIS](receptionais_md.md)
    * [CALCULER](calculermd.md)
    * [CAPTEURS](capteursmd.md)
-   * [DÉMARRAGE](menudemarrage.md)
+   * [DÉMARRAGE](menudemarragemd.md)
 * [A FAIRE](a_faire.md)
 * [GUIDES](guides.md)
 * [LICENCE](licence.md)
