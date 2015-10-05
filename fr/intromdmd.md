@@ -43,7 +43,7 @@ Recevez et décodez l'AIS avec un dongle DVB-T à bas coût. Les outils de calib
 
 OpenPlotter est prêt pour Signal K, le nouveau standard d'échange de données nautiques libre et gratuit.
 
-**BUREAU A DISTANCE / ÉCRAN DEPORTÉ**
+**BUREAU A DISTANCE / ÉCRAN DÉPORTÉ**
 
 Accédez à l'interface d'OpenPlotter de votre cockpit avec vos terminaux mobiles (tablettes, etc...). 
 
