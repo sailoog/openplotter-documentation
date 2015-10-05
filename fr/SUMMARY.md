@@ -17,6 +17,6 @@
    * [DÉMARRAGE](menudemarragemd.md)
 * [A FAIRE](afaire_md.md)
 * [GUIDES](guidesmd.md)
-* [LICENCE](licence.md)
+* [LICENCE](licencemd.md)
 * [CREDITS](credits.md)
 
