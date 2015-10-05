@@ -13,7 +13,7 @@
    * [POINT D'ACCÈS WIFI](pointdacces_wifi_md.md)
    * [RECEPTION AIS](receptionais_md.md)
    * [CALCULER](calculermd.md)
-   * [CAPTEURS](capteurs.md)
+   * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarrage.md)
 * [A FAIRE](a_faire.md)
 * [GUIDES](guides.md)
