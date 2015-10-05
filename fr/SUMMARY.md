@@ -16,7 +16,7 @@
    * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarragemd.md)
 * [A FAIRE](afaire_md.md)
-* [GUIDES](guides.md)
+* [GUIDES](guidesmd.md)
 * [LICENCE](licence.md)
 * [CREDITS](credits.md)
 
