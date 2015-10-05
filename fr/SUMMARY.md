@@ -10,7 +10,7 @@
    * [POUR COMMENCER](pourcommencer_md.md)
    * [MULTIPLEXEUR NMEA 0183](multiplexeurnmea_0183_md.md)
    * [SIGNAL K (beta)](signalk_md.md)
-   * [POINT D'ACCÈS WIFI](point_dacces_wifi.md)
+   * [POINT D'ACCÈS WIFI](pointdacces_wifi_md.md)
    * [RECEPTION AIS](reception_ais.md)
    * [CALCULER](calculer.md)
    * [CAPTEURS](capteurs.md)
