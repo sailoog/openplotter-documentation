@@ -14,9 +14,9 @@
 
 **Traceur de cartes**: http://opencpn.org/ocpn/
 
-**Weather forecast**: http://www.zygrib.org
+**Fichiers météo**: http://www.zygrib.org
 
-**multiplexeur NMEA 0183**: http://www.stripydog.com/kplex/index.html
+**Multiplexeur NMEA 0183**: http://www.stripydog.com/kplex/index.html
 
 **Parser NMEA 0183**: http://github.com/Knio/pynmea2
 
@@ -24,7 +24,7 @@
 
 **RTL SDR**: http://sdr.osmocom.org/trac/wiki/rtl-sdr
 
-**RTL SDR calibration**: https://github.com/steve-m/kalibrate-rtl
+**RTL SDR (calibration)**: https://github.com/steve-m/kalibrate-rtl
 
 **Décodeur AIS**: http://www.aishub.net/aisdecoder-via-sound-card.html
 
