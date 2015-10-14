@@ -1,16 +1,16 @@
 
 # Next steps
 
-* Waterproof enclosure
-* Cheap shock-humidity-resistant 7" screen to mount in cabin panels
-* Add humidity sensors
-* Add engine and water temperature sensors
-* Add 2 customizable switches (shutdown, start services...)
-* Simple and customizable hat for sensors connexion
-* CAN bus support (NMEA 2000)
-* AIS calculation and NMEA 0183 sentence generation
-* ROT calculation and NMEA 0183 sentence generation
-* Voltage and current monitoring
-* Add IR motion sensor
-* Add alarms (audio, email, sms...)
-* Remote monitoring
+* Caja resistente al agua
+* Pantalla de 7” barata y resistente a golpes y humedad, para montar en los paneles de la cabina
+* Incorporar sensores de humedad
+* Incorporar sensores de temperatura del motor y del agua
+* incorporar 2 interruptores personalizables (apagado, iniciar servicios ...)
+* Tapa (forma) sencilla y personalizable para la conexión de sensores
+* CAN soporte de bus (NMEA 2000)
+* Calculo de AIS y generacion de sentencias NMEA 0183
+* Cálculo de ROT y generación de sentencias NMEA 0183
+* Monitorizacion de voltaje e intensidad (corriente)
+* Incorporar sensor de movimiento IR
+* incorporar alarmas (audio, email, sms ...)
+* Monitorizacion (control) remota
