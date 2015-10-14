@@ -1,12 +1,12 @@
-# Credits
+# Creditos
 
-##Documentation
+##Documentacion
 
-**English**: Sailoog
+**Ingles**: Sailoog
 
-**French**: Nicolas Janvier
+**Frances**: Nicolas Janvier
 
-**Spanish**: Sailoog y v36317
+**Español**: Sailoog y v36317
 
 ##Software
 
