@@ -1,11 +1,11 @@
 # Licencia
 ###Licencia de OpenPlotter
 
-Openplotter is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or any later version.
+Openplotter es software libre: puedes redistribuirlo y/o modificarlo bajo los términos de la Licencia Pública General GNU publicada por la Free Software Foundation, tanto la versión 2 de la Licencia, o cualquier otra versión posterior.
 
-Openplotter is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+Openplotter se distribuye con el deseo de que sea útil, pero SIN NINGUNA GARANTÍA; ni siquiera la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Mira la Licencia Pública General GNU para más detalles.
 
-You should have received a copy of the GNU General Public License along with Openplotter. If not, see <http://www.gnu.org/licenses/>.
+Deberías haber recibido una copia de la Licencia Pública General GNU junto con Openplotter. Si no es así, consulta <http://www.gnu.org/licenses/>.
 
 ###Licencia de este manual
 Este manual está bajo una licencia Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional.
