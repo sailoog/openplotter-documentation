@@ -1,5 +1,5 @@
 
-# Next steps
+# Proximos pasos
 
 * Caja resistente al agua
 * Pantalla de 7” barata y resistente a golpes y humedad, para montar en los paneles de la cabina
