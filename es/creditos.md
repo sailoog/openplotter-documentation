@@ -6,7 +6,7 @@
 
 **French**: Nicolas Janvier
 
-**Spanish**:
+**Spanish**: Sailoog y v36317
 
 ##Software
 
