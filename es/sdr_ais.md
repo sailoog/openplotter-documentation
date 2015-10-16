@@ -1,4 +1,4 @@
-# DVB-T dongle (AIS)
+# Dispositivo DVB-T (AIS)
 
 Los receptores de TDT USB basados en el chip Realtek RTL2832U y en el nuevo sintonizador R820T2, pueden funcionar como receptores AIS SDR. OpenPlotter viene preparado de serie para recibir AIS SDR, simplemente tienes que calibrar el receptor.
 
