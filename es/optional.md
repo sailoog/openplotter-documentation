@@ -88,10 +88,10 @@ Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesar
 ####IMUs compatibles
 
 
-* InvenSense MPU-9150 single chip IMU.
-* InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver).
-* InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers.
-* InvenSense MPU-9250 single chip IMU (I2C and SPI).
+* Chip individual IMU, InvenSense MPU-9150.
+* Magnetometro, Invensense MPU-6050 PLUS HMC5883, en bus auxiliar de MPU-6050's (manejado por el driver del MPU-9150).
+* Giroscopos y acelerometros, InvenSense MPU-6050. Tratada MPU-9150 sin magnetometros.
+* Chip individual IMU (I2C y spi), InvenSense MPU-9250.
 * STM LSM9DS0 single chip IMU.
 * STM LSM9DS1 single chip IMU.
 * L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4.
@@ -99,6 +99,20 @@ Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesar
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
 * Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
+
+* InvenSense MPU-9150 IMU solo chip.
+* InvenSense MPU-6050 plus HMC5883 magnetómetro en bus auxiliar de MPU-6050 (manejado por el conductor-MPU 9150).
+* InvenSense MPU-6050 giroscopios + acclerometers. Tratada como MPU-9150 sin magnetómetros.
+* InvenSense MPU-9250 solo IMU chip (I2C y SPI).
+* STM LSM9DS0 sola IMU chip.
+* STM LSM9DS1 sola IMU chip.
+* L3GD20H + LSM303D (opcionalmente con la LPS25H) tal como se utiliza en la Pololu AltIMU-10 v4.
+* L3GD20 + LSM303DLHC tal como se utiliza en la Adafruit 9-someras (versión anterior con GD20 giroscopio) IMU.
+* L3GD20H + LSM303DLHC (opcionalmente con BMP180) tal como se utiliza en el nuevo Adafruit IMU 10 DOF.
+* Bosch BMX055 (aunque el apoyo magnetómetro es experimental en la actualidad).
+* Bosch BNO055 IMU con OnChip fusión. Nota: no va a funcionar de forma fiable con RaspberryPi / Pi2 debido a problemas de reloj-estiramiento
+
+
 
 ##Sensor de presión/temperatura
 ![](bmp180.png)
