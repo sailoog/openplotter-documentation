@@ -14,7 +14,7 @@ Todas estas fuentes son mezcladas en un solo flujo NMEA que es enviado a:
 * Otros dispositivos externos conectados vía WiFi o serie.
 * OpenPlotter de nuevo, para calcular nuevas sentencias NMEA.
 
-![](diagram.png)
+![](diagramES.png)
 
 ##Entradas (azul)
 * **A**. Datos NMEA de la electrónica de tu barco (GPS, viento, profundidad...).
