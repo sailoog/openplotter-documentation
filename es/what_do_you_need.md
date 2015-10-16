@@ -1,4 +1,4 @@
-#Qué necesitas
+# Qué necesitas
 
 Necesitarás las partes básicas y algunas partes opcionales. Dependerá de que tipo de datos quieras recibir, procesar o mostrar y del tipo de electrónica que tenga tu barco.
 
@@ -13,7 +13,7 @@ Necesitas al menos estos elementos para ejecutar el software.
 * **Tarjeta SD**
 * **OpenPlotter RPI** "el software"
 
-##Opcionales
+## Opcionales
 
 Dispositivos para comunicar con el barco y sensores para recopilar datos del entorno.
 * **Hub USB auto-alimentado**
