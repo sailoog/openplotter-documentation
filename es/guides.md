@@ -9,6 +9,6 @@ http://sailoog.dozuki.com/c/OpenPlotter
 http://sailoog.dozuki.com/Guide/Descargando+e+instalando+OpenPlotter+RPI/2
 
 
-## Connecting and calibrating SDR-AIS dongles
+## Conectando y calibrando dispositivos SDR-AIS
 
 http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3
