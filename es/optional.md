@@ -88,16 +88,16 @@ Conectando un IMU obtendrás valores de rumbo magnético que a su vez es necesar
 ####IMUs compatibles
 
 
-* Chip individual IMU, InvenSense MPU-9150.
+* Chip simple IMU, InvenSense MPU-9150.
 * Magnetometro, Invensense MPU-6050 PLUS HMC5883, en bus auxiliar de MPU-6050's (manejado por el driver del MPU-9150).
-* Giroscopos y acelerometros, InvenSense MPU-6050. Tratada MPU-9150 sin magnetometros.
-* Chip individual IMU (I2C y spi), InvenSense MPU-9250.
-* STM LSM9DS0 single chip IMU.
-* STM LSM9DS1 single chip IMU.
-* L3GD20H + LSM303D (optionally with the LPS25H) as used on the Pololu AltIMU-10 v4.
-* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof (older version with GD20 gyro) IMU.
-* L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
-* Bosch BMX055 (although magnetometer support is experimental currently).
+* Giroscopos y acelerometros, InvenSense MPU-6050. Tomada como MPU-9150 sin magnetometros.
+* Chip simple IMU (I2C y spi), InvenSense MPU-9250.
+* Chip simple IMU, STM LSM9DS0.
+* Chip simple IMU, STM LSM9DS1.
+* L3GD20H + LSM303D (optionalmente con la LPS25H) tal como se utiliza en el Pololu AltIMU-10 v4.
+* L3GD20 + LSM303DLHC tal como se utiliza en el IMU Adafruit 9-dof (version antigua con giroscopo GD20).
+* L3GD20H + LSM303DLHC (opcionalmente con BMP180) tal como se usa en el nuevo IMU Adafruit 10-dof.
+* Bosch BMX055 (aunque el soporte para magnetometro es actualmente experimental).
 * Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
 
 * InvenSense MPU-9150 IMU solo chip.
