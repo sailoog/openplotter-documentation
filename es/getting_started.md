@@ -19,7 +19,7 @@ http://www.edelvoilier.org/themes/navigation-electronique/1408-la-rasperry-pi-co
 
 ## Ok, ¿y ahora qué?
 
-¡Enhorabuena! Ya tiene tu sistema en funcionamiento por lo que es hora de empezar a obtener algunos datos del mundo. El paso más común y lógico sería conectar un GPS.
+¡Enhorabuena! Ya tienes tu sistema en funcionamiento por lo que es hora de empezar a obtener algunos datos del mundo. El paso más común y lógico sería conectar un GPS.
 
 Es importante que entiendas que OpenPlotter debe gestionar todo el tráfico de datos para que funcione correctamente, por lo que no necesitas configurar OpenCPN para obtener señal GPS, vamos a configurarla en OpenPlotter.
 
