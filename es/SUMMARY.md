@@ -1,7 +1,7 @@
 # Summary
 
-* [introducción](README.md)
 * [Financiación](funding.md)
+* [introducción](README.md)
 * [Qué necesitas](what_do_you_need.md)
    * [Requerido](required.md)
    * [Opcional](optional.md)
