@@ -14,6 +14,5 @@
 * [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
-* [Wifi_ap](wifiap.md)
 * [signal_k](signal_k.md)
 
