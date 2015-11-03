@@ -13,6 +13,6 @@
 * [Pendiente](pendiente.md)
 * [Guías](guides.md)
 * [Licencia](license.md)
-* [nmea](nmea.md)
+* [nmea](nmeamd.md)
 * [Créditos](creditos.md)
 
