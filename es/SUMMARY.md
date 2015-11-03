@@ -14,5 +14,4 @@
 * [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
-* [signal_k](signal_k.md)
 
