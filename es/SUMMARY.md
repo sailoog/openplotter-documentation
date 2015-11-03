@@ -9,7 +9,6 @@
    * [Primeros pasos](getting_started.md)
    * [Receptor TDT (AIS)](sdr_ais.md)
    * nmea_multiplexer
-* [nmea_multiplexer](nmeamultiplexer.md)
 * [Pendiente](pendiente.md)
 * [Guías](guides.md)
 * [Licencia](license.md)
