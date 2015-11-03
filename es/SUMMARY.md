@@ -10,7 +10,7 @@
    * [Receptor TDT (AIS)](sdr_ais.md)
    * nmea_multiplexer
    * nmea_multiplexer
-* [nmea](nmeamd.md)
+* [nmea](nmea.md)
 * [Pendiente](pendiente.md)
 * [Guías](guides.md)
 * [Licencia](license.md)
