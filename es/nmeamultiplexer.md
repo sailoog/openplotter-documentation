@@ -2,7 +2,7 @@
 # NMEA 0183 Multiplexer
 
 
-## System defaults
+## Valores predeterminados del sistema
 
 En construcción
 
