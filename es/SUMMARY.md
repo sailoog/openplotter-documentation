@@ -14,5 +14,4 @@
 * [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
-* [sensors](sensors.md)
 
