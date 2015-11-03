@@ -18,5 +18,5 @@
 * [Guides](guides.md)
 * [License](license.md)
 * [Credits](credits.md)
-* nmea
+* [nmea](nmea_multiplexer.md)
 
