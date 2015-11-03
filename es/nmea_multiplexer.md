@@ -1,4 +1,4 @@
-# nmea
+# Multiplexor NMEA 0183
 
 
 ## Valores predeterminados del sistema
@@ -11,6 +11,6 @@ En construcción
 
 
 
-## NMEA 0183 Inspector
+## Inspector NMEA 0183
 En construcción
 
