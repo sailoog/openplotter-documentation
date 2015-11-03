@@ -2,6 +2,7 @@
 
 * [introducción](README.md)
 * [Financiación](funding.md)
+* xxxx
 * [Qué necesitas](what_do_you_need.md)
    * [Requerido](required.md)
    * [Opcional](optional.md)
@@ -12,5 +13,4 @@
 * [Guías](guides.md)
 * [Licencia](license.md)
 * [Créditos](creditos.md)
-* xxxx
 
