@@ -20,6 +20,6 @@ There are people who buy boats but there are also people who build them, why not
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
-* **Startup Programs**. Select some program parameters to launch at start.
+* **Startup Programs**. Select some program parameters to automatically launch at start.
 
 ![OpenPlotter desktop](openplotter.png)
