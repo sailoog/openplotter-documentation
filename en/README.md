@@ -18,7 +18,8 @@ There are people who buy boats but there are also people who build them, why not
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **Electronic Compass and Heel**. Reads magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
 * **Custom Switches**. Connect external switches and link them with multiple actions (reset, shutdown, start/stop actions and services...)
-* **Special Switches**. Detects opening doors/windows, tanks level, human body motion...
+* **Special Sensors**. Detects opening doors/windows, tanks level, human body motion...
+* **Handles External Devices**. Relays, LEDs, buzzers ...
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
