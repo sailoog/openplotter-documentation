@@ -13,6 +13,7 @@ There are people who buy boats but there are also people who build them, why not
 * **Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **WiFi Access Point**. Share data (NMEA 0183, Signal K, remote desktop, Internet connection) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+* **Headless**. Easy start without monitor.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **Electronic Compass and Heel**. Reads magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
