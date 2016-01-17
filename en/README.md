@@ -16,14 +16,15 @@ There are people who buy boats but there are also people who build them, why not
 * **Headless**. Easy start without monitor.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
-* **Electronic Compass and Heel**. Reads magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
+* **Electronic Compass and Heel**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
 * **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
-* **Multiple temperature sensors**. Gets data from coolant engine, exhaust, fridge, sea...
-* **Special Sensors**. Detects opening doors/windows, tanks level, human body motion...
+* **Multiple temperature sensors**. Get data from coolant engine, exhaust, fridge, sea...
+* **Special Sensors**. Detect opening doors/windows, tanks level, human body motion...
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
+* **Rate Of Turn**. Calculate the rate the ship is turning.
 * **Custom Switches**. Connect external switches and link them with multiple actions (reset, shutdown, start/stop actions and services...)
-* **Handles External Devices**. Relays, LEDs, buzzers ...
+* **Handle External Devices**. Relays, LEDs, buzzers ...
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **Startup Programs**. Select some program parameters to automatically launch at start.
 
