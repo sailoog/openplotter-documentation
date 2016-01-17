@@ -23,6 +23,7 @@ There are people who buy boats but there are also people who build them, why not
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Rate Of Turn**. Calculate the rate the ship is turning.
+* **Remote Monitoring**. Publish data on Twitter or send it by email.
 * **Actions System**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
 * **Custom Switches**. Connect external switches and link them with actions.
 * **Handle External Devices**. Relays, LEDs, buzzers ...
