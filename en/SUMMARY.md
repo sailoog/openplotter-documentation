@@ -14,7 +14,6 @@
    * [Calculate](calculate.md)
    * [Sensors](sensors.md)
    * [Startup](startup.md)
-* [Next steps](todo.md)
 * [Guides](guides.md)
 * [License](license.md)
 * [Credits](credits.md)
