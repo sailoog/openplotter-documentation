@@ -23,7 +23,8 @@ There are people who buy boats but there are also people who build them, why not
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Rate Of Turn**. Calculate the rate the ship is turning.
-* **Custom Switches**. Connect external switches and link them with multiple actions (reset, shutdown, start/stop actions and services...)
+* **Actions System**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
+* **Custom Switches**. Connect external switches and link them with actions.
 * **Handle External Devices**. Relays, LEDs, buzzers ...
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **Startup Programs**. Select some program parameters to automatically launch at start.
