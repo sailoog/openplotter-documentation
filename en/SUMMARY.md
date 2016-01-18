@@ -19,7 +19,7 @@
    * [1W sensors](1w_sensors.md)
    * [SPI sensors](spi_sensors.md)
 * [Switches](switches.md)
-   * [common switches](common_switches.md)
+   * [Common switches](common_switches.md)
    * Door switches
 * [Outputs](outputs.md)
 * [Calculate](calculate.md)
