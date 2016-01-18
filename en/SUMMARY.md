@@ -24,6 +24,7 @@
    * [Float switches](float_switches.md)
    * [Motion sensor switches](motion_sensor_switches.md)
 * [Outputs](outputs.md)
+   * Connecting LEDs
 * [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
