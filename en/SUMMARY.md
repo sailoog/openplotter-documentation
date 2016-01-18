@@ -32,7 +32,6 @@
 * [Accounts](accounts.md)
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
-* [Guides](guides.md)
 * [License](license.md)
 * [Credits](credits.md)
 
