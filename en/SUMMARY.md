@@ -7,6 +7,7 @@
    * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
+   * OpenCPN chartplotter
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
