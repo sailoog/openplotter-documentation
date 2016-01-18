@@ -12,7 +12,7 @@
    * [Sending data to an autopilot](autopilot.md)
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
-* [OpenCPN chartplotter](opencpn.md)
+* [Chartplotter (OpenCPN)](opencpn.md)
 * Weather forecast (zyGrib)
 * [Calculate](calculate.md)
 * [WiFi access point](wifi_ap.md)
