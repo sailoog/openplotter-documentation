@@ -20,6 +20,7 @@
    * [SPI sensors](spi_sensors.md)
 * [Switches](switches.md)
    * [common switches](common_switches.md)
+   * Door switches
 * [Outputs](outputs.md)
 * [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
