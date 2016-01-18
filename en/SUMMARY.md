@@ -16,7 +16,7 @@
 * [Inspector](inspector.md)
 * [Calculate](calculate.md)
 * [Sensors](sensors.md)
-   * I2C sensors
+   * [I2C sensors](i2c_sensors.md)
    * 1W sensors
    * SPI sensors
 * [Signal K (beta)](signal_k.md)
