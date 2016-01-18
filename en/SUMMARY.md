@@ -29,6 +29,7 @@
    * [Connecting LEDs](leds.md)
    * [Connecting relays](relays.md)
 * [Actions](actions.md)
+   * Accounts
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
 * [Guides](guides.md)
