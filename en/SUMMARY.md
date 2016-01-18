@@ -13,6 +13,7 @@
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
 * [OpenCPN chartplotter](opencpn.md)
+* [Calculate](calculate.md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
    * [I2C sensors](i2c_sensors.md)
@@ -28,7 +29,6 @@
    * Connecting LEDs
    * Connecting relays
 * [Actions](actions.md)
-* [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
 * [Guides](guides.md)
