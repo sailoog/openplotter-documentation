@@ -25,6 +25,7 @@
    * [Motion sensor switches](motion_sensor_switches.md)
 * [Outputs](outputs.md)
    * Connecting LEDs
+   * Connecting relays
 * [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
