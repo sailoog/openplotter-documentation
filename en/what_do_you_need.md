@@ -8,14 +8,16 @@ You need at least these items to run the software.
 * **HDMI monitor**
 * **Keyboard and mouse**
 * **SD card**
-* **OpenPlotter RPI** "the software"
+* **OpenPlotter RPI** ("the software")
 
 ##Optional
 Devices to communicate with boat and sensors to collect data from environment.
 * **Self powered USB Hub**
 * **USB WiFi dongle**
 * **USB GPS dongle**
-* **USB NMEA 0183 converter dongle**
-* **USB DVB-T dongle (AIS reception)**
+* **USB DVB-T dongle** (AIS reception)
+* **NMEA 0183 to USB converter**
 * **IMU sensor**
-* **Pressure/Temperature sensor**
+* **Pressure/temperature sensor**
+* **Humidity/temperature sensor**
+* **PIR motion sensor**
