@@ -14,4 +14,4 @@ All these sources are combined in a single NMEA 0183 data stream which can be se
 * Other external devices through network or serial connections.
 * OpenPlotter again to calculate new NMEA 0183 data.
 * A twitter account.
-* Any e-mail account.
+* An e-mail account.
