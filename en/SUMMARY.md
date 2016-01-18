@@ -8,7 +8,7 @@
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
-   * Connecting a GPS
+   * [Connecting a GPS](gps.md)
    * Sending data to autopilot
 * [OpenCPN chartplotter](opencpn.md)
 * [WiFi access point](wifi_ap.md)
