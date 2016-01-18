@@ -1,6 +1,6 @@
 # How does it work?
 
-OpenPlotter collects data from different sources:
+OpenPlotter can collect data from different sources:
 
 * Sensors and devices connected by GPIO port.
 * Serial devices connected by USB port.
@@ -10,7 +10,7 @@ Most of these sources send NMEA 0183 data directly, but others, like SDR AIS or 
 
 All these sources are combined in a single NMEA 0183 data stream which can be sent to:
 
-* OpenCPN.
+* OpenCPN chartplotter.
 * Other external devices through network or serial connections.
 * OpenPlotter again to calculate new NMEA 0183 data.
 * A twitter account.
