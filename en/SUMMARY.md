@@ -22,6 +22,7 @@
    * [Common switches](common_switches.md)
    * Door switches
    * Float switches
+   * Motion sensor switches
 * [Outputs](outputs.md)
 * [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
