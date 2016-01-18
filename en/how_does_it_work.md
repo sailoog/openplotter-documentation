@@ -17,4 +17,6 @@ All these sources are combined in a single NMEA 0183 data stream which can be se
 * A twitter account.
 * An e-mail account.
 
+Besides this, you can connect some common switches to be linked to predefined actions and set some outputs to control external devices like relays, LEDs, buzzers, etc.
+
 Through the chapters of this manual we will see how to do this.
