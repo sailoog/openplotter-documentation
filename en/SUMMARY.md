@@ -7,7 +7,7 @@
    * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
-   * With monitor
+   * [With monitor](with_monitor.md)
    * Headless
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
