@@ -10,7 +10,7 @@
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
    * [Sending data to autopilot](autopilot.md)
-* Inspector
+* [Inspector](inspector.md)
 * [OpenCPN chartplotter](opencpn.md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
