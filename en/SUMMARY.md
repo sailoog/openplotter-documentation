@@ -16,6 +16,7 @@
 * [Inspector](inspector.md)
 * [Calculate](calculate.md)
 * [Sensors](sensors.md)
+   * I2C sensors
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
 * [Guides](guides.md)
