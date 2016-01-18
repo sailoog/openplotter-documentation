@@ -7,6 +7,7 @@
    * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
+   * With monitor
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
    * [Sending data to an autopilot](autopilot.md)
