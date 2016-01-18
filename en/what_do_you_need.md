@@ -4,8 +4,8 @@ You will need the basic parts and some optional parts. It will depend on what ki
 You need at least these items to run the software.
 * **ARM embedded computer (Raspberry Pi)**
 * **Box**
-* **Power supply and cable**
-* **HDMI/DVI/VGA/TV monitor and cable**
+* **Power supply**
+* **HDMI monitor**
 * **Keyboard and mouse**
 * **SD card**
 * **OpenPlotter RPI** "the software"
