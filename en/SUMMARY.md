@@ -19,6 +19,7 @@
    * [1W sensors](1w_sensors.md)
    * [SPI sensors](spi_sensors.md)
 * [Switches](switches.md)
+   * common switches
 * [Outputs](outputs.md)
 * [Calculate](calculate.md)
 * [Signal K (beta)](signal_k.md)
