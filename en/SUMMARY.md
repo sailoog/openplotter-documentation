@@ -13,7 +13,7 @@
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
 * [Chartplotter (OpenCPN)](opencpn.md)
-* [Weather forecast (zyGrib)](zygrib.md)
+* [Weather forecast (ZyGrib)](zygrib.md)
 * [Calculate](calculate.md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
