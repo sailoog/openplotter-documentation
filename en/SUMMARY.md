@@ -9,7 +9,7 @@
 * [Getting started](getting_started.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
-   * [Sending data to autopilot](autopilot.md)
+   * [Sending data to an autopilot](autopilot.md)
 * [SDR AIS](sdr_ais.md)
 * [OpenCPN chartplotter](opencpn.md)
 * [WiFi access point](wifi_ap.md)
