@@ -22,3 +22,6 @@ Under construction
 Under construction
 
 
+## Ok, now what?
+
+Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS.
