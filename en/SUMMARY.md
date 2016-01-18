@@ -35,7 +35,7 @@
 * [Actions](actions.md)
 * [Accounts](accounts.md)
 * [Signal K (beta)](signal_k.md)
-* System time from NMEA
+* [System time from NMEA](time_nmea.md)
 * [Startup](startup.md)
 * [License](license.md)
 * [Credits](credits.md)
