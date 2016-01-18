@@ -20,7 +20,7 @@
    * [SPI sensors](spi_sensors.md)
 * [Switches](switches.md)
    * [Common switches](common_switches.md)
-   * Door switches
+   * [Door switches](door_switches.md)
    * Float switches
    * Motion sensor switches
 * [Outputs](outputs.md)
