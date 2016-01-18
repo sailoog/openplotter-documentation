@@ -20,4 +20,11 @@ Devices to communicate with boat and sensors to collect data from environment.
 * **IMU sensor**
 * **Pressure/temperature sensor**
 * **Humidity/temperature sensor**
+* **One wire temperature sensor**
 * **PIR motion sensor**
+* **Common switch**
+* **Door switch**
+* **Float switch**
+* **Relay**
+* **LED**
+* **Buzzer**
