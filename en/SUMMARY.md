@@ -29,7 +29,6 @@
    * Connecting relays
 * [Actions](actions.md)
 * [Calculate](calculate.md)
-   * Actions
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
 * [Guides](guides.md)
