@@ -17,6 +17,7 @@
 * [Calculate](calculate.md)
 * [Sensors](sensors.md)
    * I2C sensors
+   * 1W sensors
 * [Signal K (beta)](signal_k.md)
 * [Startup](startup.md)
 * [Guides](guides.md)
