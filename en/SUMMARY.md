@@ -1,7 +1,6 @@
 # Summary
 
 * [introduction](README.md)
-   * Inspector
 * [Funding](funding.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
@@ -11,6 +10,7 @@
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
    * [Sending data to autopilot](autopilot.md)
+* Inspector
 * [OpenCPN chartplotter](opencpn.md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
