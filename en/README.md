@@ -15,11 +15,11 @@ There are people who buy boats but there are also people who build them, why not
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **Headless**. Easy start without monitor.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
-* **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **Electronic Compass and Heel**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
 * **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
 * **Multiple temperature sensors**. Get data from coolant engine, exhaust, fridge, sea...
 * **Special Sensors**. Detect opening doors/windows, tanks level, human body motion...
+* **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
 * **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Rate Of Turn**. Calculate the rate the ship is turning.
