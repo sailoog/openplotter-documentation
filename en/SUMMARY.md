@@ -13,7 +13,7 @@
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
 * [OpenCPN chartplotter](opencpn.md)
-   * ZyGrib
+* ZyGrib
 * [Calculate](calculate.md)
 * [WiFi access point](wifi_ap.md)
 * [Sensors](sensors.md)
