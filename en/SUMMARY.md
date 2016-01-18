@@ -27,7 +27,7 @@
 * [Outputs](outputs.md)
    * Connecting LEDs
    * Connecting relays
-* Actions
+* [Actions](actions.md)
 * [Calculate](calculate.md)
    * Actions
 * [Signal K (beta)](signal_k.md)
