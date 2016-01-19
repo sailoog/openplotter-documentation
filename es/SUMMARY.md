@@ -3,7 +3,6 @@
 * [introducción](README.md)
 * [Financiación](funding.md)
 * [Cómo funciona](how_does_it_work.md)
-   * [Primeros pasos](getting_started.md)
    * [Receptor TDT (AIS)](sdr_ais.md)
    * nmea_multiplexer
    * nmea_multiplexer
