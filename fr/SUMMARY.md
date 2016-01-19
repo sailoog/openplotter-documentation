@@ -1,7 +1,7 @@
 # Summary
 
 * [Sommaire](README.md)
-* [FINANCEMENT](financementmd.md)
+* [Financement](financementmd.md)
 * [INTRODUCTION](intromdmd.md)
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
    * [LES INDISPENSABLES](lesindispensables_md.md)
