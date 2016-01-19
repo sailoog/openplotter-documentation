@@ -12,7 +12,6 @@
    * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarragemd.md)
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
-   * [OPTIONS](optionsmd.md)
 * [INTRODUCTION](intromdmd.md)
 * [A FAIRE](afaire_md.md)
 * [GUIDES](guidesmd.md)
