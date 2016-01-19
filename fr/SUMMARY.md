@@ -3,7 +3,6 @@
 * [Sommaire](README.md)
 * [Financement](financementmd.md)
 * [Comment ça marche](commentcamarche_md.md)
-   * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarragemd.md)
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
 * [INTRODUCTION](intromdmd.md)
