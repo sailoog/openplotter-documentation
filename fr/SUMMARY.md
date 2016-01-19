@@ -3,7 +3,6 @@
 * [Sommaire](README.md)
 * [Financement](financementmd.md)
 * [Comment ça marche](commentcamarche_md.md)
-   * [MULTIPLEXEUR NMEA 0183](multiplexeurnmea_0183_md.md)
    * [SIGNAL K (beta)](signalk_md.md)
    * [POINT D'ACCÈS WIFI](pointdacces_wifi_md.md)
    * [RECEPTION AIS](receptionais_md.md)
