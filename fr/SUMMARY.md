@@ -2,7 +2,7 @@
 
 * [Sommaire](README.md)
 * [Financement](financementmd.md)
-* [COMMENT ÇA MARCHE? Comment ça marche](commentcamarche_md.md)
+* [Comment ça marche](commentcamarche_md.md)
    * [POUR COMMENCER](pourcommencer_md.md)
    * [MULTIPLEXEUR NMEA 0183](multiplexeurnmea_0183_md.md)
    * [SIGNAL K (beta)](signalk_md.md)
