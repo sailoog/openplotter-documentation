@@ -10,6 +10,4 @@
    * [Receptor TDT (AIS)](sdr_ais.md)
    * nmea_multiplexer
    * nmea_multiplexer
-* [Multiplexor NMEA 0183](nmea_multiplexer.md)
-   * Multiplexor NMEA 0183
 
