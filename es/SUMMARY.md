@@ -12,5 +12,4 @@
    * nmea_multiplexer
 * [Multiplexor NMEA 0183](nmea_multiplexer.md)
    * Multiplexor NMEA 0183
-* [Pendiente](pendiente.md)
 
