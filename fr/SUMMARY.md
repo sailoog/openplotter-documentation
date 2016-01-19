@@ -1,6 +1,6 @@
 # Summary
 
-* [SOMMAIRE](README.md)
+* [Sommaire](README.md)
 * [INTRODUCTION](intromdmd.md)
 * [FINANCEMENT](financementmd.md)
 * [CE QU'IL VOUS FAUT](cequil_vous_faut_md.md)
