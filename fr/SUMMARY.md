@@ -3,7 +3,6 @@
 * [Sommaire](README.md)
 * [Financement](financementmd.md)
 * [Comment ça marche](commentcamarche_md.md)
-   * [RECEPTION AIS](receptionais_md.md)
    * [CALCULER](calculermd.md)
    * [CAPTEURS](capteursmd.md)
    * [DÉMARRAGE](menudemarragemd.md)
