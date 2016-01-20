@@ -32,7 +32,7 @@
 * [Outputs](outputs.md)
    * [Connecting LEDs](leds.md)
    * [Connecting relays](relays.md)
-   * Connecting buzzers
+   * [Connecting buzzers](buzzers.md)
 * [Actions](actions.md)
 * [Accounts](accounts.md)
 * [Signal K (beta)](signal_k.md)
