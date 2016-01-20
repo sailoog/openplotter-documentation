@@ -1,5 +1,10 @@
 
 # WiFi access point
-![](wifi_ap.png)
 
-Under construction
+---
+
+This chapter is under construction
+
+---
+
+![](wifi_ap.png)
