@@ -1,2 +1,2 @@
-# Sending data to an autopilot
+# Sending data to autopilot
 
