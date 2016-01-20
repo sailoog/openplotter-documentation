@@ -1,5 +1,11 @@
 # DVB-T dongle (AIS)
 
+---
+
+This chapter is under construction
+
+---
+
 DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can work as a SDR AIS receiver. 
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub. Connecting and disconnecting can draw too much power and cause malfunction, try to do it when the system is off.
