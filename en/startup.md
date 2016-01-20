@@ -1,5 +1,10 @@
 
 # Startup
-![](startup.png)
 
-Under construction
+---
+
+This chapter is under construction
+
+---
+
+![](startup.png)
