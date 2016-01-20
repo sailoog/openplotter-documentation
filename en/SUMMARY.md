@@ -6,6 +6,7 @@
 * [What do you need?](what_do_you_need.md)
    * [Required](required.md)
    * [Optional](optional.md)
+   * ARM embeded computer
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
