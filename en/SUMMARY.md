@@ -11,7 +11,7 @@
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting a GPS](gps.md)
-   * [Sending data to an autopilot](autopilot.md)
+   * [Sending data to autopilot](autopilot.md)
    * [Network connections](network_connections.md)
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
