@@ -1,4 +1,11 @@
 # Optional
+
+---
+
+This chapter is under construction
+
+---
+
 ##Self powered USB Hub
 ![](hub.png)
 
