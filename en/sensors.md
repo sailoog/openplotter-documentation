@@ -1,5 +1,12 @@
 
 # Sensors
+
+---
+
+This chapter is under construction
+
+---
+
 ![](sensors.png)
 
 ## IMU sensor
