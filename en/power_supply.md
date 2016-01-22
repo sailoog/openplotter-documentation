@@ -6,4 +6,4 @@ The Raspberry Pi is powered by a 5V USB power supply with a micro USB connector 
 
 If you need to connect USB devices that will take the power requirements above 1.2 Amp, then you must connect them to an externally-powered USB Hub.
 
-It would be a good idea to get an USB car charger adapter (12v to 5V) with two outputs in case you need to power an USB Hub too. We recommend a power supply capable of providing a minimum of 3 amps.
+It would be a good idea to get an USB car charger adapter (12v to 5V) with two outputs in case you need to power an USB Hub too. We recommend a power supply capable of providing a minimum of 3A.
