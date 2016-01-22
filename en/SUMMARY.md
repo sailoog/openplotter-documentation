@@ -13,7 +13,6 @@
    * [Software](software.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
-   * [With monitor](with_monitor.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting serial devices](serial.md)
