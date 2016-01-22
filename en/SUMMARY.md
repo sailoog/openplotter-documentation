@@ -8,6 +8,7 @@
    * [Box](box.md)
    * [Required](required.md)
    * [Optional](optional.md)
+   * Power supply
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
