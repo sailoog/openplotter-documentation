@@ -2,7 +2,14 @@
 
 ![](openplotter_rpi.png)
 
-OpenPlotter RPI is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi.
+**OpenPlotter RPI** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need.
 
-####Download
+OpenPlotter RPI is open-source and free.
+
+---
+
+**Download**
+
 http://www.sailoog.com/en/blog-categories/openplotter-rpi
+
+---
