@@ -11,6 +11,7 @@
    * [Keyboard and mouse](keyboard.md)
    * [Required](required.md)
    * [Optional](optional.md)
+   * SD card
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
