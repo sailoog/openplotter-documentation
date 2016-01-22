@@ -7,13 +7,6 @@ This chapter is under construction
 ---
 
 
-
-
-##Keyboard and mouse
-![](keyboard.png)
-
-Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless keyboards and mice will work if already paired.
-
 ##SD card
 ![](sd.png)
 
