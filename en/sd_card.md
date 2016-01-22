@@ -2,7 +2,7 @@
 
 ![](sd.png)
 
-The Raspberry Pi 2 should work with any micro-SD-compatible card, although there are some guidelines that should be followed:
+You need an SD card to work as a hard disk of your system and where you will instal the operative system. The Raspberry Pi 2 should work with any micro-SD-compatible card, although there are some guidelines that should be followed:
 
 A minimum of 4GB is required but 8GB is recommended.
 
