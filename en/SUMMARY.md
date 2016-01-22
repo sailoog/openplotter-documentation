@@ -9,7 +9,7 @@
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
-   * SD card
+   * [SD card](sd_card.md)
    * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
