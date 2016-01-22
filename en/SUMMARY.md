@@ -7,9 +7,9 @@
    * [ARM embedded computer](arm_computer.md)
    * [Box](box.md)
    * [Power supply](power_supply.md)
+   * HDMI monitor
    * [Required](required.md)
    * [Optional](optional.md)
-   * HDMI monitor
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
