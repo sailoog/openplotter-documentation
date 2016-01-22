@@ -9,9 +9,9 @@
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
+   * SD card
    * [Required](required.md)
    * [Optional](optional.md)
-   * SD card
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
