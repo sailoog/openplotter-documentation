@@ -7,7 +7,7 @@
    * [ARM embedded computer](arm_computer.md)
    * [Required](required.md)
    * [Optional](optional.md)
-   * Box
+   * [Box](box.md)
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
