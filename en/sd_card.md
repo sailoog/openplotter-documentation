@@ -12,7 +12,7 @@ The card class determines the sustained write speed for the card; a class 4 card
 
 ---
 
-**Buy a tested SD card**
+**Buy our plug and play SD card with OpenPlotter RPI ready to run**
 
 http://www.sailoog.com/shop-category/openplotter
 
