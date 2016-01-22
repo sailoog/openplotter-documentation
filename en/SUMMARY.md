@@ -13,6 +13,7 @@
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting serial devices](serial.md)
    * [Network connections](network_connections.md)
+   * Filtering
 * [Inspector](inspector.md)
 * [Chartplotter (OpenCPN)](opencpn.md)
    * [Sending data to autopilot](autopilot.md)
