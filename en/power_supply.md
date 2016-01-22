@@ -1,4 +1,4 @@
-# Power supply and cable
+# Power supply
 
 ![](power.png)
 
@@ -10,7 +10,7 @@ It would be a good idea to get an USB car charger adapter (12v to 5V) with two o
 
 ---
 
-Buy a tested USB Power supply.
+**Buy a tested USB Power supply**
 
 http://www.sailoog.com/shop-category/openplotter
 
