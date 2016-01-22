@@ -8,7 +8,7 @@
    * [Box](box.md)
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
-   * Keyboard and mouse
+   * [Keyboard and mouse](keyboard.md)
    * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
