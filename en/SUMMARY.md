@@ -12,6 +12,7 @@
    * [SD card](sd_card.md)
    * [Required](required.md)
    * [Optional](optional.md)
+   * The Software
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
