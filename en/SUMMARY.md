@@ -11,7 +11,7 @@
    * [With monitor](with_monitor.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
-   * [Connecting a GPS](gps.md)
+   * [Connecting serial devices](serial.md)
    * [Network connections](network_connections.md)
 * [Inspector](inspector.md)
 * [SDR AIS](sdr_ais.md)
