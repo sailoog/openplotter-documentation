@@ -11,7 +11,6 @@
    * [Keyboard and mouse](keyboard.md)
    * [SD card](sd_card.md)
    * [Software](software.md)
-   * [Required](required.md)
    * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [With monitor](with_monitor.md)
