@@ -8,7 +8,10 @@ A minimum of 4GB is required but 8GB is recommended.
 
 The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
 
-####Buy a SD card with OpenPlotter RPI pre-installed
-8GB class 10 microSD card (with a full-size SD adaptor) that outperforms almost all other SD cards on the market.
+---
+
+**Buy a tested SD card**
 
 http://www.sailoog.com/shop-category/openplotter
+
+---
