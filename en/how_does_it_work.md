@@ -14,6 +14,7 @@ All these sources are combined in a single NMEA data stream which can be sent to
 * Internal  NMEA calculator to create new NMEA data.
 * Internal triggers/actions system.
 * Other external devices through network or serial connections.
+* Data Inspector.
 * A twitter account through Internet.
 * An e-mail account through Internet.
 
