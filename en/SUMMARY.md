@@ -12,6 +12,7 @@
    * [SD card](sd_card.md)
    * [Software](software.md)
    * [USB Hub](hub.md)
+   * USB WiFi dongle
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
