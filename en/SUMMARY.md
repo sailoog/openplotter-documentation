@@ -16,6 +16,7 @@
    * [USB GPS dongle](gps_dongle.md)
    * [NMEA 0183 to USB converter](nmea_converter.md)
    * [USB DVB-T dongle](dvb-t_dongle.md)
+   * IMU sensor
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
