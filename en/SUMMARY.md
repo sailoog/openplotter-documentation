@@ -18,7 +18,7 @@
    * [USB DVB-T dongle](dvb-t_dongle.md)
    * [IMU sensor](imu_sensor.md)
    * [Pressure/temperature sensor](pressure_sensor.md)
-   * Humidity/temperature sensor
+   * [Humidity/temperature sensor](humidity_sensor.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
