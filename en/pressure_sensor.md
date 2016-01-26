@@ -1,4 +1,4 @@
-# Pressure/temperature sensor
+# Pressure/Temperature sensor
 
 ![](bmp180.png)
 
@@ -8,7 +8,7 @@ Often, pressure and temperature sensors are on the same board.
 
 If you have another board like an humidity sensor which has a temperature sensor too, you will be able to select which one you prefer.
 
-Pressure/temperature sensors have to be connected by I2C interface.
+Pressure/Temperature sensors have to be connected by I2C interface.
 
 ##Supported pressure/temperature sensors
 
