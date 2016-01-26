@@ -10,9 +10,8 @@ If you have another board like a pressure sensor which has a temperature sensor 
 
 Humidity/temperature sensors have to be connected by I2C interface.
 
-##Supported pressure/temperature sensors
+##Supported humidity/temperature sensors
 
-* BMP180
-* LPS25H
-* MS5611
-* MS5637
+* HTS221
+* HTU21D
+
