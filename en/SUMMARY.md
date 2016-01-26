@@ -12,6 +12,7 @@
    * [SD card](sd_card.md)
    * [Software](software.md)
    * [Optional](optional.md)
+   * USB Hub
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
