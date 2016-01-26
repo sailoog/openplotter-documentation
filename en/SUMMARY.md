@@ -17,7 +17,7 @@
    * [NMEA 0183 to USB converter](nmea_converter.md)
    * [USB DVB-T dongle](dvb-t_dongle.md)
    * [IMU sensor](imu_sensor.md)
-   * [Pressure/temperature sensor](pressure_sensor.md)
+   * [Pressure/Temperature sensor](pressure_sensor.md)
    * [Humidity/temperature sensor](humidity_sensor.md)
    * [One wire temperature sensor](1w_temp_sensor.md)
    * PIR motion sensor
