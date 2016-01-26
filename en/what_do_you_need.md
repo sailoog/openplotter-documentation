@@ -19,8 +19,8 @@ Devices to communicate with boat and sensors to collect data from environment.
 * **USB DVB-T dongle** (AIS reception)
 * **NMEA 0183 to USB converter**
 * **IMU sensor**
-* **Pressure/temperature sensor**
-* **Humidity/temperature sensor**
+* **Pressure/Temperature sensor**
+* **Humidity/Temperature sensor**
 * **One wire temperature sensor**
 * **PIR motion sensor**
 * **Common switch**
