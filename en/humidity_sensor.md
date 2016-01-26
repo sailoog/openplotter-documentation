@@ -1,6 +1,6 @@
 # Humidity/temperature sensor
 
-
+![](htu21d.png)
 
 Connecting a humidity sensor to OpenPlotter will provide air relative humidity data to build graphs and monitor weather.
 
