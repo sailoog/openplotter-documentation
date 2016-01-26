@@ -10,7 +10,7 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 
 IMU sensors have to be connected by I2C interface.
 
-####Supported IMU sensors
+##Supported IMU sensors
 
 * InvenSense MPU-9150 single chip IMU.
 * InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus (handled by the MPU-9150 driver).
@@ -23,4 +23,3 @@ IMU sensors have to be connected by I2C interface.
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
 * Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
-
