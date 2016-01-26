@@ -15,7 +15,7 @@
    * [USB WiFi dongle](wifi_dongle.md)
    * [USB GPS dongle](gps_dongle.md)
    * [NMEA 0183 to USB converter](nmea_converter.md)
-   * USB DVB-T dongle
+   * [USB DVB-T dongle](dvb-t_dongle.md)
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
