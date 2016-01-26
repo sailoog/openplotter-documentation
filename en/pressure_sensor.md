@@ -2,11 +2,13 @@
 
 ![](bmp180.png)
 
-You will get graphs to monitor weather.
+Connecting a pressure sensor to OpenPlotter will provide air pressure data to build graphs and monitor weather.
 
-Often, pressure and temperature sensors are on the same board. 
+Often, pressure and temperature sensors are on the same board.
 
-IMU sensors have to be connected by I2C interface.
+If you have another board like an humidity sensor wchich has a temperature sesnsor too, you will be able to select wcich one you prefer.
+
+Pressure/temperature sensors have to be connected by I2C interface.
 
 ##Supported pressure/temperature sensors
 
