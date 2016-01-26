@@ -1,4 +1,4 @@
-# Humidity/temperature sensor
+# Humidity/Temperature sensor
 
 ![](htu21d.png)
 
@@ -8,7 +8,7 @@ Often, humidity and temperature sensors are on the same board.
 
 If you have another board like a pressure sensor which has a temperature sensor too, you will be able to select which one you prefer.
 
-Humidity/temperature sensors have to be connected by I2C interface.
+Humidity/Temperature sensors have to be connected by I2C interface.
 
 ##Supported humidity/temperature sensors
 
