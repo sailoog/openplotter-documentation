@@ -11,7 +11,7 @@
    * [Keyboard and mouse](keyboard.md)
    * [SD card](sd_card.md)
    * [Software](software.md)
-   * [USB Hub](hub.md)
+   * [Self powered USB Hub](hub.md)
    * [USB WiFi dongle](wifi_dongle.md)
    * [USB GPS dongle](gps_dongle.md)
    * NMEA 0183 to USB converter
