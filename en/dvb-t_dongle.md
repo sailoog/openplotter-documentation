@@ -16,8 +16,11 @@ http://nmearouter.com/docs/ais/aerial.html
 
 https://www.youtube.com/watch?v=SdEglNHyHB4
 
-####Buy a tested USB DVB-T/RTL-SDR dongle.
 
-With the RTL2832U+R820T2 chipset.
+---
+
+**Buy a tested USB DVB-T dongle**
 
 http://www.sailoog.com/shop-category/openplotter
+
+---
