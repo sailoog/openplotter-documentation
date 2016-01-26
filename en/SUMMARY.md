@@ -23,6 +23,7 @@
    * PIR motion sensor
    * Common switch
    * Door switch
+   * Float switch
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
