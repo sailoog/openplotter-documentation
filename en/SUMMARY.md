@@ -26,6 +26,7 @@
    * Float switch
    * Relay
    * LED
+   * Buzzer
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
