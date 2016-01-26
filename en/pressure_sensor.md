@@ -2,7 +2,11 @@
 
 ![](bmp180.png)
 
-Often, pressure and temperature sensors are on the same board. You will get graphs to monitor weather.
+You will get graphs to monitor weather.
+
+Often, pressure and temperature sensors are on the same board. 
+
+IMU sensors have to be connected by I2C interface.
 
 ##Supported pressure/temperature sensors
 
