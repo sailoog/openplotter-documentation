@@ -13,6 +13,7 @@
    * [Software](software.md)
    * [USB Hub](hub.md)
    * [USB WiFi dongle](wifi_dongle.md)
+   * USB GPS dongle
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
