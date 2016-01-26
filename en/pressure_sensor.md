@@ -6,7 +6,7 @@ Connecting a pressure sensor to OpenPlotter will provide air pressure data to bu
 
 Often, pressure and temperature sensors are on the same board.
 
-If you have another board like an humidity sensor wchich has a temperature sesnsor too, you will be able to select wcich one you prefer.
+If you have another board like an humidity sensor which has a temperature sensor too, you will be able to select which one you prefer.
 
 Pressure/temperature sensors have to be connected by I2C interface.
 
