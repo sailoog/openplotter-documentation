@@ -22,6 +22,7 @@
    * [One wire temperature sensor](1w_temp_sensor.md)
    * PIR motion sensor
    * Common switch
+   * Door switch
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
