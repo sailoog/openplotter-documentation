@@ -14,6 +14,7 @@
    * [USB Hub](hub.md)
    * [USB WiFi dongle](wifi_dongle.md)
    * [USB GPS dongle](gps_dongle.md)
+   * USB-NMEA 0183 converter
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
