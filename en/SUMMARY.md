@@ -14,7 +14,7 @@
    * [Self powered USB Hub](hub.md)
    * [USB WiFi dongle](wifi_dongle.md)
    * [USB GPS dongle](gps_dongle.md)
-   * NMEA 0183 to USB converter
+   * [NMEA 0183 to USB converter](nmea_converter.md)
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
