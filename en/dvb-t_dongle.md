@@ -8,7 +8,7 @@ A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. 
 
 ##Antenna
 
-Any VHF antenna will work right. Some homemade antennas:
+The most important factor for good reception is the antenna. Any VHF antenna will work right. Some homemade antennas:
 
 http://sdrformariners.blogspot.com.es/p/blog-page.html
 
