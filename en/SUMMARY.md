@@ -17,7 +17,7 @@
    * [NMEA 0183 to USB converter](nmea_converter.md)
    * [USB DVB-T dongle](dvb-t_dongle.md)
    * [IMU sensor](imu_sensor.md)
-   * Pressure/temperature sensor
+   * [Pressure/temperature sensor](pressure_sensor.md)
 * [Optional](optional.md)
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
