@@ -19,5 +19,4 @@ All these sources are combined in a single data stream which can be sent to:
 * A twitter account through Internet.
 * An e-mail account through Internet.
 
-
 Through the chapters of this manual we will see how to do this.
