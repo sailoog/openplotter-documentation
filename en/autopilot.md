@@ -1,2 +1,0 @@
-# Sending data to autopilot
-
