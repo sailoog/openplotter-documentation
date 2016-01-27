@@ -23,7 +23,7 @@
    * PIR motion sensor
    * Common switch
    * [Door switch](door_sw.md)
-   * Float switch
+   * [Float switch](float_sw.md)
    * Relay
    * LED
    * Buzzer
