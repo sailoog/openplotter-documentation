@@ -40,14 +40,14 @@
 * WiFi access point
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
-* [Sensors](sensors.md)
-   * [I2C sensors](i2c_sensors.md)
-   * [1W sensors](1w_sensors.md)
-   * [SPI sensors](spi_sensors.md)
+* Sensors
+   * I2C sensors
+   * 1W sensors
+   * SPI sensors
 * Switches
-   * [Common switches](common_switches.md)
-   * [Door switches](door_switches.md)
-   * [Float switches](float_switches.md)
+   * Common switches
+   * Door switches
+   * Float switches
    * Motion sensor switches
 * [Outputs](outputs.md)
    * [Connecting LEDs](leds.md)
