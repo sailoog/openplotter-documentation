@@ -49,16 +49,16 @@
    * Door switches
    * Float switches
    * Motion sensor switches
-* [Outputs](outputs.md)
-   * [Connecting LEDs](leds.md)
+* Outputs
+   * Connecting LEDs
    * Connecting relays
-   * [Connecting buzzers](buzzers.md)
+   * Connecting buzzers
 * Actions
-* [Accounts](accounts.md)
-* [Weather graphs](weather_graphs.md)
+* Accounts
+* Weather graphs
 * Weather forecast (ZyGrib)
-* [System time from NMEA](time_nmea.md)
-* [Startup](startup.md)
+* System time from NMEA
+* Startup
 * [License](license.md)
 * [Credits](credits.md)
 
