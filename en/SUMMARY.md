@@ -31,7 +31,7 @@
    * [Headless](headless.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
    * [Connecting serial devices](serial.md)
-   * [Network connections](network_connections.md)
+   * Network connections
    * [Filtering](filtering.md)
 * [Inspector](inspector.md)
 * [Chartplotter (OpenCPN)](opencpn.md)
@@ -56,7 +56,7 @@
 * [Actions](actions.md)
 * [Accounts](accounts.md)
 * [Weather graphs](weather_graphs.md)
-* [Weather forecast (ZyGrib)](zygrib.md)
+* Weather forecast (ZyGrib)
 * [System time from NMEA](time_nmea.md)
 * [Startup](startup.md)
 * [License](license.md)
