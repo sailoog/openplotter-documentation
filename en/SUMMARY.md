@@ -22,7 +22,7 @@
    * [One wire temperature sensor](1w_temp_sensor.md)
    * PIR motion sensor
    * Common switch
-   * Door switch
+   * [Door switch](door_sw.md)
    * Float switch
    * Relay
    * LED
