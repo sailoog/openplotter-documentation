@@ -1,2 +1,0 @@
-# System time from NMEA
-
