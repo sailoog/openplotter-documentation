@@ -44,7 +44,7 @@
    * [I2C sensors](i2c_sensors.md)
    * [1W sensors](1w_sensors.md)
    * [SPI sensors](spi_sensors.md)
-* [Switches](switches.md)
+* Switches
    * [Common switches](common_switches.md)
    * [Door switches](door_switches.md)
    * [Float switches](float_switches.md)
