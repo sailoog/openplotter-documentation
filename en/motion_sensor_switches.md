@@ -1,2 +1,0 @@
-# Motion sensor switches
-
