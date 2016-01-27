@@ -48,12 +48,12 @@
    * [Common switches](common_switches.md)
    * [Door switches](door_switches.md)
    * [Float switches](float_switches.md)
-   * [Motion sensor switches](motion_sensor_switches.md)
+   * Motion sensor switches
 * [Outputs](outputs.md)
    * [Connecting LEDs](leds.md)
-   * [Connecting relays](relays.md)
+   * Connecting relays
    * [Connecting buzzers](buzzers.md)
-* [Actions](actions.md)
+* Actions
 * [Accounts](accounts.md)
 * [Weather graphs](weather_graphs.md)
 * Weather forecast (ZyGrib)
