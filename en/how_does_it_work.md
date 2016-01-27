@@ -6,7 +6,7 @@ OpenPlotter can collect data from different sources:
 * Serial devices connected by USB port.
 * Any computer or portable device connected to the same network.
 
-Most of these sources send NMEA 0183 data directly but others, like SDR AIS or sensors, need to be processed by OpenPlotter to convert raw data to NMEA 0183.
+Most of these sources directly send data in the maritime format called NMEA 0183. Others, like SDR AIS or some sensors, need to be processed by OpenPlotter to convert raw data to NMEA.
 
 All these sources are combined in a single NMEA data stream which can be sent to:
 
