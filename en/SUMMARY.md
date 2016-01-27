@@ -28,14 +28,14 @@
    * LED
    * Buzzer
 * [Getting started](getting_started.md)
-   * [Headless](headless.md)
+   * Headless
 * [NMEA 0183 Multiplexer](nmea_multiplexer..md)
-   * [Connecting serial devices](serial.md)
+   * Connecting serial devices
    * Network connections
-   * [Filtering](filtering.md)
-* [Inspector](inspector.md)
-* [Chartplotter (OpenCPN)](opencpn.md)
-   * [Sending data to autopilot](autopilot.md)
+   * Filtering
+* Inspector
+* Chartplotter (OpenCPN)
+   * Sending data to autopilot
 * [Calculate](calculate.md)
 * [WiFi access point](wifi_ap.md)
 * [Signal K (beta)](signal_k.md)
