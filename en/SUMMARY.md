@@ -36,9 +36,9 @@
 * Inspector
 * Chartplotter (OpenCPN)
    * Sending data to autopilot
-* [Calculate](calculate.md)
-* [WiFi access point](wifi_ap.md)
-* [Signal K (beta)](signal_k.md)
+* Calculate
+* WiFi access point
+* Signal K (beta)
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
    * [I2C sensors](i2c_sensors.md)
