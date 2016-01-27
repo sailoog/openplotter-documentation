@@ -1,2 +1,0 @@
-# OpenCPN chartplotter
-
