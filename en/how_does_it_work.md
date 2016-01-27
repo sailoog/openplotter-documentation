@@ -11,7 +11,7 @@ Most of these sources directly send data in the maritime format called NMEA 0183
 All these sources are combined in a single data stream which can be sent to:
 
 * Internal chartplotter (OpenCPN).
-* Internal  NMEA calculator to create new NMEA data.
+* Internal  NMEA calculator to generate new NMEA data.
 * Internal triggers/actions system.
 * Other external devices through network or serial connections.
 * Data Inspector.
@@ -19,6 +19,5 @@ All these sources are combined in a single data stream which can be sent to:
 * A twitter account through Internet.
 * An e-mail account through Internet.
 
-Besides this, you can connect some common switches, link them to predefined actions and set some outputs to control external devices like relays, LEDs, buzzers, etc.
 
 Through the chapters of this manual we will see how to do this.
