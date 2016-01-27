@@ -15,6 +15,7 @@ All these sources are combined in a single NMEA data stream which can be sent to
 * Internal triggers/actions system.
 * Other external devices through network or serial connections.
 * Data Inspector.
+* Virtual Instrument Panel
 * A twitter account through Internet.
 * An e-mail account through Internet.
 
