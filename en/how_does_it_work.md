@@ -20,3 +20,5 @@ All these sources are combined in a single data stream which can be sent to:
 * An e-mail account through Internet.
 
 Through the chapters of this manual we will see how to do this.
+
+![](diagram.png)
