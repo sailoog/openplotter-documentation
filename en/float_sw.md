@@ -1,7 +1,8 @@
 # Float switch
 
 
-of liquid within a tank or bilge
+Installing this little magnetic switches on tanks or bilges yo will be able to detect when they are full or empty.
+
 ---
 
 **Buy a tested Float switch**
