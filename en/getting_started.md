@@ -45,6 +45,12 @@ Windows: https://www.raspberrypi.org/documentation/installation/installing-image
 
 If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
+Once we have created our SD card with OpenPlotter RPI, we will insert it into our Raspberry Pi.
+
+Turn the Raspberry on and go to Menu, Preferences and select raspi-config.
+
+A window with a menu will appear. We have to choose the first option '1 Expand Filesystem' and press Enter. Then select OK on the next window. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
+
 ## Ok, now what?
 
 Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS.
