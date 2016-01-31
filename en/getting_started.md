@@ -49,6 +49,10 @@ Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi 
 
 *screenshot*
 
+A window will open and we have to click on *Expand Filesystem*. Doing this, the next time you reboot the system will use the full capacity of the SD card.
+
+![](boot3.png)
+
 ## Ok, now what?
 
 Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS.
