@@ -24,7 +24,7 @@
    * [Common switch](common_sw.md)
    * [Door switch](door_sw.md)
    * [Float switch](float_sw.md)
-   * Relay
+   * [Relay](relay.md)
    * LED
    * Buzzer
 * [Getting started](getting_started.md)
