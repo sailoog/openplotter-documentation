@@ -1,6 +1,6 @@
 # Summary
 
-* [introduction](README.md)
+* [Introduction](README.md)
 * [Funding](funding.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
