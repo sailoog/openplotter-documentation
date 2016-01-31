@@ -19,12 +19,12 @@ http://www.sailoog.com/shop-category/openplotter
 ---
 
 
-## Downloading and writing OpenPlotter RPI on an SD card
+## Downloading and installing OpenPlotter RPI on an SD card
 
 
 
 
-Download the last version from 
+Download the last version of **OpenPlotter RPI** from 
 
 http://sailoog.com/blog-categories/openplotter-rpi
 
@@ -32,15 +32,18 @@ It is a compressed file and weighs just over 1GB so it will take a little.
 
 Once the download is complete we will have to unzip it and at the end we will have an .img file of about 4GB to be recorded on an SD card.
 
+OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. In these links are the instructions to do so depending on which system we are using to perform the process.
+
+Linux: https://www.raspberrypi.org/documentation/installation/installing-images/linux.md
+
+MAC: https://www.raspberrypi.org/documentation/installation/installing-images/mac.md
+
+Windows: https://www.raspberrypi.org/documentation/installation/installing-images/windows.md
 
 
+## First boot
 
-
-
-
-
-
-If you want to build a headless system you will not need the monitor, see the next chapter [Headless](headless.md) before reading further.
+If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
 ## Ok, now what?
 
