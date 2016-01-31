@@ -6,7 +6,7 @@ This chapter is under construction
 
 ---
 
-First of all you have to put together all the [basic parts](getting_started.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
+First of all you have to put together all the [basic parts](what_do you need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
 
 Second you have to run the software on your new ARM computer. We use **OpenPlotter RPI** which is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi.
 
