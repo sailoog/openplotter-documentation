@@ -25,7 +25,7 @@
    * [Door switch](door_sw.md)
    * [Float switch](float_sw.md)
    * [Relay](relay.md)
-   * LED
+   * [LED](led.md)
    * Buzzer
 * [Getting started](getting_started.md)
    * [Headless](headless.md)
