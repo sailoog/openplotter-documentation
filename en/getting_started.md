@@ -29,7 +29,7 @@ It is a compressed file and weighs just over 1GB so it will take a little.
 
 Once the download is complete we will have to unzip it and at the end we will have an .img file of about 4GB to be recorded on an SD card.
 
-OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. In these links are the instructions to do so depending on which system we are using to perform the process.
+OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. On these links are the instructions to do so depending on which system we are using to perform the process.
 
 Linux: https://www.raspberrypi.org/documentation/installation/installing-images/linux.md
 
@@ -45,7 +45,7 @@ Once we have created our SD card with OpenPlotter RPI, we will insert it into ou
 
 ![](boot1.png)
 
-Turn the Raspberry on and go to Menu > Preferences and select *Raspberry Pi Configuration*.
+Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
 
 *screenshot*
 
