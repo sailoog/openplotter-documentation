@@ -64,4 +64,4 @@ A window will open and we have to click on *Expand Filesystem*. Doing this, the 
 
 ## Ok, now what?
 
-Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS through the [NMEA 0183 multiplexer](nmea_multiplexer.md).
+Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS.
