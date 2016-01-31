@@ -6,17 +6,17 @@ This chapter is under construction
 
 ---
 
-First of all you have to put together all the [required parts](what_do you need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
+First of all you have to put together all the [required parts](what_do you need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/). If you want to build a headless system you will not need the monitor, see the next chapter [Headless](headless.md) before reading further.
 
-Second you have to run the software on your new ARM computer. We use **OpenPlotter RPI** which is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi.
-
-Follow this detailed guide to download and install OpenPlotter RPI:
+Second you have to run the software on your new ARM computer. You have two options, either follow this detailed guide to download and install **OpenPlotter RPI** on the SD card:
 
 http://sailoog.dozuki.com/Guide/Downloading+and+Installing+OpenPlotter+RPI/4
 
+or buy our plug and play SD card:
+
 ---
 
-**Buy our plug and play SD card with OpenPlotter RPI ready to run.**
+**Buy an 8GB SD card with OpenPlotter RPI.**
 
 http://www.sailoog.com/shop-category/openplotter
 
