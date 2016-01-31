@@ -19,11 +19,11 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [NMEA 0183 to USB converter](nmea_converter.md)
 * [USB DVB-T dongle](dvb-t_dongle.md) (AIS reception)
 * [IMU sensor](imu_sensor.md)
-* **Pressure/Temperature sensor**
-* **Humidity/Temperature sensor**
-* **One wire temperature sensor**
-* **PIR motion sensor**
-* **Common switch**
+* [Pressure/Temperature sensor](pressure_sensor.md)
+* [Humidity/Temperature sensor](humidity_sensor.md)
+* [One wire temperature sensor](1w_temp_sensor.md)
+* [PIR motion sensor](motion.md)
+* [Common switch](common_sw.md)
 * **Door switch**
 * **Float switch**
 * **Relay**
