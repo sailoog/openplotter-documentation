@@ -47,9 +47,11 @@ If you want to build a headless system see the next chapter [Headless](headless.
 
 Once we have created our SD card with OpenPlotter RPI, we will insert it into our Raspberry Pi.
 
+![](boot1.png)
+
 Turn the Raspberry on and go to Menu, Preferences and select raspi-config.
 
-A window with a menu will appear. We have to choose the first option '1 Expand Filesystem' and press Enter. Then select OK on the next window. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
+*screenshot*
 
 ## Ok, now what?
 
