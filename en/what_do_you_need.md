@@ -24,8 +24,8 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [One wire temperature sensor](1w_temp_sensor.md)
 * [PIR motion sensor](motion.md)
 * [Common switch](common_sw.md)
-* **Door switch**
-* **Float switch**
-* **Relay**
-* **LED**
-* **Buzzer**
+* [Door switch](door_sw.md)
+* [Float switch](float_sw.md)
+* [Relay](relay.md)
+* [LED](led.md)
+* [Buzzer](buzzer.md)
