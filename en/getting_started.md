@@ -18,10 +18,7 @@ http://www.sailoog.com/shop-category/openplotter
 
 ---
 
-
-## Downloading and installing OpenPlotter RPI on an SD card
-
-
+## Installing OpenPlotter RPI on an SD card
 
 
 Download the last version of **OpenPlotter RPI** from 
@@ -39,7 +36,6 @@ Linux: https://www.raspberrypi.org/documentation/installation/installing-images/
 MAC: https://www.raspberrypi.org/documentation/installation/installing-images/mac.md
 
 Windows: https://www.raspberrypi.org/documentation/installation/installing-images/windows.md
-
 
 ## First boot
 
