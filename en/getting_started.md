@@ -20,7 +20,6 @@ http://www.sailoog.com/shop-category/openplotter
 
 ## Installing OpenPlotter RPI on an SD card
 
-
 Download the last version of **OpenPlotter RPI** from 
 
 http://sailoog.com/blog-categories/openplotter-rpi
@@ -53,10 +52,7 @@ A window will open and we have to click on *Expand Filesystem*. Doing this, the 
 
 ![](boot3.png)
 
-
 ## Setting language
-
-
 
 *text*
 
