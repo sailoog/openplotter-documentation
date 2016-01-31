@@ -53,6 +53,15 @@ A window will open and we have to click on *Expand Filesystem*. Doing this, the 
 
 ![](boot3.png)
 
+
+## Setting language
+
+
+
+*text*
+
+*screenshot*
+
 ## Ok, now what?
 
 Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS.
