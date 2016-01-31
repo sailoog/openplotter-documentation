@@ -13,9 +13,9 @@ You need at least these items to run *the software*.
 
 ##Optional
 Devices to communicate with boat and sensors to collect data from environment.
-* **Self powered USB Hub**
-* **USB WiFi dongle**
-* **USB GPS dongle**
+* [Self powered USB Hub](hub.md)
+* [USB WiFi dongle](wifi_dongle.md)
+* [USB GPS dongle](gps_dongle.md)
 * **USB DVB-T dongle** (AIS reception)
 * **NMEA 0183 to USB converter**
 * **IMU sensor**
