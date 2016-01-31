@@ -16,9 +16,9 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [Self powered USB Hub](hub.md)
 * [USB WiFi dongle](wifi_dongle.md)
 * [USB GPS dongle](gps_dongle.md)
-* **USB DVB-T dongle** (AIS reception)
-* **NMEA 0183 to USB converter**
-* **IMU sensor**
+* [NMEA 0183 to USB converter](nmea_converter.md)
+* [USB DVB-T dongle](dvb-t_dongle.md) (AIS reception)
+* [IMU sensor](imu_sensor.md)
 * **Pressure/Temperature sensor**
 * **Humidity/Temperature sensor**
 * **One wire temperature sensor**
