@@ -29,7 +29,7 @@
    * Buzzer
 * [Getting started](getting_started.md)
    * Headless
-* [NMEA 0183 Multiplexer](nmea_multiplexer..md)
+* [NMEA 0183 Multiplexer](nmea_multiplexer.md)
    * Connecting serial devices
    * Network connections
    * Filtering
