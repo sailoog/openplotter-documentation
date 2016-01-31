@@ -21,7 +21,7 @@
    * [Humidity/Temperature sensor](humidity_sensor.md)
    * [One wire temperature sensor](1w_temp_sensor.md)
    * [PIR motion sensor](motion.md)
-   * Common switch
+   * [Common switch](common_sw.md)
    * [Door switch](door_sw.md)
    * [Float switch](float_sw.md)
    * Relay
