@@ -1,11 +1,5 @@
 # Getting started
 
----
-
-This chapter is under construction
-
----
-
 First of all you have to put together all the [required parts](what_do_you_need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/). 
 
 Second you have to run the software on your new ARM computer and here you have two options, either buy our plug and play SD card or download and install the software on an SD card.
