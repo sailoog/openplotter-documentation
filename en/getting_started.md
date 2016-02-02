@@ -40,11 +40,11 @@ Windows: https://www.raspberrypi.org/documentation/installation/installing-image
 
 If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
-Once we have created our SD card with OpenPlotter RPI, we will insert it into our Raspberry Pi.
+Once we have created the SD card with OpenPlotter RPI, we will insert it into our Raspberry Pi.
 
 ![](boot1.png)
 
-Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
+If you bought our SD card you can skip this next step. Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
 
 ![](boot2.png)
 
