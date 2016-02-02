@@ -46,7 +46,7 @@ Once we have created our SD card with OpenPlotter RPI, we will insert it into ou
 
 Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
 
-*screenshot*
+![](boot2.png)
 
 A window will open and we have to click on *Expand Filesystem*. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
 
