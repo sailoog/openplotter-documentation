@@ -56,7 +56,7 @@ A window will open and we have to click on *Expand Filesystem*. Doing this, the 
 
 If you need to set your system in other language than English, click on the *Localisation* tab and then on *Set Locale*, *Set Timezone* and *Set Keyboard* buttons.
 
-*screenshot*
+![](boot4.png)
 
 ## Ok, now what?
 
