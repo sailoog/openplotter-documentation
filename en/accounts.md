@@ -6,7 +6,7 @@ This chapter is under construction
 
 ---
 
-To test remote monitoring by Twitter and Gmail feature, open new accounts, DO NOT use existing accounts or usual passwords because they can be exposed. 
+To test remote monitoring by Twitter and Gmail feature, open new accounts. DO NOT use existing accounts or usual passwords because they can be exposed. 
 
 Open a new Gmail account and enable:
 
