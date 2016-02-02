@@ -20,7 +20,7 @@ http://sailoog.com/blog-categories/openplotter-rpi
 
 It is a compressed file and weighs just over 1GB so it will take a little.
 
-Once the download is complete we will have to unzip it and at the end we will have an .img file of about 4GB to be recorded on an SD card.
+Once the download is complete we have to unzip it and at the end we will have an .img file of about 4GB to be recorded on an SD card.
 
 OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. On these links are the instructions to do so depending on which system we are using to perform the process.
 
