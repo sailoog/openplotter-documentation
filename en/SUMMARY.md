@@ -44,7 +44,7 @@
    * I2C sensors
    * 1W sensors
    * SPI sensors
-* Switches
+* [Switches](switches.md)
    * Common switches
    * Door switches
    * Float switches
