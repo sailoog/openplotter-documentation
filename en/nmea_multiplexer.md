@@ -6,6 +6,7 @@
 This chapter is under construction
 
 ---
+![](multiplexer1.png)
 
 It is important that you understand that OpenPlotter must drive all the data traffic to work properly, so you do not need to configure OpenCPN to get GPS signal, we will set this in OpenPlotter.
 
