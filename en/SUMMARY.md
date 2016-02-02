@@ -54,7 +54,7 @@
    * Connecting relays
    * Connecting buzzers
 * Actions
-* Accounts
+* [Accounts](accounts.md)
 * Weather graphs
 * Weather forecast (ZyGrib)
 * System time from NMEA
