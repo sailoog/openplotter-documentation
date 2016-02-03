@@ -38,7 +38,9 @@ Once we have created the SD card with OpenPlotter RPI, we will insert it into ou
 
 ![](boot1.png)
 
-If you bought our SD card you can skip this next step. Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
+If you bought our SD card you can skip this last step, just turn on the system. 
+
+Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
 
 ![](boot2.png)
 
