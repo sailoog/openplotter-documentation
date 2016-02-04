@@ -26,6 +26,7 @@ You need at least these items to run *the software* and you have two options: ei
 * [USB WiFi dongle](wifi_dongle.md)
 * [SD card](sd_card.md)
 * [OpenPlotter RPI](software.md) (*the software*)
+* Any laptop tablet or smartphone
 
 ![](start2.png)
 
