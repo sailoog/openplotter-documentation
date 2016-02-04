@@ -27,6 +27,8 @@ You need at least these items to run *the software* and you have two options: ei
 * [SD card](sd_card.md)
 * [OpenPlotter RPI](software.md) (*the software*)
 
+![](start2.png)
+
 ##Optional items
 
 Devices to communicate with boat and sensors to collect data from environment.
