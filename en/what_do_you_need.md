@@ -3,6 +3,9 @@
 You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
 ## Required
 You need at least these items to run *the software*.
+
+### Monitor option
+
 * [ARM embedded computer](arm_computer.md) (Raspberry Pi)
 * [Box](box.md)
 * [Power supply](power_supply.md)
@@ -11,8 +14,20 @@ You need at least these items to run *the software*.
 * [SD card](sd_card.md)
 * [OpenPlotter RPI](software.md) (*the software*)
 
+### Headless option
+
+* [ARM embedded computer](arm_computer.md) (Raspberry Pi)
+* [Box](box.md)
+* [Power supply](power_supply.md)
+* [USB WiFi dongle](wifi_dongle.md)
+* [SD card](sd_card.md)
+* [OpenPlotter RPI](software.md) (*the software*)
+
+
 ##Optional
+
 Devices to communicate with boat and sensors to collect data from environment.
+
 * [Self powered USB Hub](hub.md)
 * [USB WiFi dongle](wifi_dongle.md)
 * [USB GPS dongle](gps_dongle.md)
