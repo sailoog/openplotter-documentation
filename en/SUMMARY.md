@@ -59,7 +59,6 @@
 * Weather forecast (ZyGrib)
 * System time from NMEA
 * Startup
-   * Troubleshooting
 * [License](license.md)
 * Troubleshooting
 * [Credits](credits.md)
