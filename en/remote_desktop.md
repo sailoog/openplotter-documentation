@@ -11,6 +11,8 @@ This chapter is under construction
 
 ### Linux
 
+Vinagre: https://wiki.gnome.org/Apps/Vinagre
+
 ### Windows
 
 VNC Viewer: https://www.realvnc.com
@@ -26,6 +28,8 @@ VNC Viewer: https://www.realvnc.com
 ## Tested RDP remote desktop clients
 
 ### Linux
+
+Vinagre: https://wiki.gnome.org/Apps/Vinagre
 
 ### Windows
 
