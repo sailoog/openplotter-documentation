@@ -65,4 +65,6 @@ Finally, open your favourite remote desktop software on your laptop, tablet or s
 
 Connect and enjoy!
 
+![](headless2.png)
+
 See more information in [Remote desktop](remote_desktop.md) chapter.
