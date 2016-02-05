@@ -54,3 +54,5 @@ pass=my_secret_password
 [RASPBIAN]
 ...
 ```
+
+After it has finished booting up, there should be a new wifi netwaork called OpenPlotter available. Log onto this network using the password "12345678"
