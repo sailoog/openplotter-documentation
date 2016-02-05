@@ -58,3 +58,7 @@ pass=my_secret_password
 Save and eject the SD card, then insert it into the Raspberry Pi. Make sure the WiFi dongle is also inserted and power up the Pi.
 
 After it has finished booting up, there should be a new WiFi network called *my_boat_network* available. Log onto this network using the password *my_secret_password*.
+
+Finally, open your favourite remote desktop software on your laptop, tablet or smartphone and make a new connection with the address **10.10.10.1:5900** and connect.
+
+See more information in [Remote desktop](remote_desktop.md) chapter.
