@@ -38,6 +38,7 @@
    * Sending data to autopilot
 * Calculate
 * WiFi access point
+* Remote desktop
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
 * Sensors
