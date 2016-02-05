@@ -39,3 +39,23 @@ If only one WiFi dongle is connected, the *device* value should always be *wlan0
 *ssid* will be the name of your network. Use any character but a maximun of 32.
 
 *pass* will be the password of your network. Use any character but a minimum of 8.
+
+After changes, the top lines should look like this:
+
+```
+[OPENPLOTTER]
+
+#HEADLESS
+
+#uncomment to force screen resolution (only VNC remote desktop)
+framebuffer_width=800
+framebuffer_height=480
+
+#uncomment to set WiFi access point
+device=wlan0
+ssid=my_boat_network
+pass=my_secret_password
+
+[RASPBIAN]
+...
+```
