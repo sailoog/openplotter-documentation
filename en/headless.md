@@ -28,4 +28,4 @@ The top lines should look like this:
 [RASPBIAN]
 ...
 ```
-If you are going to connect to OpenPlotter by VNC remote desktop you have to remove the # chararter from words  *framebuffer_width* and *framebuffer_height* and set a size for your screen (800x600 by default). If you are going to connect to OpenPlotter by RDP remote desktop do not remove # chararters. See more information on Remote destop chapter.
+If you are going to connect to OpenPlotter by VNC remote desktop you have to remove the # character from words  *framebuffer_width* and *framebuffer_height* and set a size for your screen (800x600 by default). If you are going to connect to OpenPlotter by RDP remote desktop do not remove # characters. See more information on Remote desktop chapter.
