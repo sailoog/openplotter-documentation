@@ -31,9 +31,9 @@ To create the WiFi hotspot you have to remove the # character from words ***devi
 
 If only one WiFi dongle is connected, the *device* value should always be *wlan0* but if more than one is connected, the *device* value could be *wlan0*, *wlan1* ...
 
-*ssid* will be the name of your network. Use any character but a maximun of 32.
+*ssid* will be the name of your WiFi network. Use any character but a maximun of 32.
 
-*pass* will be the password of your network. Use any character but a minimum of 8.
+*pass* will be the password of your WiFi network. Use any character but a minimum of 8.
 
 After changes, the top lines should look like this:
 
@@ -55,4 +55,6 @@ pass=my_secret_password
 ...
 ```
 
-After it has finished booting up, there should be a new wifi netwaork called OpenPlotter available. Log onto this network using the password "12345678"
+Save and eject the SD card, then insert it into the Raspberry Pi. Make sure the WiFi dongle is also inserted and power up the Pi.
+
+After it has finished booting up, there should be a new WiFi network called *my_boat_network* available. Log onto this network using the password *my_secret_password*.
