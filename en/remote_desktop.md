@@ -5,11 +5,16 @@
 This chapter is under construction
 
 ---
-There are two ways to connect to OpenPlotter by remote desktop. VNC and RDP.
+
+If you want to connect to OpenPlotter by remote desktop from a external device (laptop, tablet or smartphone), both of then have to be connected to the same network. To do this you can either 
 
 ##VNC
 
+Be sure the checkbox "VNC remote desktop" is enabled.
+
 ![](startup.png)
+
+
 
 ### Tested VNC remote desktop clients
 
