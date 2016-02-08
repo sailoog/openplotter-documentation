@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Funding](funding.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
@@ -61,6 +60,7 @@
 * System time from NMEA
 * Startup
 * Troubleshooting
+* [Funding](funding.md)
 * [License](license.md)
 * [Credits](credits.md)
 
