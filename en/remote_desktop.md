@@ -5,7 +5,11 @@
 This chapter is under construction
 
 ---
+There are two ways to connect to OpenPlotter by remote desktop. VNC and RDP.
+
 ##VNC
+
+![](startup.png)
 
 ### Tested VNC remote desktop clients
 
