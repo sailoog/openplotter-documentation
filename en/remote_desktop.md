@@ -11,31 +11,53 @@ This chapter is under construction
 
 ### Linux
 
-Vinagre: https://wiki.gnome.org/Apps/Vinagre
+Vinagre
 
 ### Windows
 
-VNC Viewer: https://www.realvnc.com
+RealVNC Viewer
+
+TightVNC
 
 ### MAC
 
 ### Android
 
-VNC Viewer: https://www.realvnc.com
+bVNC
+
+RealVNC Viewer
+
+VNC per Android
 
 ### IOS
+
+RealVNC
 
 ## Tested RDP remote desktop clients
 
 ### Linux
 
-Vinagre: https://wiki.gnome.org/Apps/Vinagre
+Vinagre
 
 ### Windows
+
+Windows 10 Remote Desktop Client
+
+Windows CE 5.0 Remote Desktop Client
 
 ### MAC
 
 ### Android
+
+Remote RDP Lite
+
+RDC
+
+Remote Desktop Client
+
+aRDP
+
+RDP Remote Desktop
 
 ### IOS
 
