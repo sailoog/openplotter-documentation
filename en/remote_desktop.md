@@ -5,23 +5,23 @@
 This chapter is under construction
 
 ---
+##VNC
 
+### Tested VNC remote desktop clients
 
-## Tested VNC remote desktop clients
-
-### Linux
+**Linux**
 
 Vinagre
 
-### Windows
+**Windows**
 
 RealVNC Viewer
 
 TightVNC
 
-### MAC
+**MAC**
 
-### Android
+**Android**
 
 bVNC
 
@@ -29,25 +29,27 @@ RealVNC Viewer
 
 VNC per Android
 
-### IOS
+**IOS**
 
 RealVNC
 
-## Tested RDP remote desktop clients
+##RDP
 
-### Linux
+### Tested RDP remote desktop clients
+
+**Linux**
 
 Vinagre
 
-### Windows
+**Windows**
 
 Windows 10 Remote Desktop Client
 
 Windows CE 5.0 Remote Desktop Client
 
-### MAC
+**MAC**
 
-### Android
+**Android**
 
 Remote RDP Lite
 
@@ -59,6 +61,6 @@ aRDP
 
 RDP Remote Desktop
 
-### IOS
+**IOS**
 
 
