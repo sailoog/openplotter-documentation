@@ -8,8 +8,6 @@ This chapter is under construction
 
 If you want to connect to OpenPlotter by remote desktop from external devices (laptops, tablets or smartphones), all of them have to be connected to the same network. To do this you can either set OpenPlotter as a WiFi access point and connect your devices to him or connect devices and OpenPlotter to the same  router.
 
-
-
 ##VNC
 
 Be sure the checkbox "VNC remote desktop" is enabled.
