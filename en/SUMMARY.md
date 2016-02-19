@@ -43,7 +43,7 @@
 * [SDR AIS](sdr_ais.md)
 * Sensors
    * I2C sensors
-   * [1W sensors](1w.md)
+   * [DS18B20](DS18B20.md)
    * SPI sensors
 * [Switches](switches.md)
    * Common switches
