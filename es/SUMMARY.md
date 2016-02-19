@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * FAQ
-* How does it work?
+* [How does it work?](how_does_it_work.md)
 * What do you need?
    * ARM embedded computer
    * Box
@@ -65,3 +65,4 @@
 * Funding
 * License
 * Credits
+
