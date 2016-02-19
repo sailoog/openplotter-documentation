@@ -42,7 +42,10 @@
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
 * Sensors
-   * I2C sensors
+   * IMU
+   * Pressure
+   * Temperature
+   * Humidity
    * [DS18B20](DS18B20.md)
    * SPI sensors
 * [Switches](switches.md)
