@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [FAQ](faq.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
@@ -59,7 +60,6 @@
 * Weather forecast (ZyGrib)
 * System time from NMEA
 * Startup
-* [FAQ](faq.md)
 * [Funding](funding.md)
 * [License](license.md)
 * [Credits](credits.md)
