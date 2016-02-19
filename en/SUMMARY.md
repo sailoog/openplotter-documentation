@@ -47,7 +47,6 @@
    * Temperature
    * Humidity
    * [DS18B20](DS18B20.md)
-   * Analog sensors
 * [Switches](switches.md)
    * Common switches
    * Door switches
