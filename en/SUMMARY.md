@@ -59,7 +59,7 @@
 * Weather forecast (ZyGrib)
 * System time from NMEA
 * Startup
-* FAQ
+* [FAQ](faq.md)
 * [Funding](funding.md)
 * [License](license.md)
 * [Credits](credits.md)
