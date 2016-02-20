@@ -8,11 +8,7 @@ This chapter is under construction
 
 ##Documentation
 
-**English**: Sailoog
-
-**French**: Nicolas Janvier
-
-**Spanish**:
+Sailoog, Nicolas Janvier, Didier Barnouin, V36317
 
 ##Software
 
