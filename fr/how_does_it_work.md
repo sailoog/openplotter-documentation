@@ -1,25 +1,26 @@
-# How does it work?
+# Comment ça marche ??
 
-OpenPlotter can collect data from different sources:
+OpenPlotter peut recevoir les données de différentes sources:
 
-* Sensors and devices connected by GPIO port.
-* Serial devices connected by USB port.
-* Any computer or portable device connected to the same network.
+* Capteurs et appareils connectés au GPIO
+* Appareils reliés au port USB
+* Tout ordinateur ou appareil portable connecté au même réseau.
 
-Most of these sources directly send data in the maritime format called NMEA 0183. Others, like SDR AIS or some sensors, need to be processed by OpenPlotter to convert raw data to NMEA. Finally, there are other devices that do not use NMEA format.
+La plupart de ces sources envoient directement leurs données au format NMEA0183. D'autres données, l'AIS SDR par exemple, doivent être traitées et converties par OpenPlotter. Enfin, il existe des sources qui n'utilisent pas le NMEA.
 
-All these sources are combined in a single data stream which can be sent to:
+Toutes les informations de ces sources sont combinées (multiplexées) en un seul flux de données qui peuvent être envoyées à:
 
-* Internal chartplotter (OpenCPN).
+* Un traceur de cartes en local (OpenCPN).
 * Internal  NMEA calculator to generate new NMEA data.
-* Internal triggers/actions system.
-* Other external devices through network or serial connections.
-* Data Inspector.
-* Virtual Instrument Panel
-* A twitter account through Internet.
-* An e-mail account through Internet.
+* Un calculateur NMEA qui génerera de nouvelees données (ex: vent vrai)
+* *Internal triggers/actions system.*
+* D'autres appareils via une connection réseau, WIFI ou série.
+* Un afficheur de données.
+* Un écran d'instruments virtuels
+* Un compte Twitter.
+* Un compte email.
 
-Through the chapters of this manual we will see how to do this.
+Les chapitres qui suivent vous indiquent comment faire tout cela.
 
 ![](diagram.png)
 
