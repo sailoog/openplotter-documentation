@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * FAQ
 * [How does it work?](how_does_it_work.md)
-* What do you need?
+* [What do you need?](what_do_you_need-fr.md)
    * ARM embedded computer
    * Box
    * Power supply
