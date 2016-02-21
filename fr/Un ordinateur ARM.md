@@ -1,2 +1,2 @@
-# ARM embedded computer
+# Un ordinateur ARM
 
