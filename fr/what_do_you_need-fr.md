@@ -1,2 +1,2 @@
-# What do you need?
+# Les composants d'OpenPlotter
 
