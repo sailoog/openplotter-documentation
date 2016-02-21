@@ -11,7 +11,6 @@ La plupart de ces sources envoient directement leurs données au format NMEA0183
 Toutes les informations de ces sources sont combinées (multiplexées) en un seul flux de données qui peuvent être envoyées à:
 
 * Un traceur de cartes en local (OpenCPN).
-* Internal  NMEA calculator to generate new NMEA data.
 * Un calculateur NMEA qui génerera de nouvelees données (ex: vent vrai)
 * *Internal triggers/actions system.*
 * D'autres appareils via une connection réseau, WIFI ou série.
