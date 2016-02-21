@@ -1,2 +1,0 @@
-# Les composants d'OpenPlotter
-
