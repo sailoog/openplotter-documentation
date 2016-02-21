@@ -1,33 +1,34 @@
-# What is OpenPlotter?
+# Qu'est-ce qu'OpenPlotter?
 
 ![OpenPlotter logo](openplotter500x300.png)
 
-There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the [Raspberry Pi](https://www.raspberrypi.org/) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
+Certains achêtent des bateaux quand d'autres les construisent. Pourquoi ne pas construire votre propre électronique ?
+OpenPlotter est une combinaison de logiciels et de matériels utilisable comme aide à la navigation sur les petites et moyennes embarcations. C'est aussi une solution complète de domotique à destination de votre bateau. OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. Faites-le vous-même !
 
-## Features
+## Fonctionnalités
 
-* **Chartplotter**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
-* **Weather Forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
-* **NMEA 0183 Multiplexer**. Multiplex and filter data inputs from any number of serial and network interfaces. Send and filter to any number of outputs.
-* **Signal K (beta)**. OpenPlotter is ready for [Signal K](http://signalk.org/), the new, free and open source universal marine data exchange.
-* **Inspector**. Check the data traffic to avoid conflicts and overlaps between sources.
-* **WiFi Access Point**. Share data (NMEA 0183, Signal K, remote desktop, Internet connection) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
-* **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+* **Traceur de cartes**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
+* **Prévisions météo**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
+* **Multiplexeur NMEA 0183**. Multiplex and filter data inputs from any number of serial and network interfaces. Send and filter to any number of outputs.
+* **Serveur Signal K (beta)**. OpenPlotter is ready for [Signal K](http://signalk.org/), the new, free and open source universal marine data exchange.
+* **Moniteur NMEA**. Check the data traffic to avoid conflicts and overlaps between sources.
+* **Point d'accès WiFi**. Share data (NMEA 0183, Signal K, remote desktop, Internet connection) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
+* **Ecran à distance**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **Headless**. Easy start without monitor.
-* **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
-* **Electronic Compass and Heel**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
-* **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
-* **Multiple temperature sensors**. Get data from coolant engine, exhaust, fridge, sea...
-* **Special Sensors**. Detect opening doors/windows, tanks level, human body motion...
-* **Magnetic Variation**. Calculate magnetic variation for date and position.
-* **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
-* **True Wind**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
-* **Rate Of Turn**. Calculate the rate the ship is turning.
-* **Remote Monitoring**. Publish data on Twitter or send it by email.
-* **Actions System**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
-* **Custom Switches**. Connect external switches and link them with actions.
-* **Handle External Devices**. Relays, LEDs, buzzers ...
-* **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
-* **Startup Programs**. Select some program parameters to automatically launch at start.
+* **Réception SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
+* **Compas magnétique et gite**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
+* **Baromètre, Thermomètre and Hygromètre**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
+* **Capteurs de température multiples**. Get data from coolant engine, exhaust, fridge, sea...
+* **Capteurs spéciaux**. Detect opening doors/windows, tanks level, human body motion...
+* **Déclinaison magnétique**. Calculate magnetic variation for date and position.
+* **Cap vrai**. Calculate true heading from magnetic variation and magnetic heading.
+* **Vent vrai**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
+* **Taux de virage**. Calculate the rate the ship is turning.
+* **Monitoring à distance**. Publish data on Twitter or send it by email.
+* **Actions pré-programmées**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
+* **Interrupteurs custom**. Connect external switches and link them with actions.
+* **Composants customs**. Relays, LEDs, buzzers ...
+* **Outils de mise à l'heure**. Set the system time from NMEA data and set the time zone easily.
+* **Gestion des logiciels au démarrage**. Select some program parameters to automatically launch at start.
 
 ![OpenPlotter desktop](openplotter.png)
