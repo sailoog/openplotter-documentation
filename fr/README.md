@@ -26,7 +26,7 @@ OpenPlotter est une combinaison de logiciels et de matériels utilisable comme a
 * **Taux de virage**. Calculate the rate the ship is turning.
 * **Monitoring à distance**. Publish data on Twitter or send it by email.
 * **Actions pré-programmées**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
-* **Interrupteurs custom**. Connect external switches and link them with actions.
+* **Interrupteurs customs**. Connect external switches and link them with actions.
 * **Composants customs**. Relays, LEDs, buzzers ...
 * **Outils de mise à l'heure**. Set the system time from NMEA data and set the time zone easily.
 * **Gestion des logiciels au démarrage**. Select some program parameters to automatically launch at start.
