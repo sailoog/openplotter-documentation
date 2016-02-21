@@ -4,7 +4,7 @@
 * FAQ
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need-fr.md)
-   * ARM embedded computer
+   * [ARM embedded computer](Un ordinateur ARM.md)
    * Box
    * Power supply
    * HDMI monitor
