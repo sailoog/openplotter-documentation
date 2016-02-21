@@ -5,8 +5,8 @@
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need-fr.md)
    * [Ordinateur ARM](Un ordinateur ARM.md)
-   * [Box](boitier.md)
-   * [Power supply](Alimentation.md)
+   * [Boîtier](boitier.md)
+   * [Alimentation](Alimentation.md)
    * HDMI monitor
    * Keyboard and mouse
    * SD card
