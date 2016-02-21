@@ -5,7 +5,7 @@
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need-fr.md)
    * [ARM embedded computer](Un ordinateur ARM.md)
-   * Box
+   * [Box](boitier.md)
    * Power supply
    * HDMI monitor
    * Keyboard and mouse
