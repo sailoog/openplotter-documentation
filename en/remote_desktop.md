@@ -23,48 +23,30 @@ Be sure the checkbox *VNC remote desktop* is enabled in the *Startup* tab.
 
 To connect by VNC you have to provide the IP of OpenPlotter and the port 5900.
 
-### Tested VNC remote desktop clients
-
-**Linux**
-
-Vinagre.
-
-**Windows**
-
-RealVNC Viewer, TightVNC.
-
-**MAC**
-
-**Android**
-
-bVNC, RealVNC Viewer, VNC per Android.
-
-**IOS**
-
-RealVNC.
-
 ##RDP
 
 To connect by RDP you have to provide just the IP. Then you will be prompted for the password of user *pi*. If you have not changed it, it should be *raspberry*.
 
 ![](login_rdp.png)
 
-### Tested RDP remote desktop clients
+### Tested remote desktop clients
 
-**Linux**
+**VNC**
 
-Vinagre.
+Linux: Vinagre.
 
-**Windows**
+Windows: RealVNC Viewer, TightVNC.
 
-Windows 10 Remote Desktop Client, Windows CE 5.0 Remote Desktop Client.
+Android: bVNC, RealVNC Viewer, VNC per Android.
 
-**MAC**
+IOS: RealVNC.
 
-**Android**
+**RDP**
 
-Remote RDP Lite, RDC, Remote Desktop Client, aRDP, RDP Remote Desktop
+Linux: Vinagre.
 
-**IOS**
+Windows: Windows 10 Remote Desktop Client, Windows CE 5.0 Remote Desktop Client.
+
+Android: Remote RDP Lite, RDC, Remote Desktop Client, aRDP, RDP Remote Desktop.
 
 
