@@ -1,4 +1,9 @@
 # Remote desktop
+---
+
+This chapter is under construction
+
+---
 
 If you want to use OpenPlotter from external devices (laptops, tablets or smartphones) by remote desktop, all of them have to be connected to the same network and you have to know what IP has been assigned to OpenPlotter.
 
