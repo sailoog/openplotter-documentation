@@ -41,7 +41,7 @@
 * [Remote desktop](remote_desktop.md)
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
-* Sensors
+* [Sensors](sensors.md)
    * IMU
    * Pressure
    * Temperature
