@@ -48,7 +48,7 @@ RealVNC.
 
 To connect by RDP you have to provide just the IP and the password of user "pi" of OpenPlotter. If you have not changed it, it should be "raspberry".
 
-Pantallazo login
+![](login_rdp.png)
 
 ### Tested RDP remote desktop clients
 
