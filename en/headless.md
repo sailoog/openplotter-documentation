@@ -61,7 +61,7 @@ After it has finished booting up, there should be a new WiFi network called *my_
 
 ![](headless1.png)
 
-Finally, open your favourite remote desktop software on your laptop, tablet or smartphone and make a new connection with the address **10.10.10.1:5900**.
+Finally, open your favourite VNC remote desktop client on your laptop, tablet or smartphone and make a new connection with the address/port combination: **10.10.10.1:5900**, or just the address **10.10.10.1** if you are using a RDP remote desktop client.
 
 Connect and enjoy!
 
