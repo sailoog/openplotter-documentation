@@ -1,4 +1,4 @@
-# ¿qué es Openplotter?
+# ¿Qué es Openplotter?
 
 ![OpenPlotter logo](openplotter500x300.png)
 
