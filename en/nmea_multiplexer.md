@@ -1,12 +1,6 @@
 
 # NMEA 0183 Multiplexer
 
----
-
-This chapter is under construction
-
----
-
 It is important that you understand that OpenPlotter must drive all the NMEA data traffic to work properly, so you do not need to configure OpenCPN to get GPS signal, we will set this in OpenPlotter NMEA 0183 tab.
 
 ## System defaults
