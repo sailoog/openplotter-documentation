@@ -1,14 +1,14 @@
-# How does it work?
+# ¿Cómo funciona?
 
-OpenPlotter can collect data from different sources:
+OpenPlotter puede obtener datos desde diferentes fuentes:
 
-* Sensors and devices connected by GPIO port.
-* Serial devices connected by USB port.
-* Any computer or portable device connected to the same network.
+* Sensores y dispositivos conectados por el puerto GPIO.
+* Dispositivos serie conectados por el puerto USB.
+* Cualquier ordenador o dispositivo portatil conectado a la misma red.
 
-Most of these sources directly send data in the maritime format called NMEA 0183. Others, like SDR AIS or some sensors, need to be processed by OpenPlotter to convert raw data to NMEA. Finally, there are other devices that do not use NMEA format.
+La mayoria de estas fuentes envian datos directamente en el  formato marino denominado NMEA 0183. Otros, como AIS-SDR o algunos sensores, necesitan ser procesados por OpenPlotter para convertir los datos en bruto a formato NMEA. Por otra parte, existen otros dispositivos que no usan el formato NMEA.
 
-All these sources are combined in a single data stream which can be sent to:
+Todas estas fuentes se combinan en un único flujo de datos que puede ser enviados a:
 
 * Internal chartplotter (OpenCPN).
 * Internal  NMEA calculator to generate new NMEA data.
