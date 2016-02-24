@@ -68,3 +68,5 @@ Connect and enjoy!
 ![](headless2.png)
 
 See more information about tested remote desktop software in [Remote desktop](remote_desktop.md) chapter.
+
+If this is your first boot, go to [Getting Started](getting_started.md) chapter and follow the steps.
