@@ -23,3 +23,4 @@ Even if you have only one NMEA source, as for example just a GPS, you should cre
 
 You can not disable nor delete *system input* and *system output*.
 
+Kplex is the application that handles the multiplexing. For special cases, click on the *Advanced* button to edit the Kplex configuration file.
