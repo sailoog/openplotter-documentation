@@ -3,15 +3,15 @@
 ![OpenPlotter logo](openplotter500x300.png)
 
 
-Hay gente que compra barcos pero también hay personas que los construyen, ¿por qué no construirte tu própia electrónica también? Openplotter es una combinación de software y hardware para ser usado como ayuda a la navegación en barcos de pequeña y mediana eslora. Es también un sistema completo, no profesional, de automatización a bordo. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular, así que solo tienes que incorporar lo que tu barco necesite. Hazlo por tí mismo.
+Hay gente que compra barcos pero también hay personas que los construyen, ¿por qué no construirte tu própia electrónica también? Openplotter es una combinación de software y hardware para ser usado como ayuda a la navegación en barcos de pequeña y mediana eslora. Es también un completo sistema de domótica a bordo. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular, así que solo tienes que incorporar lo que tu barco necesite. Hazlo tu mismo.
 
 
 ## Características
 
-* **Trazador Gráfico**. Con [OpenCPN](http://opencpn.org), un programa de navegación con útiles plugins.
+* **Chartplotter**. Con [OpenCPN](http://opencpn.org), un programa de navegación con útiles plugins.
 * **Predicciones Metereológicas**. Descarga y visualiza ficheros GRIB mediante [zyGrib](http://www.zygrib.org).
-* **Multiplexor NMEA 0183**. Combina y filtra datos procedentes de cualquier número de medios en serie o en red.  Envía y filtra a cualquier número de salidas.
-* **Señal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/),el nuevo, gratuito y de código abierto formato de intercambio de datos marinos.
+* **Multiplexor NMEA 0183**. Combina y filtra datos procedentes de cualquier número de entradas serie o de red.  Envía y filtra a cualquier número de salidas.
+* **Signal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/), el nuevo formato de intercambio de datos marinos libre y de código abierto.
 * **Inspector**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre dos fuentes.
 * **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Señal K, escritorio remoto, conexión Internet) con portátiles, tabletas y telefonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter, desde la bañera a través de tus dispositivos móviles.
