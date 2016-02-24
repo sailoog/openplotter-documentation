@@ -19,5 +19,7 @@ If you want to connect a GPS USB dongle or get data from the boat through a NMEA
 
 All the inputs will be automatically merged (multiplexed) and will be available at the ***system output*** type TCP, address 127.0.0.1 and port 10110. You have just to create a TCP network input in OpenCPN to listen to address 127.0.0.1 and port 10110 to get all the multiplexed NMEA data.
 
+Even if you have only one NMEA source, as for example just a GPS, you should create the serial input in OpenPlotter and get the data from the *system output*. So,
+
 You can not disable nor delete *system input* and *system output*.
 
