@@ -12,9 +12,9 @@ Todas estas fuentes se combinan en un único flujo de datos que puede ser enviad
 
 * Internamente, chartplotter (OpenCPN).
 * Internamente, calculadora NMEA para generar nuevos datos NMEA.
-* Internamente, l triggers/actions system.
-* Other external devices through network or serial connections.
-* Data Inspector.
+* Internamente, disparadores/acciones del sistema.
+* Otros dispositivos externos desde la red o las conexiones serie.
+* El Inspector de datos.
 * Virtual Instrument Panel
 * A twitter account through Internet.
 * An e-mail account through Internet.
