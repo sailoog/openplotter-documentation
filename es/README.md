@@ -15,7 +15,7 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Inspector**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre dos fuentes.
 * **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto, conexión Internet) con los portátiles, tabletas y teléfonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
-* **Sin monitor**. Posibilidad de uso sin monitor facilmente.
+* **Sin monitor**. Posibilidad de uso sin monitor fácilmente.
 * **AIS-SDR**. Recibe y decodifica AIS mediante asequibles receptores de TDT. Incluye herramientas de calibración.
 * **Brújula electronica y Escora**. Lee el rumbo de aguja y la escora desde el sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Barógrafo, Termógrafo e Higrógrafo**. Gracias a sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
@@ -28,8 +28,8 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Monitorización Remota**. Publica datos en Twitter o los envía por correo electrónico.
 * **Sistema de Acciones**. Compara un valor configurable con cualquier dato que fluya a través del sistema y lo utiliza como disparador de múltiples acciones predefinidas.
 * **Interruptores Configurables**. Conecta interruptores externos y los vincula a acciones.
-* **Opera Dispositivos Externos**. Relés, LEDs, zumbadores ...
-* **Herramientas de Tiempo del Sistema**. Establece la hora del sistema a partir de datos NMEA y la zona horaria facilmente.
+* **Activa Dispositivos Externos**. Relés, LEDs, zumbadores ...
+* **Herramientas de Hora del Sistema**. Establece la fecha y hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
 * **Inicio de Programas**. Selecciona los parámetros de algunos programas para ejecutarlos automáticamente al inicio.
 
 
