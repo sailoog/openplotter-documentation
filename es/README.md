@@ -17,9 +17,9 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
 * **Sin monitor**. Posibilidad de uso sin monitor facilmente.
 * **AIS-SDR**. Recibe y decodifica AIS mediante asequibles receptores de TDT. Incluye herramientas de calibración.
-* **Brújula electronica y Escora**. Lee el rumbo magnético y la escora desde el sensor IMU. Compensada por algoritmo. Incluye herramientas de calibración.
-* **Barometro, Termometro e Higrómetro, gráficos**. Desde los sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
-* **Sensores de multiples temperaturas**. Obtiene datos desde la refrigeración del motor, el escape, la mar, etc...
+* **Brújula electronica y Escora**. Lee el rumbo de aguja y la escora desde el sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
+* **Barógrafo, Termógrafo e Higrógrafo**. Gracias a sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
+* **Múltiples sensores de temperatura**. Obtiene datos del refrigerante del motor, el tubo de escape, nevera, agua del mar, etc...
 * **Sensores Especiales**. Detecta puertas/ventanas abiertas, niveles en depósitos, movimientos de personas...
 * **Desviación Magnética**. Calcula la desviación magnética para una fecha y posición dadas.
 * **Rumbo verdadero**. Calcula el rumbo verdadero a partir de la desviación magnética y del rumbo magnético.
