@@ -10,9 +10,9 @@ La mayoria de estas fuentes envian datos directamente en el  formato marino deno
 
 Todas estas fuentes se combinan en un único flujo de datos que puede ser enviados a:
 
-* Internal chartplotter (OpenCPN).
-* Internal  NMEA calculator to generate new NMEA data.
-* Internal triggers/actions system.
+* Internamente, chartplotter (OpenCPN).
+* Internamente, calculadora NMEA para generar nuevos datos NMEA.
+* Internamente, l triggers/actions system.
 * Other external devices through network or serial connections.
 * Data Inspector.
 * Virtual Instrument Panel
