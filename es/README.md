@@ -13,9 +13,9 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Multiplexor NMEA 0183**. Combina y filtra datos procedentes de cualquier número de entradas serie o de red.  Envía y filtra a cualquier número de salidas.
 * **Signal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/), el nuevo formato de intercambio de datos marinos libre y de código abierto.
 * **Inspector**. Comprueba el tráfico de datos para evitar conflictos y solapamientos entre dos fuentes.
-* **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Señal K, escritorio remoto, conexión Internet) con portátiles, tabletas y telefonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
-* **Escritorio Remoto**. Accede al escritorio de OpenPlotter, desde la bañera a través de tus dispositivos móviles.
-* **Autónomo**. Inicio sencillo sin monitor.
+* **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto, conexión Internet) con los portátiles, tabletas y teléfonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
+* **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
+* **Sin monitor**. Posibilidad de uso sin monitor facilmente.
 * **AIS-SDR**. Recibe y decodifica AIS mediante asequibles receptores de TDT. Incluye herramientas de calibración.
 * **Brújula electronica y Deriva**. Lee el rumbo magnético y la deriva desde el sensor IMU. Compensada por algoritmo. Incluye herramientas de calibración.
 * **Barometro, Termometro e Higrómetro, gráficos**. Desde los sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
