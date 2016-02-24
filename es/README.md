@@ -24,10 +24,10 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Declinación Magnética**. Calcula la declinación magnética para una fecha y posición dadas.
 * **Rumbo verdadero**. Calcula el rumbo verdadero a partir de la declinación magnética y del rumbo de aguja.
 * **Viento Real**. Calcula el viento real a partir del viento aparente y o bien la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
-* **Velocidad de Giro**. Calcula la velocidad a la que el barco está girando.
-* **Monitorización Remota**. Publica datos en twitter o los envía por correo electrónico.
-* **Protocolo de Acciones**. Compara un valor del usuario con cualquier flujo de datos a través de tu sistema y lo utiliza como desencadenante que ejecuta multiples acciones predefinidas.
-* **Interruptores de Usuario**. Conecta interruptores externos y los enlaza a acciones.
+* **Ratio de Giro**. Calcula la velocidad a la que el barco está girando.
+* **Monitorización Remota**. Publica datos en Twitter o los envía por correo electrónico.
+* **Sistema de Acciones**. Compara un valor configurable con cualquier dato que fluya a través del sistema y lo utiliza como disparador de múltiples acciones predefinidas.
+* **Interruptores Configurables**. Conecta interruptores externos y los vincula a acciones.
 * **Opera Dispositivos Externos**. Relés, LEDs, zumbadores ...
 * **Herramientas de Tiempo del Sistema**. Establece la hora del sistema a partir de datos NMEA y la zona horaria facilmente.
 * **Inicio de Programas**. Selecciona los parámetros de algunos programas para ejecutarlos automáticamente al inicio.
