@@ -30,7 +30,6 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Interruptores Configurables**. Conecta interruptores externos y los vincula a acciones.
 * **Activa Dispositivos Externos**. Relés, LEDs, zumbadores ...
 * **Herramientas de Hora del Sistema**. Establece la fecha y hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
-* **Inicio de Programas**. Selecciona los parámetros de algunos programas para ejecutarlos automáticamente al inicio.
-
+* **Programas de Inicio**. Configura programas y parámetros para ejecutar al inicio.
 
 ![OpenPlotter desktop](openplotter.png)
