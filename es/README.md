@@ -20,10 +20,10 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Brújula electronica y Escora**. Lee el rumbo de aguja y la escora desde el sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Barógrafo, Termógrafo e Higrógrafo**. Gracias a sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
 * **Múltiples sensores de temperatura**. Obtiene datos del refrigerante del motor, el tubo de escape, nevera, agua del mar, etc...
-* **Sensores Especiales**. Detecta puertas/ventanas abiertas, niveles en depósitos, movimientos de personas...
-* **Desviación Magnética**. Calcula la desviación magnética para una fecha y posición dadas.
-* **Rumbo verdadero**. Calcula el rumbo verdadero a partir de la desviación magnética y del rumbo magnético.
-* **Viento Real**. Calcula el viento real a partir del viento aparente y bien la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
+* **Sensores Especiales**. Detecta apertura de puertas/ventanas, niveles en depósitos y sentinas, movimientos de personas...
+* **Declinación Magnética**. Calcula la declinación magnética para una fecha y posición dadas.
+* **Rumbo verdadero**. Calcula el rumbo verdadero a partir de la declinación magnética y del rumbo de aguja.
+* **Viento Real**. Calcula el viento real a partir del viento aparente y o bien la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
 * **Velocidad de Giro**. Calcula la velocidad a la que el barco está girando.
 * **Monitorización Remota**. Publica datos en twitter o los envía por correo electrónico.
 * **Protocolo de Acciones**. Compara un valor del usuario con cualquier flujo de datos a través de tu sistema y lo utiliza como desencadenante que ejecuta multiples acciones predefinidas.
