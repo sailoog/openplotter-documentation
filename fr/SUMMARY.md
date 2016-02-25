@@ -7,7 +7,7 @@
    * [Ordinateur ARM](arm_computer.md)
    * [Boîtier](box.md)
    * [Alimentation](power_supply.md)
-   * HDMI monitor
+   * [HDMI monitor](monitor.md)
    * Keyboard and mouse
    * SD card
    * Software
