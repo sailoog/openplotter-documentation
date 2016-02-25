@@ -10,7 +10,7 @@
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
    * [SD card](sd_card.md)
-   * Software
+   * [Software](software.md)
    * Self powered USB Hub
    * USB WiFi dongle
    * USB GPS dongle
