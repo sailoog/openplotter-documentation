@@ -1,4 +1,4 @@
-# Connecting LEDs
+#LEDs
 ---
 
 This chapter is under construction
