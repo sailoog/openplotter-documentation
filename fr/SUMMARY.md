@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * FAQ
 * [How does it work?](how_does_it_work.md)
-* [What do you need?](what_do_you_need-fr.md)
+* [What do you need?](what_do_you_need.md)
    * [Ordinateur ARM](Un ordinateur ARM.md)
    * [Boîtier](boitier.md)
    * [Alimentation](Alimentation.md)
