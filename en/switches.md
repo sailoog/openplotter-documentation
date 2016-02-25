@@ -5,6 +5,7 @@
 This chapter is under construction
 
 ---
+Switches are driven through the GPIO (General Purpose Input/Output) pins. These pins are copper connected to the CPU chip. A short circuit with 0V or +3.3V is not final, but any direct contact with the + 5v (or higher) can KILL the Raspberry Pi... Switches have to be activated in OpenPlotter related tab. 
 
 For normal switches (opened by default), you have to select "Pull down" in "Switches" tab an connect switch between selected GPIO pin and +3.3v pin (DANGER, NEVER TO +5v). 
 
