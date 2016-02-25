@@ -53,7 +53,7 @@
    * Float switches
    * Motion sensor switches
 * [Outputs](outputs.md)
-   * [Connecting LEDs](connecting_leds.md)
+   * [LEDs](leds.md)
    * [Connecting relays](connecting_relays.md)
    * Connecting buzzers
 * Actions
