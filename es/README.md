@@ -32,4 +32,4 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Herramientas de Hora del Sistema**. Establece la fecha y hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
 * **Programas de Inicio**. Configura programas y parámetros para ejecutar al inicio.
 
-![OpenPlotter desktop](openplotter.png)
+![OpenPlotter desktop](../en/openplotter.png)
