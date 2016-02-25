@@ -6,7 +6,7 @@
 * [What do you need?](what_do_you_need.md)
    * [Ordinateur ARM](arm_computer.md)
    * [Boîtier](box.md)
-   * Alimentation
+   * [Alimentation](power_supply.md)
    * HDMI monitor
    * Keyboard and mouse
    * SD card
