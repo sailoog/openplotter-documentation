@@ -55,7 +55,7 @@
 * [Outputs](outputs.md)
    * [LEDs](leds.md)
    * [Relays](relays.md)
-   * Connecting buzzers
+   * Buzzers
 * Actions
 * [Accounts](accounts.md)
 * Weather graphs
