@@ -1,6 +1,6 @@
 # Qu'est-ce qu'OpenPlotter?
 
-![OpenPlotter logo](openplotter500x300.png)
+![OpenPlotter logo](../en/openplotter500x300.png)
 
 Certains achêtent des bateaux quand d'autres les construisent. Pourquoi ne pas construire votre propre électronique ?
 OpenPlotter est une combinaison de logiciels et de matériels utilisable comme aide à la navigation sur les petites et moyennes embarcations. C'est aussi une solution complète de domotique à destination de votre bateau. OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. Faites-le vous-même !
@@ -31,4 +31,4 @@ OpenPlotter est une combinaison de logiciels et de matériels utilisable comme a
 * **Outils de mise à l'heure**. Set the system time from NMEA data and set the time zone easily.
 * **Gestion des logiciels au démarrage**. Select some program parameters to automatically launch at start.
 
-![OpenPlotter desktop](openplotter.png)
+![OpenPlotter desktop](../en/openplotter.png)
