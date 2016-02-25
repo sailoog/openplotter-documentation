@@ -48,7 +48,7 @@
    * Humidity
    * [DS18B20](DS18B20.md)
 * [Switches](switches.md)
-   * Common switches
+   * [Common switches](common_sws.md)
    * Door switches
    * Float switches
    * Motion sensor switches
