@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * FAQ
-* [¿Cómo funciona??](how_does_it_work.md)
+* [¿Cómo funciona?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
    * [Box](box.md)
