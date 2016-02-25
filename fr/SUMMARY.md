@@ -9,7 +9,7 @@
    * [Alimentation](power_supply.md)
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
-   * SD card
+   * [SD card](sd_card.md)
    * Software
    * Self powered USB Hub
    * USB WiFi dongle
