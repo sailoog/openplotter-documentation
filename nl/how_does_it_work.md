@@ -21,4 +21,4 @@ All these sources are combined in a single data stream which can be sent to:
 
 Through the chapters of this manual we will see how to do this.
 
-![](diagram.png)
+![](../en/diagram.png)
