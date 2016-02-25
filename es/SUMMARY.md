@@ -6,7 +6,7 @@
 * [What do you need?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
    * [Box](box.md)
-   * Power supply
+   * [Power supply](power_supply.md)
    * HDMI monitor
    * Keyboard and mouse
    * SD card
