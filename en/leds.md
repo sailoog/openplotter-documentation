@@ -4,7 +4,7 @@
 This chapter is under construction
 
 ---
-## LED output
+## Wiring
 
 Ignoring the Pi for a moment, one of the simplest electrical circuits that you can build is a battery connected to a light source and a switch (the resistor is there to (limit the current flow) and protect the LED):
 
@@ -17,3 +17,4 @@ Here's the same circuit using the Raspberry Pi. The LED is connected to a GPIO p
 
 ![](gpio-led-pi2.png)
  
+## Settings
