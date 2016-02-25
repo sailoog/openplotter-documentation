@@ -52,7 +52,7 @@
    * Door switches
    * Float switches
    * Motion sensor switches
-* Outputs
+* [Outputs](outputs.md)
    * Connecting LEDs
    * Connecting relays
    * Connecting buzzers
