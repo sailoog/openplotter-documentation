@@ -37,6 +37,11 @@
 * Chartplotter (OpenCPN)
    * Sending data to autopilot
 * Calculate
+* [Switches](switches.md)
+   * Common switches
+   * Door switches
+   * Float switches
+   * Motion sensor switches
 * WiFi access point
 * [Remote desktop](remote_desktop.md)
 * Signal K (beta)
@@ -47,11 +52,6 @@
    * Temperature
    * Humidity
    * [DS18B20](DS18B20.md)
-* [Switches](switches.md)
-   * Common switches
-   * Door switches
-   * Float switches
-   * Motion sensor switches
 * [Outputs](outputs.md)
    * [LEDs](leds.md)
    * [Relays](relays.md)
