@@ -8,7 +8,7 @@
    * [Box](box.md)
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
-   * Keyboard and mouse
+   * [Keyboard and mouse](keyboard.md)
    * SD card
    * Software
    * Self powered USB Hub
