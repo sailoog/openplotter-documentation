@@ -1,5 +1,9 @@
-# Connecting relays
+# Relays
+---
 
+This chapter is under construction
+
+---
 
 The GPIO pins can only deliver a few mA, and cannot drive directly a relay. Therefore a few electronics components are required : 
 
