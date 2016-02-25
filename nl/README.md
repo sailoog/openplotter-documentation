@@ -1,6 +1,6 @@
 # What is OpenPlotter?
 
-![OpenPlotter logo](openplotter500x300.png)
+![OpenPlotter logo](../en/openplotter500x300.png)
 
 There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the [Raspberry Pi](https://www.raspberrypi.org/) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
 
@@ -30,4 +30,4 @@ There are people who buy boats but there are also people who build them, why not
 * **System Time Tools**. Set the system time from NMEA data and set the time zone easily.
 * **Startup Programs**. Select some program parameters to automatically launch at start.
 
-![OpenPlotter desktop](openplotter.png)
+![OpenPlotter desktop](../en/openplotter.png)
