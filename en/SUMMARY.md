@@ -54,7 +54,7 @@
    * Motion sensor switches
 * [Outputs](outputs.md)
    * [LEDs](leds.md)
-   * [Connecting relays](connecting_relays.md)
+   * [Relays](relays.md)
    * Connecting buzzers
 * Actions
 * [Accounts](accounts.md)
