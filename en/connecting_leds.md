@@ -14,5 +14,3 @@ Here's the same circuit using the Raspberry Pi. The LED is connected to a GPIO p
 
 ![](gpio-led-pi2.png)
  
-
-
