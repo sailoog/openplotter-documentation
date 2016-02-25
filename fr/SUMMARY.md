@@ -5,7 +5,7 @@
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
    * [Ordinateur ARM](arm_computer.md)
-   * Boîtier
+   * [Boîtier](box.md)
    * Alimentation
    * HDMI monitor
    * Keyboard and mouse
