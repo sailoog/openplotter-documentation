@@ -4,6 +4,7 @@
 This chapter is under construction
 
 ---
+## Wiring
 
 The GPIO pins can only deliver a few mA, and cannot drive directly a relay. Therefore a few electronics components are required : 
 
@@ -16,6 +17,7 @@ The GPIO pins can only deliver a few mA, and cannot drive directly a relay. Ther
 
 Relays used in automobile industry should be connected to + 12 VDC. They will draw a higher current (4 to 500 mA), and call for a more elaborated design (cascading two transistors). 
 
+## Settings
 
 
 
