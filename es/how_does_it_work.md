@@ -21,4 +21,4 @@ Todas estas fuentes se combinan en un único flujo de datos que puede ser enviad
 
 A lo largo de los capítulos de este manual iremos viendo como realizar todo esto.
 
-![](diagram.png)
+![](../en/diagram.png)
