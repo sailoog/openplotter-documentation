@@ -21,5 +21,5 @@ Toutes les informations de ces sources sont combinées (multiplexées) en un seu
 
 Les chapitres qui suivent vous indiquent comment faire tout cela.
 
-![](diagram.png)
+![](../en/diagram.png)
 
