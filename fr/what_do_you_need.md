@@ -16,7 +16,7 @@ You need at least these items to run *the software* and you have two options: ei
 * [SD card](sd_card.md)
 * [OpenPlotter RPI](software.md) (*the software*)
 
-![](start.png)
+![](../en/start.png)
 
 ### Headless option
 
@@ -28,7 +28,7 @@ You need at least these items to run *the software* and you have two options: ei
 * [OpenPlotter RPI](software.md) (*the software*)
 * Any laptop tablet or smartphone
 
-![](start2.png)
+![](../en/start2.png)
 
 ##Optional items
 
