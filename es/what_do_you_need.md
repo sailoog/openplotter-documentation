@@ -1,52 +1,52 @@
-#What do you need?
+#¿Qué se necesita?
 
-You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+Se necesitan unos requisitos mínimos y algunos opcionales. Todo depende de que tipo de datos  se quiera recopilar, procesar o visualizar y que tipo de equipamiento dispone ya el barco.
 
-## Required items
+##Requisitos mínimos
 
-You need at least these items to run *the software* and you have two options: either with monitor or without monitor (headless).
+Esto es lo que se necesita, al menos, para ejecutar *el software* y existen dos opciones: con pantalla o sin pantalla (headless).
 
-### Monitor option
+###Con pantalla
 
-* [ARM embedded computer](arm_computer.md) (Raspberry Pi)
-* [Box](box.md)
-* [Power supply](power_supply.md)
-* [HDMI monitor](monitor.md)
-* [Keyboard and mouse](keyboard.md)
-* [SD card](sd_card.md)
-* [OpenPlotter RPI](software.md) (*the software*)
+* [Ordenador Integrado ARM](arm_computer.md) (Raspberry Pi)
+* [Caja](box.md)
+* [Fuente de Alimentación](power_supply.md)
+* [Pantalla conexión HDMI](monitor.md)
+* [Teclado y Ratón](keyboard.md)
+* [Tarjeta memoria SD](sd_card.md)
+* [OpenPlotter RPI](software.md) (*el software*)
 
 ![](../en/start.png)
 
-### Headless option
+###Sin pantalla (headless)
 
-* [ARM embedded computer](arm_computer.md) (Raspberry Pi)
-* [Box](box.md)
-* [Power supply](power_supply.md)
-* [USB WiFi dongle](wifi_dongle.md)
-* [SD card](sd_card.md)
-* [OpenPlotter RPI](software.md) (*the software*)
-* Any laptop tablet or smartphone
+* [Ordenador integrado ARM](arm_computer.md) (Raspberry Pi)
+* [Caja](box.md)
+* [Fuente de Alimentación](power_supply.md)
+* [Conector/transmisor USB WiFi](wifi_dongle.md)
+* [Tarjeta Memoria SD](sd_card.md)
+* [OpenPlotter RPI](software.md) (*el software*)
+* Cualquier ordenador portátil, tableta o telefono inteligente
 
 ![](../en/start2.png)
 
-##Optional items
+##Opcionales
 
-Devices to communicate with boat and sensors to collect data from environment.
+Dispositivos para comunicar con el barco y sensores para recopilar datos del entorno.
 
-* [Self powered USB Hub](hub.md)
-* [USB WiFi dongle](wifi_dongle.md)
-* [USB GPS dongle](gps_dongle.md)
-* [NMEA 0183 to USB converter](nmea_converter.md)
-* [USB DVB-T dongle](dvb-t_dongle.md) (AIS reception)
-* [IMU sensor](imu_sensor.md)
-* [Pressure/Temperature sensor](pressure_sensor.md)
-* [Humidity/Temperature sensor](humidity_sensor.md)
-* [One wire temperature sensor](1w_temp_sensor.md)
-* [PIR motion sensor](motion.md)
-* [Common switch](common_sw.md)
-* [Door switch](door_sw.md)
-* [Float switch](float_sw.md)
-* [Relay](relay.md)
+* [Concentrador USB Autoalimentado](hub.md)
+* [Conector/transmisor USB WiFi](wifi_dongle.md)
+* [Conector/transmisor USB GPS](gps_dongle.md)
+* [Conversor USB NMEA 0183](nmea_converter.md)
+* [Conector/transmisor USB DVB-T](dvb-t_dongle.md) (AIS reception)
+* [Sensor IMU](imu_sensor.md)
+* [Sensor de Presión//Temperatura](pressure_sensor.md)
+* [Sensor de Humedad/Temperatura](humidity_sensor.md)
+* [Sensor de Temperatura, protocolo "One wire"](1w_temp_sensor.md)
+* [Sensor de Movimiento PIR](motion.md)
+* [Interruptor Común](common_sw.md)
+* [Interruptor de Puerta](door_sw.md)
+* [Interruptor de Flotabilidad](float_sw.md)
+* [Relé](relay.md)
 * [LED](led.md)
-* [Buzzer](buzzer.md)
+* [Zumbador](buzzer.md)
