@@ -1,4 +1,4 @@
-# IMU
+# IMU sensor
 ---
 
 This chapter is under construction
