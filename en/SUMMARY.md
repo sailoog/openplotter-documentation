@@ -45,7 +45,7 @@
    * [IMU](imu.md)
    * [Pressure](pressure.md)
    * [Temperature](temperature.md)
-   * Humidity
+   * [Humidity](humidity.md)
    * [DS18B20](DS18B20.md)
 * [Switches](switches.md)
    * [Common switches](common_sws.md)
