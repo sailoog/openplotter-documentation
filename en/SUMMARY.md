@@ -43,7 +43,7 @@
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
    * [IMU](imu.md)
-   * Pressure
+   * [Pressure](pressure.md)
    * Temperature
    * Humidity
    * [DS18B20](DS18B20.md)
