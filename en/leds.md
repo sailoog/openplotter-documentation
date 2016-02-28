@@ -6,6 +6,10 @@ This chapter is under construction
 ---
 ## Wiring
 
+Pins names are according to the diagram below.
+
+![](RP2_Pinout.png)
+
 Ignoring the Pi for a moment, one of the simplest electrical circuits that you can build is a battery connected to a light source and a switch (the resistor is there to (limit the current flow) and protect the LED):
 
 ![](simple-circuit.png)
