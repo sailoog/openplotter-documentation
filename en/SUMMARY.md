@@ -42,7 +42,7 @@
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
-   * IMU
+   * [IMU](imu.md)
    * Pressure
    * Temperature
    * Humidity
