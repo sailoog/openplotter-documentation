@@ -6,6 +6,10 @@ This chapter is under construction
 ---
 ## Wiring
 
+Pins names are according to the diagram below.
+
+![](RP2_Pinout.png)
+
 The GPIO pins can only deliver a few mA, and cannot drive directly a relay. Therefore a few electronics components are required : 
 
 ![](Relay.jpg)
