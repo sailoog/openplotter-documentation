@@ -44,7 +44,7 @@
 * [Sensors](sensors.md)
    * [IMU](imu.md)
    * [Pressure](pressure.md)
-   * Temperature
+   * [Temperature](temperature.md)
    * Humidity
    * [DS18B20](DS18B20.md)
 * [Switches](switches.md)
