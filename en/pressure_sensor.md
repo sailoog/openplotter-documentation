@@ -17,3 +17,10 @@ Pressure/Temperature sensors have to be connected by I2C interface.
 * MS5611
 * MS5637
 
+---
+
+**Buy a tested BMP180 sensor**
+
+http://www.sailoog.com/shop-category/openplotter
+
+---
