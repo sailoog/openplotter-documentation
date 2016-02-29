@@ -15,3 +15,10 @@ Humidity/Temperature sensors have to be connected by I2C interface.
 * HTS221
 * HTU21D
 
+---
+
+**Buy a tested HTU21D sensor**
+
+http://www.sailoog.com/shop-category/openplotter
+
+---
