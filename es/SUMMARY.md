@@ -5,7 +5,7 @@
 * [How to collaborate](how_to_collaborate.md)
    * [Documentation](documentation.md)
 * [¿Cómo funciona?](how_does_it_work.md)
-* [What do you need?](what_do_you_need.md)
+* [¿Qué necesitas?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
    * [Box](box.md)
    * [Power supply](power_supply.md)
