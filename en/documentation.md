@@ -8,8 +8,7 @@
 ## Writing
 
 We write the documentation source in English to make easier translating to other languages. If you want to
-write a chapter, please notify to [www.sailoog.com/contact](http://www.sailoog.com/contact) for coordination. Please do not modify the index or write a chapter without notifying
-[www.sailoog.com/contact](http://www.sailoog.com/contact). 
+write a chapter, please notify to [www.sailoog.com/contact](http://www.sailoog.com/contact) for coordination. Please do not modify the index or write a chapter without notifying. 
 
 Once the new chapter is done in English, please copy the new text to the rest
 of languages to be ready to translate. If you are not creating a new chapter but editing an existing one,
