@@ -38,6 +38,7 @@
    * Sending data to autopilot
 * Calculate
 * WiFi access point
+* [How to collaborate](how_to_collaborate.md)
 * [Remote desktop](remote_desktop.md)
 * Signal K (beta)
 * [SDR AIS](sdr_ais.md)
@@ -62,7 +63,6 @@
 * Weather forecast (ZyGrib)
 * System time from NMEA
 * Startup
-* [How to collaborate](how_to_collaborate.md)
 * [License](license.md)
 * [Credits](credits.md)
 
