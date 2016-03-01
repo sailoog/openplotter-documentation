@@ -43,4 +43,4 @@ If you have electronics skills, make your suggestions here:
 
 [www.sailoog.com/en/blog/openplotter-community](http://www.sailoog.com/en/blog/openplotter-community)
 
-If you have English language skills, helps us with documentation. Follow the steps in the next chapter Documentation.
+If you have English language skills, helps us with documentation. Follow the steps in the next chapter [Documentation](documentation.md).
