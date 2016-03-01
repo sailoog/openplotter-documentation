@@ -1,10 +1,10 @@
-#¿Qué se necesita?
+#¿Qué necesitas?
 
-Se necesitan unos requisitos mínimos y algunos opcionales. Todo depende de que tipo de datos  se quiera recopilar, procesar o visualizar y que tipo de equipamiento dispone ya el barco.
+Necesitas unos requisitos mínimos y algunos opcionales. Todo depende de que tipo de datos quieras recopilar, procesar o visualizar y que tipo de equipamiento dispones ya en el barco.
 
 ##Requisitos mínimos
 
-Esto es lo que se necesita, al menos, para ejecutar *el software* y existen dos opciones: con pantalla o sin pantalla (headless).
+Esto es lo que necesitas, al menos, para ejecutar *el software* y tienes dos opciones: con pantalla o sin pantalla (headless).
 
 ###Con pantalla
 
