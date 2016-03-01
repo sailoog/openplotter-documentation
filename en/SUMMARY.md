@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [FAQ](faq.md)
 * [How to collaborate](how_to_collaborate.md)
-   * Documentation
+   * [Documentation](documentation.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
    * [ARM embedded computer](arm_computer.md)
