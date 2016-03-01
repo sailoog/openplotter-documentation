@@ -8,37 +8,37 @@ Ley de Moe, proyecto [Navigatrix](http://navigatrix.net).
 
 Consigue una Raspberry Pi y los elementos necesarios, descarga OpenPlotter RPI y prueba y prueba y prueba ...
 
-Informa de errores y solicita nuevas características aquí:
+Informa de errores y pide nuevas características aquí:
 
 [www.sailoog.com/es/blog/comunidad-openplotter](http://www.sailoog.com/es/blog/comunidad-openplotter) 
 
-Haz correr el rumor entre tus amigos en los puertos y en los foros.
+Haz correr el rumor entre tus amigos, en los puertos y en los foros.
 
 ## Dinero
 
-Este proyecto es financiado mediante la venta de los productos expuestos y testados y por contribuciones voluntarias.
+Este proyecto se financia mediante la venta de los productos expuestos, y testados, y contribuciones voluntarias.
 
-**Web shop**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
+**Tienda Web**: [www.sailoog.com/es/shop](http://www.sailoog.com/es/shop)
 
-**Donations**: [www.sailoog.com/openplotter](http://www.sailoog.com/openplotter)
+**Donaciones**: [www.sailoog.com/es/openplotter](http://www.sailoog.com/es/openplotter)
 
-If you want to make a donation but need a receipt or invoice, buy our *OpenPlotter RPI microSD Sponsoring Edition*:
+Si quieres realizar una donación y necesitas un recibo o factura, compra nuestra *OpenPlotter RPI microSD edición patrocinio*:
 
-[www.sailoog.com/product/openplotter-rpi-microsd-sponsoring-edition](http://www.sailoog.com/product/openplotter-rpi-microsd-sponsoring-edition)
+[www.sailoog.com/es/product/openplotter-rpi-microsd-edición-patrocinio](http://www.sailoog.com/es/product/openplotter-rpi-microsd-edición-patrocinio)
 
 
-## Monkeys
+## Voluntarios
 
 > Se buscan hombres para peligroso viaje. Salario reducido. Frío penetrante. Largos meses de completa oscuridad. Constante peligro. Dudoso regreso sano y salvo. Honor y reconocimiento en caso de éxito.
 
 Ernest Shackleton
 
-If you have python skills, pull your commits to the github repository:
+Si eres un hacha programando en python, comprométete en la plataforma de desarrollo colaborativo github:
 
 https://github.com/sailoog/openplotter
 
-If you have electronics skills, make your suggestions here:
+Si eres un manitas en electrónica, plantea aquí tus sugerencias:
 
-[www.sailoog.com/en/blog/openplotter-community](http://www.sailoog.com/en/blog/openplotter-community)
+[www.sailoog.com/es/blog/comunidad-openplotter](http://www.sailoog.com/es/blog/comunidad-openplotter)
 
-If you have English language skills, helps us with documentation. Follow the steps in the next chapter [Documentation](documentation.md).
+Si te manejas en inglés, ayudanos con la documentación. Sigue los pasos en este capítulo [Documentación](documentation.md).
