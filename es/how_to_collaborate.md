@@ -1,4 +1,4 @@
-# How to collaborate
+# ¿Cómo puedes colaborar?
 
 > Todo es cuestión de tiempo, dinero y manos. Necesitas mucho de dos de cualquiera de ellos y un poco del tercero. Cuando uno de ellos aumenta, disminuye la necesidad de los otros dos. El cambio se produce cuando uno de ellos cambia.
 
