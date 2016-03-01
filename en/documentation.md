@@ -15,7 +15,7 @@ Once the new chapter is done in English, please copy the new text to the rest
 of languages to be ready to translate. If you are not creating a new chapter but editing an existing one,
 include a note at the beginning of the rest of languages “This translation needs to be updated”.
 
-To include images in the rest of languages from the english folder, the path is ```../en/xxx.png```
+To include images in the rest of languages from English folder, the path is ```../en/xxx.png```
 
 If you want to add images of wiring and connections consider using [fritzing](http://fritzing.org) application.
 
