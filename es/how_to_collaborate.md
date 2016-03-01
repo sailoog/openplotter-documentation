@@ -4,11 +4,11 @@
 
 Ley de Moe, proyecto [Navigatrix](http://navigatrix.net).
 
-## Time
+## Tiempo
 
-Get a Raspberry Pi and the required elements, download OpenPlotter RPI and test and test and test ...
+Consigue una Raspberry Pi y los elementos necesarios, descarga OpenPlotter RPI y prueba y prueba y prueba ...
 
-Report bugs and request new features here:
+Informa de errores y solicita nuevas características aquí:
 
 [www.sailoog.com/en/blog/openplotter-community](http://www.sailoog.com/en/blog/openplotter-community)
 
