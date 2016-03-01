@@ -1,8 +1,8 @@
 # How to collaborate
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Todo es cuestión de tiempo, dinero y manos. Necesitas mucho de dos de cualquiera de ellos y un poco del tercero. Cuando uno de ellos aumenta, disminuye la necesidad de los tros dos. Los cambios se producen cuando uno de ellos cambia.
 
-Moe's Law, [Navigatrix](http://navigatrix.net) project.
+Ley de Moe, proyecto [Navigatrix](http://navigatrix.net).
 
 ## Time
 
@@ -29,7 +29,7 @@ If you want to make a donation but need a receipt or invoice, buy our *OpenPlott
 
 ## Monkeys
 
-> Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
+> Se buscan hombres para peligroso viaje. Salario reducido. Frío penetrante. Largos meses de completa oscuridad. Constante peligro. Dudoso regreso sano y salvo. Honor y reconocimiento en caso de éxito.
 
 Ernest Shackleton
 
