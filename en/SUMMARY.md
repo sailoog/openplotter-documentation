@@ -62,7 +62,7 @@
 * Weather forecast (ZyGrib)
 * System time from NMEA
 * Startup
-* [Funding](funding.md)
+* [How to collaborate](how_to_collaborate.md)
 * [License](license.md)
 * [Credits](credits.md)
 
