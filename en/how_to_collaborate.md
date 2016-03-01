@@ -1,8 +1,6 @@
 # How to collaborate
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third.
-
-> An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
 
 Moe's Law, [Navigatrix](http://navigatrix.net) project.
 
