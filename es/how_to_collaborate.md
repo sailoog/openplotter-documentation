@@ -16,7 +16,7 @@ Haz correr el rumor entre tus amigos en los puertos y en los foros.
 
 ## Dinero
 
-This project is financed by selling related and tested products or by voluntary contributions.
+Este proyecto es financiado mediante la venta de los productos expuestos y testados y por contribuciones voluntarias.
 
 **Web shop**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
 
