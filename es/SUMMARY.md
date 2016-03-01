@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 * FAQ
-* [¿cómo colaboras?](how_to_collaborate.md)
+* [¿Cómo colaboras?](how_to_collaborate.md)
    * [Documentation](documentation.md)
 * [¿Cómo funciona?](how_does_it_work.md)
 * [¿Qué necesitas?](what_do_you_need.md)
