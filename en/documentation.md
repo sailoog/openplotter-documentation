@@ -20,3 +20,9 @@ If you want to add images of wiring and connections consider using [fritzing](ht
 
 ## Translating
 
+![](translating.png)
+
+1. Select the language you want to edit.
+2. Chapters in black are ready to be translated. You can translate chapters titles too.
+3. Do not edit chapters in white.
+4. Do not modify files names (xxx.md xxx.png xxx.jpg ...) because they are referenced in the text.
