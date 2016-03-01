@@ -10,11 +10,11 @@ Consigue una Raspberry Pi y los elementos necesarios, descarga OpenPlotter RPI y
 
 Informa de errores y solicita nuevas características aquí:
 
-[www.sailoog.com/en/blog/openplotter-community](http://www.sailoog.com/en/blog/openplotter-community)
+[www.sailoog.com/es/blog/comunidad-openplotter](http://www.sailoog.com/es/blog/comunidad-openplotter) 
 
 Spread the word among your friends in ports and forums.
 
-## Money
+## Dinero
 
 This project is financed by selling related and tested products or by voluntary contributions.
 
