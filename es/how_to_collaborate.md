@@ -1,6 +1,6 @@
 # How to collaborate
 
-> Todo es cuestión de tiempo, dinero y manos. Necesitas mucho de dos de cualquiera de ellos y un poco del tercero. Cuando uno de ellos aumenta, disminuye la necesidad de los tros dos. Los cambios se producen cuando uno de ellos cambia.
+> Todo es cuestión de tiempo, dinero y manos. Necesitas mucho de dos de cualquiera de ellos y un poco del tercero. Cuando uno de ellos aumenta, disminuye la necesidad de los otros dos. El cambio se produce cuando uno de ellos cambia.
 
 Ley de Moe, proyecto [Navigatrix](http://navigatrix.net).
 
