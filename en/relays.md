@@ -12,7 +12,7 @@ Pins names are according to the diagram below.
 
 The GPIO pins can only deliver a few mA, and cannot drive directly a relay. Therefore a few electronics components are required : 
 
-![](Relay.jpg)
+
 
 * The NPN transistor BC54x acts as a valve to control the current through the relay coil (switching mode) : it is either passing when GPIO is HIGH, or blocked when GPIO is LOW. Its maximum current is 100 mA ;
 * The 1 kOhm resistor limits the current drawn from the GPIO pin below 3 mA ; 
