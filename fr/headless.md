@@ -61,19 +61,21 @@ pass=my_secret_password
 [RASPBIAN]
 ...
 ```
-Sauvegardez vos modifications, éjectez la carte et insérez-là dans le Raspberry Pi. Assurez-vous que le ou les clés WIFI sont en place et démarrer le PI !
+Sauvegardez vos modifications, éjectez la carte et insérez-là dans le Raspberry Pi. Assurez-vous que la ou les clés WIFI sont en place et démarrez le PI !
 
 A la fin du démarrage de l'ordinateur vous verrez apparaître le votre nouveau point de connexion sur votre terminal mobile. Connectez-vous à ce réseau avec le mot de passe modifié par vos soins précédemment.
 
 ![](headless1.png)
+Pour finir, ouvrez votre client VNC favori sur votre portable/mobile et ouvrez une connexion avec ces paramètres:
 
-Finally, open your favourite VNC remote desktop client on your laptop, tablet or smartphone and make a new connection with the address/port combination: **10.10.10.1:5900**, or just the address **10.10.10.1** if you are using a RDP remote desktop client.
+**10.10.10.1:5900** avec VNC, 
+
+**10.10.10.1** avec RDP.
 
 Connect and enjoy!
 
 ![](headless2.png)
+Plus d'infos sur des logiciels d'accès à distance testés dans le chapitre "[". Si c'est votre tout premier démarrage, rendez-vous au chapitre "[Getting Started](getting_started.md)" pour une aide étape par étape.
 
-See more information about tested remote desktop software in [Remote desktop](remote_desktop.md) chapter.
 
-If this is your first boot, go to [Getting Started](getting_started.md) chapter and follow the steps.
 
