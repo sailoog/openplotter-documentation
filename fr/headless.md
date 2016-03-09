@@ -75,7 +75,9 @@ Pour finir, ouvrez votre client VNC favori sur votre portable/mobile et ouvrez u
 Connect and enjoy!
 
 ![](headless2.png)
-Plus d'infos sur des logiciels d'accès à distance testés dans le chapitre "[". Si c'est votre tout premier démarrage, rendez-vous au chapitre "[Getting Started](getting_started.md)" pour une aide étape par étape.
+Plus d'infos sur des logiciels d'accès à distance testés dans le chapitre "
+
+Si c'est votre tout premier démarrage, rendez-vous au chapitre "[Getting Started](getting_started.md)" pour une aide étape par étape.
 
 
 
