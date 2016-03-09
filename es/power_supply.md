@@ -10,7 +10,7 @@ Presta especialmente atención a la fuente de alimentación ya que suele ser el 
 
 ---
 
-**Compra una fuente de alimentación ya testada**
+**Consejo: compra una fuente de alimentación ya testada**
 
 http://www.sailoog.com/es/shop-category/openplotter
 
