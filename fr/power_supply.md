@@ -2,15 +2,16 @@
 
 ![](../en/power.png)
 
-The Raspberry Pi is powered by a 5V USB power supply with a micro USB connector (like most standard mobile phone chargers). Exactly how much current (Amp) the Raspberry Pi requires is dependent on what you connect to it. A 1.2A (1200mA) power supply will provide you with ample power to run your Raspberry Pi for most applications, though you may want to get a 2.5A (2500mA) if you want to use all 4 USB ports without using an external powered USB hub. If you need to connect USB devices that will take the power requirements above 2.5A, then you must connect them to an externally-powered USB Hub.
+Le Raspberry Pi peut être alimenté par un adaptateur 5V USB, de type chargeur de téléphone récent ou adaptateur allume-cigare par exemple. Les besoins exacts en puissance dépendent des périphériques que vous lui ajouterez: une alimentation de 1.2A (1200 mA) sera suffisante pour faire fonctionner le Raspberry Pi, mais vous devrez lui procurer un minimum de 2.5A si vous utilisez les 4 ports USB sans Hub externe auto-alimenté. 
+Pour les périphériques nécessitant plus de 2.5A, un hub auto-alimenté est la solution.
 
-It would be a good idea to get an USB car charger adapter (12v to 5V) with two outputs in case you need to power an USB Hub too. We recommend a power supply capable of providing a minimum of 3A.
+Un chargeur/adaptateur allume-cigare 12V/5V proposant 2 sorties de 3A est une bonne option pour faire fonctionner Raspberry Pi et hub USB simultanément.
 
-Pay special attention to power supply as it is the main source of issues.
+*Soignez exigeants dans le choix de votre alimentation, vous éliminerez ainsi la principale source de problèmes.*
 
 ---
 
-**Buy a tested USB Power supply**
+**Achetez une alimentation USB testé & validée :**
 
 http://www.sailoog.com/shop-category/openplotter
 
