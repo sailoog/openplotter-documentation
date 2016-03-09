@@ -1,4 +1,4 @@
-# Power supply
+# Alimentation
 
 ![](../en/power.png)
 
