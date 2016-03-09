@@ -1,10 +1,12 @@
-# Headless
+# BUREAU A DISTANCE (Headless)
 
-In order to save money and power, you can use the system without monitor. Connecting your desktop computer, laptop, tablet or smartphone to OpenPlotter by remote desktop, you will be able to access to the interface. To do this, we have to convert openplotter into a WiFi hotspot to connect our devices.
+Pour économiser énergie électrique (et argent), vous pouvez utiliser OpenPlotter sans écran dédié: un terminal mobile connecté en WIFI vous permettra d'accéder à l'interface. A cette fin, vous utiliserez le mode point d'accès WIFI d'OpenPlotter:
 
-Once we have created the SD card with OpenPlotter RPI, we have to insert it into any computer with any OS (Linux, MAC, Windows). The mounted device should be called *boot* and there should be a file called *config.txt*. Open this file in a text editor like notepad on windows, but not anything like MS Word which can save it as something which is not just plain text.
+Une fois la carte SD OpenPlotter créée, insérez-la dans un ordinateur (linux, MAC ou Windows). La carte apparaîtra sous le nom "*boot*", et vous y trouverez un fichier nommé *config.txt*. 
 
-The top lines should look like this:
+Ouvrez ce fichier avec votre éditeur de texte favori (Notepad, Notepad++) à l'exception des traitements de textes tels que MSWords (qui ne sauvegardent pas le texte sous sa forme "brute").
+ 
+Voici les premières lignes de ce fichier:
 
 ```
 [OPENPLOTTER]
