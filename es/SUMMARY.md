@@ -8,7 +8,7 @@
 * [¿Qué necesitas?](what_do_you_need.md)
    * [Ordenador integrado ARM](arm_computer.md)
    * [Contenedor](box.md)
-   * [Power supply](power_supply.md)
+   * [Fuente de alimentación](power_supply.md)
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
    * [SD card](sd_card.md)
