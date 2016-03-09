@@ -1,4 +1,4 @@
-# Documentacion
+# Documentación
 
 * Create una cuenta en Github: [github.com/join](https://github.com/join)
 * Envía tu nombre de usuario Github a [www.sailoog.com/es/contact](http://www.sailoog.com/es/contact) y espera a que te faciliten los permisos para editar el repositorio.
@@ -15,7 +15,7 @@ Para incluir imagenes en el resto de idiomas desde la carpeta Español, la ruta 
 
 Si quieres añadir imagenes de cableado y conexiones sopesa utilizar la aplicación [fritzing](http://fritzing.org) application.
 
-## Translating
+## Traducción
 
 ![](../en/translating.png)
 
