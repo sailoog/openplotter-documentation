@@ -1,4 +1,4 @@
-# SD card
+# Carte SD
 
 ![](../en/sd.png)
 
