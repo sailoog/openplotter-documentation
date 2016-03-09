@@ -2,15 +2,17 @@
 
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
-Certains achêtent des bateaux quand d'autres les construisent. Pourquoi ne pas construire votre propre électronique ?
-OpenPlotter est une combinaison de logiciels et de matériels utilisable comme aide à la navigation sur les petites et moyennes embarcations. C'est aussi une solution complète de domotique à destination de votre bateau. OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. Faites-le vous-même !
+Certains achètent des bateaux quand d'autres les construisent. Pourquoi ne pas construire votre propre électronique ?
+OpenPlotter est une combinaison de logiciels et de matériels utilisable comme aide à la navigation sur les petites et moyennes embarcations. C'est aussi une solution complète de domotique à destination de votre bateau. 
+
+OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. Faites-le vous-même !
 
 ## Fonctionnalités
 
-* **Traceur de cartes**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
-* **Prévisions météo**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
-* **Multiplexeur NMEA 0183**. Multiplex and filter data inputs from any number of serial and network interfaces. Send and filter to any number of outputs.
-* **Serveur Signal K (beta)**. OpenPlotter is ready for [Signal K](http://signalk.org/), the new, free and open source universal marine data exchange.
+* **Traceur de cartes**. Grâce à  [OpenCPN](http://opencpn.org), logiciel de navigation Open Source réputé et ses nombreux plugins.
+* **Prévisions météo**. Téléchargez et visualisez les fichiers Grib avec [zyGrib](http://www.zygrib.org).
+* **Multiplexeur NMEA 0183**. Multiplexez et filtrez les données en provenance de sources réseau ou série illimitées. Envoyez ces données vers tout type de sortie.
+* **Serveur Signal K (beta)**. OpenPlotter est prêt pour [Signal K](http://signalk.org/), le nouveau format gratuit, universel et open-source d'échange de données nautiques.
 * **Moniteur NMEA**. Check the data traffic to avoid conflicts and overlaps between sources.
 * **Point d'accès WiFi**. Share data (NMEA 0183, Signal K, remote desktop, Internet connection) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
 * **Ecran à distance**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
