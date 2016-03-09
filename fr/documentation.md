@@ -1,9 +1,9 @@
 # Documentation
 
-* Create an account in Github: [github.com/join](https://github.com/join)
-* Send your Github account user name to [www.sailoog.com/contact](http://www.sailoog.com/contact) and wait to get permissions to edit the repository.
-* Once you have permissions, login to **Gitbook** with your Github account: [www.gitbook.com/login](https://www.gitbook.com/login)
-* Go to: [www.gitbook.com/book/sailoog/openplotter-documentation](https://www.gitbook.com/book/sailoog/openplotter-documentation) and click on the *Edit* button upper right.
+* Créez un compte Github: [github.com/join](https://github.com/join)
+* Envoyez votre nom d'utilisateur Github à [www.sailoog.com/contact](http://www.sailoog.com/contact) et attendez la confirmation d'autorisation.
+* Une fois vos droits confirmés, connectez-vous à **Gitbook** avec votre login/pass Github.
+* Allez sur: [www.gitbook.com/book/sailoog/openplotter-documentation](https://www.gitbook.com/book/sailoog/openplotter-documentation) et cliquez sur le bouton (en haut à droite).
 
 ## Writing
 
