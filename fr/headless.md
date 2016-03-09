@@ -61,10 +61,9 @@ pass=my_secret_password
 [RASPBIAN]
 ...
 ```
+Sauvegardez vos modifications, éjectez la carte et insérez-là dans le Raspberry Pi. Assurez-vous que le ou les clés WIFI sont en place et démarrer le PI !
 
-Save and eject the SD card, then insert it into the Raspberry Pi. Make sure the WiFi dongle is also inserted and power up the Pi.
-
-After it has finished booting up, there should be a new WiFi network called *my_boat_network* available. Log onto this network using the password *my_secret_password*.
+A la fin du démarrage de l'ordinateur vous verrez apparaître le votre nouveau point de connexion sur votre terminal mobile. Connectez-vous à ce réseau avec le mot de passe modifié par vos soins précédemment.
 
 ![](headless1.png)
 
