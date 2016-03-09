@@ -11,7 +11,7 @@
    * [Fuente de alimentación](power_supply.md)
    * [Pantalla HDMI](monitor.md)
    * [Teclado y ratón](keyboard.md)
-   * [Tajeta SD](sd_card.md)
+   * [Tarjeta SD](sd_card.md)
    * [Software](software.md)
    * Self powered USB Hub
    * USB WiFi dongle
