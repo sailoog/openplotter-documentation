@@ -66,5 +66,5 @@
 * Startup
 * Funding
 * License
-* Credits
+* [Credits](credits.md)
 
