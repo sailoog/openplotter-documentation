@@ -9,7 +9,7 @@
    * [Ordenador integrado ARM](arm_computer.md)
    * [Contenedor](box.md)
    * [Fuente de alimentación](power_supply.md)
-   * [HDMI monitor](monitor.md)
+   * [Pantalla HDMI](monitor.md)
    * [Keyboard and mouse](keyboard.md)
    * [SD card](sd_card.md)
    * [Software](software.md)
