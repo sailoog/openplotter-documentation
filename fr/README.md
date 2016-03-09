@@ -18,11 +18,11 @@ OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberr
 * **Ecran à distance**. Accédez à OpenPlotter de votre cockpit sur vos terminaux mobiles.
 * **Headless**. Démarrage facile sans écran.
 * **Réception SDR-AIS**. Recevez et décodez l'AIS avec une clé DVD-T USB. Outils de calibration inclus.
-* **Compas magnétique et clinomètre**. Ajoutez aux données du bord le cap magnétique et l'angle de gite avec un capteur IMU (Inertial Mesurement Unit). Compensation de la gite, outils de calibration inclus.
-* **Baromètre, Thermomètre and Hygromètre**. From pressure, temperature and humidity sensors. Save logs and display graphs to see trends.
-* **Capteurs de température multiples**. Get data from coolant engine, exhaust, fridge, sea...
-* **Capteurs spéciaux**. Detect opening doors/windows, tanks level, human body motion...
-* **Déclinaison magnétique**. Calculate magnetic variation for date and position.
+* **Compas magnétique et clinomètre**.  Ajoutez aux données du bord le cap magnétique et l'angle de gite avec un capteur IMU (Inertial Mesurement Unit). Compensation de la gite, outils de calibration inclus.
+* **Baromètre, Thermomètre and Hygromètre**. Enregistrez l'historique de la pression atmosphérique, de la température et de l'humidité de l'air et affichez ces données.
+* **Capteurs de température multiples**. Placez des capteurs multiples pour récupérer et afficher les valeurs de température de l'eau, du moteur, du frigo, etc...
+* **Capteurs spéciaux**. Détectez les mouvements, l'ouverture d'une porte ou d'un hublot, le niveau de remplissage d'un réservoir, etc...
+* **Déclinaison magnétique**. Calcul de la déclinaison magnétique en fonction de votre position et de la dâte.
 * **Cap vrai**. Calculate true heading from magnetic variation and magnetic heading.
 * **Vent vrai**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
 * **Taux de virage**. Calculate the rate the ship is turning.
