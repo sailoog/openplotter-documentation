@@ -6,7 +6,7 @@
    * [Documentation](documentation.md)
 * [¿Cómo funciona?](how_does_it_work.md)
 * [¿Qué necesitas?](what_do_you_need.md)
-   * [ARM embedded computer](arm_computer.md)
+   * [Ordenador integrado ARM](arm_computer.md)
    * [Box](box.md)
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
