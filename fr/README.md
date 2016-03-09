@@ -25,8 +25,8 @@ OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberr
 * **Déclinaison magnétique**. Calcul de la déclinaison magnétique en fonction de votre position et de la date.
 * **Cap vrai**. Calcul du cap vrai à partir du cap magnétique et de la déclinaison.
 * **Vent vrai**. Déduit le vent vrai des valeurs du vent apparent et de la vitesse du bateau (Loch/speedo ou GPS).
-* **Taux de virage**. Calculate the rate the ship is turning.
-* **Monitoring à distance**. Publish data on Twitter or send it by email.
+* **Taux de virage**. Calcule la vitesse de virage de l'embarcation.
+* **Monitoring à distance**. Envoyez les informations de votre choix via Twitter ou par email.
 * **Actions pré-programmées**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
 * **Interrupteurs customs**. Connect external switches and link them with actions.
 * **Composants customs**. Relays, LEDs, buzzers ...
