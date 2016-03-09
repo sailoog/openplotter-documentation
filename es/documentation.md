@@ -13,7 +13,7 @@ Una vez hayas realizado un nuevo capítulo en ingles, por favor, copia el nuevo 
 
 Para incluir imagenes en el resto de idiomas desde la carpeta Español, la ruta es```../es/xxx.png```
 
-Si quieres añadir imagenes de cableado y conexiones sopesa utilizar la aplicación [fritzing](http://fritzing.org) application.
+Si quieres añadir imagenes de cableado y conexiones sopesa utilizar la aplicación [fritzing](http://fritzing.org).
 
 ## Traducción
 
