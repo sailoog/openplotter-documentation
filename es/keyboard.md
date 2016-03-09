@@ -2,6 +2,6 @@
 
 ![](../en/keyboard.png)
 
-Any standard USB keyboard and mouse will work with your Raspberry Pi. Wireless keyboard & mouse combos are a good option.
+Cualquier teclado y ratón USB estándar funcionarán con tu Raspberry Pi. Una opción interesante son los conjuntos de teclado y ratón inalámbricos.
 
-You will not need neither keyboard nor mouse if you are using OpenPlotter by remote desktop.
+No necesitarás ningún teclado, ni ratón, si usas OpenPlotter mediante el escritorio remoto.
