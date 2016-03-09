@@ -13,7 +13,7 @@ or commandez une carte SD pré-installée:
 
 ---
 
-**Buy an 8GB SD card with OpenPlotter RPI ready to run.**
+**Commandez une carte SD 8G avec OpenPlotter RPI pré-installé:**
 
 http://www.sailoog.com/shop-category/openplotter
 
