@@ -13,9 +13,9 @@ OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberr
 * **Prévisions météo**. Téléchargez et visualisez les fichiers Grib avec [zyGrib](http://www.zygrib.org).
 * **Multiplexeur NMEA 0183**. Multiplexez et filtrez les données en provenance de sources réseau ou série illimitées. Envoyez ces données vers tout type de sortie.
 * **Serveur Signal K (beta)**. OpenPlotter est prêt pour [Signal K](http://signalk.org/), le nouveau format gratuit, universel et open-source d'échange de données nautiques.
-* **Moniteur NMEA**. Check the data traffic to avoid conflicts and overlaps between sources.
-* **Point d'accès WiFi**. Share data (NMEA 0183, Signal K, remote desktop, Internet connection) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
-* **Ecran à distance**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+* **Moniteur NMEA**. Contrôlez les données échangées, diagnostiquez les éventuels conflits.
+* **Point d'accès WiFi**. Partagez les données du bord (NMEA 0183, Signal K, bureau à distance, connexion internet) avec vos ordinateurs portables, smartphones, tablettes. Si une connexion internet est disponible, OpenPlotter pourra être votre point d'accès WIFI.
+* **Ecran à distance**. Accédez à OpenPlotter de votre cockpit sur vos terminaux mobiles.
 * **Headless**. Easy start without monitor.
 * **Réception SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Compas magnétique et gite**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
