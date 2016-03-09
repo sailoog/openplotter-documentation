@@ -7,7 +7,7 @@
 * [¿Cómo funciona?](how_does_it_work.md)
 * [¿Qué necesitas?](what_do_you_need.md)
    * [Ordenador integrado ARM](arm_computer.md)
-   * [Box](box.md)
+   * [Contenedor](box.md)
    * [Power supply](power_supply.md)
    * [HDMI monitor](monitor.md)
    * [Keyboard and mouse](keyboard.md)
