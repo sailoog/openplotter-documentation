@@ -5,7 +5,9 @@
 Certains achètent des bateaux quand d'autres les construisent. Pourquoi ne pas construire votre propre électronique ?
 OpenPlotter est une combinaison de logiciels et de matériels utilisable comme aide à la navigation sur les petites et moyennes embarcations. C'est aussi une solution complète de domotique à destination de votre bateau. 
 
-OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. Faites-le vous-même !
+OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberry Pi](https://www.raspberrypi.org/) et est open-source, low-cost et consommant très peu. Sa conception est modulaire, vous pouvez donc n'installer et n'utiliser que ce qui vous est utile. 
+
+**Faites-le vous-même !**
 
 ## Fonctionnalités
 
@@ -30,7 +32,7 @@ OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberr
 * **Actions pré-programmées**. Déclenchez des actions pré-définies (alarme, envoi d'un tweet, ...) en fonction des variations d'une ou plusieurs données choisies (température, vitesse du vent, changement de cap, ...)
 * **Interrupteurs customs**. Connect external switches and link them with actions.
 * Connectez un ou plusieurs interrupteurs pour interagir avec Openplotter (Reboot, déclenchement d'action, ...)
-* **Composants customs**. Relais, LEDs, buzzers ...
+* **Composants additionnels**. Relais, LEDs, buzzers ...
 * **Outils de mise à l'heure**. Définissez facilement l'heure du système et le fuseau horaire à partir des données NMEA.
 * **Gestion des logiciels au démarrage**. Sélectionnez simplement les logiciels à lancer automatiquement au démarrage du système.
 
