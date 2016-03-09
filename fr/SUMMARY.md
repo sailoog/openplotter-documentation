@@ -30,7 +30,7 @@
    * LED
    * Buzzer
 * Getting started
-   * Headless
+   * [Headless](headless.md)
 * NMEA 0183 Multiplexer
    * Connecting serial devices
    * Network connections
