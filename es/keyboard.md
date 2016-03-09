@@ -1,4 +1,4 @@
-# Keyboard and mouse
+# Teclado y ratón
 
 ![](../en/keyboard.png)
 
