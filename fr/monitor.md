@@ -1,9 +1,8 @@
-# HDMI monitor
+# Moniteur HDMI
 
 ![](../en/hdmi.png)
 
-The Raspberry Pi has a HDMI port which you can plug directly into a monitor or TV with an HDMI cable.
 
-The minimum size to use conveniently OpenPlotter is 7 inches (800x480px).
+Le Raspberry Pi comporte un port HDMI permettant un branchement par câble sur un moniteur ou écran de télévision. La taille minimum recommandée est 7" (800x400px).
 
-Actually this is not essential, you can use OpenPlotter from your laptop, tablet or phone by remote desktop. See chapter [Headless](headless.md).
+Disposer d'un écran dédié n'est pas essentiel, vous pouvez contrôler OpenPlotter à partir de votre ordinateur portable, d'une tablette ou d'un smartphone grâce au bureau à distance (Consultez le chapitre [Headless](headless.md)).
