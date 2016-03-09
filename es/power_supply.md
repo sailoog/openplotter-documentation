@@ -1,17 +1,17 @@
-# Power supply
+# Fuente de alimentación
 
 ![](../en/power.png)
 
-The Raspberry Pi is powered by a 5V USB power supply with a micro USB connector (like most standard mobile phone chargers). Exactly how much current (Amp) the Raspberry Pi requires is dependent on what you connect to it. A 1.2A (1200mA) power supply will provide you with ample power to run your Raspberry Pi for most applications, though you may want to get a 2.5A (2500mA) if you want to use all 4 USB ports without using an external powered USB hub. If you need to connect USB devices that will take the power requirements above 2.5A, then you must connect them to an externally-powered USB Hub.
+La Raspberry Pi se alimenta de energía mediante un cargador USB de 5V con un conector micro USB (como la mayoría de los cargadores estándar de móviles).La cantidad de corriente (Amp) que requiere la Raspberry Pi depende, simplemente, de lo que le conectes. Una fuente de alimentación de 1.2A (1200mA) te proporcionará la suficiente potencia para ejecutar la mayoría de aplicacioness en tu Raspberry Pi, si quisieras usar los 4 puertos USB sin utilizar una fuente externa de energía necesitarías una fuente de alimentación de 2.5A (2500mA). Si necesitaras conectar dispositivos que requieran más de 2.5A, entonces tendrás que conectarlos mediante un hub USB alimentado de energía externamente.
 
-It would be a good idea to get an USB car charger adapter (12v to 5V) with two outputs in case you need to power an USB Hub too. We recommend a power supply capable of providing a minimum of 3A.
+Podría ser una buena idea utilizar un adaptador USB, del tipo cargador de coche, (12v to 5V) con dos salidas para el caso de que necesites alimentar tambien un hub USB. Recomendamos una fuente de alimentación capaz de proporcionar un mínimo de 3A.
 
-Pay special attention to power supply as it is the main source of issues.
+Presta especialmente atención a la fuente de alimentación ya que suele ser el origen de la mayoría de los problemas.
 
 ---
 
-**Buy a tested USB Power supply**
+**Compra una fuente de alimentación ya testada**
 
-http://www.sailoog.com/shop-category/openplotter
+http://www.sailoog.com/es/shop-category/openplotter
 
 ---
