@@ -15,7 +15,7 @@ Hay gente que compra barcos pero también hay personas que los construyen, ¿por
 * **Inspector**. Comprueba el tráfico de datos, para evitar conflictos y solapamientos entre dos fuentes.
 * **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto, conexión Internet) con los portátiles, tabletas y teléfonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
 * **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
-* **Sin monitor**. Posibilidad de uso sin monitor, fácilmente.
+* **Sin pantalla**. Posibilidad de uso sin pantalla, fácilmente.
 * **AIS-SDR**. Recibe y decodifica AIS mediante asequibles receptores de TDT. Incluye herramientas de calibración.
 * **Brújula electronica y Escora**. Lee el rumbo de aguja y la escora desde el sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
 * **Barógrafo, Termógrafo e Higrógrafo**. Gracias a sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
