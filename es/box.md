@@ -1,6 +1,6 @@
-# Box
+# Contenedor
 
 ![](../en/box.png)
 
-There are a lot of box models to protect the Raspberry Pi board. 
-**We are working on a waterproof enclosure.**
+Existen un montón de modelos de connedor para proteger la placa Raspberry Pi. 
+**Estamos trabajando en una envoltura impermeable.**
