@@ -2,8 +2,8 @@
 
 ![](../en/rpi2.jpg)
 
-Recomendamos la conocida [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) porque satisface los requisitos de: open-source, asequible, bajo cons y cuenta con unaenorme comund desarrolladores.
+Recomendamos la conocida [Raspberry Pi 2](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) porque satisface todos requisitos: código-abierto, asequible, bajo consumo y cuenta con una enorme comunidad desarrolladores.
 
-We are developing **OpenPlotter RPI**, a special operating system for Raspberry Pi based on Linux Raspbian distribution. When development is done we will migrate to other ARM boards.
+Estamos desarrollando **OpenPlotter RPI**, un sistema operativo específico para la Raspberry Pi basado en la distribución Linux Raspbian. Cuando finalicemos su desarrollo lo migraremos a otras plataformas ARM.
 
-You can use OpenPlotter with Raspberry Pi [model Zero](https://www.raspberrypi.org/products/pi-zero/) and [model 1](https://www.raspberrypi.org/products/model-b-plus/) but they have poor performance running OpenCPN. These models are perfect for headless systems.
+Puedes utilizar OpenPlotter con los modelos de Raspberry Pi [model Zero](https://www.raspberrypi.org/products/pi-zero/) y [model 1](https://www.raspberrypi.org/products/model-b-plus/) pero ten en cuenta que ejecutando OpenCPN obtendrás un rendimiento pobre. Son modelos ideales para sistemas sin pantalla (headless).
