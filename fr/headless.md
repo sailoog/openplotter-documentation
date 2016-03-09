@@ -25,19 +25,24 @@ Voici les premières lignes de ce fichier:
 [RASPBIAN]
 ...
 ```
-If you are going to connect to OpenPlotter by VNC remote desktop, you have to remove the # character from words  ***framebuffer_width*** and ***framebuffer_height*** and set the screen size (800x600 by default). 
+- Pour un accès distant à OpenPlotter avec VNC remote desktop:
 
-If you are going to connect to OpenPlotter by RDP remote desktop, you do not have to remove the # characters from words *framebuffer_width* and *framebuffer_height*, you will set the screen size from RDP software. See more information in [Remote desktop](remote_desktop.md) chapter.
+Retirez le caractère **#** devant ***framebuffer_width*** et ***framebuffer_height***, puis spécifiez la taille de l'écran (800x600 par défaut).
 
-To create the WiFi hotspot you have to remove the # character from words ***device***, ***ssid*** and ***pass***. 
+Pour un accès avec RDP remote desktop, vous n'avez pas de modification a faire: vous ajusterez la taille de l'affichage dans logiciel RDP. 
 
-If only one WiFi dongle is connected, the *device* value should always be *wlan0* but if more than one is connected, the *device* value could be *wlan0*, *wlan1* ...
+Vous trouverez plus de détails dans le chapitre [Remote desktop](remote_desktop.md).
 
-*ssid* will be the name of your WiFi network. Use any character but a maximun of 32.
+- Pour créer le point d'accès WIFI:
 
-*pass* will be the password of your WiFi network. Use any character but a minimum of 8.
+Retirez le caractère **#** précédant ***device***, ***ssid*** and ***pass***. 
+Si une seule clé WIFI est présente sur votre Rapberry Pi, la valeur de *device* devra être *wlan0* mais si plusieurs clé wifi sont en place, vous pourrez choisir entre  *wlan0*, *wlan1*, etc... 
 
-After changes, the top lines should look like this:
+*ssid* sera le nom de votre réseau WIFI. Si vous choisissez de modifier ce nom (par defaut: "OpenPlotter"), n'utilisez pas plus de 32 caractères.
+
+*pass* sera le mot de passe de votre réseau WIFI. remplacez "12345678" par le mdp de votre choix (min. 8 caractères)
+
+Après édition, votre fichier doit ressembler à cela:
 
 ```
 [OPENPLOTTER]
