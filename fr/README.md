@@ -22,9 +22,9 @@ OpenPlotter fonctionne sur les ordinateurs a processeur ARM tel que le [Raspberr
 * **Baromètre, Thermomètre and Hygromètre**. Enregistrez l'historique de la pression atmosphérique, de la température et de l'humidité de l'air et affichez ces données.
 * **Capteurs de température multiples**. Placez des capteurs multiples pour récupérer et afficher les valeurs de température de l'eau, du moteur, du frigo, etc...
 * **Capteurs spéciaux**. Détectez les mouvements, l'ouverture d'une porte ou d'un hublot, le niveau de remplissage d'un réservoir, etc...
-* **Déclinaison magnétique**. Calcul de la déclinaison magnétique en fonction de votre position et de la dâte.
-* **Cap vrai**. Calculate true heading from magnetic variation and magnetic heading.
-* **Vent vrai**. Calculate true wind from apparent wind and either speed through water (speed log) or speed over ground (GPS).
+* **Déclinaison magnétique**. Calcul de la déclinaison magnétique en fonction de votre position et de la date.
+* **Cap vrai**. Calcul du cap vrai à partir du cap magnétique et de la déclinaison.
+* **Vent vrai**. Déduit le vent vrai des valeurs du vent apparent et de la vitesse du bateau (Loch/speedo ou GPS).
 * **Taux de virage**. Calculate the rate the ship is turning.
 * **Monitoring à distance**. Publish data on Twitter or send it by email.
 * **Actions pré-programmées**. Compare a custom value with any data flowing through your system and use it as a trigger to run multiple predefined actions.
