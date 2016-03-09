@@ -2,17 +2,16 @@
 
 ![](../en/sd.png)
 
-You need an SD card to work as the hard disk of your system and where you will install the operating system.
+Vous aurez besoin d'une carte SD qui sera le disque dur de votre Raspberry PI et sur laquelle vous installerez le systeme d'exploitation.
 
 The Raspberry Pi 2 should work with any micro-SD-compatible card, although there are some guidelines that should be followed:
+Le Raspberry Pi 2 acceptera la plupart des cartes SD du marché. Si 4GO sont suffisants, nous vous recommendons de choisir une capacité de 8GO minimum pour pouvoir stocker confortablement toute votre cartographie.
 
-A minimum of 4GB is required but 8GB is recommended.
-
-The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
+*La classe de la carte détermine la vitesse d'écriture que la carte peut atteindre. Une carte de classe 4 sera capable d'écrire à 4MB/s quand une classe 10 pourra atteindre 10MB/s. Cependant il est important de noter que dans le cas d'un usage courant, une vitesse d'écriture élevée est souvent obtenue au détriment de la vitesse de lecture et du temps de recherche. Une carte de classe 4 pourra donc s'avérer tout aussi performante qu'une classe 10.*
 
 ---
 
-**Buy an 8GB SD card with OpenPlotter RPI ready to run.**
+**Commandez une carte SD 8G avec OpenPlotter RPI pré-installé.**
 
 http://www.sailoog.com/shop-category/openplotter
 
