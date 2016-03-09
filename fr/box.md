@@ -1,4 +1,4 @@
-# Box
+# Boîtier
 
 ![](../en/box.png)
 
