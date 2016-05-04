@@ -1,2 +1,2 @@
-# Signal K (beta)
+# Signal K
 
