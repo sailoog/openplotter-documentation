@@ -41,7 +41,7 @@
 * Calculate
 * WiFi access point
 * [Remote desktop](remote_desktop.md)
-* [Signal K (beta)](signalk.md)
+* [Signal K](signalk.md)
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
    * [IMU](imu.md)
