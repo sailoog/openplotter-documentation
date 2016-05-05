@@ -57,6 +57,18 @@ To connect the CAN-USB Stick to the network you need a free T-connector on your 
 * Connect the drop line white wire from pin 4 to the green terminal on CANH.
 
 ![](can_usb_connect.jpg)
+* Turn off the main power switch to be sure that there is no power on the Network.
+* Connect the drop line to a free T-connector on your backbone.
+* Use a multimeter and measure the resistance between CANH and CANL (on the screws). The resistance should be around 60 Ohm.
+* Pull of the jumper for termination from the stick (the backbone should be already terminated).
+* Connect the green screw terminal to the CAN-USB Stick.
+* Check again the 60 Ohm between CANH and CANL.
+* On the drop line there are three cables left. They have to be isolated.
+* Turn on the main power.
+* Switch on instrumentation.
+
+To check the N2K traffic on the bus, see the chapter xxxx.
+On other Linux distribution, use the canboat software command: ```actisense-serial -r /dev/ttyUSBx ``` (x: use the right device number, typical 0). On Windows use OpenSkipper.
 
 ## Software
 
