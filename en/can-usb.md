@@ -47,7 +47,7 @@ The backbone (or trunk) starts with a 120Ω terminator   and ends with a 120Ω t
 
 The drop line to the devices should not be longer than 6 m. The backbone can have 100m in length.
 
-It is good to install the raspberry pi power supply next to the bus power supply, so that the ground has nearly the same level (cable is also a resistor).
+The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply to the CAN bus power supply is highly recommended.
 
 ## Software
 
