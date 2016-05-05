@@ -44,6 +44,9 @@ Example of a small N2K Network
 
 The backbone (or trunk) starts with a 120Ω terminator   and ends with a 120Ω terminator. The two resistors are working in parallel, so the resistance is $$120Ω/2=60Ω$$. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
 
+![](resistor_conn.jpg)
+M12 male 120Ω terminator
+
 The drop line to the devices should not be longer than 6 m. The backbone can have 100m in length.
 
 The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply to the CAN bus power supply is recommended.
@@ -52,7 +55,11 @@ The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply t
 
 To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line must have a M12 5 pin male connector in one side and 5 wires in the other side (the HIRSCHMANN ELST 5012 PG7 connector has a screw terminal).
 
+![](t-conn.jpg)
+T-connector
+
 ![](m12_conn.jpg)
+M12 5 pins male connector
 
 * Pull out the green screw terminal of the stick.
 * Connect the drop line blue wire from pin 5 (pin in the middle) to the green terminal on CANL.
