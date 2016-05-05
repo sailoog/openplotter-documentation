@@ -68,10 +68,10 @@ Drop line wires side
 * Pull out the green screw terminal of the stick.
 * Connect the drop line blue wire from pin 5 (pin in the middle) to the green terminal on CANL.
 * Connect the drop line white wire from pin 4 to the green terminal on CANH.
-* Turn off the main power switch to be sure that there is no power on the Network.
-* Connect the drop line to a free T-connector on your backbone.
+* Turn off the main power switch to be sure that there is no power on the network.
+* Connect the drop line to the free T-connector on your backbone.
 * Use a multimeter and measure the resistance between CANH and CANL (on the screws). The resistance should be around 60 Ohm.
-* Pull of the jumper for termination from the stick (the backbone should be already terminated).
+* Pull of the jumper for termination from the stick (the network should be already terminated).
 * Connect the green screw terminal to the CAN-USB Stick.
 * Check again the 60 Ohm between CANH and CANL.
 * On the drop line there are three cables left. They have to be isolated.
