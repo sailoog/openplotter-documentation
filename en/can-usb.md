@@ -42,7 +42,7 @@ Not tested:
 ![](n2k_a.jpg)
 Example of a small N2K Network
 
-The backbone (or trunk) starts with a 120Ω terminator   and ends with a 120Ω terminator. The two resistors are working in parallel, so the resistance is $$120Ω/2=60Ω$$. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
+The backbone (or trunk) starts with a 120Ω terminator   and ends with a 120Ω terminator. The two resistors are working in parallel, so the resistance is 120Ω/2=60Ω. If there is a broken connection in the backbone you can measure only 120Ω or nothing but not 60Ω. That is a very easy way to check the bus.
 
 ![](resistor_conn.jpg)
 M12 male 120Ω terminator
