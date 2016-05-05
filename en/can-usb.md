@@ -27,7 +27,7 @@ The stick works with a CH340 USB to serial converter. Windows 10 does recognize 
 
 N2K network is described in Wikipedia https://en.wikipedia.org/wiki/NMEA_2000
 
-The program of the MCU is re-engineered to work together with CANBOAT project (https://github.com/canboat), which is used by Signal K project (http://signalk.org).
+The program of the MCU has been re-engineered to work together with CANBOAT project (https://github.com/canboat), which is used by Signal K project (http://signalk.org).
 Both packets are used in OpenPlotter project.
 
 The stick does also work with OpenSkipper project (http://openskipper.org).
