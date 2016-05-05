@@ -5,6 +5,8 @@ This chapter is under construction
 
 ---
 
+![](n2k_b.jpg)
+
 ## Warning / Disclaimer
 
 The CAN-USB Stick is a research project on data communication in CAN bus and NMEA 2000® networks (N2K) on boats.
