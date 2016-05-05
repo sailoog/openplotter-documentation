@@ -51,13 +51,9 @@ The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply t
 
 ## Software
 
+The software of the CAN-USB Stick has been built under Eclipse mars1 with the GNU ARM Eclipse Windows Build Tools. The software is licensed under apache 2.
 
-
-
-
-
-
-
+The built .hex file can be flashed into the stick with the “Flash Loader Demonstrator” from ST. The board has an unused place for a jumper. Connecting the two holes of the not molded jumper will put the stick into boot loading mode.
 
 ## Support
 
