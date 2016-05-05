@@ -59,17 +59,16 @@ To connect the CAN-USB Stick to the network you need a free T-connector on your 
 T-connector
 
 ![](m12_conn.jpg)
-M12 5 pins male connector
+Drop line M12 5 pins male connector side
 
 
-![](micro_cable.jpg)
-We only need blue (pin 5) and white (pin 4) wires
 
+Drop line wires side
+
+![](can_usb_connect.jpg)
 * Pull out the green screw terminal of the stick.
 * Connect the drop line blue wire from pin 5 (pin in the middle) to the green terminal on CANL.
 * Connect the drop line white wire from pin 4 to the green terminal on CANH.
-
-![](can_usb_connect.jpg)
 * Turn off the main power switch to be sure that there is no power on the Network.
 * Connect the drop line to a free T-connector on your backbone.
 * Use a multimeter and measure the resistance between CANH and CANL (on the screws). The resistance should be around 60 Ohm.
