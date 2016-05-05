@@ -67,8 +67,8 @@ To connect the CAN-USB Stick to the network you need a free T-connector on your 
 * Turn on the main power.
 * Switch on instrumentation.
 
-To check the N2K traffic on the bus, see the chapter xxxx.
-On other Linux distribution, use the canboat software command: ```actisense-serial -r /dev/ttyUSBx ``` (x: use the right device number, typical 0). On Windows use OpenSkipper.
+To check the N2K traffic on the bus, see the chapter [Signal K](signalk.md).
+On other Linux distribution, use the canboat command: ```actisense-serial -r /dev/ttyUSBx ``` (x: use the right device number, typical 0). On Windows use OpenSkipper.
 
 ## Software
 
