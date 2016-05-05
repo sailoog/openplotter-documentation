@@ -52,6 +52,8 @@ The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply t
 
 To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line must have a M12 5 pin male connector in one side and 5 wires in the other side (the HIRSCHMANN ELST 5012 PG7 connector has a screw terminal).
 
+![](m12_conn.jpg)
+
 * Pull out the green screw terminal of the stick.
 * Connect the drop line blue wire from pin 5 (pin in the middle) to the green terminal on CANL.
 * Connect the drop line white wire from pin 4 to the green terminal on CANH.
