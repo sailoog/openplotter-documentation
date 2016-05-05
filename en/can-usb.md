@@ -70,6 +70,12 @@ To connect the CAN-USB Stick to the network you need a free T-connector on your 
 To check the N2K traffic on the bus, see the chapter [Signal K](signalk.md).
 On other Linux distribution, use the canboat command: ```actisense-serial -r /dev/ttyUSBx ``` (x: use the right device number, typical 0). On Windows use OpenSkipper.
 
+| | Red LED |  Green LED |
+| -- | -- | -- |
+| Bootsetup (8") | off | off|
+| Connected only to computer | flashing every second | on |
+| Connected to bus | flashing every second | flashing on traffic |
+
 ## Software
 
 The software of the CAN-USB Stick has been built under Eclipse mars1 with the GNU ARM Eclipse Windows Build Tools. The software is licensed under apache 2.
