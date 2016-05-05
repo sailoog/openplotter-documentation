@@ -36,6 +36,7 @@
    * Network connections
    * Filtering
 * [Signal K](signalk.md)
+   * CAN-USB Stick
 * Inspector
 * Chartplotter (OpenCPN)
    * Sending data to autopilot
