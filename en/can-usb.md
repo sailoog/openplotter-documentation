@@ -61,8 +61,7 @@ T-connector
 ![](m12_conn.jpg)
 Drop line M12 5 pins male connector side
 
-
-
+![](micro_cable.jpg)
 Drop line wires side
 
 ![](can_usb_connect.jpg)
