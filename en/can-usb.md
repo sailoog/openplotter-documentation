@@ -37,8 +37,7 @@ Not tested:
 * MacENC (http://macenc.com)
 * PolarView NS (http://www.polarnavy.com)
 
-
-## Connection
+## N2K networks
 
 ![](n2k_a.jpg)
 Example of a small N2K Network
@@ -48,6 +47,16 @@ The backbone (or trunk) starts with a 120Ω terminator   and ends with a 120Ω t
 The drop line to the devices should not be longer than 6 m. The backbone can have 100m in length.
 
 The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply to the CAN bus power supply is highly recommended.
+
+## Connection
+
+To connect the CAN-USB Stick to the network you need a free T-connector on your backbone and a drop line. The drop line must have a M12 5 pin male connector in one side and 5 wires in the other side (the HIRSCHMANN ELST 5012 PG7 connector has a screw terminal).
+
+* Pull out the green screw terminal of the stick.
+* Connect the drop line blue wire from pin 5 (pin in the middle) to the green terminal on CANL.
+* Connect the drop line white wire from pin 4 to the green terminal on CANH.
+
+![](can_usb_connect.jpg)
 
 ## Software
 
