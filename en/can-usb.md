@@ -3,6 +3,13 @@
 
 ![](n2k_b.jpg)
 
+---
+
+**You can buy an CAN-USB Stick converter here**
+
+http://www.sailoog.com/shop-category/openplotter
+
+---
 ## Warning / Disclaimer
 
 The CAN-USB Stick is a research project on data communication in CAN bus and N2K networks on boats.
