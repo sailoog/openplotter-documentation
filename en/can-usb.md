@@ -17,6 +17,8 @@ Do not rely on data from this device and do not use as primary source for naviga
 
 The CAN-USB Stick is not certified by NMEA.
 
+The CAN-USB Stick is not electrically isolated.
+
 It is not allowed to use the Actisense® NMEA Reader software for the CAN-USB Stick.
 
 ## Overview
@@ -49,7 +51,7 @@ M12 male 120Ω terminator
 
 The drop line to the devices should not be longer than 6 m. The backbone can have 100m in length.
 
-The CAN-USB Stick is not isolated, so connecting the Raspberry Pi power supply to the CAN bus power supply is recommended.
+The CAN-USB Stick is not electrically isolated, so connecting the Raspberry Pi/computer power supply to the same CAN bus power supply is recommended.
 
 ## Connection
 
