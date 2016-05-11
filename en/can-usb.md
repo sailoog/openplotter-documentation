@@ -5,7 +5,7 @@
 
 ---
 
-**You can buy an CAN-USB Stick converter here**
+**You can buy a CAN-USB Stick converter here**
 
 http://www.sailoog.com/shop-category/openplotter
 
