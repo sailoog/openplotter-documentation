@@ -102,5 +102,4 @@ The board has an unused place for a jumper. Connecting the two holes of the not 
 
 ## Support
 
-link to forum
-
+http://forum.openmarine.net/
