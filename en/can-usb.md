@@ -1,9 +1,5 @@
 # CAN-USB Stick
----
 
-This chapter is under construction
-
----
 
 ![](n2k_b.jpg)
 
@@ -93,7 +89,7 @@ On other Linux distribution, use the canboat command: ```actisense-serial -r /de
 
 The software is still under development and has been built under Eclipse mars1 with the GNU ARM Eclipse Windows Build Tools. The software is licensed under apache 2.
 
-We will publish regular updates. The built .hex file can be flashed into the stick with the “Flash Loader Demonstrator” from ST (http://www.st.com/web/en/catalog/tools/PF257525).
+We will publish regular updates. The built .hex file can be flashed into the stick with the “Flash Loader Demonstrator” from ST on Windows (http://www.st.com/web/en/catalog/tools/PF257525).
 
 The board has an unused place for a jumper. Connecting the two holes of the not molded jumper will put the stick into boot loading mode.
 
