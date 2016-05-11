@@ -97,6 +97,7 @@ We will publish regular updates. The built .hex file can be flashed into the sti
 
 The board has an unused place for a jumper. Connecting the two holes of the not molded jumper will put the stick into boot loading mode.
 
+![](can_usb_flashing.png)
 
 
 ## Support
