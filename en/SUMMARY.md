@@ -32,6 +32,7 @@
 * [Getting started](getting_started.md)
     * [Headless](headless.md)
 * [Auto Setup USB ports](auto-setup-usb-ports.md)
+    * [USB manager](usb-manager.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer.md)
     * [Connecting serial devices](connecting-serial-devices.md)
     * [Network connections](network-connections.md)
