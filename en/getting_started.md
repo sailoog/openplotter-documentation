@@ -2,21 +2,21 @@
 
 First of all you have to put together all the [required parts](what_do_you_need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
 
-Second you have to run the software on your new ARM computer and here you have two options, either buy our plug and play SD card or download and install the software on an SD card.
+Second you have to run the software on your ARM computer and here you have two options, either buy our plug and play SD card or download and install the software on an SD card.
 
 ---
 
 **Buy an 8GB SD card with OpenPlotter RPI ready to run.**
 
-http://www.sailoog.com/shop-category/openplotter
+[http:\/\/www.sailoog.com\/shop-category\/openplotter](http://www.sailoog.com/shop-category/openplotter)
 
 ---
 
 ## Installing OpenPlotter RPI on an SD card
 
-Download the last version of **OpenPlotter RPI** from 
+Download the last version of **OpenPlotter RPI** from
 
-http://sailoog.com/blog-categories/openplotter-rpi
+[http:\/\/sailoog.com\/blog-categories\/openplotter-rpi](http://sailoog.com/blog-categories/openplotter-rpi)
 
 It is a compressed file and weighs just over 1GB so it will take a little.
 
@@ -24,11 +24,11 @@ Once the download is complete we have to unzip it and at the end we will have an
 
 OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. On these links are the instructions to do so depending on which system we are using to perform the process.
 
-Linux: https://www.raspberrypi.org/documentation/installation/installing-images/linux.md
+Linux: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/linux.md](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
 
-MAC: https://www.raspberrypi.org/documentation/installation/installing-images/mac.md
+MAC: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/mac.md](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
 
-Windows: https://www.raspberrypi.org/documentation/installation/installing-images/windows.md
+Windows: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/windows.md](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
 
 ## First boot
 
@@ -40,20 +40,21 @@ Once we have created the SD card with OpenPlotter RPI, we will insert it into ou
 
 If you bought our SD card you can skip this last step, just turn on the system and start using OpenPlotter.
 
-Turn the Raspberry on and go to *Menu* > *Preferences* and select *Raspberry Pi Configuration*.
+Turn the Raspberry on and go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
 
 ![](boot2.png)
 
-A window will open and we have to click on *Expand Filesystem*. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
+A window will open and we have to click on _Expand Filesystem_. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
 
 ![](boot3.png)
 
 ## Setting language
 
-If you need to set your system in other language than English, click on the *Localisation* tab and then on *Set Locale*, *Set Timezone* and *Set Keyboard* buttons.
+If you need to set your system in other language than English, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone_ and _Set Keyboard_ buttons.
 
 ![](boot4.png)
 
 ## Ok, now what?
 
 Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS through the [NMEA 0183 multiplexer](nmea_multiplexer.md).
+
