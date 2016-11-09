@@ -31,7 +31,7 @@
     * [Buzzer](buzzer.md)
 * [Getting started](getting_started.md)
     * [Headless](headless.md)
-* [Auto Setup USB ports](auto-setup-usb-ports.md)
+    * [Auto Setup USB ports](auto-setup-usb-ports.md)
     * [USB manager](usb-manager.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer.md)
     * [Connecting serial devices](connecting-serial-devices.md)
@@ -39,11 +39,10 @@
     * [Filtering](filtering.md)
 * [Signal K](signalk.md)
     * [CAN-USB Stick](can-usb.md)
-* Inspector
-* Chartplotter \(OpenCPN\)
-    * Sending data to autopilot
+* [Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
+    * [Sending data to autopilot](sending-data-to-autopilot.md)
 * Calculate
-* WiFi access point
+* [WiFi access point](wifi-access-point.md)
 * [Remote desktop](remote_desktop.md)
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
