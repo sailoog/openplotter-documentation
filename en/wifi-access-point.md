@@ -14,9 +14,15 @@ Setup the access point
 8. if openplotter should act as a gofree select "Enable bridge to eth0"
 
 On the right side you can see the useable ip addresses
-avahi-daemon is activated and produces 169.254.x.x IPs. 
+avahi-daemon is activated and produces 169.254.x.x IPs.
 
 When you are connected to the wifi and you have bonjour activated \(apple pc, iphone, android\). You can access the raspberry pi by "openplotter.local". Show SignalK webside on "openplotter.local:3000"
 
+!! In headless mode you can loose the connection to openplotter by changeing settings. Use an ethernet cable with openplotter.local to login again or change the config.txt of sd-card.
 
+
+
+Windows pc install bonjour.
+
+easiest way install itunes and uninstall all parts leave only bonjour
 
