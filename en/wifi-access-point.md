@@ -20,9 +20,7 @@ When you are connected to the wifi and you have bonjour activated \(apple pc, ip
 
 !! In headless mode you can loose the connection to openplotter by changeing settings. Use an ethernet cable with openplotter.local to login again or change the config.txt of sd-card.
 
+On windows pc install bonjour.
 
-
-Windows pc install bonjour.
-
-easiest way install itunes and uninstall all parts leave only bonjour
+The easiest way to install is to install itunes and uninstall all parts of itunes only leave out bonjour.
 
