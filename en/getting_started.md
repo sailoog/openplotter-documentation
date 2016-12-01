@@ -14,23 +14,26 @@ Second you have to run the software on your ARM computer and here you have two o
 
 ## Installing OpenPlotter RPI on an SD card
 
-Download the last version of **OpenPlotter RPI** from
+Download the last noobs version of **OpenPlotter RPI** from
 
 [http:\/\/sailoog.com\/blog-categories\/openplotter-rpi](http://sailoog.com/blog-categories/openplotter-rpi)
 
-It is a compressed file and weighs just over 1GB so it will take a little.
+It is a compressed file ca. 1GB so it will take a while.
 
-Once the download is complete we have to unzip it and at the end we will have an .img file of about 4GB to be recorded on an SD card.
+Once the download is completed we have to unzip it and copy all files from the noobs folder onto a micro SD FAT32 formated card minimum 8 GB.
 
-OpenPlotter RPI is built from Raspbian operating system and therefore the way to pass it to an SD card is the same as for that system. On these links are the instructions to do so depending on which system we are using to perform the process.
+In the noobs menu select openplotter and click install. It takes several minutes to format and install the system.
 
-Linux: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/linux.md](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
+1. On the first start you will be warned to type in a new password.
 
-MAC: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/mac.md](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
+2. AutoSetup pops up.[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md)
 
-Windows: [https:\/\/www.raspberrypi.org\/documentation\/installation\/installing-images\/windows.md](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md)
+3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
 
-## First boot
+
+
+
+ First boot
 
 If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
@@ -38,23 +41,40 @@ Once we have created the SD card with OpenPlotter RPI, we will insert it into ou
 
 ![](boot1.png)
 
-If you bought our SD card you can skip this last step, just turn on the system and start using OpenPlotter.
 
-Turn the Raspberry on and go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
 
-![](boot2.png)
+Connect power to the RPI. We wait for the noobs menu.
 
-A window will open and we have to click on _Expand Filesystem_. Doing this, the next time you reboot, the system will use the full capacity of the SD card.
+In the noobs menu we select openplotter and click install. It takes several minutes to format and install the system.
 
-![](boot3.png)
 
-## Setting language
 
-If you need to set your system in other language than English, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone_ and _Set Keyboard_ buttons.
+If you bought our SD card you just turn on the system and start.
 
-![](boot4.png)
 
-## Ok, now what?
 
-Congratulations! You have your system running so it is time to start getting some data from the world. The most common and logic step it would be connecting a GPS through the [NMEA 0183 multiplexer](nmea_multiplexer.md).
+1. On the first start you will be warned to type in a new password.
+
+2. AutoSetup pops up.[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md)
+
+3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
+
+
+
+
+Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
+
+![](/assets/screenshot.82.jpg)
+
+A window will open and we have to click on _Change Password_ \(default password: raspberry\).
+
+![](/assets/screenshot.85.jpg)
+
+## Setting language and country
+
+You need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone, _ _Set Keyboard, Set WiFi Country_ buttons.
+
+![](/assets/screenshot.84.jpg)
+
+ To configure openplotter we start with setting up the usb adapter[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md).
 

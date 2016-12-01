@@ -40,7 +40,6 @@
 * [WiFi access point](wifi-access-point.md)
 * [Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
     * [Sending data to autopilot](sending-data-to-autopilot.md)
-* [WiFi access point](wifi-access-point.md)
 * [Remote desktop](remote_desktop.md)
 * [SDR AIS](sdr_ais.md)
 * [Sensors](sensors.md)
@@ -51,19 +50,19 @@
     * [DS18B20](DS18B20.md)
 * [Switches](switches.md)
     * [Common switches](common_sws.md)
-    * Door switches
-    * Float switches
-    * Motion sensor switches
+    * [Door switches](door-switches.md)
+    * [Float switches](float-switches.md)
+    * [Motion sensor switches](motion-sensor-switches.md)
 * [Outputs](outputs.md)
     * [LEDs](leds.md)
     * [Relays](relays.md)
-    * Buzzers
-* Actions
+    * [Buzzers](buzzers.md)
+* [Actions](actions.md)
 * [Accounts](accounts.md)
-* Weather graphs
+* [Weather graphs](weather-graphs.md)
 * Weather forecast \(ZyGrib\)
 * System time from NMEA
-* Startup
+* [Startup](startup.md)
 * [License](license.md)
 * [Credits](credits.md)
 

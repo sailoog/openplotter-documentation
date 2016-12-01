@@ -22,7 +22,7 @@ or you can follow this detailed guide:
 
 ## AIS - receiving
 
-![](sdr_ais1.jpeg)
+![](/assets/screenshot.86.jpg)
 
 Once you have found your **gain** and **ppm** value \(in red\), select _**Enable AIS NMEA generation**_ \(in pink\).
 
@@ -39,8 +39,6 @@ Some home-made antennas:
 [http:\/\/nmearouter.com\/docs\/ais\/aerial.html](http://nmearouter.com/docs/ais/aerial.html)
 
 [https:\/\/www.youtube.com\/watch?v=SdEglNHyHB4](https://www.youtube.com/watch?v=SdEglNHyHB4)
-
-
 
 ## gqrx
 
@@ -64,8 +62,4 @@ _advanced alpha features for experts_
 To translate this sensors to signalk use the python script tools\/rtl\_433SK.py.
 
 It can be integrated as tool. Add "\[\['433 Temp', 'get wireless temp', 'rtl\_433SK.py', '0'\]\]" this behind "py=" in openplotter.conf section \[TOOLS\].
-
-
-
-
 

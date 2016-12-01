@@ -22,5 +22,5 @@ When you are connected to the wifi and you have bonjour activated \(apple pc, ip
 
 On windows pc install bonjour.
 
-The easiest way to install is to install itunes and uninstall all parts of itunes only leave out bonjour.
+The easiest way to do this is to install itunes and uninstall all parts of itunes only leave out bonjour.
 
