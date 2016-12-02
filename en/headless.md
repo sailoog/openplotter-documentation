@@ -4,7 +4,7 @@ You can use the RPI in headless mode after the noobs installation is done.
 
 There are two ways to work headless.
 
-1. over wifi \(You have to setup a wifi access point \(hotspot\)[/wifi-access-point.md](/wifi-access-point.md).
+1. over wifi \(You have to setup a wifi access point \(hotspot\) [WiFi access point](/wifi-access-point.md).
 
 2. you can connect to the RPI by an ethernet cable and use the bonjour protocol or the bridged hotspot.
 
@@ -57,8 +57,6 @@ If only one WiFi dongle is connected, the _device_ value should always be _wlan0
 _ssid_ will be the name of your WiFi network. Use any character but a maximun of 32.
 
 _pass_ will be the password of your WiFi network. Use any character but a minimum of 8.
-
-
 
 Save and eject the SD card, then insert it into the Raspberry Pi. Make sure the WiFi dongle is also inserted and power up the Pi.
 

@@ -8,8 +8,6 @@ If you can guarantee that every time all usb adapter are connected and that ther
 
 Otherwise the names ttyUSBx are changeing \(for example the ais is on the autopilot port, the N2K Can-Bus is on the gps port…\). The multiplexer isn’t able to do his job any more.
 
-
-
 Here the USB-ports can be setup manually.
 
 ![](/assets/screenshot.63.jpg)
@@ -32,8 +30,6 @@ port: the usb-port position
 
 Picture 3: USB port names of the raspberry pi
 
-
-
 If you add a new serial port you can select remember by device or remember by port.
 
 Remember by port can be used every time. See picture 3 it shows the usb port names of the raspberry pi.
@@ -50,7 +46,7 @@ The USB manager uses ttyOP\_xxxx.
 
 Where xxxx belongs to personal decision. But we recommend to use
 
-ttyOP\_N2K: for actisense ngt-1 
+ttyOP\_N2K: for actisense ngt-1
 
 ttyOP\_AP: for autopilot
 
@@ -64,13 +60,5 @@ ttyOP\_MPXx: is used for multiplexers but it could be better to rename it to a m
 
 There are other devices which doesn't send anything they 're only listening for sentences add a meanigful name to them.
 
-
-
 To change a port name double click the line.
-
-But in reality praxis If Auto Setup
-
-
-
-
 

@@ -4,9 +4,7 @@
 
 This are the standard connection settings of opencpn to connect to openplotter.
 
-
-
-![](/assets/screenshot.95.jpg) 
+![](/assets/screenshot.95.jpg)
 
 You can activate the route with right mouse button.
 
@@ -18,5 +16,5 @@ You see a yellow red point blinking. Opencpn sends an NMEA0183 RMB sentence.
 
 If the autopilot has been setup correctly. You can start autopilot to navigate to next waypoint.
 
-Go on with Sending data to autopilot[/sending-data-to-autopilot.md](/sending-data-to-autopilot.md)
+Go on with [Sending data to autopilot](/sending-data-to-autopilot.md)
 

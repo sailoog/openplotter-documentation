@@ -31,9 +31,7 @@ In the noobs menu select openplotter and click install. It takes several minutes
 3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
 
 
-
-
- First boot
+First boot
 
 If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
@@ -41,25 +39,17 @@ Once we have created the SD card with OpenPlotter RPI, we will insert it into ou
 
 ![](boot1.png)
 
-
-
 Connect power to the RPI. We wait for the noobs menu.
 
 In the noobs menu we select openplotter and click install. It takes several minutes to format and install the system.
 
-
-
 If you bought our SD card you just turn on the system and start.
-
-
 
 1. On the first start you will be warned to type in a new password.
 
-2. AutoSetup pops up.[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md)
+2. [AutoSetup](/auto-setup-usb-ports.md) pops up.
 
 3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
-
-
 
 
 Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
@@ -76,5 +66,5 @@ You need to set your system localisation, click on the _Localisation_ tab and th
 
 ![](/assets/screenshot.84.jpg)
 
- To configure openplotter we start with setting up the usb adapter[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md).
+To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](/auto-setup-usb-ports.md).
 
