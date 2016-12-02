@@ -9,16 +9,16 @@ Some sensors can be connected to the GPIO of the raspberry pi. If these sensors 
 * [Temperature](/temperature.md)
 * [Humidity](/humidity.md)
 
-![](/assets/screenshot.79.jpg)
+![](/assets/i2c.jpg)
 
 ## 1W
 
 * [DS18B20](DS18B20.md)
 
-![](/assets/screenshot.80.jpg)  
+![](/assets/1W.jpg)  
 Use add key to add another sensor. Doubleclick the line to edit it.
 
-![](/assets/screenshot.81.jpg)
+![](/assets/1Wform.jpg)
 
 Use offset to correct value.
 
@@ -28,19 +28,19 @@ If there is a star in signalk name. The text in field Name will replace the star
 
 The adc \(analog digital converter\) MCP3008 is implemented in openplotter.
 
-![](/assets/screenshot.76.jpg)
+![](/assets/mcp3008.jpg)
 
 It does read voltage between 0 - 3.3V. It is has a 10bit resolution \(0-1023\).
 
 Many signals aren't linear. To get a nearly linear result you can use the value setting.
 
-![](/assets/screenshot.77.jpg)
+![](/assets/mcp3008form1.jpg)
 
 The medium level in a tank on boats isn't linear to the hight the sensor measures. To calibrate it emty it and insert the adc value for 0%. fill in 10% of max volume and insert adc value and 10.0. Go on untill the tank is full.
 
 Look at the graph you created by clicking on graph
 
-![](/assets/screenshot.78.jpg)
+![](/assets/mcp3008graph1.jpg)
 
 ## Pulse
 

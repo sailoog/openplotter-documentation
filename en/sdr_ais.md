@@ -22,7 +22,7 @@ or you can follow this detailed guide:
 
 ## AIS - receiving
 
-![](/assets/screenshot.86.jpg)
+![](/assets/SDRreceiver.jpg)
 
 Once you have found your **gain** and **ppm** value \(in red\), select _**Enable AIS NMEA generation**_ \(in pink\).
 
@@ -50,7 +50,7 @@ You can listen to:
 * vhf radio
 * data
 
-Be sure that the rtl2832u isn't used by openplotter or another application.
+Be sure that the rtl2832u isn't used by openplotter or another application.  
 It does consume much processor power. Other processes could be negative affected.
 
 # wireless temperature sensors
