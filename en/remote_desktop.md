@@ -2,7 +2,7 @@
 
 To connect to the raspberry pi openplotter can setup an AP \(access point\) or and can be connected by an ethernet cable.
 
-It can be easily connected by bonjour protocol with "openplotter.local" as address or use the IP address. 
+It can be easily connected by bonjour protocol with "openplotter.local" as address or use the IP address.
 
 The IP address of openplotter as WiFi access point is **10.10.10.1 **as default.
 
@@ -20,13 +20,13 @@ RDP can replicate the current desktop or create a new one with different resolut
 
 Be sure the checkbox _VNC remote desktop_ is enabled in the _Startup_ tab.
 
-![](startup.png)
+![](/assets/screenshot.103.jpg)
 
 To connect by VNC you have to provide the IP of OpenPlotter and the port 5900.
 
 ## RDP
 
-To connect by RDP you have to provide just the IP. Then you will be prompted for the password of user _pi_. If you have not changed it, it should be _raspberry_. When using Module sesman-Xvnc you get a new desktop. If you want to replicate the current desktop use Module console.
+To connect by RDP you have to provide just the IP or openplotter.local. Then you will be prompted for the password of user _pi_. If you have not changed it, it should be _raspberry_. When using Module sesman-Xvnc you get a new desktop. If you want to replicate the current desktop use Module console.
 
 ![](login_rdp.png)
 

@@ -1,29 +1,28 @@
 ## \# Sensors
 
-Some sensors can be connected to the GPIO of the raspberry pi. If these sensors haven't got a connection to the ground of the boat they are safe. When they are grounded you can get ground loops which could demage the raspberry pi or other things. In these situation it is better to use other short mcu boards like arduino and isolate them with an usb to usb isolator for example. 
+Some sensors can be connected to the GPIO of the raspberry pi. If these sensors haven't got a connection to the ground of the boat they are safe. When they are grounded you can get ground loops which could demage the raspberry pi or other things. In these situation it is better to use other short mcu boards like arduino and isolate them with an usb to usb isolator for example.
 
 ## I2C
 
-* IMU
-* Pressure
-* Temperature
-* Humidity
+* [IMU](/imu.md)
+* [Pressure](/pressure.md)
+* [Temperature](/temperature.md)
+* [Humidity](/humidity.md)
 
 ![](/assets/screenshot.79.jpg)
+
 ## 1W
 
 * [DS18B20](DS18B20.md)
 
-![](/assets/screenshot.80.jpg)
+![](/assets/screenshot.80.jpg)  
 Use add key to add another sensor. Doubleclick the line to edit it.
 
 ![](/assets/screenshot.81.jpg)
 
 Use offset to correct value.
 
-If there is a star in signalk name. The text in field Name will replace the star. 
-
-
+If there is a star in signalk name. The text in field Name will replace the star.
 
 ## SPI
 
