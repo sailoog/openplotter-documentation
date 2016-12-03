@@ -64,6 +64,8 @@ Some home-made antennas:
 
 gqrx is an application which also use the rtl2832u to receive something.
 
+**This gqrx-2.6-rpi3-1 version only supports RPI 3!**
+
 You can listen to:
 
 * Radio in different waves
@@ -73,7 +75,7 @@ You can listen to:
 Be sure that the rtl2832u isn't used by openplotter or any other application.  
 **It does consume much processor power. Other processes could be negative affected.**
 
-Settings
+Settings to begin with:
 
 * configure I/O devices            Input rate 240000
 
@@ -82,14 +84,12 @@ Settings
 
 * Receiver Option                     Narrow FM                  FM marine radio
 
+* FFT Settings                          Rate 5 fps                    0 fps for low processor load
+
+* Audio                                      Gain 24.8 dB
 
 
 
-```
-                                                    Narrow FM                  FM marine 
-                                                    
-                                                    
-```
 
 # wireless temperature sensors
 

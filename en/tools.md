@@ -59,12 +59,7 @@ The antenna must be different for each frequence range to get good results.
 
 * Calculate
 
-
-This is used to calculate the true wind 
+This is used to calculate the true wind from apparent wind
 
 ![](/assets/Calculate.jpg)
-
-
-
-
 
