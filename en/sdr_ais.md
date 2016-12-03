@@ -12,6 +12,8 @@ A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. 
 
 OpenPlotter is ready to get SDR AIS signal out of the box, you just have to calibrate to find **gain** and correction \(**ppm**\) values.
 
+
+
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and ppm values:
 
 [http:\/\/shop.sailoog.com\/en\/4-usb-sdr-ais-receiver.html](http://shop.sailoog.com/en/4-usb-sdr-ais-receiver.html)
@@ -24,7 +26,7 @@ or you can follow this detailed guide:
 
 ![](/assets/SDRreceiver.jpg)
 
-Once you have found your **gain** and **ppm** value \(in red\), select _**Enable AIS NMEA generation**_ \(in pink\).
+Once you have found your **gain** and **ppm** value, select _**Enable AIS reception**_.
 
 **You do not need to enable the rtlsdr plugin in OpenCPN**. If you want to use that plugin you must disable SDR AIS reception in OpenPlotter.
 

@@ -35,7 +35,7 @@
     * [USB manager](usb-manager.md)
 * [NMEA 0183 Multiplexer](nmea_multiplexer.md)
 * [NMEA 2K](nmea-2k.md)
-* [CAN-USB Stick](can-usb.md)
+    * [CAN-USB Stick](can-usb-stick.md)
 * [Signal K](signalk.md)
 * [Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
     * [Sending data to autopilot](sending-data-to-autopilot.md)
@@ -70,6 +70,7 @@
     * [Wireless thermometer 433MHz](wireless-thermometer-433mhz.md)
 * [System time from NMEA](system-time-from-nmea.md)
 * [Startup](startup.md)
+* [Tools](tools.md)
 * [License](license.md)
 * [Credits](credits.md)
 
