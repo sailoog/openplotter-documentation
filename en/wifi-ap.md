@@ -1,6 +1,6 @@
 # WiFi AP
 
-![](/assets/wifiAP.jpg)
+![](/en/wifiAP.jpg)
 
 Picture: RPI active as AP with bridge to the ethernet port. The internet connection comes over wlan1
 
@@ -18,7 +18,7 @@ The ethernet port can be bridged to the AP to act like a normal router. This is 
 
 When pressing the **Status** buttom
 
-![](/assets/wifiStatus.jpg)
+![](/en/wifiStatus.jpg)
 
 this window pops up and shows the network status.
 

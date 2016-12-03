@@ -14,7 +14,7 @@ Opens a menu to choose a new time zone.
 
 ---
 
-* [Set time from NMEA](/system-time-from-nmea.md)
+* [Set time from NMEA](/en/system-time-from-nmea.md)
 
 The time from GPS \(RMC-sentence\) will be used to set the time of the RPI.
 
@@ -34,7 +34,7 @@ For details of GPSD google is your friend
 
 ---
 
-* [SDR receiver](/sdr_ais.md)
+* [SDR receiver](/en/sdr_ais.md)
 
 SDR \(Software Defined Radio\) can be used to receive:
 
@@ -61,23 +61,23 @@ The antenna must be different for each frequence range to get good results.
 
 This is used to calculate the true wind from apparent wind
 
-![](/assets/Calculate.jpg)
+![](/en/Calculate.jpg)
 
 ---
 
 * NMEA 0183 generator
 
-![](/assets/nmea0183generator.jpg)
+![](/en/nmea0183generator.jpg)
 
-![](/assets/nmea0183generatorForm.jpg)
-
----
-
-* [NMEA 2000 generator](/nmea-2k.md)
+![](/en/nmea0183generatorForm.jpg)
 
 ---
 
-* [configureable tools](/tools-defined.md)
+* [NMEA 2000 generator](/en/nmea-2k.md)
+
+---
+
+* [configureable tools](/en/tools-defined.md)
 
 
 

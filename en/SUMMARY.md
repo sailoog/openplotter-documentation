@@ -46,16 +46,16 @@
     * 1W sensors
     * [SPI sensors](spi-sensors.md)
     * [Accounts](accounts.md)
-    * MQTT
+    * [MQTT](mqtt.md)
     * [SMS](actions.md)
-    * Startup
+    * [Startup](startup.md)
 * [OP menu Tools](tools.md)
-    * System time from NMEA
+    * [System time from NMEA](system-time-from-nmea.md)
     * [SDR AIS](sdr-ais.md)
     * [Tools defined](tools-defined.md)
         * [Analog ads1115](analog-ads1115.md)
         * [Analog Firmata](analog-firmata.md)
-        * SignalK Simulator
+        * [SignalK Simulator](signalk-simulator.md)
         * [wireless temp](wireless-temp.md)
         * [Auto Setup USB ports](auto-setup-usb-ports.md)
 * [OP Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
