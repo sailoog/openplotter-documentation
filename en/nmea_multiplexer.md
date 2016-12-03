@@ -27,14 +27,14 @@ Name: lower case letters should be meaningful
 Port:
 
 * Serial: The name of the port ttyxxxxx
-* TCP \/ UDP: port number
+* TCP / UDP: port number
 
 Bauds: Baudrate for serial port
 
-in\/out:
+in / out:
 
 * Serial: both, in, out
-* TCP \/ UDP: in, out
+* TCP / UDP: in, out
 
 in Filter: Data comming from the device
 
@@ -64,7 +64,7 @@ They show the transfered sentences
 
 On the lower left side you can see the calculated transfer speed in baud.
 
-! If the output speed is higher than the baudrate of the device some data will be cut. Select filters to send only needed data!
+**! If the output speed is higher than the baudrate of the device some data will be cut. Select filters to send only needed data!**
 
 # Advanced
 

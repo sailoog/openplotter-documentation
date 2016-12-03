@@ -6,18 +6,13 @@ The number of analog inputs channel depend on the mcu
 
 Connected to USB serialport.
 
-
-
-In Openplotter we use the firmata script of Arduino ide.
+In Openplotter we use the firmata script of Arduino IDE.
 
 It communicates with the RPI over firmata protocol.
-
-
 
 advantage:
 
 * can be isolated \(by USB to USB isolator, or uart to USB isolator\) 
 
-
-
+See [Analog Firmata](/analog-firmata.md)
 

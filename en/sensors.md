@@ -1,4 +1,4 @@
-## \# Sensors
+## Sensors
 
 Some sensors can be connected to the GPIO of the raspberry pi. If these sensors haven't got a connection to the ground of the boat they are safe. When they are grounded you can get ground loops which could demage the raspberry pi or other things. In these situation it is better to use other short mcu boards like arduino and isolate them with an usb to usb isolator for example.
 
