@@ -72,7 +72,7 @@
 * [Startup](startup.md)
 * [Tools](tools.md)
 * [Tools defined](tools-defined.md)
-    * Analog ads1115
+    * [Analog ads1115](analog-ads1115.md)
     * Analog Firmata
     * SignalK Simulator
     * wireless temp
