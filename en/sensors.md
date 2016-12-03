@@ -2,47 +2,20 @@
 
 Some sensors can be connected to the GPIO of the raspberry pi. If these sensors haven't got a connection to the ground of the boat they are safe. When they are grounded you can get ground loops which could demage the raspberry pi or other things. In these situation it is better to use other short mcu boards like arduino and isolate them with an usb to usb isolator for example.
 
-## I2C
+### I2C
 
-* [IMU](/imu.md)                     [IMU Sensor ](/IMU Sensor)               
-* [Pressure](/pressure.md)             [Pressure/Temperature sensor](/Pressure/Temperature sensor)
-* [Temperature](/temperature.md)
-* [Humidity](/humidity.md)             [Humidity/Temperature sensor](/Humidity/Temperature sensor)
+* [IMU](/en/imu.md)                     [IMU Sensor](/en/imu_sensor.md)                
+* [Pressure](/en/pressure.md)             [Pressure/Temperature sensor](/en/pressure_sensor.md)
+* [Temperature](/en/temperature.md)
+* [Humidity](/en/humidity.md)             [Humidity/Temperature sensor](/en/humidity_sensor.md)
 
-![](/assets/i2c.jpg)
+### 1W
 
-## 1W
+* [DS18B20](/en/DS18B20.md)               [One wire temperature sensor](/en/1w_temp_sensor.md)
 
-* [DS18B20](DS18B20.md)               [One wire temperature sensor](/One wire temperature sensor)
+### SPI
 
-![](/assets/1W.jpg)  
-Use add key to add another sensor. Doubleclick the line to edit it.
-
-![](/assets/1Wform.jpg)
-
-Use offset to correct value.
-
-If there is a star in signalk name. The text in field Name will replace the star.
-
-## SPI
-
-The adc \(analog digital converter\) MCP3008 is implemented in openplotter.
-
-![](/assets/mcp3008.jpg)
-
-It does read voltage between 0 - 3.3V. It is has a 10bit resolution \(0-1023\).
-
-Many signals aren't linear. To get a nearly linear result you can use the value setting.
-
-![](/assets/mcp3008form1.jpg)
-
-The medium level in a tank on boats isn't linear to the hight the sensor measures. To calibrate it emty it and insert the adc value for 0%. fill in 10% of max volume and insert adc value and 10.0. Go on untill the tank is full.
-
-Look at the graph you created by clicking on graph
-
-![](/assets/mcp3008graph1.jpg)
-
-## Pulse
+### Pulse
 
 Coming soon
 

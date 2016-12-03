@@ -42,5 +42,5 @@ If there are more device-IDs it will select ttyOP\_MPX1, next tty\_MPX2,...
 
 If it detects an openplotter compatible CAN-USB adapter it selects ttyOP\_N2K
 
-To check if everything is done go to [USB manager.](/usb-manager.md)
+To check if everything is done go to [USB manager.](/en/usb-manager.md)
 
