@@ -32,8 +32,6 @@ Now we look for the gain setting. Please push buttom **Calibration**.
 
 The line **Supported gain values** is interesting for us. The max gain here is 49.6. Input this into the **Gain** field.
 
-
-
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and ppm values:
 
 [http:\/\/shop.sailoog.com\/en\/4-usb-sdr-ais-receiver.html](http://shop.sailoog.com/en/4-usb-sdr-ais-receiver.html)
@@ -82,13 +80,16 @@ Settings
 * Receiver Option                     Mode WFM \(mono\)    FM radio
 
 
-                                                        Narrow FM                  FM marine 
+* Receiver Option                     Narrow FM                  FM marine radio
 
 
 
 
-
-
+```
+                                                    Narrow FM                  FM marine 
+                                                    
+                                                    
+```
 
 # wireless temperature sensors
 
