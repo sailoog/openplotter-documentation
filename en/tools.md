@@ -14,7 +14,7 @@ Opens a menu to choose a new time zone.
 
 ---
 
-* Set time from NMEA
+* [Set time from NMEA](/system-time-from-nmea.md)
 
 The time from GPS \(RMC-sentence\) will be used to set the time of the RPI.
 
@@ -56,6 +56,15 @@ Most cheap USB SDR can work from 30Mhz - 1.7GHz. So they can't receive navtex at
 The antenna must be different for each frequence range to get good results.
 
 ---
+
+* Calculate
+
+
+This is used to calculate the true wind 
+
+![](/assets/Calculate.jpg)
+
+
 
 
 

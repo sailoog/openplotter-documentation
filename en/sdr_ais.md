@@ -14,15 +14,23 @@ OpenPlotter is ready to get SDR AIS signal out of the box, you just have to cali
 
 ### Fine calibration
 
-It takes a few minutes after starting **Check band.**
+It takes a few minutes after starting **Check band **and push **Calculate**.
 
 ![](/assets/Fine_calibration.jpg)
 
-This is an example result. 
+This is an example result.
 
-If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration**
+If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration **and then **Calculate.**
 
+![](/assets/Fine_calibration1.jpg)
 
+For this example the field **Correction \(ppm\) **should be set to 13.
+
+Now we look for the gain setting. Please push buttom **Calibration**.
+
+![](/assets/Calibration.jpg)
+
+The line **Supported gain values** is interesting for us. The max gain here is 49.6. Input this into the **Gain** field.
 
 
 
@@ -64,8 +72,23 @@ You can listen to:
 * vhf radio
 * data
 
-Be sure that the rtl2832u isn't used by openplotter or another application.  
-It does consume much processor power. Other processes could be negative affected.
+Be sure that the rtl2832u isn't used by openplotter or any other application.  
+**It does consume much processor power. Other processes could be negative affected.**
+
+Settings
+
+* configure I/O devices            Input rate 240000
+
+* Receiver Option                     Mode WFM \(mono\)    FM radio
+
+
+                                                        Narrow FM                  FM marine 
+
+
+
+
+
+
 
 # wireless temperature sensors
 
