@@ -12,21 +12,13 @@ Analog Firmata can be started. Best way to see if connecting works is to start o
 
 The start of pymata takes some seconds.
 
-
-
 The configuration file is the same one which is used by [ads1115.](/analog-ads1115.md)
 
 There are up to 16 sections \(\[FIRMATA\_0\]..\[FIRMATA\_15\]\)
 
+Example:
 
-
-Example: 
-
-_\[FIRMATA\_1\] _
-
-_sk\_name = tanks.fuel.right.currentLevel _
-
-_adjust\_points = \[\[52.0,0.0\],\[522.0,25.0\],\[708.0,50.0\],\[913.0,100\],\[1024.0,100.01\]\]_
-
-
+_\[FIRMATA\_1\]   
+sk\_name = tanks.fuel.right.currentLevel   
+adjust\_points = \[\[52.0,0.0\],\[522.0,25.0\],\[708.0,50.0\],\[913.0,100\],\[1024.0,100.01\]\]_
 

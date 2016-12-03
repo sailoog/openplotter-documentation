@@ -4,16 +4,16 @@ Some sensors can be connected to the GPIO of the raspberry pi. If these sensors 
 
 ## I2C
 
-* [IMU](/imu.md)
-* [Pressure](/pressure.md)
+* [IMU](/imu.md)                     [IMU Sensor ](/IMU Sensor)               
+* [Pressure](/pressure.md)             [Pressure/Temperature sensor](/Pressure/Temperature sensor)
 * [Temperature](/temperature.md)
-* [Humidity](/humidity.md)
+* [Humidity](/humidity.md)             [Humidity/Temperature sensor](/Humidity/Temperature sensor)
 
 ![](/assets/i2c.jpg)
 
 ## 1W
 
-* [DS18B20](DS18B20.md)
+* [DS18B20](DS18B20.md)               [One wire temperature sensor](/One wire temperature sensor)
 
 ![](/assets/1W.jpg)  
 Use add key to add another sensor. Doubleclick the line to edit it.
