@@ -1,5 +1,7 @@
 # NMEA 2K
 
+![](/assets/NMEA2K.jpg)
+
 Settings
 
 * select the N2K port
@@ -10,9 +12,13 @@ Settings
 
 If buttom is gray, you have to deactivate Enable N2K input
 
+![](/assets/diagnosticN2Kinput.jpg)
+
 # Diagnostic output
 
 If buttom is gray, you have to deactivate Enable N2K output
+
+![](/assets/diagnosticN2Koutput.jpg)
 
 # Output settings
 
@@ -28,7 +34,7 @@ First step is to enable needed PGNs for output. Then press apply and press check
 
 Tools-&gt;NMEA 2000 generator
 
-![](/assets/N2Kform2.jpg)
+![](/assets/nmea2000generator.jpg)
 
 Check the PGNs you want to send onto the NMEA 2000 bus \(it only works if the output settings for the PGNs are also set\).
 

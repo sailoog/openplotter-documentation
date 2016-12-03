@@ -71,6 +71,12 @@
 * [System time from NMEA](system-time-from-nmea.md)
 * [Startup](startup.md)
 * [Tools](tools.md)
+* [Tools defined](tools-defined.md)
+    * Analog ads1115
+    * Analog Firmata
+    * SignalK Simulator
+    * wireless temp
+    * Auto Setup
 * [License](license.md)
 * [Credits](credits.md)
 

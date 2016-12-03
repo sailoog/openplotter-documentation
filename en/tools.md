@@ -63,3 +63,22 @@ This is used to calculate the true wind from apparent wind
 
 ![](/assets/Calculate.jpg)
 
+---
+
+* NMEA 0183 generator
+
+![](/assets/nmea0183generator.jpg)
+
+![](/assets/nmea0183generatorForm.jpg)
+
+---
+
+* [NMEA 2000 generator](/nmea-2k.md)
+
+---
+
+* [configureable tools](/tools-defined.md)
+
+
+
+
