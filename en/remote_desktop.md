@@ -1,26 +1,32 @@
 # Remote desktop
 
-If you want to use OpenPlotter from external devices (laptops, tablets or smartphones) by remote desktop, all of them have to be connected to the same network and you have to know what IP has been assigned to OpenPlotter.
+To connect to the raspberry pi openplotter can setup an AP \(access point\) or and can be connected by an ethernet cable.
 
-You can set OpenPlotter as WiFi access point and connect your devices to him. In this case your IP will be always **10.10.10.1**.
+It can be easily connected by bonjour protocol with "openplotter.local" as address or use the IP address.
 
-You can also connect OpenPlotter to any access point or router and connect your remote devices to this point too. In this case you have to find out what IP has been assigned to OpenPlotter by the router.
+The IP address of openplotter as WiFi access point is **10.10.10.1 **as default.
+
+In \/home\/pi\/.config\/openplotter\/openplotter.conf you can change the address manually.
+
+If you connect the raspberry pi to a router by ethernet cable \(and bridge mode isn't checked\) the raspberry pi will get the IP address from the routers dhcp server. So connect to the router and look what IP address it sets for openplotter.
 
 You have to install a remote desktop client on your remote device. There are two types, VNC and RDP, and some applications can use both of them.
 
-VNC replicates the current desktop in OpenPlotter and RDP creates a new one with different resolution if you want. RDP is faster than VNC.  
+VNC replicates the current desktop in OpenPlotter.
 
-##VNC
+RDP can replicate the current desktop or create a new one with different resolution if you want. RDP is faster than VNC.
 
-Be sure the checkbox *VNC remote desktop* is enabled in the *Startup* tab.
+## VNC
 
-![](startup.png)
+Be sure the checkbox _VNC remote desktop_ is enabled in the _Startup_ tab.
+
+![](/assets/startup_formular.jpg)
 
 To connect by VNC you have to provide the IP of OpenPlotter and the port 5900.
 
-##RDP
+## RDP
 
-To connect by RDP you have to provide just the IP. Then you will be prompted for the password of user *pi*. If you have not changed it, it should be *raspberry*.
+To connect by RDP you have to provide just the IP or openplotter.local. Then you will be prompted for the password of user _pi_. If you have not changed it, it should be _raspberry_. When using Module sesman-Xvnc you get a new desktop. If you want to replicate the current desktop use Module console.
 
 ![](login_rdp.png)
 
@@ -42,6 +48,5 @@ Linux: Vinagre.
 
 Windows: Windows 10 Remote Desktop Client, Windows CE 5.0 Remote Desktop Client.
 
-Android: Remote RDP Lite, RDC, Remote Desktop Client, aRDP, RDP Remote Desktop.
-
+Android: load an old apk \(microsoft-remote-desktop-8-0-5-24406-en-android.apk\)
 
