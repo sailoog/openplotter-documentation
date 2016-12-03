@@ -12,6 +12,18 @@ A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. 
 
 OpenPlotter is ready to get SDR AIS signal out of the box, you just have to calibrate to find **gain** and correction \(**ppm**\) values.
 
+### Fine calibration
+
+It takes a few minutes after starting **Check band.**
+
+![](/assets/Fine_calibration.jpg)
+
+This is an example result. 
+
+If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration**
+
+
+
 
 
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and ppm values:
