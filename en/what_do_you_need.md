@@ -44,7 +44,7 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [Pressure\/Temperature sensor](pressure_sensor.md)
 * [Humidity\/Temperature sensor](humidity_sensor.md)
 * [One wire temperature sensor](1w_temp_sensor.md)
-* Analog Digital Converter
+* [Analog Digital Converter](analog-digital-converter.md)
 * [PIR motion sensor](motion.md)
 * [Common switch](common_sw.md)
 * [Door switch](door_sw.md)
@@ -52,4 +52,6 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [Relay](relay.md)
 * [LED](led.md)
 * [Buzzer](buzzer.md)
+
+
 
