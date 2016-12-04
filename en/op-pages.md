@@ -1,29 +1,25 @@
 # Openplotter pages
 
-* [USB manager](/en/usb-manager.md)
+* [USB manager](usb-manager.md)
 
-* [NMEA 0183 Multiplexer](/en/nmea-0183-multiplexer.md)
+* [NMEA 0183 Multiplexer](nmea-0183-multiplexer.md)
 
-* [NMEA 2K](/en/nmea-2k.md)
+* [NMEA 2K](nmea-2k.md)
 
-* [WiFi AP](/en/wifi-ap.md)
+* [WiFi AP](wifi-ap.md)
 
-* [Actions](/en/actions.md)
+* [Actions](actions.md)
 
-* [GPIO sensors](/en/gpio-sensors.md)
+* [GPIO sensors](gpio-sensors.md)
 
-* [I2C sensors](/en/i2c-sensors.md)
+* [I2C sensors](i2c-sensors.md)
 
-* [1W sensors](/en/1w-sensors.md)
+* [1W sensors](1w-sensors.md)
 
-* [SPI sensors](/en/spi-sensors.md)
+* [SPI sensors](spi-sensors.md)
 
-* [Accounts](/en/accounts.md)
+* [Accounts](accounts.md)
 
-* [MQTT](/en/mqtt.md)
+* [MQTT](mqtt.md)
 
-* [SMS](/en/sms.md)
-
-
-
-
+* [SMS](sms.md)
