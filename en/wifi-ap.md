@@ -16,7 +16,7 @@ The ethernet port can be bridged to the AP to act like a normal router. This is 
 
 
 
-When pressing the **Status** buttom
+When pressing the **Status** button
 
 ![](/en/wifiStatus.jpg)
 
