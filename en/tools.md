@@ -2,6 +2,8 @@
 
 In the tool menu are special modules.
 
+![](toolsMenu.png)
+
 The first three are:
 
 ---
@@ -14,11 +16,11 @@ Opens a menu to choose a new time zone.
 
 ---
 
-* [Set time from NMEA](/system-time-from-nmea.md)
+* Set time from NMEA
 
 The time from GPS \(RMC-sentence\) will be used to set the time of the RPI.
 
-In future release it will read it from signalk \(then time can be taken not only from NMEA0183\).
+In future release it will read it from SignalK \(then time can be taken not only from NMEA0183\).
 
 \(If the RPI is connected to the internet it will get the time from a timeserver\)
 
@@ -26,7 +28,7 @@ In future release it will read it from signalk \(then time can be taken not only
 
 * Set GPSD
 
-Opens the configuration file of gpsd in editor nano.
+Opens the configuration file of GPSD in editor nano.
 
 For details of GPSD google is your friend
 
@@ -34,7 +36,7 @@ For details of GPSD google is your friend
 
 ---
 
-* [SDR receiver](/sdr_ais.md)
+* [SDR receiver](sdr_ais.md)
 
 SDR \(Software Defined Radio\) can be used to receive:
 
@@ -51,9 +53,9 @@ SDR \(Software Defined Radio\) can be used to receive:
 6. ...
 
 
-Most cheap USB SDR can work from 30Mhz - 1.7GHz. So they can't receive navtex at 490kHz or 518kHz.
+Most cheap USB SDR can work from 30 Mhz - 1.7 GHz. So they can't receive navtex at 490 kHz or 518 kHz.
 
-The antenna must be different for each frequence range to get good results.
+The antenna must be different for each frequency range to get good results.
 
 ---
 
@@ -61,23 +63,23 @@ The antenna must be different for each frequence range to get good results.
 
 This is used to calculate the true wind from apparent wind
 
-![](/assets/Calculate.jpg)
+![](Calculate.jpg)
 
 ---
 
 * NMEA 0183 generator
 
-![](/assets/nmea0183generator.jpg)
+![](nmea0183generator.jpg)
 
-![](/assets/nmea0183generatorForm.jpg)
-
----
-
-* [NMEA 2000 generator](/nmea-2k.md)
+![](nmea0183generatorForm.jpg)
 
 ---
 
-* [configureable tools](/tools-defined.md)
+* [NMEA 2000 generator](nmea-2k.md)
+
+---
+
+* [configureable tools](tools-defined.md)
 
 
 

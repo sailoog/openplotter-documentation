@@ -4,9 +4,9 @@ You can use the RPI in headless mode after the noobs installation is done.
 
 There are two ways to work headless.
 
-1. over wifi \(You have to setup a wifi access point \(hotspot\) [WiFi access point](/wifi-access-point.md).
+1. Over wifi \(You have to setup a wifi access point \(hotspot\) [WiFi access point](/wifi-access-point.md).
 
-2. you can connect to the RPI by an ethernet cable and use the bonjour protocol or the bridged hotspot.
+2. You can connect to the RPI by an Ethernet cable and use the bonjour protocol or the bridged hotspot.
 
 
 Once we have created the SD card with noobs, we have to insert it into any computer with any OS \(Linux, MAC, Windows\). The mounted device should be called _boot_ and there should be a file called _config.txt_. Open this file in a text editor like notepad on windows, but not anything like MS Word which can save it as something which is not just plain text.
@@ -60,7 +60,7 @@ _pass_ will be the password of your WiFi network. Use any character but a minimu
 
 Save and eject the SD card, then insert it into the Raspberry Pi. Make sure the WiFi dongle is also inserted and power up the Pi.
 
-After it has finished booting up, there should be a new WiFi network called _openplotter_ available. Log onto this network using the password _my\_secret\_password_.
+After it has finished booting up, there should be a new WiFi network called _OpenPlotter_ available. Log onto this network using the password _my\_secret\_password_.
 
 ![](headless1.png)
 

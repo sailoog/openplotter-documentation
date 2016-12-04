@@ -38,13 +38,13 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [USB WiFi dongle](wifi_dongle.md)
 * [USB GPS dongle](gps_dongle.md)
 * [NMEA 0183 to USB converter](nmea_converter.md)
-* special Can-Bus to USB converter \(for NMEA 2000\)
+* [special Can-Bus to USB converter](can-usb-stick.md) \(for NMEA 2000\)
 * [USB DVB-T dongle](dvb-t_dongle.md) \(AIS reception\)
 * [IMU sensor](imu_sensor.md)
 * [Pressure\/Temperature sensor](pressure_sensor.md)
 * [Humidity\/Temperature sensor](humidity_sensor.md)
 * [One wire temperature sensor](1w_temp_sensor.md)
-* Analog input
+* [Analog Digital Converter](analog-digital-converter.md)
 * [PIR motion sensor](motion.md)
 * [Common switch](common_sw.md)
 * [Door switch](door_sw.md)
@@ -52,4 +52,6 @@ Devices to communicate with boat and sensors to collect data from environment.
 * [Relay](relay.md)
 * [LED](led.md)
 * [Buzzer](buzzer.md)
+
+
 

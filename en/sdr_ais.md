@@ -2,10 +2,6 @@
 
 ---
 
-This chapter is under construction
-
----
-
 DVB-T dongles based on the Realtek RTL2832U chip and the new R820T2 tuner can work as a SDR AIS receiver.
 
 A DVB-T dongle will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a powered USB hub. Connecting and disconnecting can draw too much power and cause malfunction, try to do it when the system is off.
@@ -16,19 +12,19 @@ OpenPlotter is ready to get SDR AIS signal out of the box, you just have to cali
 
 It takes a few minutes after starting **Check band **and push **Calculate**.
 
-![](/assets/Fine_calibration.jpg)
+![](/en/Fine_calibration.jpg)
 
 This is an example result.
 
 If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration **and then **Calculate.**
 
-![](/assets/Fine_calibration1.jpg)
+![](/en/Fine_calibration1.jpg)
 
 For this example the field **Correction \(ppm\) **should be set to 13.
 
 Now we look for the gain setting. Please push buttom **Calibration**.
 
-![](/assets/Calibration.jpg)
+![](/en/Calibration.jpg)
 
 The line **Supported gain values** is interesting for us. The max gain here is 49.6. Input this into the **Gain** field.
 
@@ -42,7 +38,7 @@ or you can follow this detailed guide:
 
 ## AIS - receiving
 
-![](/assets/SDRreceiver.jpg)
+![](/en/SDRreceiver.jpg)
 
 Once you have found your **gain** and **ppm** value, select _**Enable AIS reception**_.
 
@@ -87,8 +83,6 @@ Settings to begin with:
 * FFT Settings                          Rate 5 fps                    0 fps for low processor load
 
 * Audio                                      Gain 24.8 dB
-
-
 
 
 # wireless temperature sensors

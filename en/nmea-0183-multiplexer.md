@@ -10,7 +10,7 @@ There are three lines which couldn't be changed.
 * opencpn: this is the datastream to opencpn
 * signalk: this is the nmea 0183 stream to SignalK
 
-![](/assets/Kplex1.jpg)
+![](Kplex1.jpg)
 
 Names with auto\_xxx are made by Auto Setup USB ports to set the correct baudrate \(the filters aren't set !!!\).
 
@@ -19,7 +19,7 @@ Names with auto\_xxx are made by Auto Setup USB ports to set the correct baudrat
 * press add
 * double click line to be edit
 
-![](/assets/KPLEXform1.jpg)  
+![](KPLEXform1.jpg)  
 Kplex can work with Serial, TCP or UDP connection \(Type\).
 
 Name: lower case letters should be meaningful
@@ -36,7 +36,7 @@ in / out:
 * Serial: both, in, out
 * TCP / UDP: in, out
 
-in Filter: Data comming from the device
+in Filter: Data coming from the device
 
 * none
 * Accept only sentences
@@ -50,13 +50,13 @@ in Filter: Data comming from the device
 
 out Filter: Data send to the device. Same as above but filter can be connected to a given name
 
-The three example buttoms load default filter.
+The three example buttons load default filter.
 
 # Diagnostics
 
-On NMEA 0183 tab is the buttom diagnostic.
+On NMEA 0183 tab is the button diagnostic.
 
-Select a line and click the buttom.
+Select a line and click the button.
 
 One or two windows pop up \(two if setting is "both"\).
 
@@ -68,7 +68,7 @@ On the lower left side you can see the calculated transfer speed in baud.
 
 # Advanced
 
-There are many settings which could be done in Openplotter directly. But Kplex has advanced options which aren't used often. These settings or filter can be done between the lines
+There are many settings which could be done in OpenPlotter directly. But Kplex has advanced options which aren't used often. These settings or filter can be done between the lines
 
 _\#\#\#end of OpenPlotter GUI settings_
 
