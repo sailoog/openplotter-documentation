@@ -2,7 +2,7 @@
 
 ![](/en/opencpn1.jpg)
 
-This are the standard connection settings of opencpn to connect to openplotter.
+This are the standard connection settings of opencpn to connect to OpenPlotter.
 
 ![](/en/opencpn2.jpg)
 
