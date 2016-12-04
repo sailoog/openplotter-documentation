@@ -18,7 +18,7 @@ Opens a menu to choose a new time zone.
 
 The time from GPS \(RMC-sentence\) will be used to set the time of the RPI.
 
-In future release it will read it from signalk \(then time can be taken not only from NMEA0183\).
+In future release it will read it from SignalK \(then time can be taken not only from NMEA0183\).
 
 \(If the RPI is connected to the internet it will get the time from a timeserver\)
 
@@ -26,7 +26,7 @@ In future release it will read it from signalk \(then time can be taken not only
 
 * Set GPSD
 
-Opens the configuration file of gpsd in editor nano.
+Opens the configuration file of GPSD in editor nano.
 
 For details of GPSD google is your friend
 
@@ -51,9 +51,9 @@ SDR \(Software Defined Radio\) can be used to receive:
 6. ...
 
 
-Most cheap USB SDR can work from 30Mhz - 1.7GHz. So they can't receive navtex at 490kHz or 518kHz.
+Most cheap USB SDR can work from 30 Mhz - 1.7 GHz. So they can't receive navtex at 490 kHz or 518 kHz.
 
-The antenna must be different for each frequence range to get good results.
+The antenna must be different for each frequency range to get good results.
 
 ---
 
