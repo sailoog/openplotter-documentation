@@ -1,10 +1,10 @@
 # Auto Setup USB ports
 
-On linux serial USB ports are numbered in the sequence they are detected.
+On Linux serial USB ports are numbered in the sequence they are detected.
 
-This could work some times. But it isn't reliable. If of any reason you loose a contact between the raspberry pi and an USB-serialport adapter. It could be that the entire configuration doesn't work anymore!
+This could work some times. But it isn't reliable. If of any reason you loose a contact between the raspberry pi and an USB-serial port adapter. It could be that the entire configuration doesn't work anymore!
 
-A more reliable way is, to give every serialport a name.
+A more reliable way is, to give every serial port a name.
 
 This is the reason why auto setup pop up on a fresh system.
 
@@ -28,7 +28,7 @@ Auto setup is sometimes able to find
 
 * NMEA 0183 ports
 
-It autodetects the baudrate and checks if there are only NMEA 0183 sentences of one device-ID.
+It auto detects the baud rate and checks if there are only NMEA 0183 sentences of one device-ID.
 
 example1: $APxxx
 
