@@ -9,16 +9,17 @@ There are people who buy boats but there are also people who build them, why not
 * **Chartplotter**. With [OpenCPN](http://opencpn.org), a navigation software with useful plugins.
 * **Weather Forecast**. Download and visualize GRIB files with [zyGrib](http://www.zygrib.org).
 * **NMEA 0183 Multiplexer**. Multiplex and filter data inputs from any number of serial and network interfaces. Send and filter to any number of outputs.
-* **Signal K**. OpenPlotter uses Signal K as the base protocol to interact between different networks. Input data has to be converted into Signal K. Signal K data can be converted to NMEA networks.
+* **SignalK**. OpenPlotter uses SignalK as the base protocol to interact between different networks. Input data has to be converted into SignalK. SignalK data can be converted to NMEA networks.
 * **Diagnostic**. Checks the data traffic of NMEA0183 input and output. On Signal K it is a kind of data explorer.
-* **WiFi Access Point, Ethernet, GSM**. Share data \(NMEA 0183, Signal K, remote desktop, Internet connection, gofree\) with laptops, tablets and phones onboard. Connect to internet on port through the same device.
+* **WiFi Access Point, Ethernet, GSM**. Share data \(NMEA 0183, Signal K, remote desktop, Internet connection, gofree\) with laptops, tablets and phones on board. Connect to internet on port through the same device.
 * **Remote Desktop**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
 * **Headless**. Easy start without monitor.
 * **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
 * **Electronic Compass and Heel**. Read magnetic heading and heel angle from an IMU sensor. Tilt compensated. Calibration tools Included.
 * **Barograph, Thermograph and Hygrograph**. From pressure, temperature and humidity sensors.
 * **Multiple temperature sensors**. Get data from coolant engine, exhaust, fridge, sea...
-* **Special Sensors**. Detect opening doors\/windows, tank level, human body motion...
+* **Special Sensors**. Detect opening doors, windows, tank level, human body motion...
+* **Wireless Sensors**. Detect temperature, humidity, ...
 * **Analog Sensors**. To read voltage, amperage, resistance. Shows Battery status, power consumption, tank level...
 * **Magnetic Variation**. Calculate magnetic variation for date and position.
 * **True Heading**. Calculate true heading from magnetic variation and magnetic heading.
