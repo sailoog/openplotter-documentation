@@ -4,14 +4,14 @@ Some sensors can be connected to the GPIO of the raspberry pi. If these sensors 
 
 ### I2C
 
-* [IMU](/en/imu.md)                     [IMU Sensor](/en/imu_sensor.md)                
-* [Pressure](/en/pressure.md)             [Pressure/Temperature sensor](/en/pressure_sensor.md)
-* [Temperature](/en/temperature.md)
-* [Humidity](/en/humidity.md)             [Humidity/Temperature sensor](/en/humidity_sensor.md)
+* [IMU](imu.md)                     [IMU Sensor](imu_sensor.md)                
+* [Pressure](pressure.md)             [Pressure/Temperature sensor](pressure_sensor.md)
+* [Temperature](temperature.md)
+* [Humidity](humidity.md)             [Humidity/Temperature sensor](humidity_sensor.md)
 
 ### 1W
 
-* [DS18B20](/en/DS18B20.md)               [One wire temperature sensor](/en/1w_temp_sensor.md)
+* [DS18B20](/en/DS18B20.md)               [One wire temperature sensor](1w_temp_sensor.md)
 
 ### SPI
 

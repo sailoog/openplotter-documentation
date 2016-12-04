@@ -16,5 +16,5 @@ You see a yellow red point blinking. Opencpn sends an NMEA0183 RMB sentence.
 
 If the autopilot has been setup correctly. You can start autopilot to navigate to next waypoint.
 
-Go on with [Sending data to autopilot](/en/sending-data-to-autopilot.md).
+Go on with [Sending data to autopilot](sending-data-to-autopilot.md).
 

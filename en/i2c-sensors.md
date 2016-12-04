@@ -1,8 +1,8 @@
 ## I2C
 
-* [IMU](/en/imu.md)                     [IMU Sensor](/en/imu_sensor.md)                
-* [Pressure](/en/pressure.md)             [Pressure/Temperature sensor](/en/pressure_sensor.md)
-* [Temperature](/en/temperature.md)
-* [Humidity](/en/humidity.md)             [Humidity/Temperature sensor](/en/humidity_sensor.md)
+* [IMU](imu.md) / [IMU Sensor](imu_sensor.md)                
+* [Pressure](pressure.md) [Pressure/Temperature sensor](pressure_sensor.md)
+* [Temperature](temperature.md)
+* [Humidity](humidity.md) [Humidity/Temperature sensor](humidity_sensor.md)
 
 ![](/en/i2c.jpg)

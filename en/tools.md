@@ -34,7 +34,7 @@ For details of GPSD google is your friend
 
 ---
 
-* [SDR receiver](/en/sdr_ais.md)
+* [SDR receiver](sdr_ais.md)
 
 SDR \(Software Defined Radio\) can be used to receive:
 
@@ -73,11 +73,11 @@ This is used to calculate the true wind from apparent wind
 
 ---
 
-* [NMEA 2000 generator](/en/nmea-2k.md)
+* [NMEA 2000 generator](nmea-2k.md)
 
 ---
 
-* [configureable tools](/en/tools-defined.md)
+* [configureable tools](tools-defined.md)
 
 
 

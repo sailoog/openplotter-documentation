@@ -37,15 +37,15 @@ After menu selection this form popup
 
 here some tools:
 
-[Analog ads1115](/en/analog-ads1115.md)
+[Analog ads1115](analog-ads1115.md)
 
-[Analog Firmata](/en/analog-firmata.md)
+[Analog Firmata](analog-firmata.md)
 
-[SignalK Simulator](/en/signalk-simulator.md)
+[SignalK Simulator](signalk-simulator.md)
 
-[wireless temp](/en/wireless-temp.md)
+[wireless temp](wireless-temp.md)
 
-[Auto Setup](/en/auto-setup-usb-ports.md)
+[Auto Setup](auto-setup-usb-ports.md)
 
 **You can look at the code for these tools and build your own app/addon.**
 
