@@ -1,8 +1,8 @@
 # Tools defined
 
-Openplotter has a chance to integrate programs.
+OpenPlotter has a chance to integrate programs.
 
-This was done to be open for addons done by experts and to keep openplotter simple for newcomer.
+This was done to be open for add-ons done by experts and to keep OpenPlotter simple for newcomer.
 
 In the **openplotter.conf **you can add or delete tools.
 
@@ -25,7 +25,7 @@ The autostart on boot is disabled: _0_
 
 So the first element of the list is _\['Analog ads1115', 'put analog values to SignalK', 'analog\_ads1115.py', '0'\]_
 
-After menu selection this form popup
+After menu selection this form opens.
 
 ![](/en/ToolsDefined.jpg)
 
