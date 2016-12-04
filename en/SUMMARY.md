@@ -56,7 +56,7 @@
 * [OP Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
    * [Sending data to autopilot](sending-data-to-autopilot.md)
 * [OP Weather forecast \(ZyGrib\)](weather-forecast-zygrib.md)
-* [Sensors Wiring](sensors.md)
+* [Wiring Sensors](sensors.md)
    * [IMU](imu.md)
    * [Pressure](pressure.md)
    * [Temperature](temperature.md)
