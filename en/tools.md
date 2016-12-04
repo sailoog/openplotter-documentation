@@ -2,6 +2,8 @@
 
 In the tool menu are special modules.
 
+![](/assets/toolsMenu.png)
+
 The first three are:
 
 ---
