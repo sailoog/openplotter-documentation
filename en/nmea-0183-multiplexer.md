@@ -36,7 +36,7 @@ in / out:
 * Serial: both, in, out
 * TCP / UDP: in, out
 
-in Filter: Data comming from the device
+in Filter: Data coming from the device
 
 * none
 * Accept only sentences
@@ -50,13 +50,13 @@ in Filter: Data comming from the device
 
 out Filter: Data send to the device. Same as above but filter can be connected to a given name
 
-The three example buttoms load default filter.
+The three example buttons load default filter.
 
 # Diagnostics
 
-On NMEA 0183 tab is the buttom diagnostic.
+On NMEA 0183 tab is the button diagnostic.
 
-Select a line and click the buttom.
+Select a line and click the button.
 
 One or two windows pop up \(two if setting is "both"\).
 
@@ -68,7 +68,7 @@ On the lower left side you can see the calculated transfer speed in baud.
 
 # Advanced
 
-There are many settings which could be done in Openplotter directly. But Kplex has advanced options which aren't used often. These settings or filter can be done between the lines
+There are many settings which could be done in OpenPlotter directly. But Kplex has advanced options which aren't used often. These settings or filter can be done between the lines
 
 _\#\#\#end of OpenPlotter GUI settings_
 
