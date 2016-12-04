@@ -1,8 +1,16 @@
 # Analog Digital Converter
 
-MCP3008
+### MCP3008
+![](/assets/mcp3008front.jpg)
+DIY development board front
+![](/assets/mcp3008back.jpg)
+DIY development board back
 
-ads1115
+### ads1115
+![](/assets/ads1115.jpg)
+has to be connected to I2C bus
 
-use the adc of the MCU with Arduino IDE
+### use the adc of the MCU with Firmata protocol
+![](/assets/Teensy LC.jpg)
+Any Arduino IDE programable board can be used (Picture: Teensy LC)
 
