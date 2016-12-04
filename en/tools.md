@@ -2,7 +2,7 @@
 
 In the tool menu are special modules.
 
-![](toolsMenu.png)
+![](/assets/toolsMenu.png)
 
 The first three are:
 
