@@ -6,7 +6,7 @@ Second you have to run the software on your ARM computer and here you have two o
 
 ---
 
-**Buy an 8GB SD card with OpenPlotter RPI ready to run.**
+**Buy an 8 GB SD card with OpenPlotter RPI ready to run.**
 
 [http:\/\/www.sailoog.com\/shop-category\/openplotter](http://www.sailoog.com/shop-category/openplotter)
 
@@ -22,7 +22,7 @@ It is a compressed file ca. 1GB so it will take a while.
 
 Once the download is completed we have to unzip it and copy all files from the noobs folder onto a micro SD FAT32 formated card minimum 8 GB.
 
-In the noobs menu select openplotter and click install. It takes several minutes to format and install the system.
+In the noobs menu select OpenPlotter and click install. It takes several minutes to format and install the system.
 
 1. On the first start you will be warned to type in a new password.
 
@@ -66,5 +66,5 @@ You need to set your system localisation, click on the _Localisation_ tab and th
 
 ![](/en/RPIsetup2.jpg)
 
-To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](/en/auto-setup-usb-ports.md).
+To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](auto-setup-usb-ports.md).
 
