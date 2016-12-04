@@ -10,13 +10,13 @@ Otherwise the names ttyUSBx are changing (for example the AIS is on the autopilo
 
 Here the USB-ports can be setup manually.
 
-![](/en/USBmanager1.jpg)
+![](USBmanager1.jpg)
 
 Picture 1: already configured USB ports
 
 select add to open a window of not configured serial ports.
 
-![](/en/USBmanager2.jpg)
+![](USBmanager2.jpg)
 
 Picture 2: adding a FTDI port
 
@@ -26,7 +26,7 @@ vendor product and serial: numbers and strings of the device
 
 port: the USB port position
 
-![](/en/USBform1.jpg)
+![](USBform1.jpg)
 
 Picture 3: USB port names of the raspberry pi
 

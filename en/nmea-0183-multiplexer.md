@@ -10,7 +10,7 @@ There are three lines which couldn't be changed.
 * opencpn: this is the datastream to opencpn
 * signalk: this is the nmea 0183 stream to SignalK
 
-![](/en/Kplex1.jpg)
+![](Kplex1.jpg)
 
 Names with auto\_xxx are made by Auto Setup USB ports to set the correct baudrate \(the filters aren't set !!!\).
 
@@ -19,7 +19,7 @@ Names with auto\_xxx are made by Auto Setup USB ports to set the correct baudrat
 * press add
 * double click line to be edit
 
-![](/en/KPLEXform1.jpg)  
+![](KPLEXform1.jpg)  
 Kplex can work with Serial, TCP or UDP connection \(Type\).
 
 Name: lower case letters should be meaningful
