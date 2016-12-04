@@ -14,7 +14,7 @@ Opens a menu to choose a new time zone.
 
 ---
 
-* [Set time from NMEA](/en/system-time-from-nmea.md)
+* Set time from NMEA
 
 The time from GPS \(RMC-sentence\) will be used to set the time of the RPI.
 
