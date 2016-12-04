@@ -54,17 +54,17 @@ If you bought our SD card you just turn on the system and start.
 
 Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
 
-![](/en/RPIsetup1.jpg)
+![](RPIsetup1.jpg)
 
 A window will open and we have to click on _Change Password_ \(default password: raspberry\).
 
-![](/en/RPIsetup3.jpg)
+![](RPIsetup3.jpg)
 
 ## Setting language and country
 
 You need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone, _ _Set Keyboard, Set WiFi Country_ buttons.
 
-![](/en/RPIsetup2.jpg)
+![](RPIsetup2.jpg)
 
 To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](auto-setup-usb-ports.md).
 
