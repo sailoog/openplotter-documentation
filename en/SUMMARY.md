@@ -67,7 +67,7 @@
    * [Door switches](door-switches.md)
    * [Float switches](float-switches.md)
    * [Motion sensor switches](motion-sensor-switches.md)
-* [Outputs](outputs.md)
+* [Wiring Outputs](outputs.md)
    * [LEDs](leds.md)
    * [Relays](relays.md)
    * [Buzzers](buzzers.md)
