@@ -34,3 +34,4 @@ There are people who buy boats but there are also people who build them, why not
 * **Startup Programs**. Select some program parameters to automatically launch at start.
 
 ![](openplotter.jpg)
+v0.9.0
