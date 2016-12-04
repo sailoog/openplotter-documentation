@@ -8,4 +8,4 @@
 | [Humidity](humidity.md) | [Humidity/Temperature sensor](humidity_sensor.md) |
 
 
-![](/en/i2c.jpg)
+![](i2c.jpg)

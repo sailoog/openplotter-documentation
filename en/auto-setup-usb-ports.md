@@ -15,7 +15,7 @@ This is the reason why auto setup pop up on a fresh system.
 * turn on all your NMEA 0183 devices
 
 
-![](/en/autosetup_popup.jpg)
+![](autosetup_popup.jpg)
 
 * If setup autostart on every boot is checked uncheck it
 

@@ -63,15 +63,15 @@ The antenna must be different for each frequency range to get good results.
 
 This is used to calculate the true wind from apparent wind
 
-![](/en/Calculate.jpg)
+![](Calculate.jpg)
 
 ---
 
 * NMEA 0183 generator
 
-![](/en/nmea0183generator.jpg)
+![](nmea0183generator.jpg)
 
-![](/en/nmea0183generatorForm.jpg)
+![](nmea0183generatorForm.jpg)
 
 ---
 

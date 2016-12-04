@@ -20,7 +20,7 @@ RDP can replicate the current desktop or create a new one with different resolut
 
 Be sure the checkbox _VNC remote desktop_ is enabled in the _Startup_ tab.
 
-![](/en/startup_formular.jpg)
+![](startup_formular.jpg)
 
 To connect by VNC you have to provide the IP of OpenPlotter and the port 5900.
 

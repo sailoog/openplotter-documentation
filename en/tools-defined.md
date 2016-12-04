@@ -13,7 +13,7 @@ _
 
 _py = \[\['Analog ads1115', 'put analog values to SignalK', 'analog\_ads1115.py', '0'\], \['Analog Firmata', 'put analog values to SignalK', 'oppymata.py', '0'\], \['SignalK Simulator', 'change values with sliders and send values to SignalK', 'SK-simulator.py', '0'\], \['wireless temp', 'measure', 'rtl\_433SK.py', '0'\], \['Auto Setup', 'configure basic system', 'autosetup\_tty.py', '0'\]\]_
 
-![](/en/toolsDefined.png)
+![](toolsDefined.png)
 
 The first name in the menu section is: _Analog ads1115_
 
@@ -27,7 +27,7 @@ So the first element of the list is _\['Analog ads1115', 'put analog values to S
 
 After menu selection this form opens.
 
-![](/en/ToolsDefined.jpg)
+![](ToolsDefined.jpg)
 
 **settings** - can be used to open a setup form or open a configuration file
 

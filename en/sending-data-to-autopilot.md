@@ -2,15 +2,15 @@
 
 The autopilot has to be setup
 
-![](/en/setup-autopilot-window.jpg)
+![](setup-autopilot-window.jpg)
 
 Click on add \(or double click on auto\_ap\).
 
-![](/en/setup-autopilot-window1.jpg)
+![](setup-autopilot-window1.jpg)
 
 Click on AP examp to load default settings for autopilot.
 
-![](/en/setup-autopilot-window2.jpg)       ![](/en/setup-autopilot-window3.jpg)  
+![](setup-autopilot-window2.jpg)       ![](/en/setup-autopilot-window3.jpg)  
                                                                                                                                                          Select port ttyOP\_AP
 
 in Filter: What sentences are allowed to be received from the autopilot to OpenPlotter/kplex.
