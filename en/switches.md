@@ -1,4 +1,4 @@
-# Switches
+# Wiring Switches
 
 ---
 
