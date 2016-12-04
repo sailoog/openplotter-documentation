@@ -12,5 +12,5 @@ has to be connected to I2C bus
 
 ### use the adc of the MCU with Firmata protocol
 ![](Teensy LC.jpg)
-Any Arduino IDE programable board can be used (Picture: Teensy LC)
+Any Arduino IDE programable board can be used (Picture: Teensy LC) 
 
