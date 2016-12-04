@@ -62,7 +62,7 @@
    * [Temperature](temperature.md)
    * [Humidity](humidity.md)
    * [DS18B20](DS18B20.md)
-* [Switches](switches.md)
+* [Wiring Switches](switches.md)
    * [Common switches](common_sws.md)
    * [Door switches](door-switches.md)
    * [Float switches](float-switches.md)
