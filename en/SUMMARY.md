@@ -50,7 +50,6 @@
     * [SMS](actions.md)
     * [Startup](startup.md)
 * [OP menu Tools](tools.md)
-    * [SDR AIS](sdr-ais.md)
     * [Tools defined](tools-defined.md)
         * [Analog ads1115](analog-ads1115.md)
         * [Analog Firmata](analog-firmata.md)
