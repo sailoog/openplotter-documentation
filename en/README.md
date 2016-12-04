@@ -33,4 +33,4 @@ There are people who buy boats but there are also people who build them, why not
 * **Tools**. Integration of self programmed modules and advanced feature modules.
 * **Startup Programs**. Select some program parameters to automatically launch at start.
 
-![OpenPlotterDesktop](openplotter.jpg)
+![](../openplotter.jpg)
