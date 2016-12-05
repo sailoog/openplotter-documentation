@@ -56,7 +56,7 @@ Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
 
 ![](RPIsetup1.jpg)
 
-A window will open and we have to click on _Change Password_ \(default password: raspberry\).
+A window will open and it's a good idea to change the Password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
 
 ![](RPIsetup3.jpg)
 
@@ -68,3 +68,16 @@ You need to set your system localisation, click on the _Localisation_ tab and th
 
 To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](auto-setup-usb-ports.md).
 
+# Security
+
+Because of security reasons **ssh is disabled by default** and can be activated under Interfaces.
+
+Then we can use:
+
+on windows system PuTTY and WinSCP
+
+on linux system putty and nautilus
+
+to exchange files and get a remote terminal.
+
+**Keep it disabled if you don't need it!**
