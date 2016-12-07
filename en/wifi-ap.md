@@ -22,3 +22,15 @@ When pressing the **Status** button
 
 this window pops up and shows the network status.
 
+### RPI network manager
+![](network-manager.jpg)
+
+In the original RPI network-manager some devices show up as _device not managed_.
+
+These devices are managed by OpenPlotter (in this example wlan0 is AP and bridge to eth0 is enabled).
+
+In this example wlan1 can be managed by network-manager to connect to the internet.
+![](xrdp-console.jpg)
+
+If you use remote desktop and want to connect to the internet by using the network-manager select **console**. Then you can connect to the internet otherwise linux security system blocks some settings.
+

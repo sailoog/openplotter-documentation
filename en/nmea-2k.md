@@ -24,11 +24,14 @@ If button is gray, you have to deactivate Enable N2K output
 
 If button is gray, you have to deactivate Enable N2K input and Enable N2K output
 
+**These are hardware settings! If nothing is checked everything is blocked.** You can't get anything out (security).
+
 ![](N2Kform1.jpg)
 
 After opening the dialog box press two times check to read the settings from the CAN-BUS adapter.
 
-First step is to enable needed PGNs for output. Then press apply and press check. Check if settings are done.
+First step is to enable needed PGNs for output. Then press apply and press check. 
+Check if settings are done.
 
 # NMEA 2000 generator
 
