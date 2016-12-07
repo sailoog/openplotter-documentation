@@ -4,18 +4,18 @@ The autopilot has to be setup
 
 ![](setup-autopilot-window.jpg)
 
-Click on add \(or double click on auto\_ap\).
+Click on **add** \(or double click on auto\_ap\).
 
 ![](setup-autopilot-window1.jpg)
 
-Click on AP examp to load default settings for autopilot.
+Click on **AP examp** to load default settings for autopilot.
 
 ![](setup-autopilot-window2.jpg)       ![](/en/setup-autopilot-window3.jpg)  
                                                                                                                                                          Select port ttyOP\_AP
 
 in Filter: What sentences are allowed to be received from the autopilot to OpenPlotter/kplex.
 
-Most autopilots have there own fluxgate compass and rudder angle sensor. These data can be used from openplotter.
+Most autopilots have there own fluxgate compass and rudder angle sensor. These data can be used from OpenPlotter.
 
 More important is the
 

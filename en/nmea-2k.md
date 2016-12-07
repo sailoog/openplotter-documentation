@@ -10,19 +10,19 @@ Settings
 
 # Diagnostic input
 
-If buttom is gray, you have to deactivate Enable N2K input
+If button is gray, you have to deactivate Enable N2K input
 
 ![](diagnosticN2Kinput.jpg)
 
 # Diagnostic output
 
-If buttom is gray, you have to deactivate Enable N2K output
+If button is gray, you have to deactivate Enable N2K output
 
 ![](diagnosticN2Koutput.jpg)
 
 # Output settings
 
-If buttom is gray, you have to deactivate Enable N2K input and Enable N2K output
+If button is gray, you have to deactivate Enable N2K input and Enable N2K output
 
 **These are hardware settings! If nothing is checked everything is blocked.** You can't get anything out (security).
 
