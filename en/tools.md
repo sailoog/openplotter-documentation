@@ -36,7 +36,7 @@ For details of GPSD google is your friend
 
 ---
 
-* [SDR receiver](sdr_ais.md)
+* [SDR receiver](sdr-receiver.md)
 
 SDR \(Software Defined Radio\) can be used to receive:
 

@@ -55,6 +55,7 @@
         * [Analog Firmata](analog-firmata.md)
         * [SignalK Simulator](signalk-simulator.md)
         * [wireless temp](wireless-temp.md)
+    * [SDR receiver](sdr-receiver.md)
 * [OP Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
     * [Sending data to autopilot](sending-data-to-autopilot.md)
 * [OP Weather forecast \(ZyGrib\)](weather-forecast-zygrib.md)
