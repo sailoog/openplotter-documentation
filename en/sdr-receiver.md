@@ -14,19 +14,19 @@ OpenPlotter is ready to get SDR AIS signal out of the box, you just have to cali
 
 It takes a few minutes after starting **Check band **and push **Calculate**.
 
-![](/en/Fine_calibration.jpg)
+![](Fine_calibration.jpg)
 
 This is an example result.
 
 If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration **and then **Calculate.**
 
-![](/en/Fine_calibration1.jpg)
+![](Fine_calibration1.jpg)
 
 For this example the field **Correction \(ppm\) **should be set to 13.
 
 Now we look for the gain setting. Please push buttom **Calibration**.
 
-![](/en/Calibration.jpg)
+![](Calibration.jpg)
 
 The line **Supported gain values** is interesting for us. The max gain here is 49.6. Input this into the **Gain** field.
 
@@ -40,7 +40,7 @@ or you can follow this detailed guide:
 
 ## AIS - receiving
 
-![](/en/SDRreceiver.jpg)
+![](SDRreceiver.jpg)
 
 Once you have found your **gain** and **ppm** value, select _**Enable AIS reception**_.
 
