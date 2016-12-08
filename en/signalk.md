@@ -12,7 +12,7 @@ On the SignalK tab you can enter the MMSI of the boat and "apply changes".
 
 SignalK diagnostic
 
-![](/assets/SK-diagnostic.jpg)
+![](SK-diagnostic.jpg)
 
 Data can be sorted by source or by SignalK.
 

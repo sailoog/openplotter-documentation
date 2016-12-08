@@ -6,6 +6,8 @@
 
 * [NMEA 2K](nmea-2k.md)
 
+* [SignalK](signalk.md)
+
 * [WiFi AP](wifi-ap.md)
 
 * [Actions](actions.md)
