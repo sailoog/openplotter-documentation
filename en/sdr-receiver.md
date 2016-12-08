@@ -14,33 +14,33 @@ OpenPlotter is ready to get SDR AIS signal out of the box, you just have to cali
 
 It takes a few minutes after starting **Check band **and push **Calculate**.
 
-![](/en/Fine_calibration.jpg)
+![](Fine_calibration.jpg)
 
 This is an example result.
 
 If there are more "chan:" take the line with the highest power and put the "chan:" into **Channel** field and push **Fine calibration **and then **Calculate.**
 
-![](/en/Fine_calibration1.jpg)
+![](Fine_calibration1.jpg)
 
 For this example the field **Correction \(ppm\) **should be set to 13.
 
 Now we look for the gain setting. Please push buttom **Calibration**.
 
-![](/en/Calibration.jpg)
+![](Calibration.jpg)
 
 The line **Supported gain values** is interesting for us. The max gain here is 49.6. Input this into the **Gain** field.
 
 You can buy our DVB-T dongle and we can calibrate it for you and include a note with the gain and ppm values:
 
-[http:\/\/shop.sailoog.com\/en\/4-usb-sdr-ais-receiver.html](http://shop.sailoog.com/en/4-usb-sdr-ais-receiver.html)
+[http://shop.sailoog.com/en/4-usb-sdr-ais-receiver.html](http://shop.sailoog.com/en/4-usb-sdr-ais-receiver.html)
 
 or you can follow this detailed guide:
 
-[http:\/\/sailoog.dozuki.com\/Guide\/Connecting+and+calibrating+SDR-AIS+dongles\/3](http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3)
+[http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3](http://sailoog.dozuki.com/Guide/Connecting+and+calibrating+SDR-AIS+dongles/3)
 
 ## AIS - receiving
 
-![](/en/SDRreceiver.jpg)
+![](SDRreceiver.jpg)
 
 Once you have found your **gain** and **ppm** value, select _**Enable AIS reception**_.
 
@@ -52,11 +52,11 @@ Although you can get to receive some boat with the supplied mini antenna, it is 
 
 Some home-made antennas:
 
-[http:\/\/sdrformariners.blogspot.com.es\/p\/blog-page.html](http://sdrformariners.blogspot.com.es/p/blog-page.html)
+[http://sdrformariners.blogspot.com.es/p/blog-page.html](http://sdrformariners.blogspot.com.es/p/blog-page.html)
 
-[http:\/\/nmearouter.com\/docs\/ais\/aerial.html](http://nmearouter.com/docs/ais/aerial.html)
+[http://nmearouter.com/docs/ais/aerial.html](http://nmearouter.com/docs/ais/aerial.html)
 
-[https:\/\/www.youtube.com\/watch?v=SdEglNHyHB4](https://www.youtube.com/watch?v=SdEglNHyHB4)
+[https://www.youtube.com/watch?v=SdEglNHyHB4](https://www.youtube.com/watch?v=SdEglNHyHB4)
 
 ## gqrx
 
