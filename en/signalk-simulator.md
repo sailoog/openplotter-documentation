@@ -1,6 +1,6 @@
 # SignalK Simulator
 
-![](/en/SKsimulator.jpg)
+![](SKsimulator.jpg)
 
 Select the values you want. You can see your simulated values on SignalK **Diagnostic**.
 
