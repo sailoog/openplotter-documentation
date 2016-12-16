@@ -21,9 +21,9 @@ A: Yes you can send values to the server when you use the minimum SignalK JSON f
 ```
 In this example we want to send the RPI cpu temperature to the SignalK Server.
 
-![](/assets/node-red send cpu temp.jpg)
+![](node-red send cpu temp.jpg)
 
-![](/assets/node-red send temp diag.jpg)
+![](node-red send temp diag.jpg)
 
 We diidn't find a better SignalK name than environment.inside.heating.temperature.
 
