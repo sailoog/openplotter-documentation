@@ -79,6 +79,10 @@ That means you have to subtract for example 273.15 from a temperature value and 
 
 ![](nmea0183generatorForm.jpg)
 
+To activate the changed configuration go to _SignalK_ tab and click restart.
+
+To check the result of the changes go to _NMEA 0183_ tab -click on system -click on diagnostic.
+
 ---
 
 * [NMEA 2000 generator](nmea-2k.md)
