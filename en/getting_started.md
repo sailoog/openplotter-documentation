@@ -14,6 +14,9 @@ Second you have to run the software on your ARM computer and here you have two o
 
 ## Installing OpenPlotter RPI on an SD card
 
+
+
+
 Download the last noobs version of **OpenPlotter RPI** from
 
 [http:\/\/sailoog.com\/blog-categories\/openplotter-rpi](http://sailoog.com/blog-categories/openplotter-rpi)
@@ -22,34 +25,32 @@ It is a compressed file ca. 1GB so it will take a while.
 
 Once the download is completed we have to unzip it and copy all files from the noobs folder onto a micro SD FAT32 formated card minimum 8 GB.
 
-In the noobs menu select OpenPlotter and click install. It takes several minutes to format and install the system.
 
-1. On the first start you will be warned to type in a new password.
 
-2. AutoSetup pops up.[/auto-setup-usb-ports.md](/auto-setup-usb-ports.md)
+If you bought our SD card you just from here.
 
-3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
 
+Now we will insert the created or bought SD card with OpenPlotter RPI into our Raspberry Pi.
+
+![](boot1.png)
 
 First boot
 
 If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
 
-Once we have created the SD card with OpenPlotter RPI, we will insert it into our Raspberry Pi.
+Connect power to the RPI.
 
-![](boot1.png)
-
-Connect power to the RPI. We wait for the noobs menu.
+Now we wait for the noobs menu.
 
 In the noobs menu we select openplotter and click install. It takes several minutes to format and install the system.
 
-If you bought our SD card you just turn on the system and start.
+When noobs has finished openplotter starts.
 
-1. On the first start you will be warned to type in a new password.
+[AutoSetup](/auto-setup-usb-ports.md) pops up (We can skip or close it. It will appear on every boot until we uncheck setup autostart on every boot).
 
-2. [AutoSetup](/auto-setup-usb-ports.md) pops up.
+The nativ monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If we have such a monitor. We do a restart.
 
-3. The monitor will be auto detected. \(The right settings for 800x480 monitor will work on next boot\)
+## Personal settings
 
 
 Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
@@ -60,7 +61,7 @@ A window will open and it's a good idea to change the Password to make OpenPlott
 
 ![](RPIsetup3.jpg)
 
-## Setting language and country
+### Setting language and country
 
 You need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone, _ _Set Keyboard, Set WiFi Country_ buttons.
 
@@ -68,7 +69,7 @@ You need to set your system localisation, click on the _Localisation_ tab and th
 
 To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](auto-setup-usb-ports.md).
 
-# Security
+### Security
 
 Because of security reasons **ssh is disabled by default** and can be activated under Interfaces.
 

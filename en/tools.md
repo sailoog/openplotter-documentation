@@ -69,6 +69,12 @@ This is used to calculate the true wind from apparent wind
 
 * NMEA 0183 generator
 
+This tool allows you to create your own NMEA0183 sentences. You can select which SignalK value you want to take.
+
+SignalK values are based on SI units (m,m²,m³,m/s,m³/s,J,rad,K,Pa,A,V,Hz,W)
+NMEA 0183 uses different units.
+That means you have to subtract for example 273.15 from a temperature value and to get radiant to degree you have to multiply by 57.29578.
+
 ![](nmea0183generator.jpg)
 
 ![](nmea0183generatorForm.jpg)
