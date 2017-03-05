@@ -1,51 +1,51 @@
 # How does it work?
 
-OpenPlotter can collect data from different sources:
+OpenPlotter can collect/serve data from/to different devices:
 
-* Sensors and devices connected to GPIO port.
-* Serial devices connected to USB port.
-* Other devices connected to USB port
+* Analog and digital sensors connected to GPIO port.
+* Serial and other devices connected to USB port.
 * Any computer or portable device connected to the same network.
 
-Most of these sources directly send data in the maritime format called NMEA 0183 or NMEA 2000. The problem is that NMEA 0183 can't communicate with NMEA 2000. So we use the free maritime communication SignalK. Both NMEA formats can communicate to SignalK.
+## Inputs
 
-Other devices, like SDR AIS, ADC, GPIO or some sensors, need to be processed by OpenPlotter to convert raw data to NMEA or SignalK.
+Most of these sources directly send data in the maritime formats called NMEA 0183 or NMEA 2000. The problem is that NMEA 0183 can not communicate with NMEA 2000 and there are non-strictly maritime data that are not defined in the NMEA schemas.
 
-All these sources are combined in data streams which can be sent to SignalK, because this is openplotter base protocol since 0.9.0:
+We use the free maritime communication Signal K schema to connect both NMEA formats. Other devices like SDR AIS, analog and digital sensors, switches.. are processed by OpenPlotter to convert raw data into Signal K too. Signal K has been the OpenPlotter base protocol since v0.9.x.
 
-The soft- and hardware needs different data streams
+## Outputs
 
-1. the good old **NMEA 0183**
+Once we have all data stored in Signal K schema, we can convert data into both NMEA formats, process data to generate new Signal K data or set conditions to trigger defined actions. We can also server directly Signal K data to the connected devices.
 
-2. the CAN-BUS network \(standard bus-system in cars\) with the special **NMEA 2000** protocol
+## Uses
 
-3. **SignalK** browser optimized protocol
+Diferent pieces of software and hardware need different data streams.
 
-4. trigger\/action system
+The old good NMEA 0183 is used for:
 
+* Most current PC, tablets and mobile software. 
+* The internal chartplotter, OpenCPN.
+* With OpenPlotter tools we can build obsolete, non-standar, proprietary and missing NMEA 0183 sentences from Signal K.
 
-NMEA 0183 is used for:
+The standard on CAN-BUS networks in vehicles, NMEA 2000, is used for:
 
-* most pc, tablets and mobile software at the moment as the Internal chartplotter \(OpenCPN\).
-* missing sentences can be converted from SignalK to NMEA 0183 with Openplotter tools.
+* Most modern boats \(plotter, engine...\).
+* Very little software.
 
-NMEA 2000 is used in:
+The browsers optimized protocol Signal K is used for:
 
-* most modern boats \(plotter, engine, ...\)
-* very little software.
+* Future software.
+* Virtual instrument panels.
+* It has an open and readable protocol where additions can be done.
 
-SignalK is used for:
+The non-strictly maritime data is used for:
 
-* future software as it is optized for internet browser
-* Virtual Instrument Panel
-* has a readable protocol where additions can be done
-* can receive NMEA 2000, NMEA 0183 and SignalK
+* Security.
+* Alarms.
+* Energy savings.
+* Remote automation.
+* ...
 
-trigger\/action system for:
+Through the chapters of this manual we will see how to deal with all this.
 
-* warning, information, energie saving, automation, ...
-* can use twitter, e-mail, mqtt
-
-Through the chapters of this manual we will see how to do this.
 ![](diagram.png)
 
