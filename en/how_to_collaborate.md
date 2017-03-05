@@ -18,14 +18,13 @@ Spread the word among your friends in ports and forums.
 
 This project is financed by selling related and tested products or by voluntary contributions.
 
-**Web shop**: [www.sailoog.com/shop](http://www.sailoog.com/shop)
+**Web shop**: [shop.sailoog.com](http://shop.sailoog.com)
 
 **Donations**: [www.sailoog.com/openplotter](http://www.sailoog.com/openplotter)
 
-If you want to make a donation but need a receipt or invoice, buy our *OpenPlotter RPI microSD Sponsoring Edition*:
+If you want to make a donation but need a receipt or invoice, buy our _OpenPlotter RPI microSD Sponsoring Edition_:
 
-[www.sailoog.com/product/openplotter-rpi-microsd-sponsoring-edition](http://www.sailoog.com/product/openplotter-rpi-microsd-sponsoring-edition)
-
+\(waiting for v0.9.xbeta to be released\) [shop.sailoog.com](http://shop.sailoog.com)
 
 ## Monkeys
 
@@ -35,10 +34,11 @@ Ernest Shackleton
 
 If you have python skills, pull your commits to the github repository:
 
-https://github.com/sailoog/openplotter
+[https://github.com/sailoog/openplotter](https://github.com/sailoog/openplotter)
 
 If you have electronics skills, make your suggestions here:
 
 [www.sailoog.com/en/blog/openplotter-community](http://www.sailoog.com/en/blog/openplotter-community)
 
 If you have English language skills, helps us with documentation. Follow the steps in the next chapter [Documentation](documentation.md).
+
