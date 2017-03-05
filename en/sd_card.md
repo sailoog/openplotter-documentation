@@ -6,8 +6,5 @@ You need an SD card to work as "hard disk" of your Raspberry and where you insta
 
 ![](openplotter_rpi.png)
 
-To have your system running you can follow the steps of Getting started chapter or buy an 8GB/16GB SD card with OpenPlotter RPI ready to run from our store (waiting for v0.9.xbeta to be released):
-
-[shop.sailoog.com](http://shop.sailoog.com)
-
+To have your system running you can follow the steps in [Getting started](getting_started.md) chapter or buy an 8GB/16GB SD card with OpenPlotter RPI ready to run from our store (waiting for v0.9.xbeta to be released):  [shop.sailoog.com](http://shop.sailoog.com)
 
