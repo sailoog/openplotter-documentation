@@ -8,7 +8,6 @@
   * [Documentation](documentation.md)
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
-  * [SD card with OpenPlotter](sd_card.md)
   * [Self powered USB Hub](hub.md)
   * [USB WiFi dongle](wifi_dongle.md)
   * [USB GPS dongle](gps_dongle.md)

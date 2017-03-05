@@ -1,62 +1,80 @@
 # Getting started
 
-First of all you have to put together all the [required parts](what_do_you_need.md). If you have trouble with some aspect, try to find help on the [Raspberry Pi official page](https://www.raspberrypi.org/help/).
+First of all you have to put together at least all the [required hardware parts](what_do_you_need.md).
 
-Second you have to run the software on your ARM computer and here you have two options, either buy our plug and play SD card or download and install the software on an SD card.
+Then, you have to run the software on your Raspberry. **OpenPlotter RPI** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need. OpenPlotter RPI is open-source and free.
+
+Here you have two options, either buy our plug and play SD card or download and install the software on an SD card.
 
 ---
 
-**Buy an 8 GB SD card with OpenPlotter RPI ready to run.**
-
-[http:\/\/www.sailoog.com\/shop-category\/openplotter](http://www.sailoog.com/shop-category/openplotter)
+**8GB/16GB SD card with OpenPlotter RPI ready to run.**
+(waiting for v0.9.xbeta to be released)  
+[shop.sailoog.com](http://shop.sailoog.com).
 
 ---
 
 ## Installing OpenPlotter RPI on an SD card
 
-
-Any micro-SD-compatible card will worl on your Raspberry, although there are some guidelines that should be followed:
+Any micro-SD-compatible card will work on your Raspberry. However, there are some guidelines that should be followed.
 
 A minimum of 8GB is required but 16GB is recommended.
 
 The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
 
+To begin with, it's always a good idea to make sure you have formatted your SD card. You'll need to make sure your computer has a built-in SD card reader, or you can use a USB SD card reader.
 
+Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 
-Download the last noobs version of **OpenPlotter RPI** from
+Follow the instructions to install the software.
 
-[http:\/\/sailoog.com\/blog-categories\/openplotter-rpi](http://sailoog.com/blog-categories/openplotter-rpi)
+Insert your SD card into the computer or laptop’s SD card reader and make a note of the drive letter allocated to it, e.g. F:/.
 
-It is a compressed file ca. 1GB so it will take a while.
+In SD Formatter, select the drive letter for your SD card and format it.
 
-Once the download is completed we have to unzip it and copy all files from the noobs folder onto a micro SD FAT32 formated card minimum 8 GB.
+![](/assets/SD-Formatter.jpg)
 
+Download the latest NOOBS installer version of **OpenPlotter RPI** from
 
+[www.sailoog.com/en/blog-categories/openplotter-rpi](http://www.sailoog.com/en/blog-categories/openplotter-rpi)
 
-If you bought our SD card you just from here.
+It is a compressed file of about 1GB so it will take a while.
 
+Extract the files from the zip.
 
-Now we will insert the created or bought SD card with OpenPlotter RPI into our Raspberry Pi.
+Once your SD card has been formatted, drag all the files in the extracted NOOBS folder and drop them onto the SD card drive.
+
+The necessary files will then be transferred to your SD card.
+
+When this process has finished, safely remove the SD card and insert it into your Raspberry Pi.
 
 ![](boot1.png)
 
-First boot
+## First boot
 
-If you want to build a headless system see the next chapter [Headless](headless.md) before reading further.
+Connect power to the Raspberry Pi.
 
-Connect power to the RPI.
+OpenPlotter NOOBS installer will make a silent install, this means that you do not have to do anything. It will take several minutes to format partitions and install the system.
 
-Now we wait for the noobs menu.
+**If you are on an headless system you have to wait until a WiFi network named "OpenPlotter" apears on your client computer. The default password is "12345678", please change this as soon as possible on WiFi AP tab.**
 
-In the noobs menu we select openplotter and click install. It takes several minutes to format and install the system.
+Once the OpenPlotter NOOBS installer has installed OpenPlotter RPI, it will start directly every time we connect the Raspberry Pi.
 
-When noobs has finished openplotter starts.
+## Recovery system
 
-[AutoSetup](/auto-setup-usb-ports.md) pops up (We can skip or close it. It will appear on every boot until we uncheck setup autostart on every boot).
+If our system gets damaged or unstable, we can install OpenPlotter RPI again pressing the Shift key when we see this symbol at startup:
+
+![](/assets/recovery.png)
+
+**We will lose all data, manually instaled programs and setttings after installation.**
+
+## Settings
 
 The nativ monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If we have such a monitor. We do a restart.
 
-## Personal settings
+
+[AutoSetup](/auto-setup-usb-ports.md) pops up (We can skip or close it. It will appear on every boot until we uncheck setup autostart on every boot).
+
 
 
 Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.

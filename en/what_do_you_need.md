@@ -17,7 +17,7 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 * **Power supply**
 * **HDMI monitor**
 * **Keyboard and mouse**
-* [**SD card with OpenPlotter**](/sd_card.md)
+* **SD card with OpenPlotter**
 
 ![](start.png)
 
@@ -26,7 +26,7 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 * **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
 * **Box**
 * **Power supply**
-* [**SD card with OpenPlotter**](/sd_card.md)
+* **SD card with OpenPlotter**
 * **Any laptop, tablet or smartphone**
 
 ![](start2.png)
