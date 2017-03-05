@@ -12,7 +12,7 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 
 ### Monitor option
 
-* **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
+* **Raspberry Pi 3** or Raspberry Pi 2
 * **Box**
 * **Power supply**
 * **HDMI monitor**
