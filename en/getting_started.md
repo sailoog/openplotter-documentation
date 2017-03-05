@@ -32,7 +32,7 @@ Insert your SD card into the computer or laptop’s SD card reader and make a no
 
 In SD Formatter, select the drive letter for your SD card and format it.
 
-![](/assets/SD-Formatter.jpg)
+![](SD-Formatter.jpg)
 
 Download the latest NOOBS installer version of **OpenPlotter RPI** from
 
