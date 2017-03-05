@@ -1,19 +1,13 @@
-# SD card
+# SD card with OpenPlotter
 
 ![](sd.png)
 
-You need an SD card to work as the hard disk of your system and where you will install the operating system.
+You need an SD card to work as "hard disk" of your Raspberry and where you install the operating system. **OpenPlotter RPI** is a modified version of [Raspbian](https://www.raspbian.org/), the official operating system for the Raspberry Pi. It contains all you need. OpenPlotter RPI is open-source and free.
 
-The Raspberry Pi 2 should work with any micro-SD-compatible card, although there are some guidelines that should be followed:
+![](openplotter_rpi.png)
 
-A minimum of 4GB is required but 8GB is recommended.
+To have your system running you can follow the steps of Getting started chapter or buy an 8GB/16GB SD card with OpenPlotter RPI ready to run from our store (waiting for v0.9.xbeta to be released):
 
-The card class determines the sustained write speed for the card; a class 4 card will be able to write at 4MB/s, whereas a class 10 should be able to attain 10 MB/s. However it should be noted that this does not mean a class 10 card will outperform a class 4 card for general usage, because often this write speed is achieved at the cost of read speed and increased seek times.
+[shop.sailoog.com](http://shop.sailoog.com)
 
----
 
-**Buy an 8GB SD card with OpenPlotter RPI ready to run.**
-
-http://www.sailoog.com/shop-category/openplotter
-
----
