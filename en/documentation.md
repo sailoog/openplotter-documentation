@@ -7,18 +7,13 @@
 
 ## Writing
 
-We write the documentation source in English to make easier translating to other languages. If you want to  
-write a chapter, please notify to [www.sailoog.com/contact](http://www.sailoog.com/contact) for coordination. Please do not modify the index or write a chapter without notifying.
+We write the documentation source in English to make easier translating to other languages. If you want to write a chapter, please notify to [www.sailoog.com/contact](http://www.sailoog.com/contact) for coordination. Please do not modify the index or write a chapter without notifying.
 
-Once the new chapter is done in English, please copy the new text to the rest  
-of languages to be ready to translate. If you are not creating a new chapter but editing an existing one,  
-include a note at the beginning of the rest of languages “This translation needs to be updated”.
+Once the new chapter is done in English, please copy the new text to the rest of languages to be ready to translate. If you are not creating a new chapter but editing an existing one, include a note at the beginning of the rest of languages “This translation needs to be updated”.
 
 To include images in the rest of languages from English folder, the path is `../en/xxx.png`
 
 If you want to add images of wiring and connections consider using [fritzing](http://fritzing.org) application.
 
 Do not modify files names \(xxx.md xxx.png xxx.jpg ...\) because they are referenced in the text.
-
-
 
