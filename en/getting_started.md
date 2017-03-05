@@ -8,8 +8,8 @@ Here you have two options, either buy our plug and play SD card or download and 
 
 ---
 
-**8GB/16GB SD card with OpenPlotter RPI ready to run.**
-(waiting for v0.9.xbeta to be released)  
+**8GB/16GB SD card with OpenPlotter RPI ready to run.**  
+\(waiting for v0.9.xbeta to be released\)  
 [shop.sailoog.com](http://shop.sailoog.com).
 
 ---
@@ -24,7 +24,7 @@ The card class determines the sustained write speed for the card; a class 4 card
 
 To begin with, it's always a good idea to make sure you have formatted your SD card. You'll need to make sure your computer has a built-in SD card reader, or you can use a USB SD card reader.
 
-Visit the [SD Association’s website](http://www.sdcard.org/) and download [SD Formatter 4.0](https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
+Visit the [SD Association’s website](http://www.sdcard.org/\) and download [SD Formatter 4.0]\(https://www.sdcard.org/downloads/formatter_4/index.html) for either Windows or Mac.
 
 Follow the instructions to install the software.
 
@@ -56,7 +56,7 @@ Connect power to the Raspberry Pi.
 
 OpenPlotter NOOBS installer will make a silent install, this means that you do not have to do anything. It will take several minutes to format partitions and install the system.
 
-**If you are on an headless system you have to wait until a WiFi network named "OpenPlotter" apears on your client computer. The default password is "12345678", please change this as soon as possible on WiFi AP tab.**
+**If you are on an headless system you have to wait until a WiFi network named "OpenPlotter" apears on your client computer. The default password is "12345678", please change this as soon as possible on WiFi AP tab. For more information see **[**Headless**](/headless.md)** chapter.**
 
 Once the OpenPlotter NOOBS installer has installed OpenPlotter RPI, it will start directly every time we connect the Raspberry Pi.
 
@@ -66,43 +66,25 @@ If our system gets damaged or unstable, we can install OpenPlotter RPI again pre
 
 ![](/assets/recovery.png)
 
-**We will lose all data, manually instaled programs and setttings after installation.**
+**We will lose all data, manually installed programs and settings after installation.**
 
 ## Settings
 
 The nativ monitor resolution for 800x480 monitors will be auto detected. The right settings for it will work on the next boot! If we have such a monitor. We do a restart.
 
+Auto Setup window will pop up to help us to configure the USB connected devices. We can skip or close it. It will appear on every boot until we uncheck setup autostart on every boot. For more information see [Auto Setup USB Ports](/auto-setup-usb-ports.md) chapter.
 
-[AutoSetup](/auto-setup-usb-ports.md) pops up (We can skip or close it. It will appear on every boot until we uncheck setup autostart on every boot).
-
-
-
-Go to _Menu_ &gt; _Preferences_ and select _Raspberry Pi Configuration_.
+Go to Menu > Preferences and select _Raspberry Pi Configuration_.
 
 ![](RPIsetup1.jpg)
 
-A window will open and it's a good idea to change the Password to make OpenPlotter more secure. Click on _Change Password_ \(default password: raspberry\).
+A window will open where you can personalise your system. It is a good idea to change the Password to make OpenPlotter more secure. Click on _Change Password_ (default password: raspberry).
 
 ![](RPIsetup3.jpg)
 
-### Setting language and country
-
-You need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_, _Set Timezone, _ _Set Keyboard, Set WiFi Country_ buttons.
+If you need to set your system localisation, click on the _Localisation_ tab and then on _Set Locale_ (language), _Set Timezone, _ _Set Keyboard, Set WiFi Country_ buttons.
 
 ![](RPIsetup2.jpg)
 
-To configure openplotter we start with setting up the usb adapter [Auto Setup USB ports](auto-setup-usb-ports.md).
 
-### Security
 
-Because of security reasons **ssh is disabled by default** and can be activated under Interfaces.
-
-Then we can use:
-
-on windows system PuTTY and WinSCP
-
-on linux system putty and nautilus
-
-to exchange files and get a remote terminal.
-
-**Keep it disabled if you don't need it!**
