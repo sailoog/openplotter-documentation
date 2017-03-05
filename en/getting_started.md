@@ -64,7 +64,7 @@ Once the OpenPlotter NOOBS installer has installed OpenPlotter RPI, it will star
 
 If our system gets damaged or unstable, we can install OpenPlotter RPI again pressing the Shift key when we see this symbol at startup:
 
-![](/assets/recovery.png)
+![](recovery.png)
 
 **We will lose all data, manually installed programs and settings after installation.**
 
