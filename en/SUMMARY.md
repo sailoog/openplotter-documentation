@@ -31,6 +31,7 @@
   * [Remote desktop](remote-desktop.md)
   * [Auto Setup USB ports](auto-setup-usb-ports.md)
   * [USB manager](usb-manager.md)
+  * [Updating](updating.md)
 * [OP pages](op-pages.md)
   * [USB manager](usb-manager.md)
   * [NMEA 0183 Multiplexer](nmea-0183-multiplexer.md)
