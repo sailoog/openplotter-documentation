@@ -4,11 +4,11 @@
 
 From OpenPlotter version 0.10.0, you can update your installation without need of burning a new SD card.
 
-Be sure you are connected to Internet and go tho the menu _Updates_ in the OpenPlotter main menu.
+Be sure you are connected to Internet and go to _Updates_ in the OpenPlotter main menu.
 
 You can update OpenCPN and plugins to the latest stable releases.
 
-You can update OpenPlotter to either a beta or to an stable version. Once you have updated from a stable version to a beta version you can not go back to the stable version and you have to keep updating the beta until a new stable version is released.
+There you can update OpenPlotter to either a beta or to an stable version. Once you have updated from an stable version to a beta version you can not go back to the stable version and you have to keep updating the beta until a new stable version is released.
 
 OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
 
