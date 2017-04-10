@@ -1,6 +1,6 @@
 # Updating OpenPlotter
 
-![](/assets/updating.png)
+![](/en/updating.png)
 
 From OpenPlotter version 0.10.0, you can update your installation without need of burning a new SD card.
 
@@ -30,7 +30,7 @@ Stable means that OpenPlotter code and dependencies have already been tested and
 
 You can know what version you are running selecting the option _About_ in _Help_ menu.
 
-![](/assets/about.png)
+![](/en/about.png)
 
 
 
