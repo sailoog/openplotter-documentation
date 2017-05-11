@@ -2,7 +2,7 @@
 
 ![](n2k_b.jpg)
 
-Picture: Original by Femnett/Maretron and modified by Sailoog, source wikimedia, Creative Commons Attribution 2.5 Generic license.
+Picture: https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg, modified by Sailoog, CC BY 2.5 license.
 
 ---
 
