@@ -2,6 +2,8 @@
 
 ![](n2k_b.jpg)
 
+Picture: Original by Femnett/Maretron and modified by Sailoog, source wikimedia, Creative Commons Attribution 2.5 Generic license.
+
 ---
 
 **You can buy a CAN-USB Stick converter here**
