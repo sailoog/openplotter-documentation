@@ -21,7 +21,7 @@ You are not familiar with Github and Gitbook repositories edition:
 
 We write the documentation source in English to make easier translating to other languages. 
 
-Please do not modify the index or write a new chapter without consulting developers. Once a chapter is done, please notify on the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) to be marked in green.
+Please do not modify the index or the structure without consulting developers. Once a chapter is done, please notify on the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) to be marked in green.
 
 To include images in the rest of languages from English folder, the path is `../en/xxx.png`
 
