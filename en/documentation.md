@@ -2,13 +2,20 @@
 
 We have a Github repository[[1]](https://github.com/sailoog/openplotter-documentation) for OpenPlotter documentation. This repository is connected to a Gitbook book[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and we coordinate editors in a forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) on OpenMarine.
 
-if you want to help us to write, update, correct or translate...
+if you want to help us to write, update, correct or translate you have two options.
+
+You are familiar with Github and Gitbook repositories edition:
 
 * Create an account in **Github**[[4]](https://github.com/join)
-* Send your Github account user name to the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) and wait for getting permissions to edit the repository.
-* On the sticky post[[5]](http://forum.openmarine.net/showthread.php?tid=504) of the documentation forum, select a chapter marked either in blue for writing or green for translating and notify your intentions.
-* Once you have permissions, login to **Gitbook**[[6]](https://www.gitbook.com/login) with your Github account.
+* Send your Github account user name to the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) and wait for you to be granted permissions to edit the repository.
+* From the sticky threads in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
+* Once you have permissions, login to **Gitbook**[[5]](https://www.gitbook.com/login) with your Github account.
 * Go to the book[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and click on the _Edit_ button upper right.
+
+You are not familiar with Github and Gitbook repositories edition:
+
+* From the sticky threads in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
+* When you are done, publish text and images into a new thread in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) and someone will edit the book for you.
 
 ## Writing
 
@@ -18,7 +25,7 @@ Please do not modify the index or write a new chapter without consulting develop
 
 To include images in the rest of languages from English folder, the path is `../en/xxx.png`
 
-If you want to add images of wiring and connections consider using fritzing[[7]](http://fritzing.org) application.
+If you want to add images of wiring and connections consider using fritzing[[6]](http://fritzing.org) application.
 
 Do not modify or translate files names \(xxx.md xxx.png xxx.jpg ...\) because they are referenced in the text.
 
@@ -28,6 +35,5 @@ Do not modify or translate files names \(xxx.md xxx.png xxx.jpg ...\) because th
 [2] https://www.gitbook.com/book/sailoog/openplotter-documentation/details
 [3] http://forum.openmarine.net/forumdisplay.php?fid=16
 [4] https://github.com/join
-[5] http://forum.openmarine.net/showthread.php?tid=504
-[6] https://www.gitbook.com/login
-[7] http://fritzing.org
+[5] https://www.gitbook.com/login
+[6] http://fritzing.org
