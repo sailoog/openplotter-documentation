@@ -9,3 +9,4 @@
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
 
+![OpenPlotter desktop](../en/openplotter.png)
