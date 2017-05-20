@@ -1,4 +1,9 @@
 # Qu'est-ce qu'OpenPlotter?
+---
+
+**This chapter needs to be written or updated**: http://forum.openmarine.net/forumdisplay.php?fid=16
+
+---
 
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
