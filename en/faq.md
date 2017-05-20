@@ -1,5 +1,11 @@
 # Frequently Asked Questions
 
+---
+
+**This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
+
+---
+
 ## Signal K
 
 **Q**: How to connect from smartphone to SignalK Instrumentpanel?
