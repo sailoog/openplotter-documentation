@@ -1,4 +1,4 @@
-# Documentation
+# Dokomentation
 
 ---
 
@@ -8,34 +8,34 @@
 
 ![](../en/manuals.png)
 
-We have a Github repository[[1]](https://github.com/sailoog/openplotter-documentation) for OpenPlotter documentation. This repository is connected to a Gitbook book[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and we coordinate editors in a forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) on OpenMarine.
+Wir haben ein Github Repo[[1]](https://github.com/sailoog/openplotter-documentation) für die OpenPlotter Dokumentation. Dieses Repo ist angeschlossen an ein Gitbook Buch[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) und wir koordinieren die Redakteure in einem Forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) auf OpenMarine.
 
-if you want to help us to write, update, correct or translate you have two options.
+Wenn Du uns helfen möchtest zu schreiben, aktualisieren, korrigieren oder übersetzen, hast Du zwei Möglichkeiten:
 
-You are familiar with Github and Gitbook repositories edition:
+Du bist vertraut mit Github und Gitbook Repo's:
 
-* Create an account in **Github**[[4]](https://github.com/join)
-* Send your Github account user name to the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) and wait for you to be granted permissions to edit the repository.
-* From the sticky threads in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
-* Once you have permissions, login to **Gitbook**[[5]](https://www.gitbook.com/login) with your Github account.
-* Go to the book[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and click on the _Edit_ button upper right.
+* Mache Dir einen Account bei **Github**[[4]](https://github.com/join)
+* Sende Deinen Github Zugangs-Namen zu diesem Forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) und warte, bis Dir die Berechtigung zum Editieren des Repos erhälst.
+* Aus dem Beitrag im oberen Bereich des Forums[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) suche Dir ein blau markiertes Kapitel aus und teile Dein Vorhaben in einem neuen Thread mit.
+* Wenn Du die Berechtigung erhalten hast, melde Dich bei **Gitbook**[[5]](https://www.gitbook.com/login) mit Deinem Zugangsnamen an.
+* Gehe zum Buch[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) und wähle oben rechts den _Edit_ button aus.
 
-You are not familiar with Github and Gitbook repositories edition:
+Wenn Du mit Github und Gitbook Repo's nicht vertraut bist:
 
-* From the sticky threads in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
-* When you are done, publish text and images into a new thread in the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) and someone will edit the book for you.
+* Such Dir aus dem Beitrag im oberen Bereich des Forums[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) ein blau markiertes Kapitel aus und teile Dein Vorhaben in einem neuen Thread mit.
+* Sobald Du fertig bist, kopiere den Text und die Bilder in einen neuen Thread im Forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) und jemand wird es für Dich in das Buch für Dich einbauen.
 
-## Writing
+## Schreiben
 
-We write the documentation source in English to make easier translating to other languages. 
+Wir schreiben die Ursprungs-Dokumentation in englisch um die Übersetzung in andere Sprachen möglichst einfach zu machen. 
 
-Please do not modify the index or the structure without consulting developers. Once a chapter is done, please notify on the forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) to be marked in green.
+Bitte ändere nicht das Inhaltsverzeichnis oder die Struktur ohne einen Entwickler oder Admin zu fragen. Wenn ein Kapital fertig ist, teile dies im Forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) mit, damit es grün markiert ist.
 
-To include images in the rest of languages from English folder, the path is `../en/xxx.png`
+Um die Bilder aus dem englischen Ordner in anderen Sprachen ebenfalls darstellen zu können, nutze diesen Pfad: `../en/xxx.png`
 
-If you want to add images of wiring and connections consider using fritzing[[6]](http://fritzing.org) application.
+Wenn Du Verdrahtungen oder Anschlußbelegungen darstellen möchtest, solltest Du es mit der Fritzing-Software[[6]](http://fritzing.org) machen.
 
-Do not modify or translate files names \(xxx.md xxx.png xxx.jpg ...\) because they are referenced in the text.
+Ändere oder übersetze nicht die Dateinamen \(xxx.md xxx.png xxx.jpg ...\), weil in den Texten hierauf referenziert wird.
 
 ---
 
