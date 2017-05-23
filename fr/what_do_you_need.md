@@ -1,52 +1,56 @@
-#What do you need?
+# What do you need?
 
-You will need the basic parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+---
+
+**This chapter needs to be written/updated/translated**
+
+http://forum.openmarine.net/forumdisplay.php?fid=16
+
+---
+
+You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
 
 ## Required items
 
-You need at least these items to run *the software* and you have two options: either with monitor or without monitor (headless).
+You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor (**headless**).
+
+If you need help with these basic parts see the official Raspberry Pi documentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
 
 ### Monitor option
 
-* [ARM embedded computer](arm_computer.md) (Raspberry Pi)
-* [Box](box.md)
-* [Power supply](power_supply.md)
-* [HDMI monitor](monitor.md)
-* [Keyboard and mouse](keyboard.md)
-* [SD card](sd_card.md)
-* [OpenPlotter RPI](software.md) (*the software*)
+* **Raspberry Pi 3** or Raspberry Pi 2
+* **Box**
+* **Power supply**
+* **HDMI monitor**
+* **Keyboard and mouse**
+* **SD card with OpenPlotter RPI** (_the software_)
 
 ![](../en/start.png)
 
 ### Headless option
 
-* [ARM embedded computer](arm_computer.md) (Raspberry Pi)
-* [Box](box.md)
-* [Power supply](power_supply.md)
-* [USB WiFi dongle](wifi_dongle.md)
-* [SD card](sd_card.md)
-* [OpenPlotter RPI](software.md) (*the software*)
-* Any laptop tablet or smartphone
+* **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
+* **Box**
+* **Power supply**
+* **SD card with OpenPlotter RPI** (_the software_)
+* **Any laptop, tablet or smartphone**
 
 ![](../en/start2.png)
 
-##Optional items
+### Where can you find them?
 
-Devices to communicate with boat and sensors to collect data from environment.
+You can buy these basic parts from any official distributor[[2]](https://www.raspberrypi.org/products) or any Raspberry store.
 
-* [Self powered USB Hub](hub.md)
-* [USB WiFi dongle](wifi_dongle.md)
-* [USB GPS dongle](gps_dongle.md)
-* [NMEA 0183 to USB converter](nmea_converter.md)
-* [USB DVB-T dongle](dvb-t_dongle.md) (AIS reception)
-* [IMU sensor](imu_sensor.md)
-* [Pressure/Temperature sensor](pressure_sensor.md)
-* [Humidity/Temperature sensor](humidity_sensor.md)
-* [One wire temperature sensor](1w_temp_sensor.md)
-* [PIR motion sensor](motion.md)
-* [Common switch](common_sw.md)
-* [Door switch](door_sw.md)
-* [Float switch](float_sw.md)
-* [Relay](relay.md)
-* [LED](led.md)
-* [Buzzer](buzzer.md)
+Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+
+## Optional items
+
+Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
+
+### Where can you find them?
+
+Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+
+---
+
+[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com 
