@@ -1,4 +1,4 @@
-# Dokomentation
+# Dokumentation
 
 ---
 
