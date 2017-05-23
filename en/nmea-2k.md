@@ -1,4 +1,4 @@
-# NMEA 2K
+# N2K
 
 ![](NMEA2K.jpg)
 

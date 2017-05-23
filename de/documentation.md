@@ -1,9 +1,12 @@
 # Documentation
+
 ---
 
 **This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
 
 ---
+
+![](../en/manuals.png)
 
 We have a Github repository[[1]](https://github.com/sailoog/openplotter-documentation) for OpenPlotter documentation. This repository is connected to a Gitbook book[[2]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and we coordinate editors in a forum[[3]](http://forum.openmarine.net/forumdisplay.php?fid=16) on OpenMarine.
 

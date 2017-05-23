@@ -1,5 +1,13 @@
 # ¿Cómo funciona?
 
+---
+
+**This chapter needs to be written/updated/translated**
+
+http://forum.openmarine.net/forumdisplay.php?fid=16
+
+---
+
 OpenPlotter puede obtener datos desde diferentes fuentes:
 
 * Sensores y dispositivos conectados por el puerto GPIO.
