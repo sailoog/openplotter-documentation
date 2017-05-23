@@ -15,7 +15,7 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 * **Power supply**
 * **HDMI monitor**
 * **Keyboard and mouse**
-* **SD card with OpenPlotter RPI**
+* **SD card with OpenPlotter RPI** (_the software_)
 
 ![](start.png)
 
@@ -24,50 +24,25 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 * **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
 * **Box**
 * **Power supply**
-* **SD card with OpenPlotter RPI**
+* **SD card with OpenPlotter RPI** (_the software_)
 * **Any laptop, tablet or smartphone**
 
 ![](start2.png)
 
 ### Where can you find them?
 
-You can buy these basic parts from any official distributor or any Raspberry store:
+You can buy these basic parts from any official distributor[[2]](https://www.raspberrypi.org/products) or any Raspberry store.
 
-[www.raspberrypi.org/products](https://www.raspberrypi.org/products)
-
-Occasionally we may have some of them on our store:
-
-[shop.sailoog.com](http://shop.sailoog.com)
+Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
 
 ## Optional items
 
-Devices to communicate with boat and sensors to collect data from environment.
-
-* [Self powered USB Hub](hub.md)
-* [USB WiFi dongle](wifi_dongle.md)
-* [USB GPS dongle](gps_dongle.md)
-* [NMEA 0183 to USB converter](nmea_converter.md)
-* [NMEA 2000 to USB converter](can-usb-stick.md\)
-* [USB DVB-T dongle for AIS reception](dvb-t_dongle.md\)
-* [IMU sensor](imu_sensor.md)
-* [Pressure / Temperature sensor](pressure_sensor.md)
-* [Humidity / Temperature sensor](humidity_sensor.md)
-* [One wire temperature sensor](1w_temp_sensor.md)
-* [Analog Digital Converter](analog-digital-converter.md)
-* [PIR motion sensor](motion.md)
-* [Common switch](common_sw.md)
-* [Door switch](door_sw.md)
-* [Float switch](float_sw.md)
-* [Relay](relay.md)
-* [LED](led.md)
-* [Buzzer](buzzer.md)
+Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
 
 ### Where can you find them?
 
-Occasionally we may have some of them on our store:
-
-[shop.sailoog.com](http://shop.sailoog.com)
+Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
 
 ---
 
-[1] https://www.raspberrypi.org/learning/hardware-guide/
+[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com 
