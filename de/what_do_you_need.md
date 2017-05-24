@@ -1,55 +1,47 @@
-# What do you need?
+# Welche Dinge benötigst Du?
 
----
+Es gibt unbedingt notwendige und ein paar zusätzliche Teile. Es hängt davon ab, welche Daten Du sammeln, verarbeiten und darstellen willst und wie Dein Boot bereits ausgestattet ist.
 
-**This chapter needs to be written/updated/translated**
+## Benötigte Teile
 
-http://forum.openmarine.net/forumdisplay.php?fid=16
+Zunächst brauchst Du folgende Teil, um _das Programm_ ans Laufen zu bringen, wobei es hier zwei Möglichkeiten gibt: Zum einen den Betrieb mit direkt angeschlossenem **Monitor**, zum anderen den Betrieb ohne Monitor (**headless**).
 
----
+Wenn Du Hilfe benötigst mit den Basis-Teilen, wirf einen Blick in die offizielle Raspberry Pi Dokumentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
 
-You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+### Möglichkeit 1: mit Monitor
 
-## Required items
-
-You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor (**headless**).
-
-If you need help with these basic parts see the official Raspberry Pi documentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
-
-### Monitor option
-
-* **Raspberry Pi 3** or Raspberry Pi 2
-* **Box**
-* **Power supply**
-* **HDMI monitor**
-* **Keyboard and mouse**
-* **SD card with OpenPlotter RPI** (_the software_)
+* **Raspberry Pi 3** oder Raspberry Pi 2
+* **Gehäuse**
+* **Netzteil**
+* **HDMI Bildschirm**
+* **Tastatur und Maus**
+* **SD-Karte mit OpenPlotter RPI** (_das Programm_)
 
 ![](../en/start.png)
 
-### Headless option
+### Möglichkeit 2: Headless
 
-* **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
-* **Box**
-* **Power supply**
-* **SD card with OpenPlotter RPI** (_the software_)
-* **Any laptop, tablet or smartphone**
+* **Raspberry Pi 3** oder Raspberry Pi 2 + WiFi dongle
+* **Gehäuse**
+* **Netzteil**
+* **SD-Karte mit OpenPlotter RPI** (_das Programm_)
+* **Ein Laptop, Tablet oder Smartphone**
 
 ![](../en/start2.png)
 
-### Where can you find them?
+### Wo bekommst Du diese Sachen?
 
-You can buy these basic parts from any official distributor[[2]](https://www.raspberrypi.org/products) or any Raspberry store.
+Du kannst die grundlegenden Teile bei einem offiziellen Distributor[[2]](https://www.raspberrypi.org/products) kaufen oder in einem Raspberry Shop.
 
-Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+Gelegentlich haben wir einige Dinge davon in unserem Shop[[3]](http://shop.sailoog.com).
 
-## Optional items
+## optionales Zubehör
 
-Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
+Das nächste Kapitel beinhaltet eine Liste der unterstützten Geräte und Sensoren sowie die Kommunikation damit, um Umgebungsdaten zu sammeln.
 
-### Where can you find them?
+### Wo bekommst Du diese Dinge?
 
-Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+Gelegentlich haben wir einige Teile in unserem Shop[[3]](http://shop.sailoog.com).
 
 ---
 
