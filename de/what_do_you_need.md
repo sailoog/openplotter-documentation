@@ -6,7 +6,7 @@ Es gibt unbedingt notwendige und ein paar zusätzliche Teile. Es hängt davon ab
 
 Zunächst brauchst Du folgende Teil, um _das Programm_ ans Laufen zu bringen, wobei es hier zwei Möglichkeiten gibt: Zum einen den Betrieb mit direkt angeschlossenem **Monitor**, zum anderen den Betrieb ohne Monitor (**headless**).
 
-Wenn Du Hilfe benötigst mit den Basis-Teilen, wirf einen Blick in die offizielle Raspberry Pi Dokumentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
+Wenn Du Hilfe benötigst für die Basis-Teile, wirf einen Blick in die offizielle Raspberry Pi Dokumentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
 
 ### Möglichkeit 1: mit Monitor
 
