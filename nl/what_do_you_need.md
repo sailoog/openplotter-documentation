@@ -27,6 +27,8 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 
 ![](../en/start.png)
 
+Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
+
 ### Headless option
 
 * **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
@@ -35,7 +37,9 @@ If you need help with these basic parts see the official Raspberry Pi documentat
 * **SD card with OpenPlotter RPI** (_the software_)
 * **Any laptop, tablet or smartphone**
 
-![](../en/start2.png)
+![](start2.png)
+
+Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
 
 ### Where can you find them?
 
@@ -53,4 +57,4 @@ Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com)
 
 ---
 
-[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com 
+[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com [4] https://leanpub.com/RPiMRE/read
