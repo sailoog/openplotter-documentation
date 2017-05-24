@@ -19,6 +19,8 @@ Wenn Du Hilfe benötigst für die Basis-Teile, wirf einen Blick in die offiziell
 
 ![](../en/start.png)
 
+Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
+
 ### Möglichkeit 2: Headless
 
 * **Raspberry Pi 3** oder Raspberry Pi 2 + WiFi dongle
@@ -28,6 +30,8 @@ Wenn Du Hilfe benötigst für die Basis-Teile, wirf einen Blick in die offiziell
 * **Ein Laptop, Tablet oder Smartphone**
 
 ![](../en/start2.png)
+
+Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
 
 ### Wo bekommst Du diese Sachen?
 
@@ -45,4 +49,4 @@ Gelegentlich haben wir einige Teile in unserem Shop[[3]](http://shop.sailoog.com
 
 ---
 
-[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com 
+[1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com [4] https://leanpub.com/RPiMRE/read
