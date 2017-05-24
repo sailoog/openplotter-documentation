@@ -27,7 +27,7 @@ Wenn Du Fähigkeiten in Python hast, nutze das Github Repo[[4]](https://github.c
 
 Liegen Deine Stärken in der Elektronik, teile Deine Entwicklungen im OpenMarine Forum[[2]](http://forum.openmarine.net/).
 
-Wenn Du Englisch und eine weitere Sprache beherrscht, hilf uns bei der Dokumentation. Im nächsten Kapitel erhälst Du hierzu Erläuterungen [Documentation](documentation.md).
+Wenn Du Englisch und eine weitere Sprache beherrscht, hilf uns bei der Dokumentation. Im nächsten Kapitel erhältst Du hierzu Erläuterungen [Documentation](documentation.md).
 
 ---
 [1] http://navigatrix.net [2] http://forum.openmarine.net [3] http://shop.sailoog.com [4] https://github.com/sailoog/openplotter
