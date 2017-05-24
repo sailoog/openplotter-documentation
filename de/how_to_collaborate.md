@@ -1,38 +1,33 @@
-# How to collaborate
+# So funktioniert die Zusammenarbeit
 
----
 
-**This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
-
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+> Alles benötigt Zeit, Geld und Wahnsinn. Von zweien brauchst eine Menge, vom Dritten ein bischen. Nimmt eins zu, verringert sich der Bedarf bei den anderen beiden. 
 
 Moe's Law, Navigatrix[[1]](http://navigatrix.net) project.
 
-## Time
+## Zeit
 
-Get a Raspberry Pi and the required elements, download OpenPlotter RPI and test and test and test ...
+Beschaffe Dir einen Raspberry Pi und die anderen benötigten Teile, lade OpenPlotter RPI herunter und teste, teste, teste...
 
-Report bugs and request new features on OpenMarine forums[[2]](http://forum.openmarine.net/).
+Fehlermeldungen und Ideen für neue Funktionen kommen in das OpenMarine Forum[[2]](http://forum.openmarine.net/).
 
-Spread the word among your friends in ports and forums.
+Verbreite das Projekt unter Deinen Freunden und in den Häfen.
 
-## Money
+## Geld
 
-This project is financed by selling related and tested products or by voluntary contributions. You can buy or donate on the WebShop[[3]](http://shop.sailoog.com).
+Dieses Projekt wird finanziert durch den Verkauf von damit in Zusammenhang stehenden Produkten und Spenden. Du kannst im Webshop[[3]](http://shop.sailoog.com) kaufen und spenden.
 
-## Monkeys
+## Wahnsinn
 
-> Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
+> Männer für gefährliche Reise gesucht. Niedriger Lohn, bittere Kälte, lange Stunden völliger Dunkelheit. Sichere Rückkehr ungewiß.Ehre und Anerkennung im Falle des Erfolgs.
 
 Ernest Shackleton
 
-If you have python skills, push your commits to the github repository[[4]](https://github.com/sailoog/openplotter).
+Wenn Du Fähigkeiten in Python hast, nutze das Github Repo[[4]](https://github.com/sailoog/openplotter).
 
-If you have electronics skills, share your work on OpenMarine forums[[2]](http://forum.openmarine.net/).
+Liegen Deine Stärken in der Elektronik, teile Deine Entwicklungen im OpenMarine Forum[[2]](http://forum.openmarine.net/).
 
-If you have English language skills, helps us with documentation. Follow the steps in the next chapter [Documentation](documentation.md).
+Wenn Du Englisch und eine weitere Sprache beherrscht, hilf uns bei der Dokumentation. Im nächsten Kapitel erhälst Du hierzu Erläuterungen [Documentation](documentation.md).
 
 ---
 [1] http://navigatrix.net [2] http://forum.openmarine.net [3] http://shop.sailoog.com [4] https://github.com/sailoog/openplotter
