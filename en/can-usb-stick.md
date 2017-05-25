@@ -78,9 +78,17 @@ Drop line wires side
 * On the drop line there are three cables left. They have to be isolated.
 * Turn on the main power.
 * Switch on instrumentation.
-* The CAN-USB Stick led will be off during the boot secuence (8") and then will be on.
 
 To configure your CAN-USB Stick, see the chapter [N2K](nmea-2k.md). On Windows use OpenSkipper.
+
+## LED
+
+The CAN-USB Stick LED will be **OFF** 10" during the boot secuence and then:
+
+- Fixed **ON** if it is not connected to the network.
+- **ON** for a second if it is connected to the network.
+- Fixed  **OFF** if there are not input data.
+- **FLASHING** if there are input data.
 
 ## Support
 
