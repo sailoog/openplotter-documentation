@@ -2,7 +2,7 @@
 
 ![](../en/manuals.png)
 
-Author: Randall Munroe[[1]](https://xkcd.com), CC BY-NC 2.5 license.
+Autor: Randall Munroe[[1]](https://xkcd.com), CC BY-NC 2.5 Lizenz.
 
 Wir haben ein Github Repo[[2]](https://github.com/sailoog/openplotter-documentation) für die OpenPlotter Dokumentation. Dieses Repo ist angeschlossen an ein Gitbook Buch[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) und wir koordinieren die Redakteure in einem Forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) auf OpenMarine.
 
