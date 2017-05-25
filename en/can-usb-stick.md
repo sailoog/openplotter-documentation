@@ -1,6 +1,6 @@
 # CAN-USB Stick
 
-![](/assets/can-usb-stick.png)
+![](can-usb-stick.png)
 
 ## Warning / Disclaimer
 
