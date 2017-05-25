@@ -1,16 +1,6 @@
 # CAN-USB Stick
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
-
-![](n2k_b.jpg)
-
-Author: Femnett/Maretron[[1]](https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg), modified by Sailoog, CC BY 2.5 license.
+![](/assets/can-usb-stick.png)
 
 ## Warning / Disclaimer
 
@@ -38,6 +28,10 @@ Not tested:
 * PolarView NS[[6]](http://www.polarnavy.com)
 
 ## N2K networks
+
+![](n2k_b.jpg)
+
+Author: Femnett/Maretron[[1]](https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg), modified by Sailoog, CC BY 2.5 license.
 
 ![](n2k_a.jpg)  
 
