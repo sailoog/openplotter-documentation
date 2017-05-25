@@ -19,7 +19,7 @@ Wenn Du Hilfe benötigst für die Basis-Teile, wirf einen Blick in die offiziell
 
 ![](../en/start.png)
 
-Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
+Autor: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), geändert von Sailoog.
 
 ### Möglichkeit 2: Headless
 
@@ -31,7 +31,7 @@ Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailo
 
 ![](../en/start2.png)
 
-Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
+Autor: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), geändert von Sailoog.
 
 ### Wo bekommst Du diese Sachen?
 
