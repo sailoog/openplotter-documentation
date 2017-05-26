@@ -14,8 +14,6 @@
   * [USB DVB-T dongle](dvb-t_dongle.md)
   * [IMU sensor](imu_sensor.md)
   * [Environment sensors](environment-sensors.md)
-  * [Pressure / Temperature sensor](pressure_sensor.md)
-  * [Humidity / Temperature sensor](humidity_sensor.md)
   * [1W temperature sensor](1w_temp_sensor.md)
   * [Analog Digital Converter](analog-digital-converter.md)
   * [PIR motion sensor](motion.md)

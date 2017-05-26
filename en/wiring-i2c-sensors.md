@@ -1,10 +1,11 @@
 # Wiring I2C sesnsors
 ---
 
-This chapter is under construction
+**This chapter needs to be written/updated/translated**
+
+http://forum.openmarine.net/forumdisplay.php?fid=16
 
 ---
-## Wiring
 
 Pins names are according to the diagram below.
 
