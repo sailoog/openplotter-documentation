@@ -13,6 +13,7 @@
   * [CAN-USB Stick](can-usb-stick.md)
   * [USB DVB-T dongle](dvb-t_dongle.md)
   * [IMU sensor](imu_sensor.md)
+  * [Environment sensors](environment-sensors.md)
   * [Pressure / Temperature sensor](pressure_sensor.md)
   * [Humidity / Temperature sensor](humidity_sensor.md)
   * [1W temperature sensor](1w_temp_sensor.md)
@@ -63,5 +64,4 @@
   * [Buzzers](buzzers.md)
 * [OP Chartplotter \(OpenCPN\)](chartplotter-opencpn.md)
   * [Sending data to autopilot](sending-data-to-autopilot.md)
-* [Wiring I2C sensors](wiring-i2c-sensors.md)
 
