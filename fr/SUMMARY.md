@@ -38,6 +38,7 @@
   * Connecting serial devices
   * Network connections
   * Filtering
+* [Wiring I2C sensors](wiring-i2c-sensors.md)
 * Inspector
 * Chartplotter \(OpenCPN\)
   * Sending data to autopilot
@@ -69,5 +70,5 @@
 * Startup
 * Funding
 * License
-* [Credits](credits.md)
+* [Wiring I2C sensors](wiring-i2c-sensors.md)
 
