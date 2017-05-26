@@ -12,7 +12,7 @@
   * [NMEA 0183 to USB converter](nmea_converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
   * [USB DVB-T dongle](dvb-t_dongle.md)
-  * [IMU sensor](imu_sensor.md)
+  * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
   * [1W temperature sensor](1w_temp_sensor.md)
   * [Analog Digital Converter](analog-digital-converter.md)

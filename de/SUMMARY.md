@@ -7,5 +7,6 @@
 * [Wie funktioniert es?](how_does_it_work.md)
 * [Was benötigst Du?](what_do_you_need.md)
   * [CAN-USB Stick](can-usb-stick.md)
+  * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
 

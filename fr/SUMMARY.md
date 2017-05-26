@@ -19,7 +19,7 @@
   * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
   * USB DVB-T dongle
-  * IMU sensor
+  * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
   * [Pressure/Temperature sensor](pressuretemperature-sensor.md)
   * Humidity/Temperature sensor
