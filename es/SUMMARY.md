@@ -21,6 +21,7 @@
   * USB DVB-T dongle
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
+  * [1W temperature sensor](1w-temperature-sensor.md)
   * Pressure/Temperature sensor
   * Humidity/Temperature sensor
   * One wire temperature sensor
@@ -30,7 +31,7 @@
   * Float switch
   * Relay
   * LED
-  * Buzzer
+  * [Buzzer](buzzer.md)
 * Getting started
   * Headless
 * NMEA 0183 Multiplexer

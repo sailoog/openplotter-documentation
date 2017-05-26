@@ -9,4 +9,5 @@
   * [CAN-USB Stick](can-usb-stick.md)
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
+  * [1W temperature sensor](1w-temperature-sensor.md)
 

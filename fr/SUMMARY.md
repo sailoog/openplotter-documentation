@@ -21,6 +21,7 @@
   * USB DVB-T dongle
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
+  * [1W temperature sensor](1w-temperature-sensor.md)
   * [Pressure/Temperature sensor](pressuretemperature-sensor.md)
   * Humidity/Temperature sensor
   * One wire temperature sensor
