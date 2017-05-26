@@ -8,8 +8,6 @@ An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientat
 
 Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. You will have heel angle data as well.
 
-IMU sensors have to be connected by I2C interface.
-
 ##Supported IMU sensors
 
 * InvenSense MPU-9150 single chip IMU.
@@ -23,3 +21,7 @@ IMU sensors have to be connected by I2C interface.
 * L3GD20H + LSM303DLHC (optionally with BMP180) as used on the new Adafruit 10-dof IMU.
 * Bosch BMX055 (although magnetometer support is experimental currently).
 * Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
+
+## Wiring
+
+IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).

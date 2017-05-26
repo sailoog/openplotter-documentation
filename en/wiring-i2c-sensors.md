@@ -1,4 +1,4 @@
-# Temperature sensor
+# Wiring I2C sesnsors
 ---
 
 This chapter is under construction
