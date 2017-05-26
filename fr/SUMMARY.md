@@ -20,7 +20,8 @@
   * [CAN-USB Stick](can-usb-stick.md)
   * USB DVB-T dongle
   * IMU sensor
-  * Pressure/Temperature sensor
+  * [Environment sensors](environment-sensors.md)
+  * [Pressure/Temperature sensor](pressuretemperature-sensor.md)
   * Humidity/Temperature sensor
   * One wire temperature sensor
   * PIR motion sensor

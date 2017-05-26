@@ -20,6 +20,7 @@
   * [CAN-USB Stick](can-usb-stick.md)
   * USB DVB-T dongle
   * IMU sensor
+  * [Environment sensors](environment-sensors.md)
   * Pressure/Temperature sensor
   * Humidity/Temperature sensor
   * One wire temperature sensor
@@ -67,5 +68,5 @@
 * Startup
 * Funding
 * License
-* Credits
+* [Credits](credits.md)
 
