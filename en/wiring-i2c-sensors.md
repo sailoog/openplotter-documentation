@@ -1,4 +1,5 @@
 # Wiring I2C sesnsors
+
 ---
 
 **This chapter needs to be written/updated/translated**
