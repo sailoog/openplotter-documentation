@@ -54,4 +54,5 @@
     * [wireless temp](wireless-temp.md)
   * [SDR receiver](sdr-receiver.md)
 * [License](license.md)
+* [Credits](credits.md)
 
