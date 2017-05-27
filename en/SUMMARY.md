@@ -24,6 +24,9 @@
   * [Buzzer](buzzer.md)
   * [Arduino](arduino.md)
   * [ADS1115](ads1115.md)
+  * ESP8266
+  * [nrf24L01](nrf24l01.md)
+  * [Wireless thermometer](wireless-thermometer.md)
 * [Wiring I2C sensors](wiring-i2c-sensors.md)
 * [Wiring digital sensors](wiring-digital-sensors.md)
 * [Wiring output devices](wiring-output-devices.md)
@@ -48,17 +51,22 @@
   * [Accounts](accounts.md)
   * [MQTT](mqtt.md)
   * [Signal K](signalk.md)
+  * [SMS](sms.md)
 * [OP menu Tools](tools.md)
+  * [Set time zone](set-time-zone.md)
+  * Set time from NMEA
+  * Set GPSD
+  * [SDR receiver](sdr-receiver.md)
+  * [Calculate](calculate.md)
+  * NMEA 0183 generator
+  * NMEA 2000 generator
   * [Tools defined](tools-defined.md)
     * [Analog ads1115](analog-ads1115.md)
     * [Analog Firmata](analog-firmata.md)
     * [SignalK Simulator](signalk-simulator.md)
     * [wireless temp](wireless-temp.md)
-  * [SDR receiver](sdr-receiver.md)
-  * [Calculate](calculate.md)
-  * NMEA 0183 generator
-  * NMEA 2000 generator
 * [Chartplotter OpenCPN](chartplotter-opencpn.md)
+  * [Sending data to autopilot](sending-data-to-autopilot.md)
 * [License](license.md)
 * [Credits](credits.md)
 
