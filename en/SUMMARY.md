@@ -55,6 +55,10 @@
     * [SignalK Simulator](signalk-simulator.md)
     * [wireless temp](wireless-temp.md)
   * [SDR receiver](sdr-receiver.md)
+  * [Calculate](calculate.md)
+  * NMEA 0183 generator
+  * NMEA 2000 generator
+* [Chartplotter OpenCPN](chartplotter-opencpn.md)
 * [License](license.md)
 * [Credits](credits.md)
 
