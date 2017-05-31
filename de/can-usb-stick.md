@@ -4,24 +4,24 @@
 
 ## Projekt
 
-Die Analyse des Datenstroms in einem N2K-Netzwerk (CAN-Bus), das Empfangen und Senden von Telegrammen auf dem CAN-Bus, war der Auslöser für das Projekt CAN-USB Stick. Zum Schutz vor Schäden ist eine Isolierung vorgesehen.
+Die Analyse des Datenstroms in einem N2K-Netzwerk (CAN-Bus), das Empfangen und Senden von CAN-Bus-Telegrammen, war der Auslöser für das Projekt CAN-USB Stick. Zum Schutz vor Schäden wurde eine elektrische Isolierung vorgesehen.
 
-Das Programm des Mikrocontrollers (MCU) im Stick wurde neu erstellt, um mit dem Projekt CANBOAT[[2]](https://github.com/canboat/canboat) zu funktionieren. CANBOAT wird vom Projekt Signal K[[3]](http://signalk.org) genutzt. Beide Pakete sind im Projekt OpenPlotter enthalten.
+Das Programm des Mikrocontrollers im Stick (MCU) wurde neu erstellt, um mit dem Projekt CANBOAT[[2]](https://github.com/canboat/canboat) zu funktionieren. CANBOAT wird vom Projekt Signal K[[3]](http://signalk.org) genutzt. Beide Pakete sind im Projekt OpenPlotter enthalten.
 
 Der CAN-USB Stick funktioniert auch mit dem Projekt OpenSkipper[[4]](http://openskipper.org).
 
-Nicht getested:
+Nicht getestet:
 
 * MacENC[[5]](http://macenc.com)
 * PolarView NS[[6]](http://www.polarnavy.com)
 
-Der Stick nutzt die Kommandos von CANBOAT actisense-serial. Weiterhin geschieht das Senden und Empfangen von N2K-Daten direkt aus OpenPlotter heraus.
+Der Stick nutzt die Kommandos des Programms CANBOAT actisense-serial. Weiterhin geschieht das Senden und Empfangen von N2K-Daten direkt aus OpenPlotter heraus.
 
-Neue PGN's werden nicht blockiert, sie können mit anderen Geräten, die auch mit CANBOAT zusammenarbeiten, genutzt werden. Die Übertragungsrate kann schneller eingestellt werden als die des CAN-Bus. Andere Geräte, die CANBOAT nutzen, arbeiten vielleicht mit einer niedrigeren Übertragungsgeschwindigkeit als das N2K-Netzwerk und können können eventuell überfordert werden.
+Neue PGN's werden nicht blockiert, sie können mit anderen Geräten, die auch mit CANBOAT zusammenarbeiten, verarbeitet werden. Die Übertragungsrate kann schneller eingestellt werden als die des CAN-Bus. Andere Geräte, die CANBOAT nutzen, arbeiten vielleicht mit einer niedrigeren Übertragungsgeschwindigkeit als das N2K-Netzwerk und können eventuell überfordert werden.
 
 ## Hardware
 
-Der CAN-USB Stick V2 basiert auf einem stm32-Mikrocontroller (MCU), welcher mit einem isolierten CAN Transceiver und mit einem USB-nach-Seriell-Konverter verbunden ist.
+Der CAN-USB Stick V2 basiert auf einem stm32-Mikrocontroller (MCU), welcher mit einem isolierten CAN-Transceiver und einem USB-Seriell-Konverter verbunden ist.
 
 ## Warnung / Haftungsausschluss
 
@@ -31,7 +31,7 @@ Das Programm ist noch in der Entwicklung und noch nicht vollständig getestet. F
 
 Verlassen Sie sich nicht auf Daten von diesem Gerät und verwenden Sie es nicht als primäre Quelle für die Navigation. Für Schäden, Verletzungen oder durch dieses Gerät verursachte Störungen kann keine Haftung übernommen werden.
 
-Der CAN-USB Stick is nicht von NMEA® zertifiziert.
+Der CAN-USB Stick ist nicht von NMEA® zertifiziert.
 
 Es ist nicht erlaubt,das Actisense® NMEA Reader Programm mit dem CAN-USB Stick zu nutzen.
 
@@ -45,14 +45,15 @@ Autor: Femnett/Maretron[[1]](https://commons.wikimedia.org/wiki/File:NMEA2000_Mo
 
 Beispiel eines kleinen N2K-Netzwerkes.
 
-Das N2K-Netzwerk ist auf Wikipedia[[7]](https://en.wikipedia.org/wiki/NMEA_2000) beschrieben. Das Backbone (oder die Stammleitung) beginnt mit einem 120Ω Terminator und endet mit einem 120Ω Terminator. Zwei Widerstände arbeiten somit parallel, wodurch sich der effektive Widerstand von 120Ω/2=60Ω ergibt. Wenn es eine Unterbrechung auf der Stammleitung gibt, kann man 120Ω messen, aber nichtt 60Ω. Dies ist ein einfacher Weg, den Bus zu prüfen.
+Das N2K-Netzwerk ist auf Wikipedia[[7]](https://en.wikipedia.org/wiki/NMEA_2000) beschrieben. Das Backbone (oder die Stammleitung) beginnt mit einem 120Ω Terminator und endet auch mit einem 120Ω Terminator. Zwei Widerstände arbeiten somit parallel, wodurch sich der effektive Gesamtwiderstand von 120Ω/2 = 60Ω ergibt. Wenn es eine Unterbrechung auf der Stammleitung gibt, kann man 120Ω messen, und nicht 60Ω. Dies ist ein einfacher Weg den Bus zu prüfen.
 
 ![](../en/resistor_conn.jpg)  
+
 M12 120Ω Terminator (Ausführung als Stecker)
 
 Die Stichleitung zu den Geräten soll nicht länger als 6m sein. Die Stammleitung darf 100m lang sein.
 
-Der CAN-USB Stick ist isoliert, um die angeschlossenen Geräte und den Computer zu schützen, falls sie von einer anderen Stromquelle als die des N2K-Netzwerkes versorgt werden.
+Der CAN-USB Stick ist isoliert, um die angeschlossenen Geräte und den Computer zu schützen, falls sie von einer anderen Stromquelle als das N2K-Netzwerk versorgt werden.
 
 ## Anschluss
 
@@ -61,11 +62,14 @@ Um den CAN-USB Stick an das N2K-Netzwerk anzuschließen, wird ein freies T-Stüc
 ![](../en/t-conn.jpg)  
 T-Stück
 
+
 ![](../en/m12_conn.jpg)  
 Stichleitung auf der Seite mit M12 5-Pin Stecker
 
+
 ![](../en/micro_cable.jpg)  
 Stichleitung auf der Seite mit den fünf freien Adern
+
 
 ![](../en/can_usb_connect.jpg)
 
