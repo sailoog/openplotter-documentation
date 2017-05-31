@@ -1,7 +1,7 @@
 # So funktioniert die Zusammenarbeit
 
 
-> Alles benötigt Zeit, Geld und Wahnsinn. Von zweien brauchst eine Menge, vom Dritten ein bischen. Nimmt eins zu, verringert sich der Bedarf bei den anderen beiden. 
+> Alles benötigt Zeit, Geld und Fleiß. Von zweien brauchst eine Menge, vom Dritten ein bischen. Nimmt eins zu, verringert sich der Bedarf bei den anderen beiden. 
 
 Moe's Gesetze, Projekt Navigatrix[[1]](http://navigatrix.net).
 
