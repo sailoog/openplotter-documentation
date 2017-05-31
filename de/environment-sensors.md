@@ -2,9 +2,9 @@
 
 ![](../en/BME280.jpg)
 
-Der Anschluss eines Umgebungssensors liefert an Openplotter die Werte für Luftdruck, Temperatur und relative Luftfeuchtigkeit, um das aktuelle Wetter darzustellen und die Wetterentwicklung zu beobachten.
+Der Anschluss eines Umgebungssensors liefert an OpenPlotter die Werte für Luftdruck, Temperatur und relative Luftfeuchtigkeit, um das aktuelle Wetter darzustellen und die Wetterentwicklung zu beobachten.
 
-## Openplotter unterstützt die folgenden Sensoren
+## OpenPlotter unterstützt die folgenden Sensoren
 
 * BME280 (Luftdruck, Temperatur, Luftfeuchtigkeit)
 * BMP180 (Luftdruck, Temperatur)
