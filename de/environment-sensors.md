@@ -1,27 +1,19 @@
-# Environment sensors
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Umgebungssensoren
 
 ![](../en/BME280.jpg)
 
-Connecting a little environment sensor to OpenPlotter will provide air pressure, temperature or humidity data to monitor weather.
+Der Anschluss eines Umgebungssensors liefert an Openplotter die Werte für Luftdruck, Temperatur und relative Luftfeuchtigkeit, um das aktuelle Wetter darzustellen und die Wetterentwicklung zu beobachten.
 
-##Supported environment sensors
+## Openplotter unterstützt die folgenden Sensoren
 
-* BME280 (pressure, temperature, humidity)
-* BMP180 (pressure, temperature)
-* LPS25H (pressure, temperature)
-* MS5611 (pressure, temperature)
-* MS5637 (pressure, temperature)
-* HTS221 (humidity, temperature)
-* HTU21D (humidity, temperature)
+* BME280 (Luftdruck, Temperatur, Luftfeuchtigkeit)
+* BMP180 (Luftdruck, Temperatur)
+* LPS25H (Luftdruck, Temperatur)
+* MS5611 (Luftdruck, Temperatur)
+* MS5637 (Luftdruck, Temperatur)
+* HTS221 (Luftfeuchtigkeit, Temperatur)
+* HTU21D (Luftfeuchtigkeit, Temperatur)
 
-## Wiring
+## Anschluss
 
-IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
+Umgebungssensoren werden an das I2C-Interface angeschlossen. Siehe Kapitel [Wiring I2C sensors](/wiring-i2c-sensors.md).
