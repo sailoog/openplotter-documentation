@@ -5,7 +5,7 @@
 
 Hast Du keinen elektronischen Kompass an Bord, benötigst Du eine IMU.
 
-Eine IMU (Inertial Measurement Unit, Inertiale Messeinheit), misst für die x-, y- und z-Achse Beschleunigungen und Drehraten und kann hieraus die Orientierung im Raum berechnen. In Kombination mit einem integrierten Magnetometer erhalten wir letztlich die Daten für den Magnetkompasskurs, und so wird die Berechnung von rechtweisendem Steuerkurs und wahrem Wind ermöglicht. Nebenher können  Krängung und Nickrate des Schiffes angezeigt werden.
+Eine IMU (Inertial Measurement Unit, Inertiale Messeinheit) misst für die x-, y- und z-Achse Beschleunigungen und Drehraten und kann hieraus die Orientierung im Raum berechnen. In Kombination mit einem integrierten Magnetometer erhalten wir letztlich die Daten für den Magnetkompasskurs, und so wird die Berechnung von rechtweisendem Steuerkurs und wahrem Wind ermöglicht. Nebenher können  Krängung und Nickrate des Schiffes angezeigt werden.
 
 
 ##Unterstützte IMU Sensoren
