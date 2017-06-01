@@ -16,4 +16,4 @@ Connecting a little environment sensor to OpenPlotter will provide air pressure,
 
 ## Wiring
 
-IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
+Environment sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
