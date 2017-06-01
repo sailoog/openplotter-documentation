@@ -10,7 +10,7 @@ http://forum.openmarine.net/forumdisplay.php?fid=16
 
 ## Documentation
 
-Sailoog, Nicolas Janvier, Didier Barnouin, V36317, E-sailing
+Sailoog, e-sailing , Nicolas Janvier, Didier Barnouin, V36317.
 
 ## Software
 
