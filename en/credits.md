@@ -24,7 +24,7 @@ Sailoog, e-sailing , Nicolas Janvier, Didier Barnouin, V36317.
 
 **NMEA 0183 Parser**: [http://github.com/Knio/pynmea2](http://github.com/Knio/pynmea2)
 
-**IMU, pressure, temperature, humidity sensors**: [http://github.com/richards-tech/RTIMULib](http://github.com/richards-tech/RTIMULib)
+**IMU, pressure, temperature, humidity sensors**: [http://github.com/mrbichel/RTIMULib](http://github.com/mrbichel/RTIMULib)
 
 **RTL SDR**: [http://sdr.osmocom.org/trac/wiki/rtl-sdr](http://sdr.osmocom.org/trac/wiki/rtl-sdr)
 
