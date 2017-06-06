@@ -1,37 +1,30 @@
-# 1W temperature sensor
+# 1-Wire Temperatur-Sensor
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/DS18B20.png)
 
-You can connect one wire (1W) **DS18B20** sensors to OpenPlotter. This sensor is waterproof and can withstand high temperatures. Connecting multiple DS18B20 in parallel to the same pins, you will be able to get temperature data from coolant engine, exhaust, engine room, fridge, sea ...
+Zur Temperaturmessung kannst Du 1-Wire Temperatur-Sensoren vom Typ **DS18B20** an OpenPlotter anschließen. Es gibt die Sensoren auch wie abgebildet in einer wasserdichten Ausführung (in einer Metallhülse), die Messung hoher Temperaturen bis 125°C ist mit sehr guter Genauigkeit möglich. An einer Bus-Leitung kann mehrere DS18B20 parallel anschließen, sie haben zur Unterscheidung einzigartige fest eingebrannte Adressen. Einsetzbar sind die Sensoren z.B. für Motorkühlung, Öltemperatur, Motorraum, Kühlschrank, Seewasse etc.
 
-## Wiring
+## Verdrahtung
 
-Pins names are according to the diagram below.
+Die Drahtenden werden gemäß der Abbildung unten angeschlossen.
 
 ![](../en/RP2_Pinout.png)
 
-You have to connect these sensors to **GPIO4** (aka GCLK), **GND** and **3.3V** pins. Some sensors may have a fourth wire which do not need to be connected. You need to use a pull-up resistor as shown in the image below. You can connect multiple sensors in paralel using just one resistor.
+Die Sensoren werden an die Pins **GPIO4** (auch bekannt als GCLK), **GND** und **3.3V** angeschlossen. Manche Sensoren haben einen vierten Draht, dieser muss nicht angeschlossen werden. Ein Pull-Up Widerstand muss wie in der Abbildung (R1 = 4,7kOhm) angeschlossen werden. Es wird nur ein Widerstand benötigt, auch bei Anschluss mehrerer DS18B20.
 
 ![](../en/DS18B20_sensors.png)
 
-If you want to change the GPIO pin, edit the file config.txt typing in a terminal:
+Wenn der GPIO-Pin GPIO04 geändert werden soll, ändere die Datei config.txt durch folgenden Aufruf auf Kommandoebene:
 
 ```sudo nano /boot/config.txt```
 
-At the end of the file you should see a line like this
+Am Ende der Datei steht diese Zeile:
 
 *dtoverlay=w1-gpio*
 
-replace it by
+Die Zeile wird so ersetzt:
 
 *dtoverlay=w1-gpio,gpiopin=x*
 
-where x is your desired GPIO pin. Save and reset.
+bei X handelt es sich um den neu ausgewählten GPIO-Pin. Speichern mit CTRL-O, benden mit CTRL-X und neu starten (sudo reboot)
