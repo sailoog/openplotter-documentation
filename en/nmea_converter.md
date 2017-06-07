@@ -8,4 +8,4 @@ The NMEA 0183 hardware standard uses **RS422** connectors but you may find some 
 
 ## Settings
 
-See [NMEA 0183](/nmea-0183-multiplexer.md) chapter to configure NMEA 0183 to USB converters.
+See [NMEA 0183](/nmea-0183.md) chapter to configure NMEA 0183 to USB converters.

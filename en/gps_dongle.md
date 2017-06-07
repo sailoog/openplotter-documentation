@@ -8,4 +8,4 @@ Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date
 
 ## Settings
 
-See [NMEA 0183](/nmea-0183-multiplexer.md) chapter to configure USB GPS dongles.
+See [NMEA 0183](/nmea-0183.md) chapter to configure USB GPS dongles.

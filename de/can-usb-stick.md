@@ -85,7 +85,7 @@ Stichleitung auf der Seite mit den fünf freien Adern
 * Schalte den Hauptschalter wieder ein.
 * Schalte die Instrumente ein.
 
-Um den CAN-USB Stick einzustellen, lies das Kapitel [N2K](nmea-2k.md). Unter Windows nutze OpenSkipper.
+Um den CAN-USB Stick einzustellen, lies das Kapitel [N2K](n2k.md). Unter Windows nutze OpenSkipper.
 
 ## LED
 

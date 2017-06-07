@@ -81,7 +81,7 @@ Drop line wires side
 * Turn on the main power.
 * Switch on instrumentation.
 
-To configure your CAN-USB Stick, see the chapter [N2K](nmea-2k.md). On Windows use OpenSkipper.
+To configure your CAN-USB Stick, see the chapter [N2K](n2k.md). On Windows use OpenSkipper.
 
 ## LED
 
