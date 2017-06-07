@@ -13,5 +13,6 @@
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
   * [1W temperature sensor](1w-temperature-sensor.md)
+  * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
 * [Wiring I2C sensors](wiring-i2c-sensors.md)
 

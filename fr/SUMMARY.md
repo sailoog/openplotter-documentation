@@ -9,6 +9,7 @@
   * [Self powered USB Hub](hub.md)
   * [USB WiFi dongle](usb-wifi-dongle.md)
   * [USB GPS dongle](usb-gps-dongle.md)
+  * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
