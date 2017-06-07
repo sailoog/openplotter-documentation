@@ -7,7 +7,7 @@
 * [How does it work?](how_does_it_work.md)
 * [What do you need?](what_do_you_need.md)
   * [Self powered USB Hub](hub.md)
-  * [USB WiFi dongle](wifi_dongle.md)
+  * [USB WiFi dongle](usb-wifi-dongle.md)
   * [USB GPS dongle](gps_dongle.md)
   * [NMEA 0183 to USB converter](nmea_converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
