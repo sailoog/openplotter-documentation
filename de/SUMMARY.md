@@ -11,6 +11,7 @@
   * [USB GPS dongle](usb-gps-dongle.md)
   * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
+  * [USB DVB-T dongle](usb-dvb-t-dongle.md)
   * [IMU Sensor](imu-sensor.md)
   * [Umgebungssensoren](environment-sensors.md)
   * [1-Wire Temperatursensor](1w-temperature-sensor.md)

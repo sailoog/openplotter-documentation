@@ -9,10 +9,11 @@
   * [Self powered USB Hub](hub.md)
   * [USB WiFi dongle](usb-wifi-dongle.md)
   * [USB GPS dongle](usb-gps-dongle.md)
+  * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
+  * [USB DVB-T dongle](usb-dvb-t-dongle.md)
   * [IMU sensor](imu-sensor.md)
   * [Environment sensors](environment-sensors.md)
   * [1W temperature sensor](1w-temperature-sensor.md)
-  * [NMEA 0183 to USB converter](nmea-0183-to-usb-converter.md)
 * [Wiring I2C sensors](wiring-i2c-sensors.md)
 
