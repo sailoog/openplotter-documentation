@@ -39,7 +39,7 @@
   * [Updating](updating.md)
 * [OP pages](op-pages.md)
   * [USB manager](usb-manager.md)
-  * [NMEA 0183 Multiplexer](nmea-0183-multiplexer.md)
+  * [NMEA 0183](nmea-0183-multiplexer.md)
   * [N2K](nmea-2k.md)
   * [Signal K](signalk.md)
   * [WiFi AP](wifi-ap.md)
