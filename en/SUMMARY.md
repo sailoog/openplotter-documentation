@@ -8,7 +8,7 @@
 * [What do you need?](what_do_you_need.md)
   * [Self powered USB Hub](hub.md)
   * [USB WiFi dongle](usb-wifi-dongle.md)
-  * [USB GPS dongle](gps_dongle.md)
+  * [USB GPS dongle](usb-gps-dongle.md)
   * [NMEA 0183 to USB converter](nmea_converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
   * [USB DVB-T dongle](dvb-t_dongle.md)
