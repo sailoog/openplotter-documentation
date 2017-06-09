@@ -35,3 +35,7 @@ replace it by
 *dtoverlay=w1-gpio,gpiopin=x*
 
 where x is your desired GPIO pin. Save and reset.
+
+## Settings
+
+See [1W](/1w.md) chapter to configure DS18B20 sensors.

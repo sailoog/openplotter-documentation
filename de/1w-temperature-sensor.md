@@ -28,3 +28,7 @@ Die Zeile wird so ersetzt:
 *dtoverlay=w1-gpio,gpiopin=x*
 
 bei X handelt es sich um den neu ausgewählten GPIO-Pin. Speichern mit CTRL-O, benden mit CTRL-X und neu starten (sudo reboot)
+
+## Settings
+
+See [1W](/1w.md) chapter to configure DS18B20 sensors.
