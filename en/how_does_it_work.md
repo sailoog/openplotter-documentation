@@ -7,6 +7,8 @@
 http://forum.openmarine.net/forumdisplay.php?fid=16
 
 ---
+![](OP_data.png)
+
 
 OpenPlotter can collect/serve data from/to different devices:
 
