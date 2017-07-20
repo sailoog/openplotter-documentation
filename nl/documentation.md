@@ -4,7 +4,7 @@
 
 Author: Randall Munroe[[1]](https://xkcd.com), CC BY-NC 2.5 license.
 
-We hebben een Github repo[[2]](https://github.com/sailoog/openplotter-documentation) voor OpenPlotter documentatie. Deze repo is gekoppeld aan een Gitbook boek[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) en de wijzigingen worden gecoordineerd vanuit het forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) op OpenMarine.
+We hebben een Github repo[[2]](https://github.com/sailoog/openplotter-documentation) voor OpenPlotter documentatie. Deze repo is gekoppeld aan een Gitbook boek[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) en de wijzigingen worden gecoördineerd vanuit het forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) op OpenMarine.
 
 Wanneer je ons wilt helpen met het schrijven, aanpassen of vertalen dan heb je twee mogelijkheden.
 
@@ -19,17 +19,17 @@ Je bent bekend met Github en Gitbook repo's:
 Je ben niet bekend met Github en Gitbook repo'S:
 
 * Vanuit de 'sticky' draadjes in het forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), selecteer een blauw gemarkeerd hoofdstuk en laat in een nieuw draadje weten wat je plannen zijn.
-* Waneer je klaar ben publiceer tekst en plaatjes in een nieuw draadje in het forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) en iemand zal het boek voor je aanpassen.
+* Wanneer je klaar ben publiceer tekst en plaatjes in een nieuw draadje in het forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) en iemand zal het boek voor je aanpassen.
 
 ## Schrijven
 
 De bron van de documentatie zal in het Engels geschreven worden, om vertaling vandaar uit naar het andere talen gemakkelijker te maken. 
 
-Maak alsjebleift geen aanpassingen in de inhoudsopgave of structuur zonder dit met de ontwikkelaars te stemmen. Wanneer een hoofdstuk gereed is, laat het op het forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) weten wanneer het hoofdstuk gereed is, Dan kan het hoofdstuk groen gemarkeerd worden.
+Maak alsjeblieft geen aanpassingen in de inhoudsopgave of structuur zonder dit met de ontwikkelaars te stemmen. Wanneer een hoofdstuk gereed is, laat het op het forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) weten wanneer het hoofdstuk gereed is, Dan kan het hoofdstuk groen gemarkeerd worden.
 
 Om plaatjes in de toe te voegen in de overige talen anders dan Engels, het pad is `../en/xxx.png`
 
-Wanneer je schema's wilt toevoegen, overweeg het gerbuik van programma fritzing[[7]](http://fritzing.org).
+Wanneer je schema's wilt toevoegen, overweeg het gebruik van programma fritzing[[7]](http://fritzing.org).
 
 Laat bestandsnamen onvertaald en pas ze niet aan \(xxx.md xxx.png xxx.jpg ...\) omdat er in de tekst naar word verwezen
 
