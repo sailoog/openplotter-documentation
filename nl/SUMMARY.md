@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * [FAQ](faq.md)
-* [How to collaborate](how_to_collaborate.md)
-  * [Documentation](documentation.md)
+* [Hoe werkt de samenwerking](how_to_collaborate.md)
+  * [Documentatie](documentation.md)
 * [How does it work?](how_does_it_work.md)
-* [What do you need?](what_do_you_need.md)
+* [Wat heb je nodig?](what_do_you_need.md)
   * [Self powered USB Hub](hub.md)
   * [USB WiFi dongle](usb-wifi-dongle.md)
   * [USB GPS dongle](usb-gps-dongle.md)
