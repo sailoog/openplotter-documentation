@@ -1,59 +1,51 @@
-# What do you need?
+# Wat heb je nodig?
 
----
+Je zal de vereiste onderdelen nodig hebben en een aantal optionele delen. Dit hangt af van de het soort data dat je wilt verzamelen, verwerken of weergeven en met welke apparatuur je boot is uitgerust
 
-**This chapter needs to be written/updated/translated**
+## Vereiste Onderdelen
 
-http://forum.openmarine.net/forumdisplay.php?fid=16
+Je zal minstens de onderdelen nodig hebben waar _de software_ op draait. Daarnaast heb je twee opties: of **met monitor** of zonder monitor (**headless**).
 
----
+Wanneer je met deze basis onderdelen hulp nodig hebt kan je officiële Raspberry Pi Documentatie raadplegen[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
 
-You will need the required parts and some optional parts. It will depend on what kind of data you want to collect, process or display and what kind of equipment your boat already has.
+### Monitor optie
 
-## Required items
-
-You need at least these items to run _the software_ and you have two options: either **with monitor** or without monitor (**headless**).
-
-If you need help with these basic parts see the official Raspberry Pi documentation[[1]](https://www.raspberrypi.org/learning/hardware-guide/).
-
-### Monitor option
-
-* **Raspberry Pi 3** or Raspberry Pi 2
-* **Box**
-* **Power supply**
-* **HDMI monitor**
-* **Keyboard and mouse**
-* **SD card with OpenPlotter RPI** (_the software_)
+* **Raspberry Pi 3** of Raspberry Pi 2
+* **Behuizing**
+* **Voeding**
+* **HDMI beeldscherm**
+* **Toetsenbord en muis**
+* **SD card met OpenPlotter RPI** (_the software_)
 
 ![](../en/start.png)
 
-Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
+Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), aangepast door Sailoog.
 
 ### Headless option
 
-* **Raspberry Pi 3** or Raspberry Pi 2 + WiFi dongle
-* **Box**
-* **Power supply**
-* **SD card with OpenPlotter RPI** (_the software_)
-* **Any laptop, tablet or smartphone**
+* **Raspberry Pi 3** of Raspberry Pi 2 + WiFi dongle
+* **Behuizing**
+* **Voeding**
+* **SD card met OpenPlotter RPI** (_the software_)
+* **Een laptop, tablet of smartphone**
 
 ![](start2.png)
 
 Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
 
-### Where can you find them?
+### Waar kan je deze vinden?
 
-You can buy these basic parts from any official distributor[[2]](https://www.raspberrypi.org/products) or any Raspberry store.
+Je kan deze onderdelen bij een officiele distributeur kopen[[2]](https://www.raspberrypi.org/products) of een andere Raspberry winkel.
 
-Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+Enkele onderdelen zijn te verkrijgen in onze winkel [[3]](http://shop.sailoog.com).
 
-## Optional items
+## Optionele onderdelen
 
-Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
+De volgende hoofdstukken bevatten een lijst met onderssteunde apparaten om met de Boot de communiceren en sensoren om data uit de omgeving  te verzamelen.
 
-### Where can you find them?
+### Waar kan je ze vinden?
 
-Occasionally we may have some of them on our store[[3]](http://shop.sailoog.com).
+Enkele onderdelen zijn in onze winkel te verkrijgen.[[3]](http://shop.sailoog.com).
 
 ---
 
