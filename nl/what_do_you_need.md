@@ -29,7 +29,7 @@ Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), aangepast door Sa
 * **SD card met OpenPlotter RPI** (_the software_)
 * **Een laptop, tablet of smartphone**
 
-![](start2.png)
+![](../en/start2.png)
 
 Author: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modified by Sailoog.
 
