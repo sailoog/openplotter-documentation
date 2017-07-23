@@ -1,23 +1,16 @@
-# USB WiFi dongle
+# USB WiFi Stick
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/wifi.png)
 
-You can set OpenPlotter either as access point to allow devices to connect to it or as client to connect to any access point. You can not do this at the same time with just one WiFI device so you will need an extra USB WiFi dongle for Raspberry 3 and two USB WiFi dongles for Raspberry 2 to do this.
+Du kannst OpenPlotter sowohl als Access Point zum Anschluß von Tablets etc. benutzen, oder aber auch als Client zum Anschluß an andere Access Points. Das geht nicht gleichzeitig mit nur einem WiFi-Modul. Um OpenPlotter gleichzeitig als Access Point und Client laufen zu lassen, werden bei einem Raspberry 3 ein zusätzlicher USB-WiFi-Stick benötigt, bei einem Raspberry 2 zwei USB-WiFi-Sticks.
 
-Being connected to an access point as client to get Internet connection and at the same time running OpenPlotter as access point, you will be able to share Internet connection with all devices connected to OpenPlotter.
+Wenn OpenPlotter für den Internet-Zugang an einem Access Point angeschlossen ist und gleichzeitig selbst als Access Point eingestellt ist, kann der Internet-Zugang mit allen an OpenPlotter angeschlossenen Geräten geteilt werden. Dies kann sinnvoll etwa in Häfen sein, die nur eine Zugang zum Internet zulassen, aber an Bord meist mehrer Geräte Internet haben wollen. 
 
-A good WiFi adapter will probably need more power than the Raspberry Pi USB port can provide, especially if there is a large distance from the WiFi adapter to the WiFi Access Point, or it is transferring large amounts of data. Therefore, you may need to plug the WiFi adapter into a powered USB hub.
+Ein guter WiFi-Stick kann mehr Strom benötigen als ein USB-Port des Raspberry Pi liefern kann, besonders dann, wenn der WiFi-Adapter eine große Entfernung zum Access Point überbrücken muss, oder wenn große Menge Daten über den Stick übertragen werden. Um dem Stick ausreichend mit Strom zu beliefern, sollte er an einem aktiven USB-Hub angeschlossen werden, d.h. einen USB-Hub mit eigener Stromversorgung.
 
-Not all WiFi dongles can function as access point, only devices with the correct chipset will work. We recommend **RTL8192CU/CUS** chipset.
+Nicht alle WiFi-Sticks können als Access Point laufen, nur Sticks mit dem richtigen Chipset werden funktionieren. Wir empfehlen das **RTL8192CU/CUS** Chipset.
 
-## Settings
+## Einstellungen
 
-See [WiFI AP](/wifi-ap.md) chapter to configure OpenPlotter as client or access point.
+Siehe Kapitel [WiFI AP](/wifi-ap.md) zur Konfiguration von OpenPlotter als Client oder als Access Point.
