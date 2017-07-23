@@ -1,21 +1,12 @@
-# Self powered USB Hub
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# USB Hub met voeding
 
 ![](../en/hub.png)
 
-If you are connecting devices which use more power than your Raspberry can provide, you will need a self powered USB Hub.
+Wanneer je USB apparaten aansluit die meer stroom gebruiken dan de Raspberry kan leveren, dan heb je een USB hub met voeding nodig.
 
-You can start connecting devices to the raspberry and switch to a self powered hub when you start to see strange behavior of the devices.
+Je kan beginnen met apparaten op de Raspberry aan te sluiten en overstappen op een gevoede hub wanneer je vreemd gedrag op apparaten ziet.
 
-Hubs with **FE1.1S** chip work right, avoid hubs with MA8601 chip. Often the same model can contain any of them. And some of them do not contain chip at all! just a glob of black material to hide what is underneath ... nothing.
+Hubs met **FE1.1S** chip werken goed,  vermijd Hubs met  MA8601 chip. Vaak kan het zelfde model een willekeurig een van deze gebruiken. Anderen hebben helemaal geen chip! Alleen maar een bubbel zwart materiaal om te verbergen wat er in zit ... niets.
 
-It would be a good idea to get a Hub with 5V input so that you could power it with the same source as your Raspberry.
-
-You can also get a Hub with 12v input. Sometimes those devices have an output to charge phones or tablets which probably you could use to power your Raspberry.
+Het kan handig zijn om een Hub te vinden die door 5V gevoed wordt, dan kan je dezelfde voeding gebruiken als die je voor de Rpi gebruikt.
+Je zou ook een hub met een 12v ingang kunnen gebruiken. Soms hebben ze een uitgang om telefoon of tablet te laden welke je waarschijnlijk kan gebruiken om je Rpi te voeden. 
