@@ -1,19 +1,12 @@
-# USB GPS dongle
+# USB GPS Stick
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/gps.png)
 
-If you don't have any GPS on board or you want an extra positioning device, this is the cheapest and most effective way.
+Hast Du kein GPS an Bord oder Du möchtest ein zusätzliches Gerät für die Positionsbestimmung haben, ist der Einsatz eines USB-Sticks die schnellste und günstigste Methode.
 
-Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date/time and speed/course over ground.
+Verbindest Du einen USB-Stick mit OpenPlotter, erhältst Du  die genaue Position, Datum und Uhrzeit sowie Geschwindigkeit und Kurs über Grund.
 
-## Settings
+## Einstellungen
 
-See [NMEA 0183](/nmea-0183.md) chapter to configure USB GPS dongles.
+Siehe Kapitel [NMEA 0183](/nmea-0183.md) zur Einstellung desUSB GPS Sticks.
