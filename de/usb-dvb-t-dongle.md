@@ -9,7 +9,7 @@ Solche Geräte werden als Software Defined Radio (SDR) bezeichnet.
 
 SDR Empfänger benötigen mehr Strom als ein USB-Port eines Raspberry Pi liefern kann. Der Stick muss deshalb an einen aktiven USB-Hub angeschlossen werden, d.h. einen USB-Hub mit eigener Stromversorgung.
 
-##Antenne
+## Antenne
 
 Der wichtigste Bestandteil für einen gutem Empfang ist die Antenne. Im Grunde ist jede UKW-Antenne ist nutzbar. Du kannst Dir auch selbst leistungsfähige Antenne bauen:[[1]](http://www.radioforeveryone.com/p/ais-antennas.html)[[2]](http://nmearouter.com/docs/ais/aerial.html)[[3]](https://www.youtube.com/watch?v=SdEglNHyHB4).
 
