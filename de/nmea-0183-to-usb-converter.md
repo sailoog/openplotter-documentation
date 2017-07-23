@@ -1,19 +1,12 @@
 # NMEA 0183 to USB converter
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/rs422.png)
 
-If you have electronics with NMEA 0183 outputs on board (depth, wind, heading...), you will need an USB converter to connect it to OpenPlotter. Additionally, if this converter is bi-directional, you will be able to talk to electronics with NMEA 0183 inputs like the autopilot.
+Wenn Du Navigationsgeräte oder andere Elektronik mit NME 0183-Ausgang an Bord hast (etwa für Wind, Echolot, Kompass...), kannst Du diese mit Hilfe eines USB-Konverters mit OpenPlotter verbinden. Ist der Konverter bidirektional, so ist es zudem möglich, Geräte mit NMEA 0183-Eingang anzusprechen. Dies wird z.B. für den Autopiloten benötigt.
 
-The NMEA 0183 hardware standard uses **RS422** connectors but you may find some devices with **RS232** as well. Find out about what type of connection you need.
+Der NMEA 0183-Standard gibt die **RS422** Schnittstelle vor, jedoch findet man auch Geräte mit **RS232** Schnittstelle. Finde zunächst heraus, welchen Schnittstellen-Typ Du benötigst.
 
-## Settings
+## Einstellungen
 
-See [NMEA 0183](/nmea-0183.md) chapter to configure NMEA 0183 to USB converters.
+Siehe Kapitel [NMEA 0183](/nmea-0183.md) zur Einstellung des NMEA 0183-USB Konverters.
