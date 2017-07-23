@@ -1,30 +1,23 @@
-# USB DVB-T dongle
+# USB DVB-T Stick
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/sdr.png)
 
-DVB-T dongles based on the Realtek **RTL2832U** chip can be used as cheap one channel AIS receptors. You can also receive the entire VHF marine band.
+DVB-T Sticks mit dem Realtek **RTL2832U** Chip können als kostengünstige 1-Kanal AIS-Empfänger genutzt werden. Zudem kann der gesamte UKW-Bereich des mobilen Seefunkdientes empfangen werden.
 
-These devices are called Software Defined Radio (SDR) receivers.
+Solche Geräte werden als Software Defined Radio (SDR) bezeichnet.
 
-SDR receivers will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a self powered USB hub.
+SDR Empfänger benötigen mehr Strom als ein USB-Port eines Raspberry Pi liefern kann. Der Stick muss deshalb an einen aktiven USB-Hub angeschlossen werden, d.h. einen USB-Hub mit eigener Stromversorgung.
 
-##Antenna
+##Antenne
 
-The most important factor for good reception is the antenna. Any VHF antenna will work right. You can build some proficient homemade antennas[[1]](http://www.radioforeveryone.com/p/ais-antennas.html)[[2]](http://nmearouter.com/docs/ais/aerial.html)[[3]](https://www.youtube.com/watch?v=SdEglNHyHB4).
+Der wichtigste Bestandteil für einen gutem Empfang ist die Antenne. Im Grunde ist jede UKW-Antenne ist nutzbar. Du kannst Dir auch selbst leistungsfähige Antenne bauen:[[1]](http://www.radioforeveryone.com/p/ais-antennas.html)[[2]](http://nmearouter.com/docs/ais/aerial.html)[[3]](https://www.youtube.com/watch?v=SdEglNHyHB4).
 
 
 
-## Settings
+## Einstellungen
 
-Some SDR devices need calibration to receive AIS signal. See [SDR receiver](/sdr-receiver.md) chapter to configure USB DVB-T dongles as AIS or marine radio receivers.
+Einige SDR's benötigen eine Kalibrierung, um die AIS-Signale empfangen zu können. Siehe Kapitel [SDR Empfänger](/sdr-receiver.md) zum Kalibrieren des USB DVB-T Sticks als AIS-Empfänger oder Seefunk-Radio.
 
 ---
 
