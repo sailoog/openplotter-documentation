@@ -1,3 +1,11 @@
 {
-    "plugins": ["language-picker", "github"]
+    "plugins": [
+        "github",
+        "language-picker"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/sailoog/openplotter-documentation"
+        }
+    }
 }
