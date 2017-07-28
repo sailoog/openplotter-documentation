@@ -1,7 +1,8 @@
 {
     "plugins": [
         "github",
-        "language-picker"
+        "language-picker",
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "github": {
