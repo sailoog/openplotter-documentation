@@ -11,8 +11,8 @@
         },
         "page-footer": {
             "description": "modified at",
-            "signature": "Aleen",
-            "wisdom": "More than a coder, more than a designer",
+            "signature": "",
+            "wisdom": "",
             "format": "yyyy-MM-dd hh:mm:ss",
             "copyright": "This Docuentation is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.; sailoog",
             "timeColor": "#666",
