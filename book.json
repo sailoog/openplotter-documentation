@@ -2,29 +2,11 @@
     "plugins": [
         "github",
         "language-picker",
-        "collapsible-menu",
-        "page-footer"
+        "collapsible-menu"
     ],
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/sailoog/openplotter-documentation"
         },
-        "page-footer": {
-            "description": "modified at",
-            "signature": "",
-            "wisdom": "",
-            "format": "yyyy-MM-dd hh:mm:ss",
-            "copyright": "This Docuentation is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.;",
-            "timeColor": "#666",
-            "copyrightColor": "#666",
-            "utcOffset": "0",
-            "isShowQRCode": false,
-            "baseUri": "",
-            "isShowIssues": false,
-            "repo": "",
-            "issueNum": "",
-            "token": "",
-            "style": "normal"
-        }
     }
 }
