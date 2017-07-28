@@ -7,6 +7,6 @@
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/sailoog/openplotter-documentation"
-        },
+        }
     }
 }
