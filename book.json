@@ -8,6 +8,23 @@
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/sailoog/openplotter-documentation"
+        },
+        "page-footer": {
+            "description": "modified at",
+            "signature": "Aleen",
+            "wisdom": "More than a coder, more than a designer",
+            "format": "yyyy-MM-dd hh:mm:ss",
+            "copyright": "Copyright &#169; aleen42",
+            "timeColor": "#666",
+            "copyrightColor": "#666",
+            "utcOffset": "8",
+            "isShowQRCode": true,
+            "baseUri": "https://aleen42.gitbooks.io/personalwiki/content/",
+            "isShowIssues": false,
+            "repo": "aleen42/PersonalWiki",
+            "issueNum": "8",
+            "token": "",
+            "style": "normal"
         }
     }
 }
