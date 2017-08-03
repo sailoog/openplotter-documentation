@@ -16,4 +16,5 @@
   * [Umgebungssensoren](environment-sensors.md)
   * [1-Wire Temperatursensor](1w-temperature-sensor.md)
 * [Wiring I2C sensors](wiring-i2c-sensors.md)
+* [OP Tabs](op-tabs.md)
 
