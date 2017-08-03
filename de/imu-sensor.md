@@ -24,3 +24,7 @@ Eine IMU \(Inertial Measurement Unit, Inertiale Messeinheit\) misst für die x-,
 
 IMU-Sensoren werden an das I2C-Interface angeschlossen. Siehe Kapitel [Wiring I2C sensors](/wiring-i2c-sensors.md).
 
+## Settings
+
+See [Compass](/compass.md) chapter to configure IMU sensors.
+

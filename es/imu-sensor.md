@@ -34,3 +34,7 @@ Connecting an IMU to OpenPlotter will provide magnetic heading which is needed t
 
 IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
 
+## Settings
+
+See [Compass](/compass.md) chapter to configure IMU sensors.
+
