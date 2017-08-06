@@ -7,6 +7,12 @@ Hast Du kein GPS an Bord oder Du möchtest ein zusätzliches Gerät für die Pos
 
 Verbindest Du einen USB-Stick mit OpenPlotter, erhältst Du  die genaue Position, Datum und Uhrzeit sowie Geschwindigkeit und Kurs über Grund.
 
+>This item is available in our store[[1]](http://shop.sailoog.com)
+
 ## Einstellungen
 
 Siehe Kapitel [NMEA 0183](/nmea-0183.md) zur Einstellung desUSB GPS Sticks.
+
+---
+
+[1] http://shop.sailoog.com

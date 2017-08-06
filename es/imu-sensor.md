@@ -16,6 +16,8 @@ An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientat
 
 Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. You will have heel angle data as well.
 
+>This item is available in our store[[1]](http://shop.sailoog.com)
+
 ## Supported IMU sensors
 
 * InvenSense MPU-9150 single chip IMU.
@@ -38,3 +40,6 @@ IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C senso
 
 See [Compass](/compass.md) chapter to configure IMU sensors.
 
+---
+
+[1] http://shop.sailoog.com

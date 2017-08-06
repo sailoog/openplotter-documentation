@@ -7,6 +7,13 @@ Wenn Du Navigationsgeräte oder andere Elektronik mit NME 0183-Ausgang an Bord h
 Der NMEA 0183-Standard gibt die **RS422** Schnittstelle vor, jedoch findet man auch Geräte mit **RS232** Schnittstelle. Finde zunächst heraus, welchen Schnittstellen-Typ Du benötigst.
 Du kannst die Schnittstelle im Allgemeinen so erkennen: Wenn Du die die Leitungen TX+ und TX- und/oder RX+ und RX- hast, ist es eine RS422-Schnittelle. Hast Du die Leitungen RX, TX und Masse(-), ist es eine RS232-Schnittstelle.
 
+>This item is available in our store[[1]](http://shop.sailoog.com)
+
 ## Einstellungen
 
 Siehe Kapitel [NMEA 0183](/nmea-0183.md) zur Einstellung des NMEA 0183-USB Konverters.
+
+---
+
+[1] http://shop.sailoog.com
+

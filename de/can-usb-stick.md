@@ -19,6 +19,8 @@ Der Stick nutzt die Kommandos des Programms CANBOAT actisense-serial. Weiterhin 
 
 Neue PGN's werden nicht blockiert, sie können mit anderen Geräten, die auch mit CANBOAT zusammenarbeiten, verarbeitet werden. Die Übertragungsrate kann schneller eingestellt werden als die des CAN-Bus. Andere Geräte, die CANBOAT nutzen, arbeiten vielleicht mit einer niedrigeren Übertragungsgeschwindigkeit als das N2K-Netzwerk und können eventuell überfordert werden.
 
+>This item is available in our store[[9]](http://shop.sailoog.com)
+
 ## Hardware
 
 Der CAN-USB Stick V2 basiert auf einem stm32-Mikrocontroller (MCU), welcher mit einem isolierten CAN-Transceiver und einem USB-Seriell-Konverter verbunden ist.
@@ -102,6 +104,6 @@ Wenn Du Unterstützung benötigst oder Vorschläge machen möchtest, kannst Du D
 
 ---
 
-[1] https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg [2] https://github.com/canboat/canboat [3] http://signalk.org [4] http://openskipper.org [5] http://macenc.com [6] http://www.polarnavy.com [7] https://en.wikipedia.org/wiki/NMEA_2000 [8] http://forum.openmarine.net/forumdisplay.php?fid=11
+[1] https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg [2] https://github.com/canboat/canboat [3] http://signalk.org [4] http://openskipper.org [5] http://macenc.com [6] http://www.polarnavy.com [7] https://en.wikipedia.org/wiki/NMEA_2000 [8] http://forum.openmarine.net/forumdisplay.php?fid=11 [9] http://shop.sailoog.com
 
 

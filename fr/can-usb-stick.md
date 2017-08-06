@@ -27,6 +27,8 @@ So it does use the command set which is used in the CANBOAT actisense-serial pro
 
 New PGNs are not blocked, as they are on other devices capable to work with CANBOAT. The transmission speed can be set higher than the CAN bus speed. Other devices capable to work with CANBOAT have a lower transferrate than N2K networks and they may suffer a bottleneck.
 
+>This item is available in our store[[9]](http://shop.sailoog.com)
+
 ## Hardware
 
 The CAN-USB Stick V2 is based on a stm32 micro-controller (MCU) connected to an isolated CAN transceiver and an USB to serial converter.
@@ -106,6 +108,6 @@ If you need support or you have any suggestion you can publish your questions on
 
 ---
 
-[1] https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg [2] https://github.com/canboat/canboat [3] http://signalk.org [4] http://openskipper.org [5] http://macenc.com [6] http://www.polarnavy.com [7] https://en.wikipedia.org/wiki/NMEA_2000 [8] http://forum.openmarine.net/forumdisplay.php?fid=11
+[1] https://commons.wikimedia.org/wiki/File:NMEA2000_Modified_motor_yacht.jpg [2] https://github.com/canboat/canboat [3] http://signalk.org [4] http://openskipper.org [5] http://macenc.com [6] http://www.polarnavy.com [7] https://en.wikipedia.org/wiki/NMEA_2000 [8] http://forum.openmarine.net/forumdisplay.php?fid=11 [9] http://shop.sailoog.com
 
 
