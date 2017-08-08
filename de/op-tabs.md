@@ -8,6 +8,6 @@ http://forum.openmarine.net/forumdisplay.php?fid=16
 
 ---
 
-Most of the core features of OpenPlotter can be configured from controls located on tabs.
+Die meisten der Kern-Eigenschaften von OpenPlotter können über die Tabs gesteuert werden.
 
 ![](../en/tabs.png)
