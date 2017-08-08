@@ -6,11 +6,11 @@ Stelle die Aktualisierungsrate des Sensors ein und wähle mindestens einer drei 
 
 ![](../en/compass.png)
 
-Wenn das Boot vertaut im Hafen ruhig und so gerade wie möglich im Hafen liegt, wähle den _IMU_ Tab aus und drücke auf _Boat is level_. Nach ein paar Sekunden sollte die dreidimensionale Darstellung des Bootes ausgependelt dargestellt werden.
+Wenn das Boot vertaut so ruhig und gerade wie möglich im Hafen liegt, wähle den _IMU_ Tab aus und drücke auf _Boat is level_. Nach ein paar Sekunden sollte die dreidimensionale Darstellung des Bootes ausgependelt dargestellt werden.
 
 ![](../en/imu_level.png)
 
-Das Fenster _Kalibrierung_ wird noch nicht geschlossen, sondern der Tab _Kompass_ aufgerufen. Dann gehe segeln. Das System sammelt nun Daten vom IMU-Sensor. Wenn innerhalb von 2 Minuten die Richtung um mehr als 60 Grad geändert wird und die Daten gültig sind, wird der IMU-Sensor kalibriert. Eine blaue Kugel erscheint und die Wolke aus Punkten wird auf der roten Kugel dargestellt.
+Das Fenster _Kalibrierung_ wird noch nicht geschlossen, sondern der Tab _Kompass_ aufgerufen. Dann gehe segeln. Das System sammelt nun Daten vom IMU-Sensor. Wenn innerhalb von 2 Minuten die Richtung um mehr als 60 Grad geändert wurde und die Daten gültig sind, wird der IMU-Sensor kalibriert. Eine blaue Kugel erscheint und die Wolke aus Punkten wird auf der roten Kugel dargestellt.
 
 ![](../en/imu_calibration.png)
 
