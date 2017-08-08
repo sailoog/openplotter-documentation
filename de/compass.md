@@ -1,8 +1,8 @@
 # Compass
 
-Installiere den IMU-Sensor an der endgültigen Position auf dem Schiff, möglichst weit entfernt von Metallen und anderen magnetischen Störquellen, besonders von den Magneten von Lautsprechern. Nach dem Anschluss des IMU-Sensors soll er automatisch erkannt werden und im Tab _Kompass_ angezeigt werden.
+Installiere den IMU-Sensor an der endgültigen Position auf dem Schiff, möglichst weit entfernt von Metallen und anderen magnetischen Störquellen, besonders von den Lautsprecher-Magneten. Nach dem Anschluss des IMU-Sensors an OpenPlotter soll er automatisch erkannt werden und im Tab _Kompass_ angezeigt werden.
 
-Stelle die Aktualisierungsrate des Sensors ein und setze einen Haken bei mindestens einer drei möglichen Größe. Dann drücke auf _Kalibrierung_.
+Stelle die Aktualisierungsrate des Sensors ein und wähle mindestens einer drei möglichen Werte. Dann drücke auf _Kalibrierung_.
 
 ![](../en/compass.png)
 
@@ -14,4 +14,4 @@ Das Fenster _Kalibrierung_ wird noch nicht geschlossen, sondern der Tab _Kompass
 
 ![](../en/imu_calibration.png)
 
-Das System wird alle 2 Minuten neu kalibriert, solange mindestens eine der drei Größen des IMU-Sensors ausgewählt und ausreichend Daten gesammelt wurden. Alle 10 Minuten wird die Kalibrierung gespeichert, damit die Kalibrierung beim nächsten Programmaufruf gleich zur Verfügung steht. 
+Das System wird alle 2 Minuten neu kalibriert, solange mindestens eine der drei möglichen Werte des IMU-Sensors ausgewählt ist und ausreichend Daten gesammelt werden. Alle 10 Minuten wird die Kalibrierung gespeichert, damit die Kalibrierung beim nächsten Programmaufruf gleich zur Verfügung steht. 
