@@ -9,7 +9,7 @@ Solche Geräte werden als Software Defined Radio (SDR) bezeichnet.
 
 SDR Empfänger benötigen mehr Strom als ein USB-Port eines Raspberry Pi liefern kann. Der Stick muss deshalb an einen aktiven USB-Hub angeschlossen werden, d.h. einen USB-Hub mit eigener Stromversorgung.
 
->This item is available in our store[[4]](http://shop.sailoog.com)
+>Dieser Artikel ist in unserem Webshop erhältlich[[4]](http://shop.sailoog.com)
 
 ## Antenne
 
