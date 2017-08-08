@@ -1,25 +1,17 @@
 # Compass
 
----
+Installiere den IMU-Sensor an der endgültigen Position auf dem Schiff, möglichst weit entfernt von Metallen und anderen magnetischen Störquellen, besonders von den Magneten von Lautsprechern. Nach dem Anschluss des IMU-Sensors soll er automatisch erkannt werden und im Tab _Kompass_ angezeigt werden.
 
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
-
-Place the IMU on his final position on board and away from possible metallic sources of interference, especially from speakers. After connecting the IMU, it should be detected on _Compass_ tab.
-
-Enable reception of at least one of the 3 possible magnitude and press _Calibration_.
+Stelle die Aktualisierungsrate des Sensors ein und setze einen Haken bei mindestens einer drei möglichen Größe. Dann drücke auf _Kalibrierung_.
 
 ![](../en/compass.png)
 
-Being moored in port and the boat as more leveled as possible, select the _imu_ tab and press _Boat is level_. After few seconds the 3D boat should be leveled.
+Wenn das Boot vertaut im Hafen ruhig und so gerade wie möglich im Hafen liegt, wähle den _IMU_ Tab aus und drücke auf _Boat is level_. Nach ein paar Sekunden sollte die dreidimensionale Darstellung des Bootes ausgependelt dargestellt werden.
 
 ![](../en/imu_level.png)
 
-Do not close the Calibration window, select the _compass_ tab and go sailing normally. The system will collect data from the IMU during 2 minutes and if there is more than 60 degrees of heading variation and the collected data is valid, it will calibrate the IMU. A blue sphere should appear and the cloud of points should fit the red sphere.
+Das Fenster _Kalibrierung_ wird noch nicht geschlossen, sondern der Tab _Kompass_ aufgerufen. Dann gehe segeln. Das System sammelt nun Daten vom IMU-Sensor. Wenn innerhalb von 2 Minuten die Richtung um mehr als 60 Grad geändert wird und die Daten gültig sind, wird der IMU-Sensor kalibriert. Eine blaue Kugel erscheint und die Wolke aus Punkten wird auf der roten Kugel dargestellt.
 
 ![](../en/imu_calibration.png)
 
-The system will keep re-calibrating all the time every 2 minutes if reception of any of the IMU magnitudes is enabled and it has collected enough valid data. Every 10 minutes calibration and level data are saved to be used on next sesions.
+Das System wird alle 2 Minuten neu kalibriert, solange mindestens eine der drei Größen des IMU-Sensors ausgewählt und ausreichend Daten gesammelt wurden. Alle 10 Minuten wird die Kalibrierung gespeichert, damit die Kalibrierung beim nächsten Programmaufruf gleich zur Verfügung steht. 
