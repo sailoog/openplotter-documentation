@@ -6,7 +6,7 @@ Wenn Du keinen elektronischen Kompass an Bord hast, benötigst Du eine IMU.
 
 Eine IMU \(Inertial Measurement Unit, Inertiale Messeinheit\) misst für die x-, y- und z-Achsen Beschleunigungen und Drehraten und kann hieraus die Orientierung im Raum berechnen. In Kombination mit einem integrierten Magnetometer erhalten wir letztlich die Daten für den Magnetkompasskurs, und so wird die Berechnung von rechtweisendem Steuerkurs und wahrem Wind möglich. Nebenher können Krängung und Nickrate des Schiffes angezeigt werden.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Dieser Artikel ist in unserem Webshop erhältlich[[1]](http://shop.sailoog.com)
 
 ## Unterstützte IMU-Sensoren
 
@@ -26,9 +26,9 @@ Eine IMU \(Inertial Measurement Unit, Inertiale Messeinheit\) misst für die x-,
 
 IMU-Sensoren werden an das I2C-Interface angeschlossen. Siehe Kapitel [Wiring I2C sensors](/wiring-i2c-sensors.md).
 
-## Settings
+## Einstellungen
 
-See [Compass](/compass.md) chapter to configure IMU sensors.
+Siehe Kapitel [Kompass](/compass.md) zur Konfiguration des IMU-Sensors.
 
 ---
 
