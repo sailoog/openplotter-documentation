@@ -1,4 +1,4 @@
-# Summary
+# Inhaltsverzeichnis
 
 * [Einführung](README.md)
 * [FAQ](faq.md)
