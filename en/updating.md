@@ -12,9 +12,15 @@ There you can update OpenPlotter to either a beta or to an stable version. Once 
 
 OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
 
+If you want to force a major update even if your are running the latest version, open a terminal and type:
+
+```
+/home/pi/.config/openplotter/update/update_OpenPlotter.sh
+```
+
 ## Version numbering
 
-OpenPlotter releases have three numbers: **a**.**b**.**c** \(v0.9.0, v0.10.0...\) and a word \(alpha, beta and stable\).
+OpenPlotter releases have three numbers: **a**.**b**.**c** (v0.9.0, v0.10.0...) and a word (alpha, beta and stable).
 
 When **c** increases, there is a minor change and means that only the OpenPlotter code has changed.
 
