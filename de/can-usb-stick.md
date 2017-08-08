@@ -19,7 +19,7 @@ Der Stick nutzt die Kommandos des Programms CANBOAT actisense-serial. Weiterhin 
 
 Neue PGN's werden nicht blockiert, sie können mit anderen Geräten, die auch mit CANBOAT zusammenarbeiten, verarbeitet werden. Die Übertragungsrate kann schneller eingestellt werden als die des CAN-Bus. Andere Geräte, die CANBOAT nutzen, arbeiten vielleicht mit einer niedrigeren Übertragungsgeschwindigkeit als das N2K-Netzwerk und können eventuell überfordert werden.
 
->This item is available in our store[[9]](http://shop.sailoog.com)
+>Dieser Artikel ist in unserem Webshop erhältlich[[9]](http://shop.sailoog.com)
 
 ## Hardware
 
