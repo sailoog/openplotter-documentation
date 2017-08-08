@@ -1,4 +1,4 @@
-# Compass
+# Kompass
 
 Installiere den IMU-Sensor an der endgültigen Position auf dem Schiff, möglichst weit entfernt von Metallen und anderen magnetischen Störquellen, besonders von den Lautsprecher-Magneten. Nach dem Anschluss des IMU-Sensors an OpenPlotter soll er automatisch erkannt werden und im Tab _Kompass_ angezeigt werden.
 
