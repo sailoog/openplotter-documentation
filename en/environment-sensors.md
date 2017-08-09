@@ -4,6 +4,8 @@
 
 Connecting a little environment sensor to OpenPlotter will provide air pressure, temperature or humidity data to monitor weather.
 
+>This item is available in our store[[1]](http://shop.sailoog.com)
+
 ##Supported environment sensors
 
 * BME280 (pressure, temperature, humidity)
@@ -17,3 +19,7 @@ Connecting a little environment sensor to OpenPlotter will provide air pressure,
 ## Wiring
 
 Environment sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
+
+---
+
+[1] http://shop.sailoog.com

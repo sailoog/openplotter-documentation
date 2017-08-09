@@ -4,6 +4,8 @@
 
 You can connect one wire (1W) **DS18B20** sensors to OpenPlotter. This sensor is waterproof and can withstand high temperatures. Connecting multiple DS18B20 in parallel to the same pins, you will be able to get temperature data from coolant engine, exhaust, engine room, fridge, sea ...
 
+>This item is available in our store[[1]](http://shop.sailoog.com)
+
 ## Wiring
 
 Pins names are according to the diagram below.
@@ -31,3 +33,7 @@ where x is your desired GPIO pin. Save and reset.
 ## Settings
 
 See [1W](/1w.md) chapter to configure DS18B20 sensors.
+
+---
+
+[1] http://shop.sailoog.com
