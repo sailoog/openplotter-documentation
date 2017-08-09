@@ -4,7 +4,7 @@
 
 Der Anschluss eines Umgebungssensors liefert an OpenPlotter die Werte für Luftdruck, Temperatur und relative Luftfeuchtigkeit, um das aktuelle Wetter darzustellen und die Wetterentwicklung zu beobachten.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Dieser Artikel ist in unserem Webshop erhältlich[[1]](http://shop.sailoog.com)
 
 ## OpenPlotter unterstützt die folgenden Sensoren
 

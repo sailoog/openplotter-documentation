@@ -5,6 +5,8 @@
 
 Zur Temperaturmessung kannst Du 1-Wire Temperatursensoren vom Typ **DS18B20** an OpenPlotter anschließen. Es gibt die Sensoren wie abgebildet in einer wasserdichten Ausführung (in einer Metallhülse), die Messung hoher Temperaturen bis 125°C ist mit sehr guter Genauigkeit möglich. In Form einer einer Bus-Leitung kann man mehrere DS18B20 parallel anschließen, sie haben zur Unterscheidung individuelle fest eingebrannte Adressen. Einsetzbar sind die Sensoren z.B. für Motorkühlung, Öltemperatur, Motorraum, Kühlschrank, Seewasser etc.
 
+>Dieser Artikel ist in unserem Webshop erhältlich[[1]](http://shop.sailoog.com)
+
 ## Verdrahtung
 
 Die Drahtenden werden gemäß der Abbildung unten angeschlossen.
@@ -32,3 +34,7 @@ bei X handelt es sich um den neu ausgewählten GPIO-Pin. Speichern mit CTRL-O, b
 ## Settings
 
 See [1W](/1w.md) chapter to configure DS18B20 sensors.
+
+---
+
+[1] http://shop.sailoog.com
