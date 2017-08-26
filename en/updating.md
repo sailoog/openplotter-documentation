@@ -8,15 +8,9 @@ Be sure you are connected to Internet and go to _Updates_ in the OpenPlotter mai
 
 You can update OpenCPN and plugins to the latest stable releases.
 
-There you can update OpenPlotter to either a beta or to an stable version. Once you have updated from an stable version to a beta version you can not go back to the stable version and you have to keep updating the beta until a new stable version is released.
+There you can update OpenPlotter to either a beta or to an stable version. Once you have updated from an stable version to a beta version you can not go back to the stable version and you have to keep updating the beta until a stable version is reached.
 
 OpenPlotter will check if you need to do a minor or a major update and it will do all the work for you.
-
-If you want to force a major update even if your are running the latest version, open a terminal and type:
-
-```
-/home/pi/.config/openplotter/update/update_OpenPlotter.sh
-```
 
 ## Version numbering
 
@@ -26,7 +20,7 @@ When **c** increases, there is a minor change and means that only the OpenPlotte
 
 When **b** increases, there is a major change and means that other packages or dependencies need to be added or updated.
 
-When **a** increases, there is an upgrade and means that Raspbian need to be upgraded. In this case probably a new OpenPlotter image will be released and we recommend to burn a new SD card but you will be able to upgrade Raspbian from the OpenPlotter menu too.
+When **a** increases, there is an upgrade and means that Raspbian needs to be upgraded. In this case probably a new OpenPlotter image will be released and we recommend to burn a new SD card. You will be able to update OpenPlotter from the menu too but some parts may not work as expected.
 
 Alpha means that some parts still need development.
 
