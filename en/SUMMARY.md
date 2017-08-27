@@ -65,7 +65,6 @@
     * [Analog Firmata](analog-firmata.md)
     * [SignalK Simulator](signalk-simulator.md)
     * [wireless temp](wireless-temp.md)
-  * [Tools defined](tools-defined.md)
 * [Chartplotter OpenCPN](chartplotter-opencpn.md)
   * [Sending data to autopilot](sending-data-to-autopilot.md)
 * [License](license.md)
