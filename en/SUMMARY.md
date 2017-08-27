@@ -54,12 +54,13 @@
   * [Signal K](signalk.md)
 * [OP menu Tools](tools.md)
   * [Set time zone](set-time-zone.md)
-  * Set time from NMEA
+  * [Set time from NMEA](set-time-from-nmea.md)
   * Set GPSD
   * [SDR receiver](sdr-receiver.md)
   * [Calculate](calculate.md)
-  * NMEA 0183 generator
-  * NMEA 2000 generator
+  * [NMEA 0183 generator](nmea-0183-generator.md)
+  * [NMEA 2000 generator](nmea-2000-generator.md)
+  * [Standalone tools](standalone-tools.md)
   * [Tools defined](tools-defined.md)
     * [Analog ads1115](analog-ads1115.md)
     * [Analog Firmata](analog-firmata.md)
