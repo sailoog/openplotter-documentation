@@ -4,7 +4,7 @@
 
 **This chapter needs to be written/updated/translated**
 
-http://forum.openmarine.net/forumdisplay.php?fid=16
+[http://forum.openmarine.net/forumdisplay.php?fid=16](http://forum.openmarine.net/forumdisplay.php?fid=16)
 
 ---
 
@@ -41,6 +41,7 @@ There are people who buy boats but there are also people who build them, why not
 * **Tools**. Integration of self programmed modules and advanced feature modules.
 * **Startup Programs**. Select some program parameters to automatically launch at start.
 
-![](openplotter.jpg)  
-v0.9.0
+![](openplotter.jpg)
+
+
 
