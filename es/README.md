@@ -7,34 +7,31 @@
 
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
+There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the Raspberry Pi[[1]](https://www.raspberrypi.org) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
 
-Hay gente que compra barcos pero también hay personas que los construyen, ¿por qué no construirte tu própia electrónica también? OpenPlotter es una combinación de software y hardware para ser usado como ayuda a la navegación en barcos de pequeña y mediana eslora. Es también un completo sistema de domótica a bordo. Funciona en ordenadores ARM como la [Raspberry Pi](https://www.raspberrypi.org/) y es de código abierto, bajo coste y bajo consumo. Su diseño es modular, así que solo tienes que incorporar lo que tu barco necesite. !Hazlo tu mismo!.
+## Features
 
+* **OpenCPN**[[2]](http://opencpn.org). Concise and robust navigation software. Chart a course and track your position.
+* **zyGrib**[[3]](http://www.zygrib.org). Weather data download and visualization of GRIB files format 1 and 2.
+* **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
+* **NMEA 0183**. Receive, filter, multiplex and send NMEA data through serial and network inputs and outputs.
+* **NMEA 2000**. Connect an USB adapter to your N2K network to receive and send data.
+* **Signal K Server**[[4]](http://signalk.org). Convert data from sensors to Signal K and exchange data between all formats.
+* **WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
+* **Headless**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
+* **Dashboards**. Build instrument panels to visualize data from your mobile devices.
+* **Compass**. Heading and heel from an IMU sensor. Tilt compensated. Self-calibration.
+* **1W sensors**. Connect multiple temperature sensors. Motor, exhaust, fridge, water ...
+* **I2C sensors**. Connect temperature, pressure, humidity or light sensors.
+* **SPI sensors**. Measure battery charge, tank level or any data from an analog sensor.
+* **Digital inputs**. Connect common or specials switches. Detect smoke, opening doors, motion ...
+* **Digital outputs**. Activate relays, LEDs, buzzers ...
+* **Actions**. Use date, time or value of any data flowing through your system as a trigger to run multiple actions.
+* **Share data**. Publish data from your boat on Twitter or send emails and SMS automatically.
+* **Remote Monitoring**. Receive or send data to your boat while you are away.
+* **Open tools**. Use multiple built in tools to interact with the system and create your own ones.
 
-## Características
+![](../en/openplotter.jpg)
 
-* **Chartplotter**. Con [OpenCPN](http://opencpn.org), un programa de navegación, con útiles plugins.
-* **Predicciones Metereológicas**. Descarga y visualiza ficheros GRIB mediante [zyGrib](http://www.zygrib.org).
-* **Multiplexor NMEA 0183**. Combina y filtra datos procedentes de cualquier número de entradas serie o de red.  Envía y filtra a cualquier número de salidas.
-* **Signal K (beta)**. OpenPlotter está preparado para [Signal K](http://signalk.org/), el nuevo formato de intercambio de datos marinos, libre y de código abierto.
-* **Inspector**. Comprueba el tráfico de datos, para evitar conflictos y solapamientos entre dos fuentes.
-* **Punto de acceso WiFi**. Comparte datos (NMEA 0183, Signal K, escritorio remoto, conexión Internet) con los portátiles, tabletas y teléfonos a bordo. Conecta a internet en el puerto a través del mismo dispositivo.
-* **Escritorio Remoto**. Accede al escritorio de OpenPlotter desde la bañera a través de tus dispositivos móviles.
-* **Sin pantalla**. Posibilidad de uso sin pantalla, fácilmente.
-* **AIS-SDR**. Recibe y decodifica AIS mediante asequibles receptores de TDT. Incluye herramientas de calibración.
-* **Brújula electronica y Escora**. Lee el rumbo de aguja y la escora desde el sensor IMU. Inclinación compensada. Incluye herramientas de calibración.
-* **Barógrafo, Termógrafo e Higrógrafo**. Gracias a sensores de presión atmosférica, temperatura y humedad. Guarda registros y muestra gráficos para ver la tendencia.
-* **Múltiples sensores de temperatura**. Obtiene datos del refrigerante del motor, el tubo de escape, nevera, agua del mar, etc...
-* **Sensores Especiales**. Detecta apertura de puertas/ventanas, niveles en depósitos y sentinas, movimientos de personas...
-* **Declinación Magnética**. Calcula la declinación magnética para una fecha y posición dadas.
-* **Rumbo verdadero**. Calcula el rumbo verdadero a partir de la declinación magnética y del rumbo de aguja.
-* **Viento Real**. Calcula el viento real a partir del viento aparente y o bien la velocidad sobre el agua (corredera) o la velocidad sobre el fondo (GPS).
-* **Ratio de Giro**. Calcula la velocidad a la que el barco está girando.
-* **Monitorización Remota**. Publica datos en Twitter o los envía por correo electrónico.
-* **Sistema de Acciones**. Compara un valor configurable con cualquier dato que fluya a través del sistema y lo utiliza como detonante de múltiples acciones predefinidas.
-* **Interruptores Configurables**. Conecta interruptores externos y los vincula a acciones.
-* **Activa Dispositivos Externos**. Relés, LEDs, zumbadores ...
-* **Herramientas de Hora del Sistema**. Establece la fecha y hora del sistema a partir de datos NMEA y configura la zona horaria fácilmente.
-* **Programas de Inicio**. Configura programas y parámetros para ejecutar al inicio.
-
-![OpenPlotter desktop](../en/openplotter.png)
+---
+[1] https://www.raspberrypi.org [2] http://opencpn.org [3] http://www.zygrib.org [4] http://signalk.org
