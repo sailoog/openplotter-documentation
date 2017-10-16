@@ -55,7 +55,7 @@
 * [OP tools](tools.md)
   * [Set time zone](set-time-zone.md)
   * [Set time from NMEA](set-time-from-nmea.md)
-  * Set GPSD
+  * [Set GPSD](set-gpsd.md)
   * [SDR receiver](sdr-receiver.md)
   * [Calculate](calculate.md)
   * [NMEA 0183 generator](nmea-0183-generator.md)
