@@ -12,7 +12,7 @@ Analog Firmata can be started. Best way to see if connecting works is to start o
 
 The start of pymata takes some seconds.
 
-The configuration file is the same one which is used by [ads1115](analog-ads1115.md).  
+The configuration file is the same one which is used by [ads1115](/en/analog-ads1115.md).  
 There are up to 16 sections \(\[FIRMATA\_0\]..\[FIRMATA\_15\]\)
 
 Example:
