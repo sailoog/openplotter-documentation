@@ -22,8 +22,6 @@ Important: the SignalK value will be converted from Kelvin to Celsius.
 
 Other values can also be converted from SignalK to NMEA 0183.
 
-
-
 When you press OK, you get back to this window.
 
 ![](/assets/screenshot.127.jpg)
@@ -31,8 +29,6 @@ When you press OK, you get back to this window.
 Finished.
 
 To activate the new settings SignalK tab -&gt;Restart.
-
-
 
 ## Opencpn sentences
 
@@ -51,6 +47,10 @@ These SignalK values will be used:
 "environment.outside.temperature"
 
 "environment.water.temperature"
+
+## Use Diagnostic
+
+To debug the result of your generated sentence open
 
 
 
