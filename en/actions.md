@@ -36,11 +36,11 @@ If the temperature drops under 24 °C a warning message should pop up and the no
 
 \(don't forget that Signal K values are in SI unit in this case Kelvin\)
 
-![](/assets/Action1.jpg)
+![](/en/Action1.jpg)
 
-![](/assets/Action_edit.jpg)
+![](/en/Action_edit.jpg)
 
-![](/assets/Action2.jpg)
+![](/en/Action2.jpg)
 
 This example demonstrates the usage
 
