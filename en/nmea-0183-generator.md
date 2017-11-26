@@ -50,7 +50,9 @@ These SignalK values will be used:
 
 ## Use Diagnostic
 
-To debug the result of your generated sentence open
+To debug the result of your generated sentence go to NMEA0183 tab.
+
+Select the line system or opencpn then click the diagnostic button. 
 
 ## Generate NMEA0183 sentences from SignalK-server
 
