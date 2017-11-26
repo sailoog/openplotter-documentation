@@ -54,7 +54,7 @@ The generated sentence should be send in the time interval \(Rate\) you selected
 
 ---
 
-An alternativ is to
+An alternative is to
 
 ## Generate NMEA0183 sentences from SignalK-server
 
