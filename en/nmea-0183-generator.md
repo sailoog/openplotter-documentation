@@ -52,7 +52,7 @@ Select the line system or opencpn then click the diagnostic button.
 
 The generated sentence should be send in the time interval \(Rate\) you selected.
 
-
+---
 
 An alternativ is to
 
