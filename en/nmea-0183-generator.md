@@ -2,7 +2,7 @@
 
 The generator is able to generate nmea sentences from SignalK values.
 
-For example you have the value of the water temperature "environment.water.temperature" and you want to generate a NMEA 0183 sentences.
+For example you have the value of the water temperature "environment.water.temperature" and you want to generate a NMEA 0183 sentence.
 
 Open the window "NMEA 0183 generator" by selecting Tools-&gt;NMEA 0183 generator
 
@@ -26,13 +26,9 @@ When you press OK, you get back to this window.
 
 ![](NMEA0183gen_5.jpg)
 
-Finished.
-
-To activate the new settings SignalK tab -&gt;Restart.
-
 ## Opencpn sentences
 
-To create the standard sentence for opencpn press "opencpn default" \(it does only work if there is no sentence\)
+To create the standard sentences for opencpn press "opencpn default" \(It does only work if the list is empty!\)
 
 These SignalK values will be used:
 
@@ -56,6 +52,10 @@ Select the line system or opencpn then click the diagnostic button.
 
 The generated sentence should be send in the time interval \(Rate\) you selected.
 
+
+
+An alternativ is to
+
 ## Generate NMEA0183 sentences from SignalK-server
 
 Enter the SignalK Plugins from a browser by:
@@ -72,5 +72,5 @@ localhost:3000
 
 ![](NMEA0183SignalKgen_3.jpg)
 
-Here you activate and select some NMEA0183 sentences. The performace is better than the NMEA 0183 generator from OpenPlotter but you have no chance to use other values, corrections or calculations.
+Here you activate and select some NMEA0183 sentences. The performace is better than the NMEA 0183 generator from OpenPlotter but you have no chance to use other values, units, corrections or calculations.
 
