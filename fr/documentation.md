@@ -1,42 +1,37 @@
 # Documentation
----
-
-**This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![](../en/manuals.png)
 
-Author: Randall Munroe[[1]](https://xkcd.com), CC BY-NC 2.5 license.
+Auteur: Randall Munroe[[1]](https://xkcd.com), license CC BY-NC 2.5.
 
-We have a Github repository[[2]](https://github.com/sailoog/openplotter-documentation) for OpenPlotter documentation. This repository is connected to a Gitbook book[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and we coordinate editors in a forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) on OpenMarine.
+Nous avons un stockage Github[[2]](https://github.com/sailoog/openplotter-documentation) pour la documentation OpenPlotter. Ce stockage est lié à un livre Gitbook [[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et nous coordonnons les acteurs via un forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) sur OpenMarine.
 
-if you want to help us to write, update, correct or translate you have two options.
+Si vous voulez nous aider à écrire, mettre à jour, corriger ou traduire vous avez deux options.
 
-You are familiar with Github and Gitbook repositories edition:
+Vous êtes familier avec Github et Gitbook édition dépôts 
 
-* Create an account in **Github**[[5]](https://github.com/join)
-* Send your Github account user name to the forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) and wait for you to be granted permissions to edit the repository.
-* From the sticky threads in the forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
-* Once you have permissions, login to **Gitbook**[[6]](https://www.gitbook.com/login) with your Github account.
-* Go to the book[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) and click on the _Edit_ button upper right.
+* Créer un compte **Github**[[5]](https://github.com/join)
+* Envoyez votre nom d’utilisateur Github sur le forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et attendez que l’habilitation d’éditer le dépôt vous soit attribuée.
+*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleu et annoncez vos intentions dans un nouveau thread.
+* Une fois que vous avez l’habilitation, loggez-vous à **Gitbook**[[6]](https://www.gitbook.com/login) avec votre compte Github.
+* Accédez au livre[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et cliquez sur le bouton  _Edit_ en haut à droite.
 
-You are not familiar with Github and Gitbook repositories edition:
+Vous n’êtes pas familier avec Github et Gitbook édition dépôts :
 
-* From the sticky threads in the forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), select a chapter marked in blue and notify your intentions in a new thread.
-* When you are done, publish text and images into a new thread in the forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) and someone will edit the book for you.
+*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleu et annoncez vos intentions dans un nouveau thread.
+* Quand vous avez fini, publiez le texte et les images dans un nouveau thread sur le forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et quelqu’un éditera le livre pour vous.
 
-## Writing
+## Ecriture
 
-We write the documentation source in English to make easier translating to other languages. 
+Nous écrivons la documentation source en Anglais, pour faciliter la traduction vers d’autres langues.
 
-Please do not modify the index or the structure without consulting developers. Once a chapter is done, please notify on the forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) to be marked in green.
+Merci de ne pas modifier l’index ou la structure sans consulter les développeurs. Une fois un chapitre achevé, merci de le signaler sur le forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) pour qu’il soit marqué en vert.
 
-To include images in the rest of languages from English folder, the path is `../en/xxx.png`
+Pour inclure des images dans une langue autre que l’Anglais, depuis le dossier de l’Anglais, le chemin est : `../en/xxx.png`
 
-If you want to add images of wiring and connections consider using fritzing[[7]](http://fritzing.org) application.
+Si vous voulez ajouter des images de câblages et de connections utilisez l’application Fritzing[[7]](http://fritzing.org).
 
-Do not modify or translate files names \(xxx.md xxx.png xxx.jpg ...\) because they are referenced in the text.
+Ne modifiez ni ne traduisez les noms de fichiers (xxx.md xxx.png xxx.jpg ...) car ils sont référencés dans le texte.
 
 ---
 
