@@ -4,7 +4,7 @@
 
 Certains achètent un bateau, quand d’autres se le construise. Pourquoi ne pas réaliser aussi l’électronique nous-même ? OpenPlotter est un paquetage, matériel et logiciel, à utiliser comme aide à la navigation sur des petites ou moyennes unités. C’est aussi un système complet de domotique embarqué. Il fonctionne sur ordinateur à processeur ARM tel que le Raspberry Pi[1](https://www.raspberrypi.org), est open-source, économique et peu consommateur. Sa conception est modulaire, il est donc possible de n’implémenter que ce qui est utile sur votre bateau. Faite-le vous-même.
 
-## F
+## Fonctionnalités
 
 * **OpenCPN**[[2]](http://opencpn.org), logiciel de navigation léger et robuste. Préparer des routes et suivre sa position.
 * **zyGrib**[[3]](http://www.zygrib.org). Télécharger et visualiser des fichiers météo GRIB au format 1 et 2.
