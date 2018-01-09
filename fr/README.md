@@ -1,35 +1,30 @@
 # Qu'est-ce qu'OpenPlotter?
----
-
-**This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
 
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
-There are people who buy boats but there are also people who build them, why not build your own electronics too? OpenPlotter is a combination of software and hardware to be used as navigational aid on small and medium boats. It is also a complete home automation system onboard. It works on ARM computers like the Raspberry Pi[[1]](https://www.raspberrypi.org) and is open-source, low-cost and low-consumption. Its design is modular, so you just have to implement what your boat needs. Do it yourself.
+Certains achètent un bateau, quand d’autres se le construise. Pourquoi ne pas réaliser aussi l’électronique nous-même ? OpenPlotter est un paquetage, matériel et logiciel, à utiliser comme aide à la navigation sur des petites ou moyennes unités. C’est aussi un système complet de domotique embarqué. Il fonctionne sur ordinateur à processeur ARM tel que le Raspberry Pi[1](https://www.raspberrypi.org), est open-source, économique et peu consommateur. Sa conception est modulaire, il est donc possible de n’implémenter que ce qui est utile sur votre bateau. Faite-le vous-même.
 
-## Features
+## F
 
-* **OpenCPN**[[2]](http://opencpn.org). Concise and robust navigation software. Chart a course and track your position.
-* **zyGrib**[[3]](http://www.zygrib.org). Weather data download and visualization of GRIB files format 1 and 2.
-* **SDR-AIS**. Receive and decode AIS with cheap DVB-T dongles. Calibration tools Included.
-* **NMEA 0183**. Receive, filter, multiplex and send NMEA data through serial and network inputs and outputs.
-* **NMEA 2000**. Connect an USB adapter to your N2K network to receive and send data.
-* **Signal K Server**[[4]](http://signalk.org). Convert data from sensors to Signal K and exchange data between all formats.
-* **WiFi Access Point**. Share NMEA and Signal K data with laptops, tablets and phones.
-* **Headless**. Access to OpenPlotter desktop from the cockpit through your mobile devices.
-* **Dashboards**. Build instrument panels to visualize data from your mobile devices.
-* **Compass**. Heading and heel from an IMU sensor. Tilt compensated. Self-calibration.
-* **1W sensors**. Connect multiple temperature sensors. Motor, exhaust, fridge, water ...
-* **I2C sensors**. Connect temperature, pressure, humidity or light sensors.
-* **SPI sensors**. Measure battery charge, tank level or any data from an analog sensor.
-* **Digital inputs**. Connect common or specials switches. Detect smoke, opening doors, motion ...
-* **Digital outputs**. Activate relays, LEDs, buzzers ...
-* **Actions**. Use date, time or value of any data flowing through your system as a trigger to run multiple actions.
-* **Share data**. Publish data from your boat on Twitter or send emails and SMS automatically.
-* **Remote Monitoring**. Receive or send data to your boat while you are away.
-* **Open tools**. Use multiple built in tools to interact with the system and create your own ones.
+* **OpenCPN**[[2]](http://opencpn.org), logiciel de navigation léger et robuste. Préparer des routes et suivre sa position.
+* **zyGrib**[[3]](http://www.zygrib.org). Télécharger et visualiser des fichiers météo GRIB au format 1 et 2.
+* **SDR-AIS**. Recevoir et décoder les signaux AIS via un dongle DVB-T. Outils de calibration inclus.
+* **NMEA 0183**. Recevoir, filtrer, multiplexer et envoyer des données NMEA via le port série et les entrées/sorties du réseau.
+* **NMEA 2000**. Se connecter à votre réseau NMEA 2000, via un adaptateur USB, pour recevoir et transmettre des données.
+* **Signal K Server**[[4]](http://signalk.org).Convertir les données des capteurs en Signal K et échanger entre divers formats.
+* **WiFi Access Point**. Partager les données NMEA et Signal K avec un portable, une tablette ou un smarphone.
+* **Headless**. Accéder à OpenPlotter depuis le cockpit via vos appareils mobiles.
+* **Dashboards**. Construire des tableaux de bord pour visualiser des données de navigation.
+* **Compass**. Cap et gîte depuis un capteur IMU. Avec compensation d’inclinaison et auto calibration.
+* **1W sensors**. Connecter de multiples capteurs : température, moteur, échappement, réfrigérateur, eau ...
+* **I2C sensors**. Connecter des capteurs de température, pression, taux d’humidité ou des éclairages.
+* **SPI sensors**. Mesurer la charge des batteries, le niveau des réservoirs ou n’importe quelle information d’un capteur analogique.
+* **Digital inputs**. Connecter des interrupteurs, y compris spéciaux. Détecter fumée, ouverture de portes, mouvements ...
+* **Digital outputs**. Activer des relais, des LED, des buzzers ...
+* **Actions**. Utiliser date, heure ou n’importe quelle valeur de donnée manipulée par votre système comme déclencheur de multiples actions.
+* **Share data**. Publier des informations sur votre bateau via Twitter ou envoyer des courriels / SMS automatiquement.
+* **Remote Monitoring**. Recevoir ou envoyer des informations de votre bateau pendant que vous n’êtes pas à bord.
+* **Open tools**. Utiliser les multiples outils inclus pour interargir avec le système et créer les vôtres.
 
 ![](../en/openplotter.jpg)
 
