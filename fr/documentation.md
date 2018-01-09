@@ -4,13 +4,13 @@
 
 Auteur: Randall Munroe[[1]](https://xkcd.com), license CC BY-NC 2.5.
 
-Nous avons un stockage Github[[2]](https://github.com/sailoog/openplotter-documentation) pour la documentation OpenPlotter. Ce stockage est lié à un livre Gitbook [[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et nous coordonnons les acteurs via un forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) sur OpenMarine.
+Nous stockons la documentation de OpenPlotter sur Github[[2]](https://github.com/sailoog/openplotter-documentation). Ce stockage est lié à un livre Gitbook [[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et nous coordonnons les acteurs via un forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) sur OpenMarine.
 
 Si vous voulez nous aider à écrire, mettre à jour, corriger ou traduire vous avez deux options.
 
 Vous êtes familier avec Github et Gitbook édition dépôts 
 
-* Créer un compte **Github**[[5]](https://github.com/join)
+* Créez un compte **Github**[[5]](https://github.com/join)
 * Envoyez votre nom d’utilisateur Github sur le forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et attendez que l’habilitation d’éditer le dépôt vous soit attribuée.
 *	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleu et annoncez vos intentions dans un nouveau thread.
 * Une fois que vous avez l’habilitation, loggez-vous à **Gitbook**[[6]](https://www.gitbook.com/login) avec votre compte Github.
@@ -29,7 +29,7 @@ Merci de ne pas modifier l’index ou la structure sans consulter les développe
 
 Pour inclure des images dans une langue autre que l’Anglais, depuis le dossier de l’Anglais, le chemin est : `../en/xxx.png`
 
-Si vous voulez ajouter des images de câblages et de connections utilisez l’application Fritzing[[7]](http://fritzing.org).
+Si vous voulez ajouter des images de câblages et de connexions utilisez l’application Fritzing[[7]](http://fritzing.org).
 
 Ne modifiez ni ne traduisez les noms de fichiers (xxx.md xxx.png xxx.jpg ...) car ils sont référencés dans le texte.
 
