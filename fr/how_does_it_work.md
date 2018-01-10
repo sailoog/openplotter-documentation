@@ -1,13 +1,5 @@
 # Comment ça marche ??
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
-
 OpenPlotter peut recevoir les données de différentes sources:
 
 * Capteurs et appareils connectés au GPIO
@@ -20,7 +12,7 @@ Toutes les informations de ces sources sont combinées (multiplexées) en un seu
 
 * Un traceur de cartes en local (OpenCPN).
 * Un calculateur NMEA qui générera de nouvelles données (ex: vent vrai)
-* Des détections / actions pré-définies*
+* Des détections / actions pré-définies.
 * D'autres appareils via une connexion réseau, WIFI ou série.
 * Un afficheur de données.
 * Un écran d'instruments virtuels
