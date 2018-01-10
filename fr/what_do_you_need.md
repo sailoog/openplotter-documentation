@@ -44,7 +44,7 @@ Parfois, nous pouvons en avoir certains dans notre boutique[[3]](http://shop.sai
 
 Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
 
-### Where can you find them?
+### Où trouver ces éléments?
 
 Les prochains chapitres contiennent une liste d’éléments supportés pour communiquer avec votre bateau et de capteurs pour collecter des informations de l’environnement.
 
