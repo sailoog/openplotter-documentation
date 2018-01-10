@@ -34,18 +34,15 @@ _Auteur: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modifié par Sai
 
 _Auteur: Malcolm Maclean[[4]](https://leanpub.com/RPiMRE/read), modifié by Sailoog._
 
-### Où trouver ces éléments ?
+## Elements optionnels.
+
+Les prochains chapitres contiennent une liste d’éléments supportés pour communiquer avec votre bateau et de capteurs pour collecter des informations de l’environnement.
+
+## Où trouver ces éléments ?
 
 Vous pouvez vous les procurer auprès de tous les distributeurs officiels[[2]](https://www.raspberrypi.org/products) ainsi qu’auprès des boutiques Raspberry.
 
 Parfois, nous pouvons en avoir certains dans notre boutique[[3]](http://shop.sailoog.com).
 
-## Elements optionnels.
-
-Next chapters contain a list of supported devices to communicate with boat and sensors to collect data from environment.
-
-### Où trouver ces éléments?
-
-Les prochains chapitres contiennent une liste d’éléments supportés pour communiquer avec votre bateau et de capteurs pour collecter des informations de l’environnement.
-
+---
 [1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com [4] https://leanpub.com/RPiMRE/read
