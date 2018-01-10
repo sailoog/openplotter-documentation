@@ -1,5 +1,4 @@
 # De quoi avez-vous besoin?
----
 
 Vous aurez besoin d’éléments requis et de quelques autres optionnels. Cela dépend du type de données que vous voulez collecter, analyser ou afficher et de quel équipement votre bateau dispose.
 
@@ -48,6 +47,5 @@ Next chapters contain a list of supported devices to communicate with boat and s
 ### Where can you find them?
 
 Les prochains chapitres contiennent une liste d’éléments supportés pour communiquer avec votre bateau et de capteurs pour collecter des informations de l’environnement.
----
 
 [1] https://www.raspberrypi.org/learning/hardware-guide [2] https://www.raspberrypi.org/products [3] http://shop.sailoog.com [4] https://leanpub.com/RPiMRE/read
