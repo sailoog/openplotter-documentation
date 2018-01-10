@@ -8,17 +8,17 @@ Nous stockons la documentation de OpenPlotter sur Github[[2]](https://github.com
 
 Si vous voulez nous aider à écrire, mettre à jour, corriger ou traduire vous avez deux options.
 
-Vous êtes familier avec Github et Gitbook édition dépôts 
+Vous êtes familier avec **Github** et **Gitbook** édition dépôts 
 
 * Créez un compte **Github**[[5]](https://github.com/join)
-* Envoyez votre nom d’utilisateur Github sur le forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et attendez que l’habilitation d’éditer le dépôt vous soit attribuée.
-*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleu et annoncez vos intentions dans un nouveau thread.
+* Envoyez votre nom d’utilisateur **Github** sur le forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et attendez que l’habilitation d’éditer le dépôt vous soit attribuée par un administrateur.
+*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleue et annoncez vos intentions dans un nouveau thread.
 * Une fois que vous avez l’habilitation, loggez-vous à **Gitbook**[[6]](https://www.gitbook.com/login) avec votre compte Github.
 * Accédez au livre[[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et cliquez sur le bouton  _Edit_ en haut à droite.
 
-Vous n’êtes pas familier avec Github et Gitbook édition dépôts :
+Vous n’êtes pas familier avec **Github** et **Gitbook** édition dépôts :
 
-*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleu et annoncez vos intentions dans un nouveau thread.
+*	Dans le thread des statuts des chapitres du forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16), sélectionnez un chapitre de couleur bleue et annoncez vos intentions dans un nouveau thread.
 * Quand vous avez fini, publiez le texte et les images dans un nouveau thread sur le forum [[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) et quelqu’un éditera le livre pour vous.
 
 ## Ecriture
@@ -29,7 +29,7 @@ Merci de ne pas modifier l’index ou la structure sans consulter les développe
 
 Pour inclure des images dans une langue autre que l’Anglais, depuis le dossier de l’Anglais, le chemin est : `../en/xxx.png`
 
-Si vous voulez ajouter des images de câblages et de connexions utilisez l’application Fritzing[[7]](http://fritzing.org).
+Si vous voulez ajouter des images de câblages ou de connexions utilisez l’application fritzing[[7]](http://fritzing.org).
 
 Ne modifiez ni ne traduisez les noms de fichiers (xxx.md xxx.png xxx.jpg ...) car ils sont référencés dans le texte.
 
