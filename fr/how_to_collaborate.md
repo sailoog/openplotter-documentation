@@ -1,38 +1,34 @@
-# How to collaborate
+# Comment participer?
 
----
+> Toute chose demande du temps, de l'argent, et des volontaires. Il y a besoin d'une grande quantité de deux quelquonques de ces groupes, et d'un peu du troisième. Augmenter n'importe lequel réduit le besoin des deux autres. Des changements se produisent quand l'un des trois évolue.
 
-**This chapter needs to be written/updated/translated**: http://forum.openmarine.net/forumdisplay.php?fid=16
+Moe's Law, Projet Navigatrix[[1]](http://navigatrix.net).
 
----
+## Temps
 
-> Everything takes time, money, and monkeys. You need a lot from any two groups, and a little from the third. An increase in any one reduces the requirement for the other two. Change occurs when one of those three change.
+Obtenir un Raspberry Pi et les éléments requis, télécharger OpenPlotter RPI et tester, tester, tester et tester encore...
 
-Moe's Law, Navigatrix[[1]](http://navigatrix.net) project.
+Signaler les bugs et demander des évolutions sur les forums OpenMarine [[2]](http://forum.openmarine.net/).
 
-## Time
+Précher la bonne parole auprès de vos amis dans les ports et sur les forums.
 
-Get a Raspberry Pi and the required elements, download OpenPlotter RPI and test and test and test ...
+## Argent
 
-Report bugs and request new features on OpenMarine forums[[2]](http://forum.openmarine.net/).
+Ce projet est financé par la vente d'objets reliés et testés ou par des contributions volontaires. Vous pouvez acheter des produits ou envoyer des dons sur la boutique[[3]](http://shop.sailoog.com).
 
-Spread the word among your friends in ports and forums.
-
-## Money
-
-This project is financed by selling related and tested products or by voluntary contributions. You can buy or donate on the WebShop[[3]](http://shop.sailoog.com).
-
-## Monkeys
+## Volontaires
 
 > Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
+>
+>Nous recherchons des volontaires pour un voyage hasardeux. Faibles salaires, froid glacial, longues heures d'obscurité totale. Retour sain et sauf non garanti. Honneur et reconnaissance et cas de succès.  
 
-Ernest Shackleton
+Ernest Shackleton, publicité pour l'expédition Endurance en 1900.
 
-If you have python skills, push your commits to the github repository[[4]](https://github.com/sailoog/openplotter).
+Si vous avez des compétences Python, poussez vos réalisations sur le dépôt **Github**[[4]](https://github.com/sailoog/openplotter).
 
-If you have electronics skills, share your work on OpenMarine forums[[2]](http://forum.openmarine.net/).
+Si vous avez des compétences en électronique, partagez vos projets sur les forumes OpenMarine[[2]](http://forum.openmarine.net/).
 
-If you have English language skills, helps us with documentation. Follow the steps in the next chapter [Documentation](documentation.md).
+Si vous avez des compétences littéraires, aidez nous pour la documentation en suivant le processus du chapitre suivant [Documentation](documentation.md).
 
 ---
 [1] http://navigatrix.net [2] http://forum.openmarine.net [3] http://shop.sailoog.com [4] https://github.com/sailoog/openplotter
