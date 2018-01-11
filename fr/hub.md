@@ -1,21 +1,13 @@
-# Self powered USB Hub
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Hub USB alimenté
 
 ![](../en/hub.png)
 
-If you are connecting devices which use more power than your Raspberry can provide, you will need a self powered USB Hub.
+Si vous voulez connecter des appareils utilisant plus de puissance que ce que votre Raspberry peut fournir, vous avez besoin d’un Hub USB alimenté.
 
-You can start connecting devices to the raspberry and switch to a self powered hub when you start to see strange behavior of the devices.
+Les premiers appareils peuvent être connectés au Raspberry puis vous évoluez vers un hub USB alimenté quand vous commencerez à remarquer des comportements étranges des appareils.
 
-Hubs with **FE1.1S** chip work right, avoid hubs with MA8601 chip. Often the same model can contain any of them. And some of them do not contain chip at all! just a glob of black material to hide what is underneath ... nothing.
+Les hubs avec le chipset **FE1.1S** fonctionnent bien, évitez ceux ayant un chipset MA8601. Souvent, le même modèle peut contenir l’un ou l’autre. Et certains n’en contiennent pas du tout ! Ce sont juste de enveloppes de matériaux opaque pour cacher ce qu’il y a dessous…rien !
 
-It would be a good idea to get a Hub with 5V input so that you could power it with the same source as your Raspberry.
+Obtenir un hub avec une alimentation 5V peut être une bonne idée, car alors, vous pourriez l’alimenter avec la même source que votre Raspberry.
 
-You can also get a Hub with 12v input. Sometimes those devices have an output to charge phones or tablets which probably you could use to power your Raspberry.
+Un hub avec une alimentation de 12 V est aussi à considérer : Il en existe avec une sortie pour charger smartphone ou tablette. Elle pourra probablement être utilisée pour alimenter le Raspberry.
