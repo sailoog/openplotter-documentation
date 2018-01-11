@@ -26,7 +26,7 @@ Ernest Shackleton, publicité pour l'expédition Endurance en 1900.
 
 Si vous avez des compétences Python, poussez vos réalisations sur le dépôt **Github**[[4]](https://github.com/sailoog/openplotter).
 
-Si vous avez des compétences en électronique, partagez vos projets sur les forumes OpenMarine[[2]](http://forum.openmarine.net/).
+Si vous avez des compétences en électronique, partagez vos projets sur les forums OpenMarine[[2]](http://forum.openmarine.net/).
 
 Si vous avez des compétences littéraires, aidez nous pour la documentation en suivant le processus du chapitre suivant [Documentation](documentation.md).
 
