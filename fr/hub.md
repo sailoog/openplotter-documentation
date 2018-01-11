@@ -10,4 +10,4 @@ Les hubs avec le chipset **FE1.1S** fonctionnent bien, évitez ceux ayant un chi
 
 Obtenir un hub avec une alimentation 5V peut être une bonne idée, car alors, vous pourriez l’alimenter avec la même source que votre Raspberry.
 
-Un hub avec une alimentation de 12 V est aussi à considérer : Il en existe avec une sortie pour charger smartphone ou tablette. Elle pourra probablement être utilisée pour alimenter le Raspberry.
+Un hub avec une alimentation de 12 V est aussi à considérer : Il en existe avec une sortie pour charger smartphone ou tablette. Elle pourra probablement être utilisée pour alimenter le Raspberry. 
