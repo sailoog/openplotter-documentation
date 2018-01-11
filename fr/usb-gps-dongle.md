@@ -1,24 +1,16 @@
-# USB GPS dongle
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Dongle GPS USB
 
 ![](../en/gps.png)
 
-If you don't have any GPS on board or you want an extra positioning device, this is the cheapest and most effective way.
+Si vous n'avez pas de GPS embarqué ou bien si vous voulez un équipement de positionnement supplémentaire, c'est le moyen le plus économique et le plus efficace.
 
-Connecting an USB GPS dongle to OpenPlotter will provide accurate position, date/time and speed/course over ground.
+Connecter un dongle GPS USB à OpenPlotter fournira une position précise, la date/heure et la vitesse sol.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Vous pouvez obtenir ce dongle via notre boutique[[1]](http://shop.sailoog.com)
 
-## Settings
+## Configuration
 
-See [NMEA 0183](/nmea-0183.md) chapter to configure USB GPS dongles.
+Se reporter au chapitre [NMEA 0183](/nmea-0183.md) pour configurer le dongle GPS USB.
 
 ---
 
