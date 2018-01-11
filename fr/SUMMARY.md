@@ -9,7 +9,7 @@
   * [Hub USB alimenté](hub.md)
   * [Dongle Wifi USB](usb-wifi-dongle.md)
   * [Dongle GPS USB](usb-gps-dongle.md)
-  * [Convertisseur NMEA 0183 vers USB](nmea-0183-to-usb-converter.md)
+  * [Adaptateur NMEA 0183 - USB](nmea-0183-to-usb-converter.md)
   * [CAN-USB Stick](can-usb-stick.md)
   * [USB DVB-T dongle](usb-dvb-t-dongle.md)
   * [IMU sensor](imu-sensor.md)
