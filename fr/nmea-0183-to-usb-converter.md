@@ -1,25 +1,18 @@
-# NMEA 0183 to USB converter
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Adaptateur NMEA 0183 USB 
 
 ![](../en/rs422.png)
 
-If you have electronics with NMEA 0183 outputs on board (depth, wind, heading...), you will need an USB converter to connect it to OpenPlotter. Additionally, if this converter is bi-directional, you will be able to talk to electronics with NMEA 0183 inputs like the autopilot.
+Si vous avez des équipements électroniques au standard NMEA 0183 (profondeur, vent, cap...), vous aurez besoin d'un adaptateur USB pour les connecter à OpenPlotter. De plus, si cet adaptateur est bidirectionnel, OpenPlotter pourra communiquer avec vos instruments (comme l'autopilote par exemple) via des flux NMEA 0183.
 
-The NMEA 0183 hardware standard uses **RS422** connectors but you may find some devices with **RS232** as well. Find out about what type of connection you need.
-In general, if you have a TX+ and a TX- and/or a RX- and RX+ you have a RS422 interface. If you ave a RX and a TX and a ground you have an RS232 interface.
+Le standard matériel NMEA 0183 utilise des connecteurs **RS422**, et vous pouvez également trouver des équipements en **RS232**. Commencez par détermnier de quel type de connections vous avez besoin.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+En général, si vous avez un TX+ et un TX- et/ou un RX- et un RX+, vous avez une interface RS422. Si vous avez un RX, un TX, et une terre vous avez une interface RS232.
 
-## Settings
+>Vous pouvez obtenir cet adaptateur à la boutique[[1]](http://shop.sailoog.com)
 
-See [NMEA 0183](/nmea-0183.md) chapter to configure NMEA 0183 to USB converters.
+## Configuration
+
+Se reporter au chapitre [NMEA 0183](/nmea-0183.md) pour configurer un adaptateur NMEA 0183 USB.
 
 ---
 
