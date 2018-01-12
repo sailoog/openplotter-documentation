@@ -1,30 +1,22 @@
-# USB DVB-T dongle
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Dongle USB DVB-T
 
 ![](../en/sdr.png)
 
-DVB-T dongles based on the Realtek **RTL2832U** chip can be used as cheap one channel AIS receptors. You can also receive the entire VHF marine band.
+Les dongles DVB-T sont basés sur le chipset Realtek **RTL2832U** et peuvent être utilisés comme des récepteur AIS mono canal bon marché. Avec, il est possible de recevoir toute la bande VHF marine.
 
-These devices are called Software Defined Radio (SDR) receivers.
+Ces appareils, radios logicielles en français, sont désignés par l'acronyme SDR pour _Software Defined Radio_.
 
-SDR receivers will need more power than the Raspberry Pi USB port can provide. You need to plug the dongle into a self powered USB hub.
+Les récepteur SDR ont besoin de plus d'énergie que ce que peut distribuer le port USB du Raspberry Pi. Il faudra les brancher dans un hub USB alimenté.
 
->This item is available in our store[[4]](http://shop.sailoog.com)
+>Cet article est disponible dans notre boutique[[4]](http://shop.sailoog.com)
 
-##Antenna
+## Antenne
 
-The most important factor for good reception is the antenna. Any VHF antenna will work right. You can build some proficient homemade antennas[[1]](http://www.radioforeveryone.com/p/ais-antennas.html)[[2]](http://nmearouter.com/docs/ais/aerial.html)[[3]](https://www.youtube.com/watch?v=SdEglNHyHB4).
+Le facteur le plus important pour une bonne réception est l'antenne. Toute antenne VHF convient. Il est cependant possible d'en construire une soi-même.[[1]](http://www.radioforeveryone.com/p/ais-antennas.html)[[2]](http://nmearouter.com/docs/ais/aerial.html)[[3]](https://www.youtube.com/watch?v=SdEglNHyHB4).
 
-## Settings
+## Configuration
 
-Some SDR devices need calibration to receive AIS signal. See [SDR receiver](/sdr-receiver.md) chapter to configure USB DVB-T dongles as AIS or marine radio receivers.
+Certains appereils SDR doivent être calibrés pour recevoir le signal AIS. Se reporter au chapitre[SDR receiver](/sdr-receiver.md) pour configurer les dongles USB DVB-T en tant que récepteurs AIS ou radio marine.
 
 ---
 
