@@ -44,7 +44,7 @@ _Auteur: Femnett/Maretron[[1]](https://commons.wikimedia.org/wiki/File:NMEA2000_
 
 ![](../en/n2k_a.jpg)  
 
-_Exemple of a small N2K Network._
+_Exemple d'un petit réseau N2K._
 
 Les réseaux N2K sont décrit dans Wikipedia[[7]](https://en.wikipedia.org/wiki/NMEA_2000).
 La colonne vertebrale (backbone) commence et finit par un bouchon de terminaison 120Ω (deux résistances peuvent travailler en parallèle, donc la résistance est de 120Ω/2=60Ω). S'il y a un connection rompue dans le backbone vous ne pourrez mesurer que 120Ω ou rien mais pas  60Ω. C'est un moyen très facile de vérifier le bus.
