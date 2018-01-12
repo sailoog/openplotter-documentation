@@ -2,7 +2,7 @@
 
 > Toute chose demande du temps, de l'argent, et des volontaires. Il y a besoin d'une grande quantité de deux quelquonques de ces groupes, et d'un peu du troisième. Augmenter n'importe lequel réduit le besoin des deux autres. Des changements se produisent quand l'un des trois évolue.
 
-Moe's Law, Projet Navigatrix[[1]](http://navigatrix.net).
+_Moe's Law, Projet Navigatrix[[1]](http://navigatrix.net)_
 
 ## Temps
 
@@ -22,7 +22,7 @@ Ce projet est financé par la vente d'objets reliés et testés ou par des contr
 >
 >Nous recherchons des volontaires pour un voyage perilleux. Faibles salaires, froid glacial, longues heures d'obscurité totale. Retour sain et sauf non garanti. Honneur et reconnaissance et cas de succès.  
 
-Ernest Shackleton, publicité pour l'expédition Endurance en 1900.
+_Ernest Shackleton, publicité pour l'expédition Endurance en 1900_
 
 Si vous avez des compétences Python, poussez vos réalisations sur le dépôt **Github**[[4]](https://github.com/sailoog/openplotter).
 
