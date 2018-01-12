@@ -1,44 +1,36 @@
-# IMU sensor
-
----
-
-**This chapter needs to be written/updated/translated**
-
-[http://forum.openmarine.net/forumdisplay.php?fid=16](http://forum.openmarine.net/forumdisplay.php?fid=16)
-
----
+# Capteur IMU
 
 ![](../en/imu.png)
 
-If you don't have a electronic compass on board you will need an IMU.
+Si vous n'avez pas de compas électronique embarqué, vous avez besoin d'un IMU.
 
-An Inertial Measurement Unit, or IMU, measures and reports on velocity, orientation and gravitational forces, using a combination of an accelerometer, gyroscope, and a magnetometer.
+Une centrale inertielle, ou IMU pour _Inertial Measurement Unit_, mesure et affiche la vitesse, l'orientation et les forces gravitationnelles, en utilisant la combinaison d'un accélérométre, d'un gyroscope et d'un magnétométre.
 
-Connecting an IMU to OpenPlotter will provide magnetic heading which is needed to calculate true heading and true wind. You will have heel angle data as well.
+Connecter un IMU à OpenPlotter lui fournira le cap magnétique qui est utilisé pour calculer cap et vent vrai. Vous aurez aussi l'angle de barre.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Cet article est disponible dans notre boutique[[1]](http://shop.sailoog.com)
 
-## Supported IMU sensors
+## Capteurs IMU compatible
 
-* InvenSense MPU-9150 single chip IMU.
-* InvenSense MPU-6050 plus HMC5883 magnetometer on MPU-6050's aux bus \(handled by the MPU-9150 driver\).
-* InvenSense MPU-6050 gyros + acclerometers. Treated as MPU-9150 without magnetometers.
-* InvenSense MPU-9255 single chip IMU \(I2C and SPI\).
-* STM LSM9DS0 single chip IMU.
-* STM LSM9DS1 single chip IMU.
-* L3GD20H + LSM303D \(optionally with the LPS25H\) as used on the Pololu AltIMU-10 v4.
-* L3GD20 + LSM303DLHC as used on the Adafruit 9-dof \(older version with GD20 gyro\) IMU.
-* L3GD20H + LSM303DLHC \(optionally with BMP180\) as used on the new Adafruit 10-dof IMU.
-* Bosch BMX055 \(although magnetometer support is experimental currently\).
-* Bosch BNO055 IMU with onchip fusion. Note: will not work reliably with RaspberryPi/Pi2 due to clock-stretching issues.
+* InvenSense MPU-9150 mono chipset IMU.
+* InvenSense MPU-6050 plus HMC5883 magnétométre sur bus aux MPU-6050 \(géré par le driver MPU-9150r\).
+* InvenSense MPU-6050 gyros + accélérométres. (Considéré comme le MPU-9150 sans magnétométres).
+* InvenSense MPU-9255 chipset IMU \(I2C et SPI\).
+* STM LSM9DS0 mono chipset IMU.
+* STM LSM9DS1 mono chipset IMU.
+* L3GD20H + LSM303D \(optionellement avec le LPS25H\) comme utilisé sur le Pololu AltIMU-10 v4.
+* L3GD20 + LSM303DLHC comme utilisé sur le Adafruit 9-dof \(ancienne version avec gyroscope GD20\) IMU.
+* L3GD20H + LSM303DLHC \(optionellement avec le BMP180\) comme utilisé sur le nouveau Adafruit 10-dof IMU.
+* Bosch BMX055 \(bien que le magnétométre soit actuellement expérimental\).
+* Bosch BNO055 IMU avec onchip fusion. Note: no fiable avec RaspberryPi/Pi2 à cause de problématiques de stabilité d'horloge.
 
-## Wiring
+## Câblage
 
-IMU sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
+Les capteurs IMU doivent être connectés via l'interface I2C. Se référer au chapitre [Câblage des capteurs I2C](/wiring-i2c-sensors.md).
 
-## Settings
+## Configuration
 
-See [Compass](/compass.md) chapter to configure IMU sensors.
+Voir le chapitre [Compas](/compass.md) pour configurer le capteur IMU.
 
 ---
 
