@@ -20,7 +20,7 @@ Ce projet est financé par la vente d'objets reliés et testés ou par des contr
 
 > Men wanted for hazardous journey. Low wages, bitter cold, long hours of complete darkness. Safe return doubtful. Honour and recognition in event of success.
 >
->Nous recherchons des volontaires pour un voyage hasardeux. Faibles salaires, froid glacial, longues heures d'obscurité totale. Retour sain et sauf non garanti. Honneur et reconnaissance et cas de succès.  
+>Nous recherchons des volontaires pour un voyage perilleux. Faibles salaires, froid glacial, longues heures d'obscurité totale. Retour sain et sauf non garanti. Honneur et reconnaissance et cas de succès.  
 
 Ernest Shackleton, publicité pour l'expédition Endurance en 1900.
 
