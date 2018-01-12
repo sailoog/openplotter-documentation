@@ -58,13 +58,13 @@ Le Stick CAN-USB est isolé électriquement, les appareils et votre ordinateur s
 
 ## Connexion
 
-Pour connecter le Stick CAN-USB au réseau, vous avez besoin d'un connecteur en T libre sur votre backbone et d'une branche. La branche doit avoir d'un coté un connecteur mâle M12 5 pin et de l'autre 5 fils (bien que seuls 2 soient utilisés). Le connecteur HIRSCHMANN ELST 5012 PG7 à une terminaison visée.
+Pour connecter le Stick CAN-USB au réseau, vous avez besoin d'un connecteur en T libre sur votre backbone et d'une branche. La branche doit avoir d'un coté un connecteur mâle M12 5 broches et de l'autre 5 fils (bien que seuls 2 soient utilisés). Le connecteur HIRSCHMANN ELST 5012 PG7 a une terminaison visée.
 
 ![](../en/t-conn.jpg)  
 _Connecteur en T_
 
 ![](../en/m12_conn.jpg)  
-_Branche coté connecteur mâle M12 5 pins._
+_Branche coté connecteur mâle M12 5 broches._
 
 ![](../en/micro_cable.jpg)  
 _Branche coté fils_
