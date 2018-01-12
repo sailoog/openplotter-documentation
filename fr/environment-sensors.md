@@ -1,32 +1,24 @@
-# Environment sensors
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Capteur d'environnement
 
 ![](../en/BME280.jpg)
 
-Connecting a little environment sensor to OpenPlotter will provide air pressure, temperature or humidity data to monitor weather.
+Connecter un petit capteur d'environnement à OpenPlotter donnera accès à la pression atmosphérique, la temperature ou le taux d'humidité pour suivre les évolutions de la météo.
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Cet article est disponible dans notre boutique[[1]](http://shop.sailoog.com)
 
-##Supported environment sensors
+##Capteurs d'environnement compatibles
 
-* BME280 (pressure, temperature, humidity)
-* BMP180 (pressure, temperature)
-* LPS25H (pressure, temperature)
-* MS5611 (pressure, temperature)
-* MS5637 (pressure, temperature)
-* HTS221 (humidity, temperature)
-* HTU21D (humidity, temperature)
+* BME280 (pression, température, humidité)
+* BMP180 (pression, température)
+* LPS25H (pression, température)
+* MS5611 (pression, température)
+* MS5637 (pression, température)
+* HTS221 (humidité, température)
+* HTU21D (humidité, température)
 
-## Wiring
+## Cablâge
 
-Environment sensors have to be connected by I2C interface. See chapter [Wiring I2C sensors](/wiring-i2c-sensors.md).
+Les capteurs d'environnement doivent être connectés via l'interface I2C. Se référer au chapitre[Cablâge I2C des capteurs](/wiring-i2c-sensors.md).
 
 ---
 
