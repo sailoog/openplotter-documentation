@@ -1,46 +1,38 @@
-# 1W temperature sensor
-
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
+# Capteur de température 1W
 
 ![](../en/DS18B20.png)
 
-You can connect one wire (1W) **DS18B20** sensors to OpenPlotter. This sensor is waterproof and can withstand high temperatures. Connecting multiple DS18B20 in parallel to the same pins, you will be able to get temperature data from coolant engine, exhaust, engine room, fridge, sea ...
+Il est possible de connecter, par ses câbles, le capteur 1W **DS18B20** à OpenPlotter. Ce capteur est étanche et supporte des températures élevées (~125°). En connectant plusieurs **DS18B20** en parallèle sur les mêmes broches, il est possible d'avoir la température du liquide de refroidissement du moteur, de l'échappement, de la câle moteur, du réfrigérateur, de l'eau de mer ...
 
->This item is available in our store[[1]](http://shop.sailoog.com)
+>Cet article est disponible dans notre boutique[[1]](http://shop.sailoog.com)
 
-## Wiring
+## Câblage
 
-Pins names are according to the diagram below.
+Les noms des broches sont donnés par le diagramme suivant.
 
 ![](../en/RP2_Pinout.png)
 
-You have to connect these sensors to **GPIO4** (aka GCLK), **GND** and **3.3V** pins. Some sensors may have a fourth wire which do not need to be connected. You need to use a pull-up resistor as shown in the image below. You can connect multiple sensors in paralel using just one resistor.
+Ces capteurs doivent être connectés aux broches **GPIO4** (soit GCLK), **GND** et **3.3V**. Certains capteurs peuvent posséder un quatrième fil qui n'a pas a être connecté. Il faut installer une résistance de rappel, comme indiqué sur le schéma ci-dessous. Il est possible d'installer plusieurs capteurs en parallèle, en n'utilisant qu'une seule résistance.
 
 ![](../en/DS18B20_sensors.png)
 
-If you want to change the GPIO pin, edit the file config.txt typing in a terminal:
+Si vous voulez changer de broche GPIO, éditez le fichier config.txt en tapant sur un terminal:
 
 ```sudo nano /boot/config.txt```
 
-At the end of the file you should see a line like this
+A la fin du fichier, vou devriez trouver une ligne telle que:
 
 *dtoverlay=w1-gpio*
 
-replace it by
+la remplacer par:
 
 *dtoverlay=w1-gpio,gpiopin=x*
 
-where x is your desired GPIO pin. Save and reset.
+où x est la broche GPIO que vous souhaitez utiliser. Enregistrez et redémarrer.
 
-## Settings
+## Configuration
 
-See [1W](/1w.md) chapter to configure DS18B20 sensors.
+Se reporter au chapitre [1W](/1w.md) pour configurer les capteurs **DS18B20**.
 
 ---
 
