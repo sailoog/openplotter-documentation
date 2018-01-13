@@ -12,7 +12,7 @@ Les noms des broches sont donnés par le diagramme suivant.
 
 ![](../en/RP2_Pinout.png)
 
-Ces capteurs doivent être connectés aux broches **GPIO4** (soit GCLK), **GND** et **3.3V**. Certains capteurs peuvent posséder un quatrième fil qui n'a pas a être connecté. Il faut installer une résistance de rappel, comme indiqué sur le schéma ci-dessous. Il est possible d'installer plusieurs capteurs en parallèle, en n'utilisant qu'une seule résistance.
+Les capteurs de températures doivent être connectés aux broches **GPIO4** (soit GCLK), **GND** et **3.3V**. Certains capteurs peuvent posséder un quatrième fil qui n'a pas a être connecté. Il faut installer une résistance de rappel, comme indiqué sur le schéma ci-dessous. Il est possible d'installer plusieurs capteurs en parallèle, en n'utilisant qu'une seule résistance.
 
 ![](../en/DS18B20_sensors.png)
 
