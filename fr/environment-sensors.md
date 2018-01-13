@@ -6,7 +6,7 @@ Connecter un petit capteur d'environnement à OpenPlotter donnera accès à la p
 
 >Cet article est disponible dans notre boutique[[1]](http://shop.sailoog.com)
 
-##Capteurs d'environnement compatibles
+## Capteurs d'environnement compatibles
 
 * BME280 (pression, température, humidité)
 * BMP180 (pression, température)
@@ -18,7 +18,7 @@ Connecter un petit capteur d'environnement à OpenPlotter donnera accès à la p
 
 ## Cablâge
 
-Les capteurs d'environnement doivent être connectés via l'interface I2C. Se référer au chapitre[Cablâge I2C des capteurs](/wiring-i2c-sensors.md).
+Les capteurs d'environnement doivent être connectés via l'interface I2C. Se référer au chapitre [Cablâge I2C des capteurs](/wiring-i2c-sensors.md).
 
 ---
 
