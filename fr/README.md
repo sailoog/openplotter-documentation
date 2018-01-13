@@ -1,8 +1,8 @@
-# Qu'est-ce qu'OpenPlotter?
+ # Qu'est-ce qu'OpenPlotter?
 
 ![OpenPlotter logo](../en/openplotter500x300.png)
 
-Certains achètent un bateau, quand d’autres se le construisent. Pourquoi ne pas réaliser aussi l’électronique nous-même ? OpenPlotter est un paquetage, matériel et logiciel, à utiliser comme aide à la navigation sur des petites ou moyennes unités. C’est aussi un système complet de domotique embarqué. Il fonctionne sur ordinateur à processeur ARM tel que le Raspberry Pi[[1]](https://www.raspberrypi.org), est open-source, économique et peu consommateur. Sa conception est modulaire, il est donc possible de n’implémenter que ce qui est utile sur votre bateau. Faites-le vous-même!
+Certains achètent un bateau, quand d’autres se le construisent. Si vous êtes de ceux là, pourquoi ne pas réaliser aussi l’électronique embarquée? OpenPlotter est un paquetage, matériel et logiciel, à utiliser comme aide à la navigation sur des petites ou moyennes unités. C’est aussi un système complet de domotique destiné aux bateaux. Il fonctionne sur ordinateur à processeur ARM tel que le Raspberry Pi[[1]](https://www.raspberrypi.org), est open-source, économique et peu consommateur. Sa conception est modulaire, il est donc possible de n’implémenter que ce qui est utile sur votre bateau. Faites-le vous-même!
 
 ## Fonctionnalités
 
