@@ -2,7 +2,7 @@
 
 ![](../en/BME280.jpg)
 
-Connecter un petit capteur d'environnement à OpenPlotter donnera accès à la pression atmosphérique, la temperature ou le taux d'humidité pour suivre les évolutions de la météo.
+Connecter un petit capteur d'environnement à OpenPlotter donnera accès à la pression atmosphérique, la température ou le taux d'humidité pour suivre les évolutions de la météo.
 
 >Cet article est disponible dans notre boutique[[1]](http://shop.sailoog.com)
 
