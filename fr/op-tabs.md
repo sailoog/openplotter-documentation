@@ -1,14 +1,6 @@
-# OpenPlotter Tabs
+# Onglets OpenPlotter
 
----
-
-**This chapter needs to be written/updated/translated**
-
-http://forum.openmarine.net/forumdisplay.php?fid=16
-
----
-
-Most of the core features of OpenPlotter can be configured from controls located on tabs.
+La plupart des fonctions de base d'OpenPlotter se configure à l'aide de contrôle situés dans des onglets..
 
 ![](../en/tabs.png)
 
