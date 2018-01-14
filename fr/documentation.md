@@ -1,6 +1,6 @@
 # Documentation
 
-![](manuels.png)
+![](manuals_fr.png)
 _Auteur: Randall Munroe[[1]](https://xkcd.com), license CC BY-NC 2.5._
 
 
