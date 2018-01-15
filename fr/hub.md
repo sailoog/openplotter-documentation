@@ -4,7 +4,7 @@
 
 Pour connecter des appareils utilisant plus de puissance que ce que le Raspberry peut fournir, un Hub USB alimenté est indispensable.
 
-Les premiers appareils peuvent être connectés au Raspberry puis un hub USB alimenté vient le seconder quand des comportements étranges des appareils connecté surviennent.
+Les premiers appareils peuvent être connectés au Raspberry puis un hub USB alimenté vient le seconder quand des comportements étranges des appareils connectés surviennent.
 
 Les hubs avec le chipset **FE1.1S** fonctionnent bien, ceux ayant un chipset MA8601 sont à éviter. Souvent, le même modèle peut contenir l’un ou l’autre. Et certains n’en contiennent pas du tout ! Ce sont juste de enveloppes de matériaux opaque pour cacher ce qu’il y a dessous…rien !
 
