@@ -1,7 +1,7 @@
 # Documentation
 
 ![](manuals_fr.png)
-_Auteur: Randall Munroe[[1]](https://xkcd.com), license CC BY-NC 2.5._
+Auteur: _Randall Munroe[[1]](https://xkcd.com), license CC BY-NC 2.5._
 
 
 Nous stockons la documentation de OpenPlotter sur Github[[2]](https://github.com/sailoog/openplotter-documentation). Ce stockage est lié à un livre Gitbook [[3]](https://www.gitbook.com/book/sailoog/openplotter-documentation/details) et nous coordonnons les acteurs via un forum[[4]](http://forum.openmarine.net/forumdisplay.php?fid=16) sur OpenMarine.
