@@ -28,15 +28,15 @@ Once we have all data stored in Signal K schema, we can convert data into both N
 
 ## Uses
 
-Diferent pieces of software and hardware need different data streams.
+Different pieces of software and hardware need different data streams.
 
-The old good NMEA 0183 is used for:
+The good old NMEA 0183 is a readable serial protocol used for:
 
 * Most current PC, tablets and mobile software. 
 * The internal chartplotter, OpenCPN.
-* With OpenPlotter tools we can build obsolete, non-standar, proprietary and missing NMEA 0183 sentences from Signal K.
+* With OpenPlotter tools, we can build obsolete, non-standard, proprietary and missing NMEA 0183 sentences from Signal K.
 
-The standard on CAN-BUS networks in vehicles, NMEA 2000, is used for:
+NMEA 2000 is special CAN-BUS protocol. It's advantage is the data security. It is popular in the automotive industrie. NMEA 2000, is used for:
 
 * Most modern boats \(plotter, engine...\).
 * Very little software.
@@ -47,7 +47,7 @@ The browsers optimized protocol Signal K is used for:
 * Virtual instrument panels.
 * It has an open and readable protocol where additions can be done.
 
-The non-strictly maritime data is used for:
+The non-strictly maritime datastream is used for:
 
 * Security.
 * Alarms.
@@ -55,7 +55,6 @@ The non-strictly maritime data is used for:
 * Remote automation.
 * ...
 
-Through the chapters of this manual we will see how to deal with all this.
-
 ![](diagram.png)
+Picture: another data flow example 
 

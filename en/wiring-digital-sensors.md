@@ -19,6 +19,7 @@ For a normal digital sensor (open by default), you have to configure it as "Pull
 For a special digital sensor (closed by default), you have to configure it as "Pull up" and connect it between selected GPIO pin and GND pin.
 
 It is not a problem if you make a mistake connecting to GND or +3.3v but be careful and avoid the +5v pin.
+It isn't a bad idea to add a 1 kOhm resitor into the circuit.
 
 ![](common_sw.png)
 

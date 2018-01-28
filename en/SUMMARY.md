@@ -24,7 +24,7 @@
   * [Buzzer](buzzer.md)
   * [Arduino](arduino.md)
   * [ADS1115](ads1115.md)
-  * ESP8266
+  * [ESP8266](esp8266.md)
   * [nrf24L01](nrf24l01.md)
   * [Wireless thermometer](wireless-thermometer.md)
 * [Wiring I2C sensors](wiring-i2c-sensors.md)
